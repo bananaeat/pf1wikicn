@@ -1,8 +1,8 @@
 ---
-title: Abeyance
+title: 延缓诅咒 Abeyance
 description: 
 published: true
-date: 2023-07-03T20:27:27.226Z
+date: 2023-07-03T20:27:57.113Z
 tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 圣武士法术, 防护系
 editor: markdown
 dateCreated: 2023-07-03T19:11:52.583Z
@@ -18,7 +18,7 @@ dateCreated: 2023-07-03T19:11:52.583Z
 
 **施法时间** 1 分钟
 
-**成分** 语言, 姿势, 材料, 圣徽
+**成分** 语言, 姿势, 材料 (一瓶价值25gp的圣水), 圣徽
 
 ## ✨ 效果 
 
