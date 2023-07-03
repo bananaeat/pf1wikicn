@@ -1,8 +1,8 @@
 ---
-title: Abadar's truthtelling
+title: 阿巴达尔的诚实告解 Abadar's truthtelling
 description: 
 published: true
-date: 2023-07-03T20:25:36.150Z
+date: 2023-07-03T20:25:57.505Z
 tags: 法术, 审判者法术, 牧师/先知法术, 惑控系, 胁迫, 影响心灵, 1环法术, 圣武士法术
 editor: markdown
 dateCreated: 2023-07-03T19:11:44.024Z
