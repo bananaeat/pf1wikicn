@@ -1,11 +1,11 @@
 ---
-title: 自性鞭笞iv
+title: 自性鞭笞iv Ego whip iv
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 异能者法术, 6环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **自性鞭笞iv** *Ego whip iv*

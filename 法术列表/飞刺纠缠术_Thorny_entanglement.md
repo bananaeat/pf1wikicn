@@ -1,11 +1,11 @@
 ---
-title: 飞刺纠缠术
+title: 飞刺纠缠术 Thorny entanglement
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 德鲁伊法术, 3环法术, 游侠法术, 萨满法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **飞刺纠缠术** *Thorny entanglement*

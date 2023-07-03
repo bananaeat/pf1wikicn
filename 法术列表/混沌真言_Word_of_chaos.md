@@ -1,11 +1,11 @@
 ---
-title: 混沌真言
+title: 混沌真言 Word of chaos
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 混乱, 音波, 牧师/先知法术, 7环法术, 审判者法术, 6环法术, 混乱领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **混沌真言** *Word of chaos*

@@ -1,11 +1,11 @@
 ---
-title: Janni's jaunt
+title: Janni's jaunt Janni's jaunt
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 传送, 术士/法师法术, 6环法术, 牧师/先知法术, 4环法术, 召唤师法术, 5环法术, 女巫法术, 萨满法术, 异能者法术, 通灵者法术, 3环法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Janni's jaunt** *Janni's jaunt*

@@ -1,11 +1,11 @@
 ---
-title: 冲击屏障
+title: 冲击屏障 Shock shield
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 电，力场, 炼金术师法术, 1环法术, 魔战士法术, 术士/法师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **冲击屏障** *Shock shield*

@@ -1,11 +1,11 @@
 ---
-title: 致命毒气
+title: 致命毒气 Virulent miasma
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 反圣武士法术, 2环法术, 血脉狂怒者法术, 3环法术, 德鲁伊法术, 猎人法术, 术士/法师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **致命毒气** *Virulent miasma*

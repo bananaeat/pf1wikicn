@@ -1,11 +1,11 @@
 ---
-title: 原初怒嚎
+title: 原初怒嚎 Primal scream
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 影响心灵，音波, 吟游诗人法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **原初怒嚎** *Primal scream*

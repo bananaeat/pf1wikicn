@@ -1,11 +1,11 @@
 ---
-title: 轰鸣击
+title: 轰鸣击 Resounding blow
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 音波, 反圣武士法术, 4环法术, 审判者法术, 5环法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **轰鸣击** *Resounding blow*

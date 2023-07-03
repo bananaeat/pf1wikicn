@@ -1,11 +1,11 @@
 ---
-title: 感心之刃
+title: 感心之刃 Spirit-bound blade
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 萨满法术, 4环法术, 通灵者法术, 秘学士法术, 唤魂师法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **感心之刃** *Spirit-bound blade*

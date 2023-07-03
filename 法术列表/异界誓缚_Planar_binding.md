@@ -1,11 +1,11 @@
 ---
-title: 异界誓缚
+title: 异界誓缚 Planar binding
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 呼唤, 见次等异界誓缚的描述, 秘学士法术, 6环法术, 异能者法术, 术士/法师法术, 召唤师法术, 5环法术, unchained 召唤师法术, Void, Aeon, 邪魔子域, 恶魔子域, 魔鬼子域, 制裁子域, 星灵子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **异界誓缚** *Planar binding*

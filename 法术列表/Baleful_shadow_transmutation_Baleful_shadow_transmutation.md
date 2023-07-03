@@ -1,11 +1,11 @@
 ---
-title: Baleful shadow transmutation
+title: Baleful shadow transmutation Baleful shadow transmutation
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 幻术系, 幽影幻觉, 阴影, 术士/法师法术, 6环法术, 德鲁伊法术, 7环法术, 吟游诗人法术, 炼金术师法术, 召唤师法术, 女巫法术, 萨满法术, 通灵者法术, 唤魂师法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Baleful shadow transmutation** *Baleful shadow transmutation*

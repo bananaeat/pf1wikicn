@@ -1,11 +1,11 @@
 ---
-title: 共用防护箭矢
+title: 共用防护箭矢 Protection from arrows, communal
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 术士/法师法术, 3环法术, 炼金术师法术, 召唤师法术, 异能者法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **共用防护箭矢** *Protection from arrows, communal*

@@ -1,11 +1,11 @@
 ---
-title: 金刚拳
+title: 金刚拳 Clenched fist
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 力场, 灵能者法术, 8环法术, 术士/法师法术, 力量领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **金刚拳** *Clenched fist*

@@ -1,11 +1,11 @@
 ---
-title: 绝望术
+title: 绝望术 Bane
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, 恐惧, 影响心灵, 反圣武士法术, 1环法术, 牧师/先知法术, 审判者法术, 催眠师法术, 萨满法术, 诅咒子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **绝望术** *Bane*

@@ -1,11 +1,11 @@
 ---
-title: 冰风暴
+title: 冰风暴 Ice storm
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 寒冷, 血脉狂怒者法术, 4环法术, 德鲁伊法术, 猎人法术, 魔战士法术, 秘学士法术, 萨满法术, 术士/法师法术, 女巫法术, 水领域, 天气领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **冰风暴** *Ice storm*

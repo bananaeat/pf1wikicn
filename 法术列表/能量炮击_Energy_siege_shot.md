@@ -1,11 +1,11 @@
 ---
-title: 能量炮击
+title: 能量炮击 Energy siege shot
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 可变, 术士/法师法术, 5环法术, 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **能量炮击** *Energy siege shot*

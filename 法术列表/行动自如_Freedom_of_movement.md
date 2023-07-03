@@ -1,11 +1,11 @@
 ---
-title: 行动自如
+title: 行动自如 Freedom of movement
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 炼金术师法术, 4环法术, 吟游诗人法术, 牧师/先知法术, 德鲁伊法术, 猎人法术, 审判者法术, 通灵者法术, 催眠师法术, 秘学士法术, 异能者法术, 游侠法术, 唤魂师法术, 解放领域, 机运领域, Flowing
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **行动自如** *Freedom of movement*

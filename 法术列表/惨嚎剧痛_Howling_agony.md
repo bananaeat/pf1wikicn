@@ -1,11 +1,11 @@
 ---
-title: 惨嚎剧痛
+title: 惨嚎剧痛 Howling agony
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 死亡，痛苦, 审判者法术, 2环法术, 术士/法师法术, 3环法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **惨嚎剧痛** *Howling agony*

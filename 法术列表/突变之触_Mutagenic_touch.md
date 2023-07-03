@@ -1,11 +1,11 @@
 ---
-title: 突变之触
+title: 突变之触 Mutagenic touch
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 炼金术师法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **突变之触** *Mutagenic touch*

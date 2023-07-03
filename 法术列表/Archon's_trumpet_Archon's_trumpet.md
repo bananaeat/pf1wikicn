@@ -1,11 +1,11 @@
 ---
-title: Archon's trumpet
+title: Archon's trumpet Archon's trumpet
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, good, sonic, 术士/法师法术, 7环法术, 牧师/先知法术, 吟游诗人法术, 5环法术, 圣武士法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Archon's trumpet** *Archon's trumpet*

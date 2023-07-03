@@ -1,11 +1,11 @@
 ---
-title: 腐化食粮
+title: 腐化食粮 Putrefy food and drink
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 毒素, 女巫法术, 戏法/祷念
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **腐化食粮** *Putrefy food and drink*

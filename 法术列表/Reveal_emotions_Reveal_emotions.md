@@ -1,11 +1,11 @@
 ---
-title: Reveal emotions
+title: Reveal emotions Reveal emotions
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 异能者法术, 4环法术, 通灵者法术, 3环法术, 催眠师法术, 秘学士法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Reveal emotions** *Reveal emotions*

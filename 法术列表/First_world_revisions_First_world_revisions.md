@@ -1,11 +1,11 @@
 ---
-title: First world revisions
+title: First world revisions First world revisions
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 变形, 术士/法师法术, 3环法术, 牧师/先知法术, 2环法术, 炼金术师法术, 女巫法术, 反圣武士法术, 异能者法术, 通灵者法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **First world revisions** *First world revisions*

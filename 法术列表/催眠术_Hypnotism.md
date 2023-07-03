@@ -1,11 +1,11 @@
 ---
-title: 催眠术
+title: 催眠术 Hypnotism
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 1环法术, 催眠师法术, 秘学士法术, 异能者法术, 术士/法师法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **催眠术** *Hypnotism*

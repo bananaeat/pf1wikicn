@@ -1,11 +1,11 @@
 ---
-title: 造成轻伤
+title: 造成轻伤 Inflict light wounds
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 反圣武士法术, 1环法术, 牧师/先知法术, 审判者法术, 秘学士法术, 萨满法术, 唤魂师法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **造成轻伤** *Inflict light wounds*

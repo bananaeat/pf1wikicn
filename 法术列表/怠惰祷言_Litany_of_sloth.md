@@ -1,11 +1,11 @@
 ---
-title: 怠惰祷言
+title: 怠惰祷言 Litany of sloth
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, 依赖语言，影响心灵, 反圣武士法术, 1环法术, 审判者法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **怠惰祷言** *Litany of sloth*

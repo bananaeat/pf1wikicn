@@ -1,11 +1,11 @@
 ---
-title: 共振之语
+title: 共振之语 Resonating word
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 音波, 吟游诗人法术, 5环法术, 术士/法师法术, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **共振之语** *Resonating word*

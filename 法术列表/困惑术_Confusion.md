@@ -1,11 +1,11 @@
 ---
-title: 困惑术
+title: 困惑术 Confusion
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 3环法术, 血脉狂怒者法术, 4环法术, 催眠师法术, 秘学士法术, 异能者法术, 术士/法师法术, 唤魂师法术, 女巫法术, 狂乱领域, 诡术领域, Entropy, 情欲子域, Riot, Whimsy
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **困惑术** *Confusion*

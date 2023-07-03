@@ -1,11 +1,11 @@
 ---
-title: 祈祷术
+title: 祈祷术 Prayer
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, 影响心灵, 牧师/先知法术, 3环法术, 审判者法术, 圣骑士法术, 团队领域, 亚空子域, 领导子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **祈祷术** *Prayer*

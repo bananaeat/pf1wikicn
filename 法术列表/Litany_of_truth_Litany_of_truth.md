@@ -1,11 +1,11 @@
 ---
-title: Litany of truth
+title: Litany of truth Litany of truth
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 依赖语言, 圣武士法术, 4环法术, 审判者法术, 6环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Litany of truth** *Litany of truth*

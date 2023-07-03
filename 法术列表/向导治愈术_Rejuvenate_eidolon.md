@@ -1,11 +1,11 @@
 ---
-title: 向导治愈术
+title: 向导治愈术 Rejuvenate eidolon
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 医疗, 召唤师法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **向导治愈术** *Rejuvenate eidolon*

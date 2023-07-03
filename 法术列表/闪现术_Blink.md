@@ -1,11 +1,11 @@
 ---
-title: 闪现术
+title: 闪现术 Blink
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 吟游诗人法术, 3环法术, 魔战士法术, 异能者法术, 术士/法师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **闪现术** *Blink*

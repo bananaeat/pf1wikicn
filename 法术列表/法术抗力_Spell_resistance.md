@@ -1,11 +1,11 @@
 ---
-title: 法术抗力
+title: 法术抗力 Spell resistance
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 炼金术师法术, 5环法术, 牧师/先知法术, 审判者法术, 秘学士法术, 异能者法术, 唤魂师法术, 魔法领域, 保护领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **法术抗力** *Spell resistance*

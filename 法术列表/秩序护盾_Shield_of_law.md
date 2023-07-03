@@ -1,11 +1,11 @@
 ---
-title: 秩序护盾
+title: 秩序护盾 Shield of law
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 秩序, 牧师/先知法术, 8环法术, 秩序领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **秩序护盾** *Shield of law*

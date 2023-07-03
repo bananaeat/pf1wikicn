@@ -1,11 +1,11 @@
 ---
-title: Akashic communion
+title: Akashic communion Akashic communion
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 术士/法师法术, 4环法术, 吟游诗人法术, 3环法术, 女巫法术, 萨满法术, 异能者法术, 通灵者法术, 催眠师法术, 秘学士法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Akashic communion** *Akashic communion*

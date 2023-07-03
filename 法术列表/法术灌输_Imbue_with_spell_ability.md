@@ -1,11 +1,11 @@
 ---
-title: 法术灌输
+title: 法术灌输 Imbue with spell ability
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 牧师/先知法术, 4环法术, 萨满法术, 唤魂师法术, 团队领域, 魔法领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **法术灌输** *Imbue with spell ability*

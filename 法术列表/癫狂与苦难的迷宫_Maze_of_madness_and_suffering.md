@@ -1,11 +1,11 @@
 ---
-title: 癫狂与苦难的迷宫
+title: 癫狂与苦难的迷宫 Maze of madness and suffering
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 传送, evil, mind-affecting, 异能者法术, 9环法术, 术士/法师法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **癫狂与苦难的迷宫** *Maze of madness and suffering*

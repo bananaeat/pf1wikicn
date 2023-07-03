@@ -1,11 +1,11 @@
 ---
-title: 共用黑暗视觉
+title: 共用黑暗视觉 Darkvision, communal
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 炼金术师法术, 3环法术, 反圣武士法术, 游侠法术, 4环法术, 术士/法师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **共用黑暗视觉** *Darkvision, communal*

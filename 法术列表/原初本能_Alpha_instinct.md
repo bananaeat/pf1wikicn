@@ -1,11 +1,11 @@
 ---
-title: 原初本能
+title: 原初本能 Alpha instinct
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 魅惑, 影响心灵, 吟游诗人法术, 3环法术, 德鲁伊法术, 2环法术, 通灵者法术, 催眠师法术, 游侠法术, 萨满法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **原初本能** *Alpha instinct*

@@ -1,11 +1,11 @@
 ---
-title: Shadowmind
+title: Shadowmind Shadowmind
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 幻术系, 魅影幻觉, 术士/法师法术, 3环法术, 牧师/先知法术, 德鲁伊法术, 女巫法术, 2环法术, 审判者法术, 反圣武士法术, 萨满法术, 异能者法术, 催眠师法术, 秘学士法术, 猎人法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Shadowmind** *Shadowmind*

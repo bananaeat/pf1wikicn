@@ -1,11 +1,11 @@
 ---
-title: Selective invisibility
+title: Selective invisibility Selective invisibility
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 幻术系, 五官幻觉, 术士/法师法术, 3环法术, 吟游诗人法术, 炼金术师法术, 召唤师法术, 审判者法术, 反圣武士法术, 魔战士法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Selective invisibility** *Selective invisibility*

@@ -1,11 +1,11 @@
 ---
-title: 心灵戳刺 i
+title: 心灵戳刺 i Mind thrust i
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 影响心灵, 异能者法术, 1环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **心灵戳刺 i** *Mind thrust i*

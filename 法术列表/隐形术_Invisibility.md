@@ -1,11 +1,11 @@
 ---
-title: 隐形术
+title: 隐形术 Invisibility
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 幻术系, 五官幻觉, 导师法术, 2环法术, 炼金术师法术, 反圣武士法术, 吟游诗人法术, 审判者法术, 魔战士法术, 通灵者法术, 催眠师法术, 秘学士法术, 异能者法术, 术士/法师法术, 唤魂师法术, 召唤师法术, unchained 召唤师法术, 诡术领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **隐形术** *Invisibility*

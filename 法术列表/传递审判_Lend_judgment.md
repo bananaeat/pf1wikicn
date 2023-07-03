@@ -1,11 +1,11 @@
 ---
-title: 传递审判
+title: 传递审判 Lend judgment
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 审判者法术, 1环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **传递审判** *Lend judgment*

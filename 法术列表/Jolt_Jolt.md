@@ -1,11 +1,11 @@
 ---
-title: Jolt
+title: Jolt Jolt
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 电击, 术士/法师法术, 戏法/祷念
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Jolt** *Jolt*

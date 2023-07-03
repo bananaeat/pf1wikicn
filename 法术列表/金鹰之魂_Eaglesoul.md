@@ -1,11 +1,11 @@
 ---
-title: 金鹰之魂
+title: 金鹰之魂 Eaglesoul
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 召唤, 善良, 牧师/先知法术, 6环法术, 圣武士法术, 4环法术, 召唤师法术, 5环法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **金鹰之魂** *Eaglesoul*

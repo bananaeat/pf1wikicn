@@ -1,11 +1,11 @@
 ---
-title: 即刻仇敌
+title: 即刻仇敌 Instant enemy
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 游侠法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **即刻仇敌** *Instant enemy*

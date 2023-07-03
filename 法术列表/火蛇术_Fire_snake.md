@@ -1,11 +1,11 @@
 ---
-title: 火蛇术
+title: 火蛇术 Fire snake
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 火, 德鲁伊法术, 5环法术, 魔战士法术, 术士/法师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **火蛇术** *Fire snake*

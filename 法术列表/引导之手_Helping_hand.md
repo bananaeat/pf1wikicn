@@ -1,11 +1,11 @@
 ---
-title: 引导之手
+title: 引导之手 Helping hand
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 牧师/先知法术, 3环法术, 通灵者法术, 2环法术, 异能者法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **引导之手** *Helping hand*

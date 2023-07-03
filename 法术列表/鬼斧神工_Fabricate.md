@@ -1,11 +1,11 @@
 ---
-title: 鬼斧神工
+title: 鬼斧神工 Fabricate
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 秘学士法术, 5环法术, 异能者法术, 术士/法师法术, 手艺领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **鬼斧神工** *Fabricate*

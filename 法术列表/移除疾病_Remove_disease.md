@@ -1,11 +1,11 @@
 ---
-title: 移除疾病
+title: 移除疾病 Remove disease
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 医疗, 导师法术, 3环法术, 炼金术师法术, 牧师/先知法术, 德鲁伊法术, 猎人法术, 审判者法术, 游侠法术, 唤魂师法术, 女巫法术, 复原子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **移除疾病** *Remove disease*

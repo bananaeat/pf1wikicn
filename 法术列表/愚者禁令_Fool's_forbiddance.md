@@ -1,11 +1,11 @@
 ---
-title: 愚者禁令
+title: 愚者禁令 Fool's forbiddance
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 影响心灵, 吟游诗人法术, 6环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **愚者禁令** *Fool's forbiddance*

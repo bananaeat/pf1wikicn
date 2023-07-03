@@ -1,11 +1,11 @@
 ---
-title: 临空拘束
+title: 临空拘束 Straitjacket
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 创造, 审判者法术, 4环法术, 秘学士法术, 术士/法师法术, 5环法术, 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **临空拘束** *Straitjacket*

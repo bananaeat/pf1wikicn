@@ -1,11 +1,11 @@
 ---
-title: 炽焰缠敌
+title: 炽焰缠敌 Fire of entanglement
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 圣骑士法术, 2环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **炽焰缠敌** *Fire of entanglement*

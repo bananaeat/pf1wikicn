@@ -1,11 +1,11 @@
 ---
-title: 呆滞炸弹添加剂
+title: 呆滞炸弹添加剂 Languid bomb admixture
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, 影响心灵, 炼金术师法术, 5环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **呆滞炸弹添加剂** *Languid bomb admixture*

@@ -1,11 +1,11 @@
 ---
-title: 熔岩墙
+title: 熔岩墙 Wall of lava
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 创造, 土，火, 德鲁伊法术, 8环法术, 术士/法师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **熔岩墙** *Wall of lava*

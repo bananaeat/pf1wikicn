@@ -1,11 +1,11 @@
 ---
-title: 防护善良
+title: 防护善良 Protection from good
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 邪恶, 导师法术, 1环法术, 血脉狂怒者法术, 牧师/先知法术, 审判者法术, 通灵者法术, 反圣武士法术, 萨满法术, 术士/法师法术, 唤魂师法术, 召唤师法术, unchained 召唤师法术, 邪恶领域, 纯净子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **防护善良** *Protection from good*

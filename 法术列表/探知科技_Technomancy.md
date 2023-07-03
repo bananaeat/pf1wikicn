@@ -1,11 +1,11 @@
 ---
-title: 探知科技
+title: 探知科技 Technomancy
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 术士/法师法术, 1环法术, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **探知科技** *Technomancy*

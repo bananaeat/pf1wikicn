@@ -1,11 +1,11 @@
 ---
-title: True skill
+title: True skill True skill
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 术士/法师法术, 1环法术, 吟游诗人法术, 炼金术师法术, 魔战士法术, 异能者法术, 通灵者法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **True skill** *True skill*

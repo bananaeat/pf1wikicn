@@ -1,11 +1,11 @@
 ---
-title: 操纵死尸
+title: 操纵死尸 Animate dead
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 邪恶, 导师法术, 3环法术, 反圣武士法术, 牧师/先知法术, 秘学士法术, 萨满法术, 术士/法师法术, 4环法术, 唤魂师法术, 死亡领域, 灵魂子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **操纵死尸** *Animate dead*

@@ -1,11 +1,11 @@
 ---
-title: 治疗中伤
+title: 治疗中伤 Cure moderate wounds
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 医疗, 导师法术, 2环法术, 炼金术师法术, 吟游诗人法术, 牧师/先知法术, 德鲁伊法术, 3环法术, 猎人法术, 审判者法术, 秘学士法术, 圣骑士法术, 游侠法术, 萨满法术, 唤魂师法术, 女巫法术, 医疗领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **治疗中伤** *Cure moderate wounds*

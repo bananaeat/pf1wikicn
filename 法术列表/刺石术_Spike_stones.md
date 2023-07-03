@@ -1,11 +1,11 @@
 ---
-title: 刺石术
+title: 刺石术 Spike stones
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 土, 德鲁伊法术, 4环法术, 猎人法术, 萨满法术, 土领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **刺石术** *Spike stones*

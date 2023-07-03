@@ -1,11 +1,11 @@
 ---
-title: 音爆哀鸣
+title: 音爆哀鸣 Banshee blast
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 死亡，恐惧，影响心灵，音波, 术士/法师法术, 6环法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **音爆哀鸣** *Banshee blast*

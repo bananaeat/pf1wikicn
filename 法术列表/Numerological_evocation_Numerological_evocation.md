@@ -1,11 +1,11 @@
 ---
-title: Numerological evocation
+title: Numerological evocation Numerological evocation
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 术士/法师法术, 3环法术, 女巫法术, 4环法术, 魔战士法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Numerological evocation** *Numerological evocation*

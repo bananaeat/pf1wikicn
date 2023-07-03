@@ -1,11 +1,11 @@
 ---
-title: 水裔诅咒
+title: 水裔诅咒 Undine's curse
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 邪恶，诅咒, 术士/法师法术, 1环法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **水裔诅咒** *Undine's curse*

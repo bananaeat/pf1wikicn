@@ -1,11 +1,11 @@
 ---
-title: 说服徽记
+title: 说服徽记 Symbol of persuasion
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 魅惑, 影响心灵, 牧师/先知法术, 6环法术, 催眠师法术, 秘学士法术, 4环法术, 术士/法师法术, 女巫法术, 革命子域, Tyranny
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **说服徽记** *Symbol of persuasion*

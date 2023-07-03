@@ -1,11 +1,11 @@
 ---
-title: Flash forward
+title: Flash forward Flash forward
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 传送, 术士/法师法术, 5环法术, 吟游诗人法术, 4环法术, 圣武士法术, 炼金术师法术, 审判者法术, 反圣武士法术, 魔战士法术, 血脉狂怒者法术, 异能者法术, 通灵者法术, 秘学士法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Flash forward** *Flash forward*

@@ -1,11 +1,11 @@
 ---
-title: 虚幻之血
+title: 虚幻之血 Phantom blood
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 炼金术师法术, 1环法术, 血脉狂怒者法术, 魔战士法术, 术士/法师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **虚幻之血** *Phantom blood*

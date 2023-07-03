@@ -1,11 +1,11 @@
 ---
-title: 腹语术
+title: 腹语术 Ventriloquism
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 幻术系, 虚假幻觉, 吟游诗人法术, 1环法术, 通灵者法术, 催眠师法术, 异能者法术, 术士/法师法术, 唤魂师法术, 召唤师法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **腹语术** *Ventriloquism*

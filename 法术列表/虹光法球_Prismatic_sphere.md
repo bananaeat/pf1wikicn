@@ -1,11 +1,11 @@
 ---
-title: 虹光法球
+title: 虹光法球 Prismatic sphere
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 术士/法师法术, 9环法术, 手艺领域, 保护领域, 太阳领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **虹光法球** *Prismatic sphere*

@@ -1,11 +1,11 @@
 ---
-title: Echean's excellent enclosure
+title: Echean's excellent enclosure Echean's excellent enclosure
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 力场, 术士/法师法术, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Echean's excellent enclosure** *Echean's excellent enclosure*

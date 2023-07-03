@@ -1,11 +1,11 @@
 ---
-title: 异界探知
+title: 异界探知 Contact other plane
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 炼金术师法术, 5环法术, 秘学士法术, 4环法术, 异能者法术, 术士/法师法术, 唤魂师法术, 召唤师法术, unchained 召唤师法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **异界探知** *Contact other plane*

@@ -1,11 +1,11 @@
 ---
-title: 寒冰锥
+title: 寒冰锥 Cone of cold
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 寒冷, 魔战士法术, 5环法术, 秘学士法术, 萨满法术, 6环法术, 术士/法师法术, 女巫法术, 水领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **寒冰锥** *Cone of cold*

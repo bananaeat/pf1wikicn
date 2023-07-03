@@ -1,11 +1,11 @@
 ---
-title: 洞悉仇敌
+title: 洞悉仇敌 Enemy insight
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 游侠法术, 2环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **洞悉仇敌** *Enemy insight*

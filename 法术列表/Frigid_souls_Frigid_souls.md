@@ -1,11 +1,11 @@
 ---
-title: Frigid souls
+title: Frigid souls Frigid souls
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, haunted, cold, emotion, fear, mind-affecting, 术士/法师法术, 4环法术, 牧师/先知法术, 德鲁伊法术, 游侠法术, 3环法术, 女巫法术, 萨满法术, 猎人法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Frigid souls** *Frigid souls*

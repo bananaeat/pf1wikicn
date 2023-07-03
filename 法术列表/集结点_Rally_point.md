@@ -1,11 +1,11 @@
 ---
-title: 集结点
+title: 集结点 Rally point
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, 善良，影响心灵，情绪, 圣骑士法术, 1环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **集结点** *Rally point*

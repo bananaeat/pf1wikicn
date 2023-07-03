@@ -1,11 +1,11 @@
 ---
-title: 黑暗祝胜之刃
+title: 黑暗祝胜之刃 Blade of dark triumph
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 邪恶, 反圣武士法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **黑暗祝胜之刃** *Blade of dark triumph*

@@ -1,11 +1,11 @@
 ---
-title: 剑魂指引
+title: 剑魂指引 Blade tutor's spirit
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 创造, 术士/法师法术, 2环法术, 圣武士法术, 召唤师法术, 反圣武士法术, 魔战士法术, 1环法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **剑魂指引** *Blade tutor's spirit*

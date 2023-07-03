@@ -1,14 +1,14 @@
 ---
-title: 阿巴达尔的诚实告解 Abadar's truthtelling
+title: Abadar's truthtelling Abadar's truthtelling
 description: 
 published: true
-date: 2023-07-03T20:25:57.505Z
-tags: 法术, 审判者法术, 牧师/先知法术, 惑控系, 胁迫, 影响心灵, 1环法术, 圣武士法术
+date: 2023-07-03 21:37:18
+tags: 法术, 惑控系, 胁迫, 影响心灵, 牧师/先知法术, 1环法术, 圣武士法术, 审判者法术
 editor: markdown
-dateCreated: 2023-07-03T19:11:44.024Z
+dateCreated: 2023-07-03 21:37:18
 ---
 
-# **阿巴达尔的诚实告解** *Abadar's truthtelling*
+# **Abadar's truthtelling** *Abadar's truthtelling*
 
 **学派** 惑控系 (胁迫) \[影响心灵\] 
 
@@ -22,17 +22,17 @@ dateCreated: 2023-07-03T19:11:44.024Z
 
 ## ✨ 效果 
 
-**目标** 接触到的生物 
+**目标** creature touched 
 
 **距离** 接触  
 
-**持续时间** 1 分钟/等级 
+**持续时间** 1 min./level 
 
-**豁免** 意志过则无效
+**豁免** Will negates
 
 **法术抗力** 是
 
 ## 📖 描述
 
- 此法术像诚实之域（zone of truth）法术那样运作，除了上面的变化。目标瞬间呈现出一种完美秩序的形态，如某种神使（archon，又译圣使）或制裁者（inevitable），因此所有人都可以看见他正被此法术影响着。这种神圣形态仅在目标身上闪烁了一瞬间，并且不允许通过该法术而被当作一名不同种族的成员。
+This spell functions identically to the spell zone of truth, except as noted above. The target momentarily takes on the semblance of a being of perfect order, like an archon or inevitable, so that all who can see the target know it is affected by the spell. This divine guise flickers over the target for only an instant and does not allow it to pass as a member of a different race.
     

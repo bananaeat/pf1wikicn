@@ -1,11 +1,11 @@
 ---
-title: 通感超载
+title: 通感超载 Synesthesia
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 幻术系, 魅影幻觉, 影响心灵, 催眠师法术, 3环法术, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **通感超载** *Synesthesia*

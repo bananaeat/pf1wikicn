@@ -1,11 +1,11 @@
 ---
-title: 秘法眼
+title: 秘法眼 Arcane eye
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 探知, 炼金术师法术, 4环法术, 催眠师法术, 秘学士法术, 异能者法术, 术士/法师法术, 女巫法术, 奥秘子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **秘法眼** *Arcane eye*

@@ -1,11 +1,11 @@
 ---
-title: Brand of tracking
+title: Brand of tracking Brand of tracking
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 诅咒, 审判者法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Brand of tracking** *Brand of tracking*

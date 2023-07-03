@@ -1,11 +1,11 @@
 ---
-title: Mantle of doubt
+title: Mantle of doubt Mantle of doubt
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 幻术系, 魅影幻觉, emotion, fear, mind-affecting, 异能者法术, 8环法术, 催眠师法术, 6环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Mantle of doubt** *Mantle of doubt*

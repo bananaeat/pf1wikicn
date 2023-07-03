@@ -1,11 +1,11 @@
 ---
-title: 光辉胜利之刃
+title: 光辉胜利之刃 Blade of bright victory
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 善良, 圣骑士法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **光辉胜利之刃** *Blade of bright victory*

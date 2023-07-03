@@ -1,11 +1,11 @@
 ---
-title: 自性鞭笞 v
+title: 自性鞭笞 v Ego whip v
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, 情绪，影响心灵, 异能者法术, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **自性鞭笞 v** *Ego whip v*

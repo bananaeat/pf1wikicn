@@ -1,11 +1,11 @@
 ---
-title: 自然的流放
+title: 自然的流放 Nature's exile
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 诅咒, 德鲁伊法术, 3环法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **自然的流放** *Nature's exile*

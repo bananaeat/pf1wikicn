@@ -1,11 +1,11 @@
 ---
-title: 召唤次级盟友
+title: 召唤次级盟友 Summon minor ally
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 召唤, 德鲁伊法术, 1环法术, 游侠法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **召唤次级盟友** *Summon minor ally*

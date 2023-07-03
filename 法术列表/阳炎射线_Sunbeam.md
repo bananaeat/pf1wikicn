@@ -1,11 +1,11 @@
 ---
-title: 阳炎射线
+title: 阳炎射线 Sunbeam
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 光亮, 德鲁伊法术, 7环法术, 萨满法术, 太阳领域, Stars
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **阳炎射线** *Sunbeam*

@@ -1,11 +1,11 @@
 ---
-title: 晋升之术
+title: 晋升之术 Ascension
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, uni, 牧师/先知法术, 9环法术, 德鲁伊法术, 术士/法师法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **晋升之术** *Ascension*

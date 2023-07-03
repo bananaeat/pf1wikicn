@@ -1,11 +1,11 @@
 ---
-title: 分析灵光
+title: 分析灵光 Analyze aura
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 通灵者法术, 2环法术, 催眠师法术, 3环法术, 秘学士法术, 异能者法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **分析灵光** *Analyze aura*

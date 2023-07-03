@@ -1,11 +1,11 @@
 ---
-title: 纯化唤回
+title: 纯化唤回 Purified calling
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 医疗, 召唤师法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **纯化唤回** *Purified calling*

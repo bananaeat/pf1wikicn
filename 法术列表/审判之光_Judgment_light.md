@@ -1,11 +1,11 @@
 ---
-title: 审判之光
+title: 审判之光 Judgment light
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 光亮, 审判者法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **审判之光** *Judgment light*

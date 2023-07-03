@@ -1,11 +1,11 @@
 ---
-title: 棘墙术
+title: 棘墙术 Wall of thorns
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 创造, 德鲁伊法术, 5环法术, 猎人法术, 萨满法术, 植物领域, 鲜血子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **棘墙术** *Wall of thorns*

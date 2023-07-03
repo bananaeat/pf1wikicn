@@ -1,11 +1,11 @@
 ---
-title: Celestial healing, greater
+title: Celestial healing, greater Celestial healing, greater
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 医疗, 善良, 术士/法师法术, 4环法术, 牧师/先知法术, 召唤师法术, 女巫法术, 魔战士法术, 血脉狂怒者法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Celestial healing, greater** *Celestial healing, greater*

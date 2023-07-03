@@ -1,11 +1,11 @@
 ---
-title: 授予灵光
+title: 授予灵光 Bestow auras
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 反圣武士法术, 3环法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **授予灵光** *Bestow auras*

@@ -1,11 +1,11 @@
 ---
-title: 丛林之友
+title: 丛林之友 Forest friend
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 德鲁伊法术, 2环法术, 游侠法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **丛林之友** *Forest friend*

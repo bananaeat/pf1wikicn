@@ -1,11 +1,11 @@
 ---
-title: 蔓生术
+title: 蔓生术 Shambler
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 创造, 德鲁伊法术, 9环法术, 萨满法术, 植物领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **蔓生术** *Shambler*

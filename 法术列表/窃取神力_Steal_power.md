@@ -1,11 +1,11 @@
 ---
-title: 窃取神力
+title: 窃取神力 Steal power
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 牧师/先知法术, 5环法术, 术士/法师法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **窃取神力** *Steal power*

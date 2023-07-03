@@ -1,11 +1,11 @@
 ---
-title: 守卫刻文
+title: 守卫刻文 Glyph of warding
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 牧师/先知法术, 3环法术, 符文领域, 家园子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **守卫刻文** *Glyph of warding*

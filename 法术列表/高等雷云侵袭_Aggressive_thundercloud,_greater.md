@@ -1,11 +1,11 @@
 ---
-title: 高等雷云侵袭
+title: 高等雷云侵袭 Aggressive thundercloud, greater
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 电，音波, 德鲁伊法术, 4环法术, 魔战士法术, 术士/法师法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **高等雷云侵袭** *Aggressive thundercloud, greater*

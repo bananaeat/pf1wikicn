@@ -1,11 +1,11 @@
 ---
-title: Imbue with flight
+title: Imbue with flight Imbue with flight
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 术士/法师法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Imbue with flight** *Imbue with flight*

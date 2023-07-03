@@ -1,11 +1,11 @@
 ---
-title: 女妖之嚎
+title: 女妖之嚎 Wail of the banshee
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 死亡, 音波, 灵能者法术, 9环法术, 萨满法术, 术士/法师法术, 女巫法术, 死亡领域, 安眠领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **女妖之嚎** *Wail of the banshee*

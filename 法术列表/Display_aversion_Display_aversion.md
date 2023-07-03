@@ -1,11 +1,11 @@
 ---
-title: Display aversion
+title: Display aversion Display aversion
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 幻术系, 幽影幻觉, 术士/法师法术, 3环法术, 牧师/先知法术, 2环法术, 吟游诗人法术, 女巫法术, 审判者法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Display aversion** *Display aversion*

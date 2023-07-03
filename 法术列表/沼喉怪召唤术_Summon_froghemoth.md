@@ -1,11 +1,11 @@
 ---
-title: 沼喉怪召唤术
+title: 沼喉怪召唤术 Summon froghemoth
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 咒法系, 召唤, 德鲁伊法术, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **沼喉怪召唤术** *Summon froghemoth*

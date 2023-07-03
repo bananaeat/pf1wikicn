@@ -1,11 +1,11 @@
 ---
-title: 延迟爆裂火球
+title: 延迟爆裂火球 Delayed blast fireball
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 火, 术士/法师法术, 7环法术, Arson
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **延迟爆裂火球** *Delayed blast fireball*

@@ -1,11 +1,11 @@
 ---
-title: 高等诅咒地形
+title: 高等诅咒地形 Curse terrain, greater
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, curse, evil, 牧师/先知法术, 6环法术, 德鲁伊法术, 猎人法术, 萨满法术, 术士/法师法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **高等诅咒地形** *Curse terrain, greater*

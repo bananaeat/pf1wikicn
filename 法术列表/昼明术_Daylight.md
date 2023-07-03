@@ -1,11 +1,11 @@
 ---
-title: 昼明术
+title: 昼明术 Daylight
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 光亮, 导师法术, 3环法术, 吟游诗人法术, 牧师/先知法术, 德鲁伊法术, 猎人法术, 审判者法术, 魔战士法术, 秘学士法术, 圣骑士法术, 萨满法术, 术士/法师法术, 白昼子域, 光明子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **昼明术** *Daylight*

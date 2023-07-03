@@ -1,11 +1,11 @@
 ---
-title: 痛苦徽记
+title: 痛苦徽记 Symbol of pain
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 邪恶, 痛苦, 牧师/先知法术, 5环法术, 催眠师法术, 秘学士法术, 4环法术, 术士/法师法术, 女巫法术, Kyton, Torture
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **痛苦徽记** *Symbol of pain*

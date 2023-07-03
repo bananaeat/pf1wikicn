@@ -1,11 +1,11 @@
 ---
-title: Trial by fire
+title: Trial by fire Trial by fire
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 火, 牧师/先知法术, 3环法术, 圣武士法术, 审判者法术, 反圣武士法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Trial by fire** *Trial by fire*

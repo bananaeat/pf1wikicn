@@ -1,11 +1,11 @@
 ---
-title: 构筑信赖
+title: 构筑信赖 Build trust
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 吟游诗人法术, 2环法术, 牧师/先知法术, 审判者法术, 催眠师法术, 圣骑士法术, 1环法术, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **构筑信赖** *Build trust*

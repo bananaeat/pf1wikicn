@@ -1,11 +1,11 @@
 ---
-title: 粉碎音波
+title: 粉碎音波 Shatter
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 音波, 吟游诗人法术, 2环法术, 血脉狂怒者法术, 牧师/先知法术, 魔战士法术, 秘学士法术, 异能者法术, 术士/法师法术, 毁灭领域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **粉碎音波** *Shatter*

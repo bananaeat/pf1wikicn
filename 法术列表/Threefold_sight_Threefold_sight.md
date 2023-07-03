@@ -1,11 +1,11 @@
 ---
-title: Threefold sight
+title: Threefold sight Threefold sight
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 术士/法师法术, 3环法术, 吟游诗人法术, 女巫法术, 异能者法术, 通灵者法术, 秘学士法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Threefold sight** *Threefold sight*

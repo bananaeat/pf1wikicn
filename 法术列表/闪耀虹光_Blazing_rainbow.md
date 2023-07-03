@@ -1,11 +1,11 @@
 ---
-title: 闪耀虹光
+title: 闪耀虹光 Blazing rainbow
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 光亮, 德鲁伊法术, 6环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **闪耀虹光** *Blazing rainbow*

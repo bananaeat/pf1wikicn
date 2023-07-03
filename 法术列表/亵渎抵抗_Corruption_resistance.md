@@ -1,11 +1,11 @@
 ---
-title: 亵渎抵抗
+title: 亵渎抵抗 Corruption resistance
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 混乱，邪恶，善良，守序, 反圣武士法术, 2环法术, 审判者法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **亵渎抵抗** *Corruption resistance*

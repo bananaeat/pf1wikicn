@@ -1,11 +1,11 @@
 ---
-title: 熵光护盾
+title: 熵光护盾 Entropic shield
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 牧师/先知法术, 1环法术, 异能者法术, Entropy
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **熵光护盾** *Entropic shield*

@@ -1,11 +1,11 @@
 ---
-title: 禁令印记
+title: 禁令印记 Marks of forbiddance
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 影响心灵, 圣骑士法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **禁令印记** *Marks of forbiddance*

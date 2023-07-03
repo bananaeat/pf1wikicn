@@ -1,11 +1,11 @@
 ---
-title: 问道自然
+title: 问道自然 Commune with nature
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 预言系, 德鲁伊法术, 5环法术, 猎人法术, 4环法术, 异能者法术, 游侠法术, 萨满法术, Ruins
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **问道自然** *Commune with nature*

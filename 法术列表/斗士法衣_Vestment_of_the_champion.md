@@ -1,11 +1,11 @@
 ---
-title: 斗士法衣
+title: 斗士法衣 Vestment of the champion
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 反圣武士法术, 2环法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **斗士法衣** *Vestment of the champion*

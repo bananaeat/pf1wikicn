@@ -1,11 +1,11 @@
 ---
-title: 刺青药剂
+title: 刺青药剂 Tattoo potion
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 术士/法师法术, 2环法术, 吟游诗人法术, 炼金术师法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **刺青药剂** *Tattoo potion*

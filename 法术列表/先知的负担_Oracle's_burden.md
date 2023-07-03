@@ -1,11 +1,11 @@
 ---
-title: 先知的负担
+title: 先知的负担 Oracle's burden
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 死灵系, 诅咒, 先知法术, 2环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **先知的负担** *Oracle's burden*

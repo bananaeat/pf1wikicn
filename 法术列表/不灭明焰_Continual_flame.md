@@ -1,11 +1,11 @@
 ---
-title: 不灭明焰
+title: 不灭明焰 Continual flame
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, 光亮, 导师法术, 3环法术, 牧师/先知法术, 审判者法术, 秘学士法术, 2环法术, 异能者法术, 术士/法师法术, 白昼子域
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **不灭明焰** *Continual flame*

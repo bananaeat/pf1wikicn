@@ -1,11 +1,11 @@
 ---
-title: 情感障碍
+title: 情感障碍 Emotive block
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, 情绪，影响心灵, 催眠师法术, 2环法术, 异能者法术, 3环法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **情感障碍** *Emotive block*

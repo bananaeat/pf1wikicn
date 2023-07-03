@@ -1,11 +1,11 @@
 ---
-title: 友伴心桥
+title: 友伴心桥 Companion mind link
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 魅惑, 影响心灵, 德鲁伊法术, 3环法术, 游侠法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **友伴心桥** *Companion mind link*

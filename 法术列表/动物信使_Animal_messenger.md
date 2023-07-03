@@ -1,11 +1,11 @@
 ---
-title: 动物信使
+title: 动物信使 Animal messenger
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 2环法术, 德鲁伊法术, 猎人法术, 1环法术, 催眠师法术, 异能者法术, 游侠法术, 萨满法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **动物信使** *Animal messenger*

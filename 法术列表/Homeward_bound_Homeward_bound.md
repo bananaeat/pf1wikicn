@@ -1,11 +1,11 @@
 ---
-title: Homeward bound
+title: Homeward bound Homeward bound
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 防护系, 术士/法师法术, 4环法术, 牧师/先知法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **Homeward bound** *Homeward bound*

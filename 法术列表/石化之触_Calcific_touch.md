@@ -1,11 +1,11 @@
 ---
-title: 石化之触
+title: 石化之触 Calcific touch
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 变化系, 土, 术士/法师法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **石化之触** *Calcific touch*

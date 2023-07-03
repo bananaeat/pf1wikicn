@@ -1,11 +1,11 @@
 ---
-title: 增效墙
+title: 增效墙 Augmenting wall
 description: 
 published: true
-date: 2023-07-03 19:59:28
+date: 2023-07-03 21:37:18
 tags: 法术, 塑能系, see text, 术士/法师法术, 5环法术, 魔战士法术
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03 21:37:18
 ---
 
 # **增效墙** *Augmenting wall*
