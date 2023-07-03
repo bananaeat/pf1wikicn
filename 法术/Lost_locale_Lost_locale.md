@@ -1,39 +1,40 @@
 
-    ---
-    title: Lost locale
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 9环法术, 异能者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Lost locale
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 9环法术, 异能者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Lost locale** *Lost locale*
+---
 
-    **学派** 惑控系 (胁迫) \[影响心灵\] 
+# **Lost locale** *Lost locale*
 
-    **环位** 术士/法师 9, 异能者 9
+**学派** 惑控系 (胁迫) \[影响心灵\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 9, 异能者 9
 
-    **施法时间** 24 小时
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 24 小时
 
-    ## ✨ 效果  
+**成分** 语言, 姿势
 
-    **范围** one 1-mile cube/level
+## ✨ 效果  
 
-    **距离** 1mi  
+**范围** one 1-mile cube/level
 
-    **持续时间** 2 hours/level (D) 
+**距离** 1mi  
 
-    **豁免** Will partial
+**持续时间** 2 hours/level (D) 
 
-    **法术抗力** 是
+**豁免** Will partial
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell functions as lost passage (see below), except that it affects a larger area. Lost locale can be made permanent with permanency at a cost of 90,000 gp.
+## 📖 描述
+
+This spell functions as lost passage (see below), except that it affects a larger area. Lost locale can be made permanent with permanency at a cost of 90,000 gp.
     

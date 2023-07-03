@@ -1,51 +1,52 @@
 
-    ---
-    title: Sustaining legend
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 医疗, 牧师/先知法术, 6环法术, 吟游诗人法术, 5环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Sustaining legend
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 医疗, 牧师/先知法术, 6环法术, 吟游诗人法术, 5环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Sustaining legend** *Sustaining legend*
+---
 
-    **学派** 咒法系 (医疗) 
+# **Sustaining legend** *Sustaining legend*
 
-    **环位** 牧师/先知 6, 吟游诗人 5
+**学派** 咒法系 (医疗) 
 
-    ## 🪄 施放
+**环位** 牧师/先知 6, 吟游诗人 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one creature/level, no two of which can be more than 30 ft. apart 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature/level, no two of which can be more than 30 ft. apart 
 
-    **持续时间** 1 round/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates (harmless)
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The rulers of Azlant are thought to have used this spell to amplify the mythic power of themselves and their most gifted lieutenants. You amplify the mythic power of the target creatures, bolstering them with healing energy each time they draw upon their mythic abilities. When a creature affected by this spell expends uses of mythic power for any ability, it immediately heals 2d8 points of damage + 1 point per caster level (maximum +25). In addition, the creature benefits from one of the following additional effects.
+## 📖 描述
 
-     Remove any one of the following conditions: dazzled, fatigued, shaken, sickened, or staggered.
+The rulers of Azlant are thought to have used this spell to amplify the mythic power of themselves and their most gifted lieutenants. You amplify the mythic power of the target creatures, bolstering them with healing energy each time they draw upon their mythic abilities. When a creature affected by this spell expends uses of mythic power for any ability, it immediately heals 2d8 points of damage + 1 point per caster level (maximum +25). In addition, the creature benefits from one of the following additional effects.
 
-     Reduce the dazed or stunned condition to staggered.
+ Remove any one of the following conditions: dazzled, fatigued, shaken, sickened, or staggered.
 
-     Reduce the exhausted condition to fatigued.
+ Reduce the dazed or stunned condition to staggered.
 
-     Reduce the frightened condition to shaken, or the panicked condition to frightened.
+ Reduce the exhausted condition to fatigued.
 
-     Reduce the nauseated condition to sickened.
+ Reduce the frightened condition to shaken, or the panicked condition to frightened.
 
-    A target can benefit from the effects of sustaining legend only once per round, even if the target expends multiple uses of mythic power during that time.
+ Reduce the nauseated condition to sickened.
+
+A target can benefit from the effects of sustaining legend only once per round, even if the target expends multiple uses of mythic power during that time.
     

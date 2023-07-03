@@ -1,47 +1,48 @@
 
-    ---
-    title: Defoliate
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 死灵系, 术士/法师法术, 2环法术, 德鲁伊法术, 游侠法术, 1环法术, 猎人法术, Radiation
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Defoliate
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 死灵系, 术士/法师法术, 2环法术, 德鲁伊法术, 游侠法术, 1环法术, 猎人法术, Radiation
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Defoliate** *Defoliate*
+---
 
-    **学派** 死灵系 
+# **Defoliate** *Defoliate*
 
-    **领域** Radiation 8
+**学派** 死灵系 
 
-    **环位** 术士/法师 2, 德鲁伊 2, 游侠 1, 猎人 1
+**领域** Radiation 8
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 德鲁伊 2, 游侠 1, 猎人 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** see text 
+## ✨ 效果 
 
-    **范围** see text
+**目标** see text 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**范围** see text
 
-    **持续时间** 立即 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **法术抗力** 是
+**持续时间** 立即 
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You hurl a tiny ball of negative energy, destroying plant life either in a line 60 feet long or a 10-foot-radius spread. This effect removes the cover and concealment provided by trees and undergrowth, eliminates the movement penalties associated with undergrowth, and so forth.
+## 📖 描述
 
-    You may also target a single plant creature with this spell.
+You hurl a tiny ball of negative energy, destroying plant life either in a line 60 feet long or a 10-foot-radius spread. This effect removes the cover and concealment provided by trees and undergrowth, eliminates the movement penalties associated with undergrowth, and so forth.
 
-    You must succeed on a ranged touch attack to hit your target.
+You may also target a single plant creature with this spell.
 
-    An affected plant creature takes 2d8 points of damage.
+You must succeed on a ranged touch attack to hit your target.
+
+An affected plant creature takes 2d8 points of damage.
     

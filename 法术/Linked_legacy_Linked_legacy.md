@@ -1,37 +1,38 @@
 
-    ---
-    title: Linked legacy
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 术士/法师法术, 1环法术, 吟游诗人法术, 女巫法术, 萨满法术, 异能者法术, 通灵者法术, 催眠师法术, 秘学士法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Linked legacy
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 术士/法师法术, 1环法术, 吟游诗人法术, 女巫法术, 萨满法术, 异能者法术, 通灵者法术, 催眠师法术, 秘学士法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Linked legacy** *Linked legacy*
+---
 
-    **学派** 预言系 
+# **Linked legacy** *Linked legacy*
 
-    **环位** 术士/法师 1, 吟游诗人 1, 女巫 1, 萨满 1, 异能者 1, 通灵者 1, 催眠师 1, 秘学士 1
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 吟游诗人 1, 女巫 1, 萨满 1, 异能者 1, 通灵者 1, 催眠师 1, 秘学士 1
 
-    **施法时间** 1 轮
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 轮
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** two willing creatures plus another creature per 6 levels, no two of which can be more than 30 feet apart 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** two willing creatures plus another creature per 6 levels, no two of which can be more than 30 feet apart 
 
-    **持续时间** 10 minutes/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **法术抗力** 是
+**持续时间** 10 minutes/level 
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell helps build community and ensure a shared vision for the future. When any of the affected creatures succeeds at a Knowledge check to answer a question within its field of study or identify a monster and its special powers or vulnerabilities, as a free action the affected creature can share any information gained automatically with all targets of the spell. If any of the targets move out of the spell's range, the spell ceases to function for all of them until they are all within close range of you again.
+## 📖 描述
+
+This spell helps build community and ensure a shared vision for the future. When any of the affected creatures succeeds at a Knowledge check to answer a question within its field of study or identify a monster and its special powers or vulnerabilities, as a free action the affected creature can share any information gained automatically with all targets of the spell. If any of the targets move out of the spell's range, the spell ceases to function for all of them until they are all within close range of you again.
     

@@ -1,39 +1,40 @@
 
-    ---
-    title: Aram zey's trap ward
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 术士/法师法术, 4环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Aram zey's trap ward
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 术士/法师法术, 4环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Aram zey's trap ward** *Aram zey's trap ward*
+---
 
-    **学派** 防护系 
+# **Aram zey's trap ward** *Aram zey's trap ward*
 
-    **环位** 术士/法师 4
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 术士/法师 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 10 minutes/level or until discharged 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 10 minutes/level or until discharged 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    While he was researching the underlying causes of the resonance created by overlapping abjurations, Aram Zey discovered a way to manipulate that resonance to the caster's advantage when encountering magical traps.
+## 📖 描述
 
-    The protection provided by Aram Zey's trap ward comes into play whenever the caster is subjected to the effects of a magical trap. The spell immediately discharges and interferes with the trap's function in an attempt to counter the trap's magic. When this occurs, make a caster level check as an immediate action. The DC of this check is equal to the trap's Disable Device DC. If you're successful, the trap ward dispels the magical effect of the trap before the effect actually manifests, effectively preventing the trap from triggering for the next 1d4 rounds and ending Aram Zey's trap ward immediately.
+While he was researching the underlying causes of the resonance created by overlapping abjurations, Aram Zey discovered a way to manipulate that resonance to the caster's advantage when encountering magical traps.
+
+The protection provided by Aram Zey's trap ward comes into play whenever the caster is subjected to the effects of a magical trap. The spell immediately discharges and interferes with the trap's function in an attempt to counter the trap's magic. When this occurs, make a caster level check as an immediate action. The DC of this check is equal to the trap's Disable Device DC. If you're successful, the trap ward dispels the magical effect of the trap before the effect actually manifests, effectively preventing the trap from triggering for the next 1d4 rounds and ending Aram Zey's trap ward immediately.
     

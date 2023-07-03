@@ -1,37 +1,38 @@
 
-    ---
-    title: Entice fey, greater
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 呼唤, 德鲁伊法术, 9环法术, 萨满法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Entice fey, greater
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 呼唤, 德鲁伊法术, 9环法术, 萨满法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Entice fey, greater** *Entice fey, greater*
+---
 
-    **学派** 咒法系 (呼唤) 
+# **Entice fey, greater** *Entice fey, greater*
 
-    **环位** 德鲁伊 9, 萨满 9
+**学派** 咒法系 (呼唤) 
 
-    ## 🪄 施放
+**环位** 德鲁伊 9, 萨满 9
 
-    **施法时间** 10 分钟
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料, 圣徽
+**施法时间** 10 分钟
 
-    ## ✨ 效果  
+**成分** 语言, 姿势, 材料, 圣徽
 
-    **距离** 近距 (25尺+5尺/2等级) 
+## ✨ 效果  
 
-    **效果** up to three called fey, totaling no more than 18 Hit Dice, no two of which can appear more than 30 ft. apart 
+**距离** 近距 (25尺+5尺/2等级) 
 
-    **持续时间** 立即 
+**效果** up to three called fey, totaling no more than 18 Hit Dice, no two of which can appear more than 30 ft. apart 
 
-    **法术抗力** 否
+**持续时间** 立即 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    This spell functions as @Compendium[pf1.spells.fv17a5jsmapb0wcz]{lesser entice fey}, except the spell's whimsical calling can produce a single fey of 18 Hit Dice or less, or up to three fey of the same kind whose Hit Dice total no more than 18.
+## 📖 描述
+
+This spell functions as @Compendium[pf1.spells.fv17a5jsmapb0wcz]{lesser entice fey}, except the spell's whimsical calling can produce a single fey of 18 Hit Dice or less, or up to three fey of the same kind whose Hit Dice total no more than 18.
     

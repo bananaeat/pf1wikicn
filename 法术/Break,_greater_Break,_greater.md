@@ -1,37 +1,38 @@
 
-    ---
-    title: Break, greater
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 6环法术, 血脉狂怒者法术, 4环法术, 异能者法术, 秘学士法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Break, greater
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 6环法术, 血脉狂怒者法术, 4环法术, 异能者法术, 秘学士法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Break, greater** *Break, greater*
+---
 
-    **学派** 变化系 
+# **Break, greater** *Break, greater*
 
-    **环位** 术士/法师 6, 血脉狂怒者 4, 异能者 6, 秘学士 6
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 6, 血脉狂怒者 4, 异能者 6, 秘学士 6
 
-    **施法时间** 1 轮
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 轮
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** all Medium or smaller objects in a 30-ft. burst centered on you 
+## ✨ 效果 
 
-    **距离** 30尺  
+**目标** all Medium or smaller objects in a 30-ft. burst centered on you 
 
-    **持续时间** 立即 
+**距离** 30尺  
 
-    **法术抗力** 是
+**持续时间** 立即 
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You release a burst of destructive energy. Each Medium or smaller object in the area gains the broken condition unless it succeeds at a Fortitude saving throw. If a broken object fails this save, it is instead destroyed. Magic items can be broken by this spell, but not destroyed. Objects in your possession are not immune.
+## 📖 描述
+
+You release a burst of destructive energy. Each Medium or smaller object in the area gains the broken condition unless it succeeds at a Fortitude saving throw. If a broken object fails this save, it is instead destroyed. Magic items can be broken by this spell, but not destroyed. Objects in your possession are not immune.
     

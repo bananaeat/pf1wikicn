@@ -1,37 +1,38 @@
 
-    ---
-    title: Angelic aspect
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 善良, 术士/法师法术, 5环法术, 牧师/先知法术, 圣武士法术, 3环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Angelic aspect
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 善良, 术士/法师法术, 5环法术, 牧师/先知法术, 圣武士法术, 3环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Angelic aspect** *Angelic aspect*
+---
 
-    **学派** 变化系 \[善良\] 
+# **Angelic aspect** *Angelic aspect*
 
-    **环位** 术士/法师 5, 牧师/先知 5, 圣武士 3
+**学派** 变化系 \[善良\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 5, 牧师/先知 5, 圣武士 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level (D) 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level (D) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    This spell functions like lesser angelic aspect, except you gain low-light vision, darkvision 60, resistance to acid 10, resistance to cold 10, and DR 5/evil, and you sprout white feathered wings allowing you to fly at a speed of 30 feet with average maneuverability. In addition, your natural weapons and any weapons you wield are considered good-aligned for the purpose of overcoming damage reduction.
+## 📖 描述
+
+This spell functions like lesser angelic aspect, except you gain low-light vision, darkvision 60, resistance to acid 10, resistance to cold 10, and DR 5/evil, and you sprout white feathered wings allowing you to fly at a speed of 30 feet with average maneuverability. In addition, your natural weapons and any weapons you wield are considered good-aligned for the purpose of overcoming damage reduction.
     

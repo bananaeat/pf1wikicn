@@ -1,41 +1,42 @@
 
-    ---
-    title: Hardening
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 奥能师法术, 6环法术, 法师/术士法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Hardening
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 奥能师法术, 6环法术, 法师/术士法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Hardening** *Hardening*
+---
 
-    **学派** 变化系 
+# **Hardening** *Hardening*
 
-    **环位** arcanist 6, sorcerer/wizard 6
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** arcanist 6, sorcerer/wizard 6
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one item of a volume no greater than 10 cu. ft./level 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** one item of a volume no greater than 10 cu. ft./level 
 
-    **持续时间** permanent 
+**距离** 接触  
 
-    **豁免** Will negates (harmless, object)
+**持续时间** permanent 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless, object)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell increases the hardness of materials by 1 point per 2 caster levels. The hardening spell does not in any way affect resistance to other forms of transformation.
+## 📖 描述
 
-    This spell affects up to 10 cubic feet per level. If cast upon a metal or mineral, the spell affects 1 cubic foot per level.
+This spell increases the hardness of materials by 1 point per 2 caster levels. The hardening spell does not in any way affect resistance to other forms of transformation.
+
+This spell affects up to 10 cubic feet per level. If cast upon a metal or mineral, the spell affects 1 cubic foot per level.
     

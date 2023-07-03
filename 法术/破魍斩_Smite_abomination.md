@@ -1,39 +1,40 @@
 
-    ---
-    title: 破魍斩
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 牧师/先知法术, 5环法术, 审判者法术, 4环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 破魍斩
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 牧师/先知法术, 5环法术, 审判者法术, 4环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **破魍斩** *Smite abomination*
+---
 
-    **学派** 塑能系 
+# **破魍斩** *Smite abomination*
 
-    **环位** 牧师/先知 5, 审判者 4
+**学派** 塑能系 
 
-    ## 🪄 施放
+**环位** 牧师/先知 5, 审判者 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 圣徽
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    Drawing upon positive energy, you emulate some of a paladin's power to smite undead. Choose one undead creature as your target.
+## 📖 描述
 
-    Your melee attacks against that target gain a bonus equal to your Charisma or Wisdom modifier, whichever is higher, on your attack rolls, and a bonus equal to your caster level on damage rolls. Your melee attacks also bypass the target's damage reduction. These bonuses do not stack with the bonuses from a paladin's smite.
+Drawing upon positive energy, you emulate some of a paladin's power to smite undead. Choose one undead creature as your target.
+
+Your melee attacks against that target gain a bonus equal to your Charisma or Wisdom modifier, whichever is higher, on your attack rolls, and a bonus equal to your caster level on damage rolls. Your melee attacks also bypass the target's damage reduction. These bonuses do not stack with the bonuses from a paladin's smite.
     

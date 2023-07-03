@@ -1,39 +1,40 @@
 
-    ---
-    title: Limp lash
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 死灵系, 术士/法师法术, 2环法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Limp lash
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 死灵系, 术士/法师法术, 2环法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Limp lash** *Limp lash*
+---
 
-    **学派** 死灵系 
+# **Limp lash** *Limp lash*
 
-    **环位** 术士/法师 2, 女巫 2
+**学派** 死灵系 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 女巫 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** 1 creature 
+## ✨ 效果 
 
-    **距离** 20尺  
+**目标** 1 creature 
 
-    **持续时间** special (see below) 
+**距离** 20尺  
 
-    **法术抗力** 是
+**持续时间** special (see below) 
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You create a dark whip-shaped field of energy that wraps around an enemy's neck, leaving everything except his head paralyzed until you let go of the whip or it is destroyed. You must make a ranged touch attack with this spell. If you strike your target, he takes a 1d6 penalty to his Strength, Dexterity, and Constitution each round.
+## 📖 描述
 
-    This penalty cannot reduce any attribute to less than 1, and once any of these attributes reaches 1 the target collapses and his body, except his head, becomes paralyzed. While paralyzed in this way, the target retains full use of his senses, including the ability to feel pain, and can speak (including casting spells with only verbal components). The whip has a maximum length of 20 feet, 15 hit points, and a hardness of 5. The spell ends immediately if you let go of the whip or it is destroyed. When the spell ends, all penalties the target took from this spell also end.
+You create a dark whip-shaped field of energy that wraps around an enemy's neck, leaving everything except his head paralyzed until you let go of the whip or it is destroyed. You must make a ranged touch attack with this spell. If you strike your target, he takes a 1d6 penalty to his Strength, Dexterity, and Constitution each round.
+
+This penalty cannot reduce any attribute to less than 1, and once any of these attributes reaches 1 the target collapses and his body, except his head, becomes paralyzed. While paralyzed in this way, the target retains full use of his senses, including the ability to feel pain, and can speak (including casting spells with only verbal components). The whip has a maximum length of 20 feet, 15 hit points, and a hardness of 5. The spell ends immediately if you let go of the whip or it is destroyed. When the spell ends, all penalties the target took from this spell also end.
     

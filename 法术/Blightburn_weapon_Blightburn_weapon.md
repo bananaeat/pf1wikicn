@@ -1,39 +1,40 @@
 
-    ---
-    title: Blightburn weapon
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 5环法术, 炼金术师法术, 4环法术, 女巫法术, 审判者法术, 魔战士法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Blightburn weapon
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 5环法术, 炼金术师法术, 4环法术, 女巫法术, 审判者法术, 魔战士法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Blightburn weapon** *Blightburn weapon*
+---
 
-    **学派** 变化系 
+# **Blightburn weapon** *Blightburn weapon*
 
-    **环位** 术士/法师 5, 炼金术师 4, 女巫 5, 审判者 4, 魔战士 4
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 5, 炼金术师 4, 女巫 5, 审判者 4, 魔战士 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 圣徽
 
-    **目标** one weapon 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one weapon 
 
-    **持续时间** 1 round/level (D) 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates (object)
+**持续时间** 1 round/level (D) 
 
-    **法术抗力** 是
+**豁免** Will negates (object)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You transform the target weapon into pure blightburn. The weapon functions as normal, but any creature that touches it, or that it strikes, takes 2d6 points of fire damage each round it remains in contact. In addition, the weapon emanates an aura of radiation that causes blightburn sickness. This is as the disease (see page 29), but with a 10-foot radius and a save DC equal to this spell's save DC.
+## 📖 描述
+
+You transform the target weapon into pure blightburn. The weapon functions as normal, but any creature that touches it, or that it strikes, takes 2d6 points of fire damage each round it remains in contact. In addition, the weapon emanates an aura of radiation that causes blightburn sickness. This is as the disease (see page 29), but with a 10-foot radius and a save DC equal to this spell's save DC.
     

@@ -1,39 +1,40 @@
 
-    ---
-    title: Blood tentacles
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 死灵系, 术士/法师法术, 5环法术, 牧师/先知法术, 召唤师法术, 4环法术, 女巫法术, 反圣武士法术, 萨满法术, unchained 召唤师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Blood tentacles
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 死灵系, 术士/法师法术, 5环法术, 牧师/先知法术, 召唤师法术, 4环法术, 女巫法术, 反圣武士法术, 萨满法术, unchained 召唤师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Blood tentacles** *Blood tentacles*
+---
 
-    **学派** 死灵系 
+# **Blood tentacles** *Blood tentacles*
 
-    **环位** 术士/法师 5, 牧师/先知 5, 召唤师 4, 女巫 5, 反圣武士 4, 萨满 5, unchained 召唤师 4
+**学派** 死灵系 
 
-    ## 🪄 施放
+**环位** 术士/法师 5, 牧师/先知 5, 召唤师 4, 女巫 5, 反圣武士 4, 萨满 5, unchained 召唤师 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level 
+**距离** 自身  
 
-    **豁免** Will negates (harmless)
+**持续时间** 1 round/level 
 
-    **法术抗力** 否
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You smear a handful of your own blood across your chest, causing one writhing tentacle per caster level to burst forth. You can direct these tentacles to attack a single creature within 15 feet as a standard action, or one creature per 5 caster levels as a full-round action. Each tentacle has an attack bonus equal to your base attack bonus plus either your Constitution or Charisma bonus (whichever is higher). Each tentacle deals 2d6 points of damage, and a tentacle collapses into dried blood on a successful hit, granting you a number of temporary hit points equal to the damage dealt. You can't gain more temporary hit points than your maximum number of hit points. These temporary hit points disappear after 1 hour.
+## 📖 描述
+
+You smear a handful of your own blood across your chest, causing one writhing tentacle per caster level to burst forth. You can direct these tentacles to attack a single creature within 15 feet as a standard action, or one creature per 5 caster levels as a full-round action. Each tentacle has an attack bonus equal to your base attack bonus plus either your Constitution or Charisma bonus (whichever is higher). Each tentacle deals 2d6 points of damage, and a tentacle collapses into dried blood on a successful hit, granting you a number of temporary hit points equal to the damage dealt. You can't gain more temporary hit points than your maximum number of hit points. These temporary hit points disappear after 1 hour.
     

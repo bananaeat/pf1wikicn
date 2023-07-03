@@ -1,39 +1,40 @@
 
-    ---
-    title: Befuddled combatant
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, curse, mind-affecting, 术士/法师法术, 5环法术, 吟游诗人法术, 女巫法术, 萨满法术, 异能者法术, 催眠师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Befuddled combatant
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, curse, mind-affecting, 术士/法师法术, 5环法术, 吟游诗人法术, 女巫法术, 萨满法术, 异能者法术, 催眠师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Befuddled combatant** *Befuddled combatant*
+---
 
-    **学派** 惑控系 (胁迫) \[curse, mind-affecting\] 
+# **Befuddled combatant** *Befuddled combatant*
 
-    **环位** 术士/法师 5, 吟游诗人 5, 女巫 5, 萨满 5, 异能者 5, 催眠师 5
+**学派** 惑控系 (胁迫) \[curse, mind-affecting\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 5, 吟游诗人 5, 女巫 5, 萨满 5, 异能者 5, 催眠师 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** one creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature 
 
-    **持续时间** 1 hour/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates
+**持续时间** 1 hour/level 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    As a way to befuddle your target, you fill its mind with all manner of swirling images as well as baffling and incoherent thoughts, making the target an ineffective combatant and rendering its spellcasting and other such abilities much more feeble.  For the spell's duration, the DCs of all of the target's spells, spell-like abilities, supernatural abilities, and extraordinary abilities are reduced by 4. Any of its attacks that would deal hit point damage, including its melee and ranged physical attacks, deal minimum damage for the duration of this spell.  This curse applies only to effects created by the creature while this spell is actively affecting the target; applying or removing this curse doesn't alter the ongoing damage of effects previously created by the target (such as an incendiary cloud spell that was cast before the target became affected by this spell).
+## 📖 描述
+
+As a way to befuddle your target, you fill its mind with all manner of swirling images as well as baffling and incoherent thoughts, making the target an ineffective combatant and rendering its spellcasting and other such abilities much more feeble.  For the spell's duration, the DCs of all of the target's spells, spell-like abilities, supernatural abilities, and extraordinary abilities are reduced by 4. Any of its attacks that would deal hit point damage, including its melee and ranged physical attacks, deal minimum damage for the duration of this spell.  This curse applies only to effects created by the creature while this spell is actively affecting the target; applying or removing this curse doesn't alter the ongoing damage of effects previously created by the target (such as an incendiary cloud spell that was cast before the target became affected by this spell).
     

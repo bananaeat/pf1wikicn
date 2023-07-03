@@ -1,37 +1,38 @@
 
-    ---
-    title: 幸运灯塔
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 牧师/先知法术, 3环法术, 吟游诗人法术, 圣武士法术, 4环法术, 审判者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 幸运灯塔
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 牧师/先知法术, 3环法术, 吟游诗人法术, 圣武士法术, 4环法术, 审判者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **幸运灯塔** *Beacon of luck*
+---
 
-    **学派** 预言系 
+# **幸运灯塔** *Beacon of luck*
 
-    **环位** 牧师/先知 3, 吟游诗人 3, 圣武士 4, 审判者 4
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 牧师/先知 3, 吟游诗人 3, 圣武士 4, 审判者 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料, 圣徽
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level (D) 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level (D) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You send out a burst of luck with a 30-foot radius centered around you. While the Beacon of Luck  is in effect, you gain a +2 sacred bonus on all saving throws. As an immediate action before a saving throw is made, allies within the area can choose to benefit from this luck, rolling twice for a saving throw and taking the better result. Once a creature benefits from the Beacon of Luck in this way, it cannot gain the benefit of this spell for 24 hours.
+## 📖 描述
+
+You send out a burst of luck with a 30-foot radius centered around you. While the Beacon of Luck  is in effect, you gain a +2 sacred bonus on all saving throws. As an immediate action before a saving throw is made, allies within the area can choose to benefit from this luck, rolling twice for a saving throw and taking the better result. Once a creature benefits from the Beacon of Luck in this way, it cannot gain the benefit of this spell for 24 hours.
     

@@ -1,37 +1,38 @@
 
-    ---
-    title: Sculpted cape
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 1环法术, 游侠法术, 吟游诗人法术, 女巫法术, 萨满法术, 秘学士法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Sculpted cape
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 1环法术, 游侠法术, 吟游诗人法术, 女巫法术, 萨满法术, 秘学士法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Sculpted cape** *Sculpted cape*
+---
 
-    **学派** 变化系 
+# **Sculpted cape** *Sculpted cape*
 
-    **环位** 术士/法师 1, 游侠 1, 吟游诗人 1, 女巫 1, 萨满 1, 秘学士 1, 猎人 1
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 游侠 1, 吟游诗人 1, 女巫 1, 萨满 1, 秘学士 1, 猎人 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 法器 (cape or loose outer garment)
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 法器 (cape or loose outer garment)
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    Your cape, cloak, or shawl stiffens and maintains its shape even if removed. A sculpted cape has hardness 2 and a number of hit points equal to your caster level, and it can support 1 pound of weight per caster level. An unworn sculpted cape can provide cover.
+## 📖 描述
+
+Your cape, cloak, or shawl stiffens and maintains its shape even if removed. A sculpted cape has hardness 2 and a number of hit points equal to your caster level, and it can support 1 pound of weight per caster level. An unworn sculpted cape can provide cover.
     

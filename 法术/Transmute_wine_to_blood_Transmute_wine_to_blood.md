@@ -1,39 +1,40 @@
 
-    ---
-    title: Transmute wine to blood
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 2环法术, 牧师/先知法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Transmute wine to blood
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 2环法术, 牧师/先知法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Transmute wine to blood** *Transmute wine to blood*
+---
 
-    **学派** 变化系 
+# **Transmute wine to blood** *Transmute wine to blood*
 
-    **环位** 术士/法师 2, 牧师/先知 2, 女巫 2
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 牧师/先知 2, 女巫 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** bottle of wine worth at least 10 gp 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** bottle of wine worth at least 10 gp 
 
-    **持续时间** 立即 
+**距离** 接触  
 
-    **豁免** Fortitude negates (object)
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Fortitude negates (object)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You transform one bottle of fine wine into 1 pint of animal blood, sufficient for a creature with the blood drain ability to feed upon as if it came from a Medium animal with 1 Hit Die. If you are using the optional hunger rules (see page 22), this blood satiates an undead creature's hunger, negating any withdrawal effects, but does not grant the creature a feeding bonus. The blood coagulates and spoils at the normal rate.
+## 📖 描述
+
+You transform one bottle of fine wine into 1 pint of animal blood, sufficient for a creature with the blood drain ability to feed upon as if it came from a Medium animal with 1 Hit Die. If you are using the optional hunger rules (see page 22), this blood satiates an undead creature's hunger, negating any withdrawal effects, but does not grant the creature a feeding bonus. The blood coagulates and spoils at the normal rate.
     

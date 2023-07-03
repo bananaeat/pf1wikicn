@@ -1,39 +1,40 @@
 
-    ---
-    title: 物品轻量
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 召唤师法术, 魔战士法术, unchained 召唤师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 物品轻量
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 召唤师法术, 魔战士法术, unchained 召唤师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **物品轻量** *Lighten object*
+---
 
-    **学派** 变化系 
+# **物品轻量** *Lighten object*
 
-    **环位** 术士/法师 1, 牧师/先知 1, 吟游诗人 1, 召唤师 1, 魔战士 1, unchained 召唤师 1
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 牧师/先知 1, 吟游诗人 1, 召唤师 1, 魔战士 1, unchained 召唤师 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 材料
 
-    **目标** 1 object of up to 1 cubic ft./level 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** 1 object of up to 1 cubic ft./level 
 
-    **持续时间** 1 minute/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates (object)
+**持续时间** 1 minute/level 
 
-    **法术抗力** 是
+**豁免** Will negates (object)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The target's weight decreases by half. If this spell is cast on armor, the armor's armor check penalty decreases by 1, though its categorization as light, medium, or heavy does not change.
+## 📖 描述
+
+The target's weight decreases by half. If this spell is cast on armor, the armor's armor check penalty decreases by 1, though its categorization as light, medium, or heavy does not change.
     

@@ -1,45 +1,46 @@
 
-    ---
-    title: Summon elemental steed
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 召唤, see text, 德鲁伊法术, 9环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Summon elemental steed
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 召唤, see text, 德鲁伊法术, 9环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Summon elemental steed** *Summon elemental steed*
+---
 
-    **学派** 咒法系 (召唤) \[see text\] 
+# **Summon elemental steed** *Summon elemental steed*
 
-    **环位** 德鲁伊 9
+**学派** 咒法系 (召唤) \[see text\] 
 
-    ## 🪄 施放
+**环位** 德鲁伊 9
 
-    **施法时间** 10 分钟
+## 🪄 施放
 
-    **成分** 语言, 姿势, 圣徽
+**施法时间** 10 分钟
 
-    ## ✨ 效果  
+**成分** 语言, 姿势, 圣徽
 
-    **距离** 近距 (25尺+5尺/2等级) 
+## ✨ 效果  
 
-    **效果** one chariot 
+**距离** 近距 (25尺+5尺/2等级) 
 
-    **持续时间** 10 minutes/level 
+**效果** one chariot 
 
-    **法术抗力** 否
+**持续时间** 10 minutes/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You summon a greater elemental (air, earth, fire, or water) bound in the form of a mighty chariot that moves at your command and can carry up to nine Medium creatures.
+## 📖 描述
 
-    Passengers inside are not harmed by the elemental, and can see, breathe, and act normally, suffering no environmental damage even when the elemental chariot is flying, underwater, burrowing, or using earth glide. Passengers are not otherwise protected, though the elemental chariot does provide cover like a normal chariot.
+You summon a greater elemental (air, earth, fire, or water) bound in the form of a mighty chariot that moves at your command and can carry up to nine Medium creatures.
 
-    The elemental keeps all of its statistics and abilities, except it loses its slam attacks and gains a trample attack (Pathfinder RPG Bestiary 305).
+Passengers inside are not harmed by the elemental, and can see, breathe, and act normally, suffering no environmental damage even when the elemental chariot is flying, underwater, burrowing, or using earth glide. Passengers are not otherwise protected, though the elemental chariot does provide cover like a normal chariot.
 
-    When you use a summoning spell to summon an air, earth, fire, or water creature, it is a spell of that type.
+The elemental keeps all of its statistics and abilities, except it loses its slam attacks and gains a trample attack (Pathfinder RPG Bestiary 305).
 
-    This spell is almost exclusively used by the Green Faith.
+When you use a summoning spell to summon an air, earth, fire, or water creature, it is a spell of that type.
+
+This spell is almost exclusively used by the Green Faith.
     

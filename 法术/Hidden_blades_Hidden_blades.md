@@ -1,39 +1,40 @@
 
-    ---
-    title: Hidden blades
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 幻术系, 五官幻觉, 术士/法师法术, 2环法术, 吟游诗人法术, 炼金术师法术, 召唤师法术, 审判者法术, 反圣武士法术, 魔战士法术, unchained 召唤师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Hidden blades
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 幻术系, 五官幻觉, 术士/法师法术, 2环法术, 吟游诗人法术, 炼金术师法术, 召唤师法术, 审判者法术, 反圣武士法术, 魔战士法术, unchained 召唤师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Hidden blades** *Hidden blades*
+---
 
-    **学派** 幻术系 (五官幻觉) 
+# **Hidden blades** *Hidden blades*
 
-    **环位** 术士/法师 2, 吟游诗人 2, 炼金术师 2, 召唤师 2, 审判者 2, 反圣武士 2, 魔战士 2, unchained 召唤师 2
+**学派** 幻术系 (五官幻觉) 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 吟游诗人 2, 炼金术师 2, 召唤师 2, 审判者 2, 反圣武士 2, 魔战士 2, unchained 召唤师 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** weapon or ammunition touched; see text 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** weapon or ammunition touched; see text 
 
-    **持续时间** 10 minutes/level 
+**距离** 接触  
 
-    **豁免** Will negates (harmless, object)
+**持续时间** 10 minutes/level 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless, object)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You render a target weapon or up to 50 pieces of ammunition invisible, granting the wielder a +20 bonus on Sleight of Hand checks made to conceal the weapon or ammunition and a +5 circumstance bonus on Bluff checks to feint with the weapon or ammunition.
+## 📖 描述
+
+You render a target weapon or up to 50 pieces of ammunition invisible, granting the wielder a +20 bonus on Sleight of Hand checks made to conceal the weapon or ammunition and a +5 circumstance bonus on Bluff checks to feint with the weapon or ammunition.
     

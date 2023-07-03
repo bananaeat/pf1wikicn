@@ -1,37 +1,38 @@
 
-    ---
-    title: Steam ray fusillade
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, fire, water, 术士/法师法术, 7环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Steam ray fusillade
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, fire, water, 术士/法师法术, 7环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Steam ray fusillade** *Steam ray fusillade*
+---
 
-    **学派** 塑能系 \[fire, water\] 
+# **Steam ray fusillade** *Steam ray fusillade*
 
-    **环位** 术士/法师 7
+**学派** 塑能系 \[fire, water\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 7
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    For the duration of the spell, you can fire three rays of steam once per round as a standard action (and you also fire three such rays as part of casting the spell). These rays function similarly to the rays from scorching ray (you can fire them at close range, they're ranged touch attacks, they deal 4d6 points of fire damage each, and spell resistance negates  them) except that they work both underwater and above water without a caster level check for being a fire spell.
+## 📖 描述
+
+For the duration of the spell, you can fire three rays of steam once per round as a standard action (and you also fire three such rays as part of casting the spell). These rays function similarly to the rays from scorching ray (you can fire them at close range, they're ranged touch attacks, they deal 4d6 points of fire damage each, and spell resistance negates  them) except that they work both underwater and above water without a caster level check for being a fire spell.
     

@@ -1,39 +1,40 @@
 
-    ---
-    title: Tactical miscalculation
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 游侠法术, 2环法术, 吟游诗人法术, 审判者法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Tactical miscalculation
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 游侠法术, 2环法术, 吟游诗人法术, 审判者法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Tactical miscalculation** *Tactical miscalculation*
+---
 
-    **学派** 惑控系 (胁迫) \[emotion, mind-affecting\] 
+# **Tactical miscalculation** *Tactical miscalculation*
 
-    **环位** 游侠 2, 吟游诗人 2, 审判者 2, 猎人 2
+**学派** 惑控系 (胁迫) \[emotion, mind-affecting\] 
 
-    ## 🪄 施放
+**环位** 游侠 2, 吟游诗人 2, 审判者 2, 猎人 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature 
 
-    **持续时间** 1 round/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** see text
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** see text
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The target becomes fixated on avoiding damage and fails to spot even the most opportune moments to attack. Whenever a creature the target threatens would provoke an attack of opportunity from the target, the target must succeed at a Will save or be unable to make the attack of opportunity against that creature.
+## 📖 描述
+
+The target becomes fixated on avoiding damage and fails to spot even the most opportune moments to attack. Whenever a creature the target threatens would provoke an attack of opportunity from the target, the target must succeed at a Will save or be unable to make the attack of opportunity against that creature.
     

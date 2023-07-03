@@ -1,37 +1,38 @@
 
-    ---
-    title: Angelic aspect, lesser
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 善良, 术士/法师法术, 2环法术, 牧师/先知法术, 圣武士法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Angelic aspect, lesser
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 善良, 术士/法师法术, 2环法术, 牧师/先知法术, 圣武士法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Angelic aspect, lesser** *Angelic aspect, lesser*
+---
 
-    **学派** 变化系 \[善良\] 
+# **Angelic aspect, lesser** *Angelic aspect, lesser*
 
-    **环位** 术士/法师 2, 牧师/先知 2, 圣武士 2
+**学派** 变化系 \[善良\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 牧师/先知 2, 圣武士 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level (D) 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level (D) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You take on an aspect of an angelic being, including some of its physical characteristics. You gain low-light vision, resistance to acid 5, resistance to cold 5, and the benefits of Protection from Evil.
+## 📖 描述
+
+You take on an aspect of an angelic being, including some of its physical characteristics. You gain low-light vision, resistance to acid 5, resistance to cold 5, and the benefits of Protection from Evil.
     

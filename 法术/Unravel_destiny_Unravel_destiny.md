@@ -1,37 +1,38 @@
 
-    ---
-    title: Unravel destiny
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 术士/法师法术, 3环法术, 牧师/先知法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Unravel destiny
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 术士/法师法术, 3环法术, 牧师/先知法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Unravel destiny** *Unravel destiny*
+---
 
-    **学派** 预言系 
+# **Unravel destiny** *Unravel destiny*
 
-    **环位** 术士/法师 3, 牧师/先知 3, 女巫 3
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 术士/法师 3, 牧师/先知 3, 女巫 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势, 圣徽
 
-    **距离**   
+## ✨ 效果  
 
-    **持续时间** 1 round/level 
+**距离**   
 
-    **豁免** Will negates
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You utter a dire portent, causing destiny and fate to unravel around the target. This profoundly disturbing effect causes the target to suffer a cumulative -2 penalty on all ability checks, attack rolls, saving throws, and skill checks for every hero point it possesses. The target can reduce this penalty by spending hero points normally, but it takes 2d6 points of damage for each hero point spent while this spell is in effect.
+## 📖 描述
+
+You utter a dire portent, causing destiny and fate to unravel around the target. This profoundly disturbing effect causes the target to suffer a cumulative -2 penalty on all ability checks, attack rolls, saving throws, and skill checks for every hero point it possesses. The target can reduce this penalty by spending hero points normally, but it takes 2d6 points of damage for each hero point spent while this spell is in effect.
     

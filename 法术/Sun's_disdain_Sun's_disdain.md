@@ -1,39 +1,40 @@
 
-    ---
-    title: Sun's disdain
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 诅咒, 术士/法师法术, 2环法术, 牧师/先知法术, 女巫法术, 审判者法术, 血脉狂怒者法术, 萨满法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Sun's disdain
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 诅咒, 术士/法师法术, 2环法术, 牧师/先知法术, 女巫法术, 审判者法术, 血脉狂怒者法术, 萨满法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Sun's disdain** *Sun's disdain*
+---
 
-    **学派** 变化系 \[诅咒\] 
+# **Sun's disdain** *Sun's disdain*
 
-    **环位** 术士/法师 2, 牧师/先知 2, 女巫 2, 审判者 2, 血脉狂怒者 2, 萨满 2
+**学派** 变化系 \[诅咒\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 牧师/先知 2, 女巫 2, 审判者 2, 血脉狂怒者 2, 萨满 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** permanent 
+**距离** 接触  
 
-    **豁免** Will negates
+**持续时间** permanent 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You alter a creature so the touch of the sun is hostile to it. The cursed creature gains light blindness and is blinded for 1 round if exposed to bright light, such as sunlight or the daylight spell. The cursed creature is dazzled as long as it remains in areas of bright light, and it is treated as being particularly susceptible to sunlight for the purposes of resolving spells like searing light, sunbeam, and sunburst.
+## 📖 描述
+
+You alter a creature so the touch of the sun is hostile to it. The cursed creature gains light blindness and is blinded for 1 round if exposed to bright light, such as sunlight or the daylight spell. The cursed creature is dazzled as long as it remains in areas of bright light, and it is treated as being particularly susceptible to sunlight for the purposes of resolving spells like searing light, sunbeam, and sunburst.
     

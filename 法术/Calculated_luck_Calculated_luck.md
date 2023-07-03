@@ -1,47 +1,48 @@
 
-    ---
-    title: Calculated luck
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 牧师/先知法术, 3环法术, 女巫法术, 4环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Calculated luck
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 牧师/先知法术, 3环法术, 女巫法术, 4环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Calculated luck** *Calculated luck*
+---
 
-    **学派** 预言系 
+# **Calculated luck** *Calculated luck*
 
-    **环位** 牧师/先知 3, 女巫 4
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 牧师/先知 3, 女巫 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level (D) 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round/level (D) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You are able to use the Path of Numbers to substantially boost your combat preparedness, but your foresight comes at a price.
+## 📖 描述
 
-    Roll 3d8 and refer to the Eight Basic Energies table on page 51.
+You are able to use the Path of Numbers to substantially boost your combat preparedness, but your foresight comes at a price.
 
-    After rolling ,assign each die to one of the following.
+Roll 3d8 and refer to the Eight Basic Energies table on page 51.
 
-     Energy Type: You gain vulnerability to the energy type that matches the die's result for the duration of the spell. You take half again as much damage (+50%) from that energy type, regardless of whether you successfully saved against the damaging spell or effect.
+After rolling ,assign each die to one of the following.
 
-     Magic School: For the spell's duration, you cast all spells from the school that matches the die's result at +1 caster level.
+ Energy Type: You gain vulnerability to the energy type that matches the die's result for the duration of the spell. You take half again as much damage (+50%) from that energy type, regardless of whether you successfully saved against the damaging spell or effect.
 
-     d20 Roll Type: You receive a +2 luck bonus on the d20 roll that matches the die's result for the duration of the spell.
+ Magic School: For the spell's duration, you cast all spells from the school that matches the die's result at +1 caster level.
+
+ d20 Roll Type: You receive a +2 luck bonus on the d20 roll that matches the die's result for the duration of the spell.
     

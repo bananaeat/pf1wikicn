@@ -1,37 +1,38 @@
 
-    ---
-    title: Naga shape ii
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 变形, 术士/法师法术, 5环法术, 炼金术师法术, 魔战士法术, 血脉狂怒者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Naga shape ii
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 变形, 术士/法师法术, 5环法术, 炼金术师法术, 魔战士法术, 血脉狂怒者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Naga shape ii** *Naga shape ii*
+---
 
-    **学派** 变化系 (变形) 
+# **Naga shape ii** *Naga shape ii*
 
-    **环位** 术士/法师 5, 炼金术师 5, 魔战士 5, 血脉狂怒者 5
+**学派** 变化系 (变形) 
 
-    ## 🪄 施放
+**环位** 术士/法师 5, 炼金术师 5, 魔战士 5, 血脉狂怒者 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level (D) 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level (D) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    This spell functions as naga shape I. Additionally, if the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, blindsense 30 feet, darkvision 60 feet, low-light vision, compression, constrict, detect thoughts, dreamsight, grab, hypnosis, poison, sneak attack +2d6, and spit.
+## 📖 描述
+
+This spell functions as naga shape I. Additionally, if the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, blindsense 30 feet, darkvision 60 feet, low-light vision, compression, constrict, detect thoughts, dreamsight, grab, hypnosis, poison, sneak attack +2d6, and spit.
     

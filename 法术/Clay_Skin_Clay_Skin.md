@@ -1,39 +1,40 @@
 
-    ---
-    title: Clay Skin
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 炼金术士法术, 3环法术, 奥能师法术, 血脉狂怒者法术, 审判者法术, 调查员法术, 魔战士法术, 法师/术士法术, 召唤师法术, unchained Summoner法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Clay Skin
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 炼金术士法术, 3环法术, 奥能师法术, 血脉狂怒者法术, 审判者法术, 调查员法术, 魔战士法术, 法师/术士法术, 召唤师法术, unchained Summoner法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Clay Skin** *Clay Skin*
+---
 
-    **学派** 防护系 
+# **Clay Skin** *Clay Skin*
 
-    **环位** alchemist 3, arcanist 3, bloodrager 3, inquisitor 3, investigator 3, magus 3, sorcerer/wizard 3, summoner 3, unchained Summoner 3
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** alchemist 3, arcanist 3, bloodrager 3, inquisitor 3, investigator 3, magus 3, sorcerer/wizard 3, summoner 3, unchained Summoner 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 10 minutes/level or until discharged 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 10 minutes/level or until discharged 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The target&rsquo;s skin becomes as thick and tough as clay, granting the target DR 5/adamantine. Once the spell has prevented a total of 5 points of damage per caster level (maximum 50 points), it is discharged and the spell ends.
+## 📖 描述
+
+The target&rsquo;s skin becomes as thick and tough as clay, granting the target DR 5/adamantine. Once the spell has prevented a total of 5 points of damage per caster level (maximum 50 points), it is discharged and the spell ends.
     

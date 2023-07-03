@@ -1,39 +1,40 @@
 
-    ---
-    title: Drench
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 创造, 水, 术士/法师法术, 戏法/祷念
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Drench
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 创造, 水, 术士/法师法术, 戏法/祷念
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Drench** *Drench*
+---
 
-    **学派** 咒法系 (创造) \[水\] 
+# **Drench** *Drench*
 
-    **环位** 术士/法师 0
+**学派** 咒法系 (创造) \[水\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 0
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one creature or object of size Large or smaller 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature or object of size Large or smaller 
 
-    **持续时间** 1 round 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Reflex negates (object)
+**持续时间** 1 round 
 
-    **法术抗力** 是
+**豁免** Reflex negates (object)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    A sudden downpour soaks the target creature or object. The rain follows the subject up to the range of the spell, soaking the target with water. If the target is on fire, the flames are automatically extinguished. Fires smaller than campfires (such as lanterns and torches) are automatically extinguished by this spell.
+## 📖 描述
+
+A sudden downpour soaks the target creature or object. The rain follows the subject up to the range of the spell, soaking the target with water. If the target is on fire, the flames are automatically extinguished. Fires smaller than campfires (such as lanterns and torches) are automatically extinguished by this spell.
     

@@ -1,41 +1,42 @@
 
-    ---
-    title: 机体破坏
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 6环法术, 德鲁伊法术, 5环法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 机体破坏
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 6环法术, 德鲁伊法术, 5环法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **机体破坏** *Destroy robot*
+---
 
-    **学派** 变化系 
+# **机体破坏** *Destroy robot*
 
-    **环位** 术士/法师 6, 德鲁伊 5, 猎人 5
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 6, 德鲁伊 5, 猎人 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one robot (see below) 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one robot (see below) 
 
-    **持续时间** 立即 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Fortitude partial
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Fortitude partial
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You attempt to destroy any one robot in range. When you cast this spell, your hand crackles with electricity. You must succeed at a ranged touch attack to affect the target.
+## 📖 描述
 
-    The target takes 12d6 points of damage + 1 point per caster level, or 3d6 points of damage + 1 point per caster level on a successful saving throw. A cyborg or android can be damaged by this spell, but takes half damage and gains a +4 bonus on the saving throw to resist the spell's effects.
+You attempt to destroy any one robot in range. When you cast this spell, your hand crackles with electricity. You must succeed at a ranged touch attack to affect the target.
+
+The target takes 12d6 points of damage + 1 point per caster level, or 3d6 points of damage + 1 point per caster level on a successful saving throw. A cyborg or android can be damaged by this spell, but takes half damage and gains a +4 bonus on the saving throw to resist the spell's effects.
     

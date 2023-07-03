@@ -1,39 +1,40 @@
 
-    ---
-    title: Telepathic censure
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 吟游诗人法术, 2环法术, 审判者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Telepathic censure
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 吟游诗人法术, 2环法术, 审判者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Telepathic censure** *Telepathic censure*
+---
 
-    **学派** 防护系 
+# **Telepathic censure** *Telepathic censure*
 
-    **环位** 吟游诗人 2, 审判者 2
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 吟游诗人 2, 审判者 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言
 
-    **目标** one creature (see text) 
+## ✨ 效果 
 
-    **距离** 中距 (100尺+10尺/等级)  
+**目标** one creature (see text) 
 
-    **持续时间** 1 minute/level (D) 
+**距离** 中距 (100尺+10尺/等级)  
 
-    **豁免** Will negates
+**持续时间** 1 minute/level (D) 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell creates an invisible psychic interference that inhibits telepathic communication. When cast upon a creature that can communicate via telepathy, this spell prevents that ability's use- either to receive or project thoughts. When cast upon a creature without telepathy, the spell merely prevents the target from receiving telepathic communication. Those affected by this spell or that attempt to telepathically communicate with creatures under its effects are not innately aware that their communication is being inhibited. This spell temporarily disrupts spells and effects like telepathic bond or telepathic messages sent by a helm of telepathy, but not attacks and effects unrelated to communication like detect thoughts or a neothelid's psychic crush.
+## 📖 描述
+
+This spell creates an invisible psychic interference that inhibits telepathic communication. When cast upon a creature that can communicate via telepathy, this spell prevents that ability's use- either to receive or project thoughts. When cast upon a creature without telepathy, the spell merely prevents the target from receiving telepathic communication. Those affected by this spell or that attempt to telepathically communicate with creatures under its effects are not innately aware that their communication is being inhibited. This spell temporarily disrupts spells and effects like telepathic bond or telepathic messages sent by a helm of telepathy, but not attacks and effects unrelated to communication like detect thoughts or a neothelid's psychic crush.
     

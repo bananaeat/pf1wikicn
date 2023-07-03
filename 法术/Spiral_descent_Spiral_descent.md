@@ -1,39 +1,40 @@
 
-    ---
-    title: Spiral descent
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 传送, 牧师/先知法术, 2环法术, 审判者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Spiral descent
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 传送, 牧师/先知法术, 2环法术, 审判者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Spiral descent** *Spiral descent*
+---
 
-    **学派** 咒法系 (传送) 
+# **Spiral descent** *Spiral descent*
 
-    **环位** 牧师/先知 2, 审判者 2
+**学派** 咒法系 (传送) 
 
-    ## 🪄 施放
+**环位** 牧师/先知 2, 审判者 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** you and touched objects 
+## ✨ 效果 
 
-    **距离** 远距 (400尺+40尺/等级)  
+**目标** you and touched objects 
 
-    **持续时间** 立即 
+**距离** 远距 (400尺+40尺/等级)  
 
-    **豁免** Will negates (object)
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Will negates (object)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell functions as spiral ascent, except the destination and direction of travel is downward from your current location.
+## 📖 描述
+
+This spell functions as spiral ascent, except the destination and direction of travel is downward from your current location.
     

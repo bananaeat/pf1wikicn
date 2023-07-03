@@ -1,39 +1,40 @@
 
-    ---
-    title: Heroic fortune
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 牧师/先知法术, 2环法术, 吟游诗人法术, 圣武士法术, 3环法术, 炼金术师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Heroic fortune
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 牧师/先知法术, 2环法术, 吟游诗人法术, 圣武士法术, 3环法术, 炼金术师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Heroic fortune** *Heroic fortune*
+---
 
-    **学派** 塑能系 
+# **Heroic fortune** *Heroic fortune*
 
-    **环位** 牧师/先知 2, 吟游诗人 2, 圣武士 3, 炼金术师 2
+**学派** 塑能系 
 
-    ## 🪄 施放
+**环位** 牧师/先知 2, 吟游诗人 2, 圣武士 3, 炼金术师 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料, 圣徽
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 1 round/level 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 1 round/level 
 
-    **法术抗力** 否
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 否
 
-    This spell grants 1 hero point to the target. This hero point must be spent before the duration expires, or it is lost. The bonus hero point is spent before any other hero points the target might possess.
+## 📖 描述
+
+This spell grants 1 hero point to the target. This hero point must be spent before the duration expires, or it is lost. The bonus hero point is spent before any other hero points the target might possess.
     

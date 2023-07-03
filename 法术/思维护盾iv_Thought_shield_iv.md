@@ -1,37 +1,38 @@
 
-    ---
-    title: 思维护盾iv
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 异能者法术, 5环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 思维护盾iv
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 异能者法术, 5环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **思维护盾iv** *Thought shield iv*
+---
 
-    **学派** 防护系 
+# **思维护盾iv** *Thought shield iv*
 
-    **环位** 异能者 5
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 异能者 5
 
-    **施法时间** 1 immediate
+## 🪄 施放
 
-    **成分** 语言
+**施法时间** 1 immediate
 
-    ## ✨ 效果 
+**成分** 语言
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    This functions as thought shield III, but any creature that tries to read your thoughts while this spell lasts must succeed at a Will save or be stunned for 1d4 rounds. Additionally, if you succeed at your save against a psychic crush spell, you take no damage. This spell can be undercast.
+## 📖 描述
+
+This functions as thought shield III, but any creature that tries to read your thoughts while this spell lasts must succeed at a Will save or be stunned for 1d4 rounds. Additionally, if you succeed at your save against a psychic crush spell, you take no damage. This spell can be undercast.
     

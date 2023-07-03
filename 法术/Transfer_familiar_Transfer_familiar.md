@@ -1,37 +1,38 @@
 
-    ---
-    title: Transfer familiar
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 术士/法师法术, 6环法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Transfer familiar
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 术士/法师法术, 6环法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Transfer familiar** *Transfer familiar*
+---
 
-    **学派** 塑能系 
+# **Transfer familiar** *Transfer familiar*
 
-    **环位** 术士/法师 6, 女巫 6
+**学派** 塑能系 
 
-    ## 🪄 施放
+**环位** 术士/法师 6, 女巫 6
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** your familiar and one willing creature 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** your familiar and one willing creature 
 
-    **持续时间** 1 day/level (D) 
+**距离** 接触  
 
-    **法术抗力** 否
+**持续时间** 1 day/level (D) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You temporarily grant control of your familiar to another willing creature. You, your familiar, and the target creature must all be touching each other when you cast this spell. The target gains all the benefits and abilities normally associated with having a familiar, including the ability to share spells, speak with the familiar, and so on. You lose all of these benefits for the duration of the spell. If the target already has a familiar, the spell fails.
+## 📖 描述
+
+You temporarily grant control of your familiar to another willing creature. You, your familiar, and the target creature must all be touching each other when you cast this spell. The target gains all the benefits and abilities normally associated with having a familiar, including the ability to share spells, speak with the familiar, and so on. You lose all of these benefits for the duration of the spell. If the target already has a familiar, the spell fails.
     

@@ -1,39 +1,40 @@
 
-    ---
-    title: 心灵戳刺iv
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 异能者法术, 4环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 心灵戳刺iv
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 异能者法术, 4环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **心灵戳刺iv** *Mind thrust iv*
+---
 
-    **学派** 预言系 
+# **心灵戳刺iv** *Mind thrust iv*
 
-    **环位** 异能者 4
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 异能者 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 姿势
 
-    **目标** one creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature 
 
-    **持续时间** 立即 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will half
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Will half
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This functions as mind thrust I, but the target takes 1d8 points of damage per caster level (maximum 15d8) and is fatigued for 1 round if it fails its save. This spell can be undercast.
+## 📖 描述
+
+This functions as mind thrust I, but the target takes 1d8 points of damage per caster level (maximum 15d8) and is fatigued for 1 round if it fails its save. This spell can be undercast.
     

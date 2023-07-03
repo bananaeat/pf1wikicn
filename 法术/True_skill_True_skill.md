@@ -1,37 +1,38 @@
 
-    ---
-    title: True skill
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 术士/法师法术, 1环法术, 吟游诗人法术, 炼金术师法术, 魔战士法术, 异能者法术, 通灵者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: True skill
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 术士/法师法术, 1环法术, 吟游诗人法术, 炼金术师法术, 魔战士法术, 异能者法术, 通灵者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **True skill** *True skill*
+---
 
-    **学派** 预言系 
+# **True skill** *True skill*
 
-    **环位** 术士/法师 1, 吟游诗人 1, 炼金术师 1, 魔战士 1, 异能者 1, 通灵者 1
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 吟游诗人 1, 炼金术师 1, 魔战士 1, 异能者 1, 通灵者 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    When faced with an important situation, you grant yourself a magical edge to ensure your success. When casting this spell, select one skill for which you can attempt a skill check. The next time you attempt a skill check using the selected skill (before the spell's duration ends), you gain an insight bonus on the check equal to 1/2 your caster level (minimum 1).
+## 📖 描述
+
+When faced with an important situation, you grant yourself a magical edge to ensure your success. When casting this spell, select one skill for which you can attempt a skill check. The next time you attempt a skill check using the selected skill (before the spell's duration ends), you gain an insight bonus on the check equal to 1/2 your caster level (minimum 1).
     

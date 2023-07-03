@@ -1,47 +1,48 @@
 
-    ---
-    title: 血肉变质
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 变形, 术士/法师法术, 2环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 血肉变质
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 变形, 术士/法师法术, 2环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **血肉变质** *Fleshcurdle*
+---
 
-    **学派** 变化系 (变形) 
+# **血肉变质** *Fleshcurdle*
 
-    **环位** 术士/法师 2
+**学派** 变化系 (变形) 
 
-    ## 🪄 施放
+**环位** 术士/法师 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** one living or undead creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one living or undead creature 
 
-    **持续时间** 1 round/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Fortitude negates
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Fortitude negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You warp the target creature's flesh, discoloring it and causing it to become misshapen and impairing its function. When you cast this spell, you must choose one of three types of effects to inflict on the target-movement, attacks, or defense.
+## 📖 描述
 
-    Attacks: One of the creature's natural attacks takes a -2 penalty on attack and damage rolls, only scores a critical hit on a natural 20, and only deals x2 damage on a confirmed critical hit.
+You warp the target creature's flesh, discoloring it and causing it to become misshapen and impairing its function. When you cast this spell, you must choose one of three types of effects to inflict on the target-movement, attacks, or defense.
 
-    Defense: The creature's natural armor bonus decreases by -4, to a minimum bonus of +0.
+Attacks: One of the creature's natural attacks takes a -2 penalty on attack and damage rolls, only scores a critical hit on a natural 20, and only deals x2 damage on a confirmed critical hit.
 
-    Movement: One of the creature's movement speeds (chosen by you) is halved.
+Defense: The creature's natural armor bonus decreases by -4, to a minimum bonus of +0.
 
-    Most undead are susceptible to fleshcurdle, but amorphous creatures and creatures without flesh are immune (such as elementals, oozes, plants, gaseous or incorporeal creatures, and skeletons).
+Movement: One of the creature's movement speeds (chosen by you) is halved.
+
+Most undead are susceptible to fleshcurdle, but amorphous creatures and creatures without flesh are immune (such as elementals, oozes, plants, gaseous or incorporeal creatures, and skeletons).
     

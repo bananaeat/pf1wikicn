@@ -1,39 +1,40 @@
 
-    ---
-    title: Bestow planar infusion i
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 术士/法师法术, 1环法术, 牧师/先知法术, 召唤师法术, 女巫法术, 审判者法术, 魔战士法术, 异能者法术, 通灵者法术, 秘学士法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Bestow planar infusion i
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 术士/法师法术, 1环法术, 牧师/先知法术, 召唤师法术, 女巫法术, 审判者法术, 魔战士法术, 异能者法术, 通灵者法术, 秘学士法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Bestow planar infusion i** *Bestow planar infusion i*
+---
 
-    **学派** 塑能系 
+# **Bestow planar infusion i** *Bestow planar infusion i*
 
-    **环位** 术士/法师 1, 牧师/先知 1, 召唤师 1, 女巫 1, 审判者 1, 魔战士 1, 异能者 1, 通灵者 1, 秘学士 1
+**学派** 塑能系 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 牧师/先知 1, 召唤师 1, 女巫 1, 审判者 1, 魔战士 1, 异能者 1, 通灵者 1, 秘学士 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 1 hour/level 
+**距离** 接触  
 
-    **豁免** Fortitude negates (harmless)
+**持续时间** 1 hour/level 
 
-    **法术抗力** 是
+**豁免** Fortitude negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell draws upon the latent planar energy of the caster's surroundings, allowing her to temporarily infuse a creature with the plane's power. The touched creature gains that plane's basic infusion for the spell's duration. This spell has no effect if cast on the Material Plane, and it ends as soon as the spell's target leaves the plane with which it has been infused. Details on planar infusions can be found in each plane's Infusion section, as presented in Chapter 3 of this book.  Once a creature gains the benefits of bestow planar infusion I, it remains attuned to that plane for 24 hours. Additional castings of bestow planar infusion I during this time bestow the same infusion that was granted by the initial casting that day. Planar infusions that can be used a limited number of times per day are not refreshed by multiple castings of bestow planar infusion I.
+## 📖 描述
+
+This spell draws upon the latent planar energy of the caster's surroundings, allowing her to temporarily infuse a creature with the plane's power. The touched creature gains that plane's basic infusion for the spell's duration. This spell has no effect if cast on the Material Plane, and it ends as soon as the spell's target leaves the plane with which it has been infused. Details on planar infusions can be found in each plane's Infusion section, as presented in Chapter 3 of this book.  Once a creature gains the benefits of bestow planar infusion I, it remains attuned to that plane for 24 hours. Additional castings of bestow planar infusion I during this time bestow the same infusion that was granted by the initial casting that day. Planar infusions that can be used a limited number of times per day are not refreshed by multiple castings of bestow planar infusion I.
     

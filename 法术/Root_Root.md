@@ -1,39 +1,40 @@
 
-    ---
-    title: Root
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 土, 术士/法师法术, 戏法/祷念
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Root
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 土, 术士/法师法术, 戏法/祷念
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Root** *Root*
+---
 
-    **学派** 变化系 \[土\] 
+# **Root** *Root*
 
-    **环位** 术士/法师 0
+**学派** 变化系 \[土\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 0
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 1 minute (D) 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 1 minute (D) 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell strengthens the subject's connection to the ground below, bolstering its defense against combat maneuvers. It gains a +2 insight bonus to its CMD to resist being moved or tripped and a +2 competence bonus on all Acrobatics checks made to balance or remain standing on earth, sand, stone, or a similar rocky substance.
+## 📖 描述
+
+This spell strengthens the subject's connection to the ground below, bolstering its defense against combat maneuvers. It gains a +2 insight bonus to its CMD to resist being moved or tripped and a +2 competence bonus on all Acrobatics checks made to balance or remain standing on earth, sand, stone, or a similar rocky substance.
     

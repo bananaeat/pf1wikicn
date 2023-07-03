@@ -1,37 +1,38 @@
 
-    ---
-    title: Subjective reality
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 幻术系, 魅影幻觉, 影响心灵, 术士/法师法术, 7环法术, 吟游诗人法术, 6环法术, 异能者法术, 通灵者法术, 5环法术, 催眠师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Subjective reality
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 幻术系, 魅影幻觉, 影响心灵, 术士/法师法术, 7环法术, 吟游诗人法术, 6环法术, 异能者法术, 通灵者法术, 5环法术, 催眠师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Subjective reality** *Subjective reality*
+---
 
-    **学派** 幻术系 (魅影幻觉) \[影响心灵\] 
+# **Subjective reality** *Subjective reality*
 
-    **环位** 术士/法师 7, 吟游诗人 6, 异能者 6, 通灵者 5, 催眠师 5
+**学派** 幻术系 (魅影幻觉) \[影响心灵\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 7, 吟游诗人 6, 异能者 6, 通灵者 5, 催眠师 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level (D) 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round/level (D) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    Choose one object, creature, or force you can see within long range (400 ft. + 40 ft./level). You alter your perceptions to become convinced the target is an illusion. For you, the target becomes transparent and does not create sound or smell. Until the spell ends, you can move through the target unimpeded and the target can move through you. The target's nonmagical attacks cannot harm you, and the target's magical attacks deal half damage to you. The target's non-damaging magical abilities have a 50% chance not to affect you, and you are immune to all its sonic, language-dependent, and scent-based attacks. However, your attacks deal no damage to the target, and your magical abilities do not affect the target at all. You or the target can affect each other normally through intermediaries. For instance, while the target would be immune to the direct effects of your earthquake spell, if the spell caused a room's ceiling to collapse, the target would not be immune to the effects of the collapse.
+## 📖 描述
+
+Choose one object, creature, or force you can see within long range (400 ft. + 40 ft./level). You alter your perceptions to become convinced the target is an illusion. For you, the target becomes transparent and does not create sound or smell. Until the spell ends, you can move through the target unimpeded and the target can move through you. The target's nonmagical attacks cannot harm you, and the target's magical attacks deal half damage to you. The target's non-damaging magical abilities have a 50% chance not to affect you, and you are immune to all its sonic, language-dependent, and scent-based attacks. However, your attacks deal no damage to the target, and your magical abilities do not affect the target at all. You or the target can affect each other normally through intermediaries. For instance, while the target would be immune to the direct effects of your earthquake spell, if the spell caused a room's ceiling to collapse, the target would not be immune to the effects of the collapse.
     

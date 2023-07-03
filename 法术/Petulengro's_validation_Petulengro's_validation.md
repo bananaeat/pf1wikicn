@@ -1,37 +1,38 @@
 
-    ---
-    title: Petulengro's validation
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 术士/法师法术, 1环法术, 炼金术师法术, 审判者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Petulengro's validation
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 术士/法师法术, 1环法术, 炼金术师法术, 审判者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Petulengro's validation** *Petulengro's validation*
+---
 
-    **学派** 预言系 
+# **Petulengro's validation** *Petulengro's validation*
 
-    **环位** 术士/法师 1, 炼金术师 1, 审判者 1
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 炼金术师 1, 审判者 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 立即 
+**距离** 接触  
 
-    **法术抗力** 是
+**持续时间** 立即 
 
-    ## 📖 描述
+**法术抗力** 是
 
-    After a particularly harrowing brush with death at the hands of doppelgangers, Venture-Captain Eliza Petulengro devised a means of being sure her companions were actually who they appeared to be. To cast this spell, you must have a bit of hair, a fingernail clipping, or some other portion of a creature. The sample must be no more than 1 week old per caster level. As part of casting, you touch the target creature, and instantly know whether the target is the same creature the sample is from. Note that if you wish to be discrete, you can cast the spell away from the target and hold the charge before touching the creature, so that the casting is not noticed. You can also use this spell to divine whether a dead body, or even partial remains from a body, belonged to the same person whose fingernail clipping or bit of hair you used when casting the spell.
+## 📖 描述
+
+After a particularly harrowing brush with death at the hands of doppelgangers, Venture-Captain Eliza Petulengro devised a means of being sure her companions were actually who they appeared to be. To cast this spell, you must have a bit of hair, a fingernail clipping, or some other portion of a creature. The sample must be no more than 1 week old per caster level. As part of casting, you touch the target creature, and instantly know whether the target is the same creature the sample is from. Note that if you wish to be discrete, you can cast the spell away from the target and hold the charge before touching the creature, so that the casting is not noticed. You can also use this spell to divine whether a dead body, or even partial remains from a body, belonged to the same person whose fingernail clipping or bit of hair you used when casting the spell.
     

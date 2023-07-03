@@ -1,37 +1,38 @@
 
-    ---
-    title: Insect spies, greater
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 术士/法师法术, 7环法术, 德鲁伊法术, 6环法术, 召唤师法术, 女巫法术, 猎人法术, unchained 召唤师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Insect spies, greater
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 术士/法师法术, 7环法术, 德鲁伊法术, 6环法术, 召唤师法术, 女巫法术, 猎人法术, unchained 召唤师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Insect spies, greater** *Insect spies, greater*
+---
 
-    **学派** 预言系 
+# **Insect spies, greater** *Insect spies, greater*
 
-    **环位** 术士/法师 7, 德鲁伊 6, 召唤师 6, 女巫 7, 猎人 6, unchained 召唤师 6
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 术士/法师 7, 德鲁伊 6, 召唤师 6, 女巫 7, 猎人 6, unchained 召唤师 6
 
-    **施法时间** 1 轮
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 轮
 
-    ## ✨ 效果  
+**成分** 语言, 姿势, 材料
 
-    **距离** 近距 (25尺+5尺/2等级) 
+## ✨ 效果  
 
-    **效果** up to one insect spy/4 levels 
+**距离** 近距 (25尺+5尺/2等级) 
 
-    **持续时间** 10 minutes/level (D) 
+**效果** up to one insect spy/4 levels 
 
-    **法术抗力** 否
+**持续时间** 10 minutes/level (D) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    As @Compendium[pf1.spells.25bv1s6jwr8imm1o]{Insect Spies}, but you can also borrow the senses of the summoned insects. As a move action, you can choose to receive sensory input from one of the insects, seeing what it sees and hearing what it hears. While doing so, you are treated as being blind and deaf. You can change to another insect, or return to your own senses, with another move action.
+## 📖 描述
+
+As @Compendium[pf1.spells.25bv1s6jwr8imm1o]{Insect Spies}, but you can also borrow the senses of the summoned insects. As a move action, you can choose to receive sensory input from one of the insects, seeing what it sees and hearing what it hears. While doing so, you are treated as being blind and deaf. You can change to another insect, or return to your own senses, with another move action.
     

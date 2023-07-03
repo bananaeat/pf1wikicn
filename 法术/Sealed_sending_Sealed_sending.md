@@ -1,39 +1,40 @@
 
-    ---
-    title: Sealed sending
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 创造, 依赖语言, 术士/法师法术, 5环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Sealed sending
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 创造, 依赖语言, 术士/法师法术, 5环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Sealed sending** *Sealed sending*
+---
 
-    **学派** 咒法系 (创造) \[依赖语言\] 
+# **Sealed sending** *Sealed sending*
 
-    **环位** 术士/法师 5
+**学派** 咒法系 (创造) \[依赖语言\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势
 
-    **距离**  
+## ✨ 效果  
 
-    **效果** one nonmagical parchment with a written message 
+**距离**  
 
-    **持续时间** 1 hour/level or until discharged 
+**效果** one nonmagical parchment with a written message 
 
-    **豁免** none (harmless)
+**持续时间** 1 hour/level or until discharged 
 
-    **法术抗力** 否
+**豁免** none (harmless)
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You create a scroll bearing a message in any language you can speak, with a maximum length of 50 words. The scroll magically appears anywhere you have viewed at least once on the same plane of existence you are on now. When the spell ends or when the message has been read completely, the scroll disintegrates, leaving no trace. This spell cannot be detected, traced, or blocked by any spell of a lower level.
+## 📖 描述
+
+You create a scroll bearing a message in any language you can speak, with a maximum length of 50 words. The scroll magically appears anywhere you have viewed at least once on the same plane of existence you are on now. When the spell ends or when the message has been read completely, the scroll disintegrates, leaving no trace. This spell cannot be detected, traced, or blocked by any spell of a lower level.
     

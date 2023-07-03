@@ -1,39 +1,40 @@
 
-    ---
-    title: Chastise
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 1环法术, 吟游诗人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Chastise
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 1环法术, 吟游诗人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Chastise** *Chastise*
+---
 
-    **学派** 变化系 
+# **Chastise** *Chastise*
 
-    **环位** 术士/法师 1, 吟游诗人 1
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 吟游诗人 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You gain a +5 bonus on Bluff, Diplomacy, and Intimidate checks to convince a listener that they will get in trouble with their superiors or with the law if they don't do what you ask.
+## 📖 描述
 
-    This spell is primarily used by the Eagle Knights, though they did not create it; Hellknights also use it extensively to gather information and foster cooperation.
+You gain a +5 bonus on Bluff, Diplomacy, and Intimidate checks to convince a listener that they will get in trouble with their superiors or with the law if they don't do what you ask.
+
+This spell is primarily used by the Eagle Knights, though they did not create it; Hellknights also use it extensively to gather information and foster cooperation.
     

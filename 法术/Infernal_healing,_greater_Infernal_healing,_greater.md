@@ -1,39 +1,40 @@
 
-    ---
-    title: Infernal healing, greater
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 医疗, 邪恶, 术士/法师法术, 4环法术, 牧师/先知法术, 召唤师法术, 女巫法术, 魔战士法术, unchained 召唤师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Infernal healing, greater
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 医疗, 邪恶, 术士/法师法术, 4环法术, 牧师/先知法术, 召唤师法术, 女巫法术, 魔战士法术, unchained 召唤师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Infernal healing, greater** *Infernal healing, greater*
+---
 
-    **学派** 咒法系 (医疗) \[邪恶\] 
+# **Infernal healing, greater** *Infernal healing, greater*
 
-    **环位** 术士/法师 4, 牧师/先知 4, 召唤师 4, 女巫 4, 魔战士 4, unchained 召唤师 4
+**学派** 咒法系 (医疗) \[邪恶\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 4, 牧师/先知 4, 召唤师 4, 女巫 4, 魔战士 4, unchained 召唤师 4
 
-    **施法时间** 1 轮
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 轮
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 1 minute 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 1 minute 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    As @Compendium[pf1.spells.r6mfw5nrc2ndkacy]{Infernal Healing}, except the target gains fast healing 4 and the target detects as an evil cleric.
+## 📖 描述
+
+As @Compendium[pf1.spells.r6mfw5nrc2ndkacy]{Infernal Healing}, except the target gains fast healing 4 and the target detects as an evil cleric.
     

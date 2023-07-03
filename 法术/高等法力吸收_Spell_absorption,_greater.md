@@ -1,37 +1,38 @@
 
-    ---
-    title: 高等法力吸收
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 术士/法师法术, 8环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 高等法力吸收
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 术士/法师法术, 8环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **高等法力吸收** *Spell absorption, greater*
+---
 
-    **学派** 防护系 
+# **高等法力吸收** *Spell absorption, greater*
 
-    **环位** 术士/法师 8
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 术士/法师 8
 
-    **施法时间** 1 轮
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 轮
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    This spell functions as spell absorption, save that you can absorb countered spells of 6th level or lower.
+## 📖 描述
+
+This spell functions as spell absorption, save that you can absorb countered spells of 6th level or lower.
     

@@ -1,37 +1,38 @@
 
-    ---
-    title: Remarkable legerdemain
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 2环法术, 吟游诗人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Remarkable legerdemain
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 2环法术, 吟游诗人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Remarkable legerdemain** *Remarkable legerdemain*
+---
 
-    **学派** 变化系 
+# **Remarkable legerdemain** *Remarkable legerdemain*
 
-    **环位** 术士/法师 2, 吟游诗人 2
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 吟游诗人 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level (D) 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level (D) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    While this spell is in effect, your body and clothing flutter and distort subtly, allowing you to conceal items with uncanny skill. You treat any object you can hold in one hand as a coin-sized object for the purposes of Sleight of Hand checks to palm the object or make it disappear; however, you can hide only one such item per caster level on your person at one time. This effect does not change the actual sizes of the objects.
+## 📖 描述
+
+While this spell is in effect, your body and clothing flutter and distort subtly, allowing you to conceal items with uncanny skill. You treat any object you can hold in one hand as a coin-sized object for the purposes of Sleight of Hand checks to palm the object or make it disappear; however, you can hide only one such item per caster level on your person at one time. This effect does not change the actual sizes of the objects.
     

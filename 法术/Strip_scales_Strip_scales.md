@@ -1,39 +1,40 @@
 
-    ---
-    title: Strip scales
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 5环法术, 德鲁伊法术, 4环法术, 女巫法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Strip scales
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 5环法术, 德鲁伊法术, 4环法术, 女巫法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Strip scales** *Strip scales*
+---
 
-    **学派** 变化系 
+# **Strip scales** *Strip scales*
 
-    **环位** 术士/法师 5, 德鲁伊 4, 女巫 5, 猎人 4
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 5, 德鲁伊 4, 女巫 5, 猎人 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料, 圣徽
 
-    **目标** one living creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one living creature 
 
-    **持续时间** 1 minute/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Fortitude
+**持续时间** 1 minute/level 
 
-    **法术抗力** 是
+**豁免** Fortitude
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You reduce the target's racial natural armor bonus by 1 point per 3 caster levels.
+## 📖 描述
+
+You reduce the target's racial natural armor bonus by 1 point per 3 caster levels.
     

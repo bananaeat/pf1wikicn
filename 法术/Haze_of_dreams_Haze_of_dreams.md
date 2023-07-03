@@ -1,41 +1,42 @@
 
-    ---
-    title: Haze of dreams
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 魅惑, emotion, mind-affecting, 牧师/先知法术, 1环法术, 吟游诗人法术, 圣武士法术, 女巫法术, 审判者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Haze of dreams
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 魅惑, emotion, mind-affecting, 牧师/先知法术, 1环法术, 吟游诗人法术, 圣武士法术, 女巫法术, 审判者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Haze of dreams** *Haze of dreams*
+---
 
-    **学派** 惑控系 (魅惑) \[emotion, mind-affecting\] 
+# **Haze of dreams** *Haze of dreams*
 
-    **环位** 牧师/先知 1, 吟游诗人 1, 圣武士 1, 女巫 1, 审判者 1
+**学派** 惑控系 (魅惑) \[emotion, mind-affecting\] 
 
-    ## 🪄 施放
+**环位** 牧师/先知 1, 吟游诗人 1, 圣武士 1, 女巫 1, 审判者 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 材料
 
-    **目标** one creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature 
 
-    **持续时间** 1 round/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You fill an enemy's head with waking dreams, a reminder of the pleasures, delights, and terrors to be found in the dream world. While in this strange dream state, the target moves at half its normal speed (round down to the next 5-foot increment), which affects the creature's jumping distance as normal for decreased speed.
+## 📖 描述
 
-    Multiple Haze of Dreams effects do not stack, nor does this spell's effect stack with slow.
+You fill an enemy's head with waking dreams, a reminder of the pleasures, delights, and terrors to be found in the dream world. While in this strange dream state, the target moves at half its normal speed (round down to the next 5-foot increment), which affects the creature's jumping distance as normal for decreased speed.
+
+Multiple Haze of Dreams effects do not stack, nor does this spell's effect stack with slow.
     

@@ -1,37 +1,38 @@
 
-    ---
-    title: 智能壁垒iii
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 异能者法术, 6环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 智能壁垒iii
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 异能者法术, 6环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **智能壁垒iii** *Intellect fortress iii*
+---
 
-    **学派** 防护系 
+# **智能壁垒iii** *Intellect fortress iii*
 
-    **环位** 异能者 6
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 异能者 6
 
-    **施法时间** 1 immediate
+## 🪄 施放
 
-    **成分** 语言
+**施法时间** 1 immediate
 
-    ## ✨ 效果  
+**成分** 语言
 
-    **范围** 20-ft.-radius emanation centered on you
+## ✨ 效果  
 
-    **距离** 20尺  
+**范围** 20-ft.-radius emanation centered on you
 
-    **持续时间** 1 round 
+**距离** 20尺  
 
-    **法术抗力** 是
+**持续时间** 1 round 
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell functions as intellect fortress II, but creatures within the area who succeed at a saving throw against a fear or emotion effect suffer no effects, even if there is usually a partial effect on a successful saving throw. This spell can be undercast.
+## 📖 描述
+
+This spell functions as intellect fortress II, but creatures within the area who succeed at a saving throw against a fear or emotion effect suffer no effects, even if there is usually a partial effect on a successful saving throw. This spell can be undercast.
     

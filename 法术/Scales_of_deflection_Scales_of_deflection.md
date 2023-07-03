@@ -1,37 +1,38 @@
 
-    ---
-    title: Scales of deflection
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, draconic, 术士/法师法术, 3环法术, 圣武士法术, 召唤师法术, 魔战士法术, 血脉狂怒者法术, 2环法术, 异能者法术, 秘学士法术, 唤魂师法术, unchained 召唤师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Scales of deflection
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, draconic, 术士/法师法术, 3环法术, 圣武士法术, 召唤师法术, 魔战士法术, 血脉狂怒者法术, 2环法术, 异能者法术, 秘学士法术, 唤魂师法术, unchained 召唤师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Scales of deflection** *Scales of deflection*
+---
 
-    **学派** 防护系 \[draconic\] 
+# **Scales of deflection** *Scales of deflection*
 
-    **环位** 术士/法师 3, 圣武士 3, 召唤师 3, 魔战士 3, 血脉狂怒者 2, 异能者 3, 秘学士 3, 唤魂师 3, unchained 召唤师 3
+**学派** 防护系 \[draconic\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 3, 圣武士 3, 召唤师 3, 魔战士 3, 血脉狂怒者 2, 异能者 3, 秘学士 3, 唤魂师 3, unchained 召唤师 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level (see text) 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level (see text) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    Brilliant draconic iconography matching your draconic heritage (or a kind of dragon whose alignment matches your own) surrounds you. Any touch attack attempted against you resolves against your normal AC. Once such an attack has been resolved, this spell is dismissed at the end of your next turn.
+## 📖 描述
+
+Brilliant draconic iconography matching your draconic heritage (or a kind of dragon whose alignment matches your own) surrounds you. Any touch attack attempted against you resolves against your normal AC. Once such an attack has been resolved, this spell is dismissed at the end of your next turn.
     

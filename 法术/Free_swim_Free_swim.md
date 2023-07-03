@@ -1,39 +1,40 @@
 
-    ---
-    title: Free swim
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 牧师/先知法术, 3环法术, 德鲁伊法术, 游侠法术, 吟游诗人法术, 炼金术师法术, 审判者法术, 异能者法术, 通灵者法术, 催眠师法术, 秘学士法术, 唤魂师法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Free swim
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 牧师/先知法术, 3环法术, 德鲁伊法术, 游侠法术, 吟游诗人法术, 炼金术师法术, 审判者法术, 异能者法术, 通灵者法术, 催眠师法术, 秘学士法术, 唤魂师法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Free swim** *Free swim*
+---
 
-    **学派** 防护系 
+# **Free swim** *Free swim*
 
-    **环位** 牧师/先知 3, 德鲁伊 3, 游侠 3, 吟游诗人 3, 炼金术师 3, 审判者 3, 异能者 3, 通灵者 3, 催眠师 3, 秘学士 3, 唤魂师 3, 猎人 3
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 牧师/先知 3, 德鲁伊 3, 游侠 3, 吟游诗人 3, 炼金术师 3, 审判者 3, 异能者 3, 通灵者 3, 催眠师 3, 秘学士 3, 唤魂师 3, 猎人 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料, 圣徽
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 10 minutes/level 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 10 minutes/level 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The target can move and attack underwater normally without the usual penalties involved with underwater combat, as if under the effects of freedom of movement. However, the target doesn't gain any protections against grapple, paralysis, and magical effects that impede movement (such as solid fog, slow, and web).
+## 📖 描述
+
+The target can move and attack underwater normally without the usual penalties involved with underwater combat, as if under the effects of freedom of movement. However, the target doesn't gain any protections against grapple, paralysis, and magical effects that impede movement (such as solid fog, slow, and web).
     

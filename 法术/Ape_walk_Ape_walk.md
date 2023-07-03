@@ -1,39 +1,40 @@
 
-    ---
-    title: Ape walk
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 3环法术, 德鲁伊法术, 游侠法术, 2环法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Ape walk
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 3环法术, 德鲁伊法术, 游侠法术, 2环法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Ape walk** *Ape walk*
+---
 
-    **学派** 变化系 
+# **Ape walk** *Ape walk*
 
-    **环位** 术士/法师 3, 德鲁伊 3, 游侠 2, 猎人 2
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 3, 德鲁伊 3, 游侠 2, 猎人 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 10 minutes/level 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 10 minutes/level 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    (harmless) The subject can climb as well as an ape or monkey, gaining a climb speed of 30 feet and a +8 racial bonus on Climb skill checks. The affected creature must have her hands free to climb in this manner. In addition, as long as she has 10 feet of space in which to make a running start, the subject can make a long jump of up to 10 feet without making an Acrobatics check (an Acrobatics check is still required to jump longer distances).
+## 📖 描述
+
+(harmless) The subject can climb as well as an ape or monkey, gaining a climb speed of 30 feet and a +8 racial bonus on Climb skill checks. The affected creature must have her hands free to climb in this manner. In addition, as long as she has 10 feet of space in which to make a running start, the subject can make a long jump of up to 10 feet without making an Acrobatics check (an Acrobatics check is still required to jump longer distances).
     

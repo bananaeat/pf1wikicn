@@ -1,37 +1,38 @@
 
-    ---
-    title: Dragonvoice
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 2环法术, 吟游诗人法术, 炼金术师法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Dragonvoice
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 2环法术, 吟游诗人法术, 炼金术师法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Dragonvoice** *Dragonvoice*
+---
 
-    **学派** 变化系 
+# **Dragonvoice** *Dragonvoice*
 
-    **环位** 术士/法师 2, 吟游诗人 2, 炼金术师 2, 女巫 2
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 吟游诗人 2, 炼金术师 2, 女巫 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    By magically altering the way your vocal cords create sounds, you can emulate the vocal inflections of dragons. This grants a +6 circumstance bonus on Charisma checks and Charisma-related skill checks when dealing with dragons.  In addition, your voice is much louder than normal, halving the penalties to others' Perception checks to hear you due to distance, intervening doors, and so on.
+## 📖 描述
+
+By magically altering the way your vocal cords create sounds, you can emulate the vocal inflections of dragons. This grants a +6 circumstance bonus on Charisma checks and Charisma-related skill checks when dealing with dragons.  In addition, your voice is much louder than normal, halving the penalties to others' Perception checks to hear you due to distance, intervening doors, and so on.
     

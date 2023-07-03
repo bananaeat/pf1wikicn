@@ -1,37 +1,38 @@
 
-    ---
-    title: Harvest season
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 德鲁伊法术, 2环法术, 萨满法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Harvest season
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 德鲁伊法术, 2环法术, 萨满法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Harvest season** *Harvest season*
+---
 
-    **学派** 防护系 
+# **Harvest season** *Harvest season*
 
-    **环位** 德鲁伊 2, 萨满 2, 猎人 2
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 德鲁伊 2, 萨满 2, 猎人 2
 
-    **施法时间** 1 分钟
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 分钟
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one plant 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one plant 
 
-    **持续时间** instantaneous; see text 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **法术抗力** 否
+**持续时间** instantaneous; see text 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You cause an explosive burst of growth in a single plant, causing it to grow through a cycle of flower, fruit, or grain production as appropriate. If the plant is not one that normally produces food fit for humanoid consumption, it produces edible flowers under the effect of this spell. The plant produces enough food to nourish one Medium creature per caster level. Food harvested through this spell rots if not eaten within 24 hours. This spell nourishes, fertilizes, and pollinates the plant, and doesn't harm the plant in any way. This spell has no effect on plant creatures.
+## 📖 描述
+
+You cause an explosive burst of growth in a single plant, causing it to grow through a cycle of flower, fruit, or grain production as appropriate. If the plant is not one that normally produces food fit for humanoid consumption, it produces edible flowers under the effect of this spell. The plant produces enough food to nourish one Medium creature per caster level. Food harvested through this spell rots if not eaten within 24 hours. This spell nourishes, fertilizes, and pollinates the plant, and doesn't harm the plant in any way. This spell has no effect on plant creatures.
     

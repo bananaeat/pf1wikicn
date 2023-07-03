@@ -1,39 +1,40 @@
 
-    ---
-    title: Reflexive barrier
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 力场, 魔战士法术, 3环法术, 异能者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Reflexive barrier
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 力场, 魔战士法术, 3环法术, 异能者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Reflexive barrier** *Reflexive barrier*
+---
 
-    **学派** 塑能系 \[力场\] 
+# **Reflexive barrier** *Reflexive barrier*
 
-    **环位** 魔战士 3, 异能者 3
+**学派** 塑能系 \[力场\] 
 
-    ## 🪄 施放
+**环位** 魔战士 3, 异能者 3
 
-    **施法时间** 1 immediate
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 immediate
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature 
 
-    **持续时间** 1 round (see text) 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** none (harmless)
+**持续时间** 1 round (see text) 
 
-    **法术抗力** 否
+**豁免** none (harmless)
 
-    ## 📖 描述
+**法术抗力** 否
 
-    In the blink of an eye, you erect a deflective barrier of force to protect one target. The target gains a deflection bonus to its AC equal to half your caster level. This bonus lasts until the beginning of your next turn. You can cast this spell as a reaction to an attack, but you must do so before the result of the attack is revealed.
+## 📖 描述
+
+In the blink of an eye, you erect a deflective barrier of force to protect one target. The target gains a deflection bonus to its AC equal to half your caster level. This bonus lasts until the beginning of your next turn. You can cast this spell as a reaction to an attack, but you must do so before the result of the attack is revealed.
     

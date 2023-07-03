@@ -1,37 +1,38 @@
 
-    ---
-    title: Shadow dragon aspect
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 幻术系, 幽影幻觉, 阴影, 术士/法师法术, 4环法术, 吟游诗人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Shadow dragon aspect
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 幻术系, 幽影幻觉, 阴影, 术士/法师法术, 4环法术, 吟游诗人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Shadow dragon aspect** *Shadow dragon aspect*
+---
 
-    **学派** 幻术系 (幽影幻觉) \[阴影\] 
+# **Shadow dragon aspect** *Shadow dragon aspect*
 
-    **环位** 术士/法师 4, 吟游诗人 4
+**学派** 幻术系 (幽影幻觉) \[阴影\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 4, 吟游诗人 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势
 
-    **距离** 自身  
+## ✨ 效果  
 
-    **持续时间** 1 round/level 
+**距离** 自身  
 
-    **豁免** Will disbelief (if interacted with), see text
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Will disbelief (if interacted with), see text
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You wreathe yourself in the quasi-real form of a dragon. You gain two claw attacks (1d6 plus caster level slashing damage) and a bite attack (1d8 plus caster level piercing damage). These are primary attacks. In addition, you gain shadowy wings, granting you a fly speed equal to your base speed (good maneuverability).  Your shadowy natural weapons are only half as strong as the real things, though creatures that believe them to be real are affected at full strength. A creature is permitted one Will save the first time you strike it. If it succeeds, the creature takes half damage from such attacks for the duration of the spell. If you overcome a creature's spell resistance on your first attack, that creature remains vulnerable for the spell's duration; otherwise, it's immune.
+## 📖 描述
+
+You wreathe yourself in the quasi-real form of a dragon. You gain two claw attacks (1d6 plus caster level slashing damage) and a bite attack (1d8 plus caster level piercing damage). These are primary attacks. In addition, you gain shadowy wings, granting you a fly speed equal to your base speed (good maneuverability).  Your shadowy natural weapons are only half as strong as the real things, though creatures that believe them to be real are affected at full strength. A creature is permitted one Will save the first time you strike it. If it succeeds, the creature takes half damage from such attacks for the duration of the spell. If you overcome a creature's spell resistance on your first attack, that creature remains vulnerable for the spell's duration; otherwise, it's immune.
     

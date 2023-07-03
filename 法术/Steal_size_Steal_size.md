@@ -1,39 +1,40 @@
 
-    ---
-    title: Steal size
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 2环法术, 德鲁伊法术, 3环法术, 女巫法术, 魔战士法术, 血脉狂怒者法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Steal size
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 2环法术, 德鲁伊法术, 3环法术, 女巫法术, 魔战士法术, 血脉狂怒者法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Steal size** *Steal size*
+---
 
-    **学派** 变化系 
+# **Steal size** *Steal size*
 
-    **环位** 术士/法师 2, 德鲁伊 3, 女巫 2, 魔战士 3, 血脉狂怒者 2, 猎人 3
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 德鲁伊 3, 女巫 2, 魔战士 3, 血脉狂怒者 2, 猎人 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** one humanoid creature larger than you 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one humanoid creature larger than you 
 
-    **持续时间** 1 minute/level (D) 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Fortitude negates
+**持续时间** 1 minute/level (D) 
 
-    **法术抗力** 是
+**豁免** Fortitude negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell reduces the target's size by one size category, as if it were affected by reduce person. You grow in size by one category, as if affected by enlarge person ( if y ou c an b e targeted by that spell). If the spell is dispelled or otherwise ends for either you or the target, both you and the target return to your normal sizes.
+## 📖 描述
+
+This spell reduces the target's size by one size category, as if it were affected by reduce person. You grow in size by one category, as if affected by enlarge person ( if y ou c an b e targeted by that spell). If the spell is dispelled or otherwise ends for either you or the target, both you and the target return to your normal sizes.
     

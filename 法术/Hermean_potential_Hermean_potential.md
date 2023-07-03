@@ -1,39 +1,40 @@
 
-    ---
-    title: Hermean potential
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, 影响心灵, 女巫法术, 1环法术, 异能者法术, 通灵者法术, 催眠师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Hermean potential
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, 影响心灵, 女巫法术, 1环法术, 异能者法术, 通灵者法术, 催眠师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Hermean potential** *Hermean potential*
+---
 
-    **学派** 惑控系 (胁迫) \[影响心灵\] 
+# **Hermean potential** *Hermean potential*
 
-    **环位** 女巫 1, 异能者 1, 通灵者 1, 催眠师 1
+**学派** 惑控系 (胁迫) \[影响心灵\] 
 
-    ## 🪄 施放
+**环位** 女巫 1, 异能者 1, 通灵者 1, 催眠师 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 法器 (a gold dragon scale)
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 法器 (a gold dragon scale)
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 1 minute/level 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 1 minute/level 
 
-    **法术抗力** 否
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You gift the target with the ability to perfect its actions via mental clarity. On the next attack roll, saving throw, ability check, or skill check the target attempts, it rolls twice and takes the more favorable result. For every 5 caster levels you have, the target can roll twice on an additional attack roll, saving throw, ability check, or skill check (to a maximum of 5 rolls at 20th level).  Hermean potential is countered and dispelled by ill omenAPG, but does not itself counter or dispel ill omen.
+## 📖 描述
+
+You gift the target with the ability to perfect its actions via mental clarity. On the next attack roll, saving throw, ability check, or skill check the target attempts, it rolls twice and takes the more favorable result. For every 5 caster levels you have, the target can roll twice on an additional attack roll, saving throw, ability check, or skill check (to a maximum of 5 rolls at 20th level).  Hermean potential is countered and dispelled by ill omenAPG, but does not itself counter or dispel ill omen.
     

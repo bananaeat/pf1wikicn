@@ -1,37 +1,38 @@
 
-    ---
-    title: Ironbloom sprouts
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 牧师/先知法术, 1环法术, 德鲁伊法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Ironbloom sprouts
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 牧师/先知法术, 1环法术, 德鲁伊法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Ironbloom sprouts** *Ironbloom sprouts*
+---
 
-    **学派** 变化系 
+# **Ironbloom sprouts** *Ironbloom sprouts*
 
-    **环位** 牧师/先知 1, 德鲁伊 1, 猎人 1
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 牧师/先知 1, 德鲁伊 1, 猎人 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料, 圣徽
 
-    **目标** 2d4 fresh mushrooms touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** 2d4 fresh mushrooms touched 
 
-    **持续时间** 1 day/level 
+**距离** 接触  
 
-    **法术抗力** 是
+**持续时间** 1 day/level 
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell functions like goodberry, except as noted above and that it transforms 2d4 mushrooms into magical ironbloom mushrooms rather than transforming common berries into magical berries. Alternatively, you may create twice as many mushrooms, but each only has the nourishment ability of a goodberry and not the healing properties.
+## 📖 描述
+
+This spell functions like goodberry, except as noted above and that it transforms 2d4 mushrooms into magical ironbloom mushrooms rather than transforming common berries into magical berries. Alternatively, you may create twice as many mushrooms, but each only has the nourishment ability of a goodberry and not the healing properties.
     

@@ -1,37 +1,38 @@
 
-    ---
-    title: Sabotage construct
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 6环法术, 吟游诗人法术, 5环法术, 女巫法术, 审判者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Sabotage construct
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 6环法术, 吟游诗人法术, 5环法术, 女巫法术, 审判者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Sabotage construct** *Sabotage construct*
+---
 
-    **学派** 变化系 
+# **Sabotage construct** *Sabotage construct*
 
-    **环位** 术士/法师 6, 吟游诗人 5, 女巫 6, 审判者 5
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 6, 吟游诗人 5, 女巫 6, 审判者 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势
 
-    **距离** 接触  
+## ✨ 效果  
 
-    **持续时间** 1 round/level 
+**距离** 接触  
 
-    **豁免** Will partial
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Will partial
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell functions as confusion, except that it affects only constructs. When you are rolling for a confused construct's behavior, a result of 26-50 indicates the construct twitches spasmodically. On a successful Will save, the construct is confused for only 1 round.
+## 📖 描述
+
+This spell functions as confusion, except that it affects only constructs. When you are rolling for a confused construct's behavior, a result of 26-50 indicates the construct twitches spasmodically. On a successful Will save, the construct is confused for only 1 round.
     

@@ -1,39 +1,40 @@
 
-    ---
-    title: Charm person, mass
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 魅惑, 影响心灵, 术士/法师法术, 5环法术, 吟游诗人法术, 4环法术, 女巫法术, 萨满法术, 异能者法术, 催眠师法术, 秘学士法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Charm person, mass
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 魅惑, 影响心灵, 术士/法师法术, 5环法术, 吟游诗人法术, 4环法术, 女巫法术, 萨满法术, 异能者法术, 催眠师法术, 秘学士法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Charm person, mass** *Charm person, mass*
+---
 
-    **学派** 惑控系 (魅惑) \[影响心灵\] 
+# **Charm person, mass** *Charm person, mass*
 
-    **环位** 术士/法师 5, 吟游诗人 4, 女巫 5, 萨满 5, 异能者 5, 催眠师 4, 秘学士 4
+**学派** 惑控系 (魅惑) \[影响心灵\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 5, 吟游诗人 4, 女巫 5, 萨满 5, 异能者 5, 催眠师 4, 秘学士 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one or more humanoid creatures, no two of which can be more than 30 ft. apart 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one or more humanoid creatures, no two of which can be more than 30 ft. apart 
 
-    **持续时间** 1 hour/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates
+**持续时间** 1 hour/level 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell functions like charm person, except that mass charm person affects a number of humanoid creatures whose combined Hit Dice don't exceed twice your level. If there are more potential targets than you can affect, you choose them one at a time until you reach the limit of HD you can affect. If you cast mass charm person on only one creature, you ignore the spell's HD limit.
+## 📖 描述
+
+This spell functions like charm person, except that mass charm person affects a number of humanoid creatures whose combined Hit Dice don't exceed twice your level. If there are more potential targets than you can affect, you choose them one at a time until you reach the limit of HD you can affect. If you cast mass charm person on only one creature, you ignore the spell's HD limit.
     

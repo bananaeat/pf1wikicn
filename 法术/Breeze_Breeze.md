@@ -1,41 +1,42 @@
 
-    ---
-    title: Breeze
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 气, 术士/法师法术, 戏法/祷念
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Breeze
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 气, 术士/法师法术, 戏法/祷念
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Breeze** *Breeze*
+---
 
-    **学派** 塑能系 \[气\] 
+# **Breeze** *Breeze*
 
-    **环位** 术士/法师 0
+**学派** 塑能系 \[气\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 0
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** one creature or object 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature or object 
 
-    **持续时间** 1 hour (D) 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates (harmless)
+**持续时间** 1 hour (D) 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You create a light wind that blows against the target, from a direction of your choice. The breeze grants the subject a +2 bonus on saves against very hot conditions, severe heat, breath weapons, and saves against cloud vapors and gases (such as cloudkill, stinking cloud, and inhaled poisons). This spell does not function without air or underwater.
+## 📖 描述
 
-    You can only have one breeze active at any one time. If you cast this spell while another casting is still in effect, the previous casting is dispelled.
+You create a light wind that blows against the target, from a direction of your choice. The breeze grants the subject a +2 bonus on saves against very hot conditions, severe heat, breath weapons, and saves against cloud vapors and gases (such as cloudkill, stinking cloud, and inhaled poisons). This spell does not function without air or underwater.
+
+You can only have one breeze active at any one time. If you cast this spell while another casting is still in effect, the previous casting is dispelled.
     

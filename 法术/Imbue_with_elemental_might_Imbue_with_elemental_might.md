@@ -1,39 +1,40 @@
 
-    ---
-    title: Imbue with elemental might
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, see text, 术士/法师法术, 2环法术, 牧师/先知法术, 魔战士法术, 血脉狂怒者法术, 萨满法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Imbue with elemental might
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, see text, 术士/法师法术, 2环法术, 牧师/先知法术, 魔战士法术, 血脉狂怒者法术, 萨满法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Imbue with elemental might** *Imbue with elemental might*
+---
 
-    **学派** 塑能系 \[see text\] 
+# **Imbue with elemental might** *Imbue with elemental might*
 
-    **环位** 术士/法师 2, 牧师/先知 2, 魔战士 2, 血脉狂怒者 2, 萨满 2
+**学派** 塑能系 \[see text\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 牧师/先知 2, 魔战士 2, 血脉狂怒者 2, 萨满 2
 
-    **施法时间** 10 分钟
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 10 分钟
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** creature touched; see text 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched; see text 
 
-    **持续时间** 24 hours or until discharged (D) 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 24 hours or until discharged (D) 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell functions like imbue with spell ability, except you transfer the use of your elemental assault ability to the target. The target must have an Intelligence score of at least 5 to use the ability. The imbued elemental assault functions exactly like yours, except the ability's duration is based on the target's level or Hit Dice. Once you cast this spell, you cannot use your elemental assault ability until the duration of the spell is over.
+## 📖 描述
+
+This spell functions like imbue with spell ability, except you transfer the use of your elemental assault ability to the target. The target must have an Intelligence score of at least 5 to use the ability. The imbued elemental assault functions exactly like yours, except the ability's duration is based on the target's level or Hit Dice. Once you cast this spell, you cannot use your elemental assault ability until the duration of the spell is over.
     

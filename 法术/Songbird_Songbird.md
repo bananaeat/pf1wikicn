@@ -1,37 +1,38 @@
 
-    ---
-    title: Songbird
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 善良, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 圣武士法术, 异能者法术, 催眠师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Songbird
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 善良, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 圣武士法术, 异能者法术, 催眠师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Songbird** *Songbird*
+---
 
-    **学派** 咒法系 \[善良\] 
+# **Songbird** *Songbird*
 
-    **环位** 术士/法师 1, 牧师/先知 1, 吟游诗人 1, 圣武士 1, 异能者 1, 催眠师 1
+**学派** 咒法系 \[善良\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 牧师/先知 1, 吟游诗人 1, 圣武士 1, 异能者 1, 催眠师 1
 
-    **施法时间** 1 swift
+## 🪄 施放
 
-    **成分** 姿势
+**施法时间** 1 swift
 
-    ## ✨ 效果 
+**成分** 姿势
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You conjure uplifting music from the wilds of Elysium, Heaven, or Nirvana to bolster other musical activities.  If you cast songbird during the same round in which you attempt a Perform check, songbird acts as accompaniment and grants a +3 bonus on that Perform check.  If you cast songbird in the same round in which you activate a bardic performance, that round of bardic performance does not count against your total rounds of bardic performance available for the day.  If you cast songbird in the same round in which you cast a spell with the sonic descriptor, that spell's save DC increases by 1.
+## 📖 描述
+
+You conjure uplifting music from the wilds of Elysium, Heaven, or Nirvana to bolster other musical activities.  If you cast songbird during the same round in which you attempt a Perform check, songbird acts as accompaniment and grants a +3 bonus on that Perform check.  If you cast songbird in the same round in which you activate a bardic performance, that round of bardic performance does not count against your total rounds of bardic performance available for the day.  If you cast songbird in the same round in which you cast a spell with the sonic descriptor, that spell's save DC increases by 1.
     

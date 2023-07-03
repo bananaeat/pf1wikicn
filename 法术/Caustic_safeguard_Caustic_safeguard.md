@@ -1,39 +1,40 @@
 
-    ---
-    title: Caustic safeguard
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 强酸, 术士/法师法术, 4环法术, 炼金术师法术, 3环法术, 魔战士法术, 血脉狂怒者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Caustic safeguard
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 强酸, 术士/法师法术, 4环法术, 炼金术师法术, 3环法术, 魔战士法术, 血脉狂怒者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Caustic safeguard** *Caustic safeguard*
+---
 
-    **学派** 防护系 \[强酸\] 
+# **Caustic safeguard** *Caustic safeguard*
 
-    **环位** 术士/法师 4, 炼金术师 3, 魔战士 3, 血脉狂怒者 3
+**学派** 防护系 \[强酸\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 4, 炼金术师 3, 魔战士 3, 血脉狂怒者 3
 
-    **施法时间** 1 轮
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 轮
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** object touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** object touched 
 
-    **持续时间** 1 hour/level (D) 
+**距离** 接触  
 
-    **豁免** Reflex half (see text)
+**持续时间** 1 hour/level (D) 
 
-    **法术抗力** 否
+**豁免** Reflex half (see text)
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You imbue a single object with an acidic protective ward. Any creature other than you that touches the object takes 1d6 points of acid damage per 2 caster levels (maximum 10d6; Reflex half). Each time the spell discharges, the number of damage dice it deals is halved (rounded down); when the spell's damage dice reach 0, the spell ends. While casting this spell, you can touch up to one creature per 4 caster levels, which allows them to handle the warded object without triggering this spell.
+## 📖 描述
+
+You imbue a single object with an acidic protective ward. Any creature other than you that touches the object takes 1d6 points of acid damage per 2 caster levels (maximum 10d6; Reflex half). Each time the spell discharges, the number of damage dice it deals is halved (rounded down); when the spell's damage dice reach 0, the spell ends. While casting this spell, you can touch up to one creature per 4 caster levels, which allows them to handle the warded object without triggering this spell.
     

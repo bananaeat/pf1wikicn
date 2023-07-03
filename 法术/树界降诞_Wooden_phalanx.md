@@ -1,45 +1,46 @@
 
-    ---
-    title: 树界降诞
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 创造, 牧师/先知法术, 9环法术, 术士/法师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 树界降诞
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 创造, 牧师/先知法术, 9环法术, 术士/法师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **树界降诞** *Wooden phalanx*
+---
 
-    **学派** 咒法系 (创造) 
+# **树界降诞** *Wooden phalanx*
 
-    **环位** 牧师/先知 9, 术士/法师 9
+**学派** 咒法系 (创造) 
 
-    ## 🪄 施放
+**环位** 牧师/先知 9, 术士/法师 9
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势
 
-    **距离** 中距 (100尺+10尺/等级) 
+## ✨ 效果  
 
-    **效果** three or more wood golems, no two of which can be more than 30 ft. apart (see text) 
+**距离** 中距 (100尺+10尺/等级) 
 
-    **持续时间** 1小时/等级 （可解消） 
+**效果** three or more wood golems, no two of which can be more than 30 ft. apart (see text) 
 
-    **豁免** 无
+**持续时间** 1小时/等级 （可解消） 
 
-    **法术抗力** 否
+**豁免** 无
 
-    ## 📖 描述
+**法术抗力** 否
 
-    效果          三个或更多木魔像 （Wood Gelem），互相之间不超过30尺
+## 📖 描述
 
-    你创造了1d4+2个被套上进化模板 （advanced template） 的木魔像 （Wood Gelem）。
+效果          三个或更多木魔像 （Wood Gelem），互相之间不超过30尺
 
-    这些魔像会自愿协助你进行战技或战斗，执行特殊任务或充当保镖。
+你创造了1d4+2个被套上进化模板 （advanced template） 的木魔像 （Wood Gelem）。
 
-    你同时只能维持一个该法术的效果。如果你在前一次法术生效时间内再次施放本法术，前次法术将被解除。
+这些魔像会自愿协助你进行战技或战斗，执行特殊任务或充当保镖。
+
+你同时只能维持一个该法术的效果。如果你在前一次法术生效时间内再次施放本法术，前次法术将被解除。
     

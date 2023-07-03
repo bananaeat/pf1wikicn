@@ -1,39 +1,40 @@
 
-    ---
-    title: Archon's trumpet
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, good, sonic, 术士/法师法术, 7环法术, 牧师/先知法术, 吟游诗人法术, 5环法术, 圣武士法术, 4环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Archon's trumpet
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, good, sonic, 术士/法师法术, 7环法术, 牧师/先知法术, 吟游诗人法术, 5环法术, 圣武士法术, 4环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Archon's trumpet** *Archon's trumpet*
+---
 
-    **学派** 塑能系 \[good, sonic\] 
+# **Archon's trumpet** *Archon's trumpet*
 
-    **环位** 术士/法师 7, 牧师/先知 7, 吟游诗人 5, 圣武士 4
+**学派** 塑能系 \[good, sonic\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 7, 牧师/先知 7, 吟游诗人 5, 圣武士 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势
 
-    **范围** cone-shaped burst
+## ✨ 效果  
 
-    **距离** 30尺  
+**范围** cone-shaped burst
 
-    **持续时间** 立即 
+**距离** 30尺  
 
-    **豁免** Fortitude negates
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Fortitude negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    Upon hearing a booming report, as if from a trumpet archon's mighty horn, all creatures in the area of the burst are paralyzed for 1d4 rounds.
+## 📖 描述
+
+Upon hearing a booming report, as if from a trumpet archon's mighty horn, all creatures in the area of the burst are paralyzed for 1d4 rounds.
     

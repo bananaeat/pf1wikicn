@@ -1,39 +1,40 @@
 
-    ---
-    title: Bone fists
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 死灵系, 术士/法师法术, 2环法术, 牧师/先知法术, 德鲁伊法术, 女巫法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Bone fists
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 死灵系, 术士/法师法术, 2环法术, 牧师/先知法术, 德鲁伊法术, 女巫法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Bone fists** *Bone fists*
+---
 
-    **学派** 死灵系 
+# **Bone fists** *Bone fists*
 
-    **环位** 术士/法师 2, 牧师/先知 2, 德鲁伊 2, 女巫 2, 血脉狂怒者 2, 萨满 2, 异能者 2, 猎人 2
+**学派** 死灵系 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 牧师/先知 2, 德鲁伊 2, 女巫 2, 血脉狂怒者 2, 萨满 2, 异能者 2, 猎人 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** 1 creature/level, no two of which can be more than 30 feet apart 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** 1 creature/level, no two of which can be more than 30 feet apart 
 
-    **持续时间** 1 minute/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** none (harmless)
+**持续时间** 1 minute/level 
 
-    **法术抗力** 否
+**豁免** none (harmless)
 
-    ## 📖 描述
+**法术抗力** 否
 
-    The bones of your targets' joints grow thick and sharp, protruding painfully through the skin at the knuckles, elbows, shoulders, spine, and knees. The targets each gain a +1 bonus to natural armor and a +2 bonus on damage rolls with natural weapons, and they are treated as having armor spikes, with which they are proficient.
+## 📖 描述
+
+The bones of your targets' joints grow thick and sharp, protruding painfully through the skin at the knuckles, elbows, shoulders, spine, and knees. The targets each gain a +1 bonus to natural armor and a +2 bonus on damage rolls with natural weapons, and they are treated as having armor spikes, with which they are proficient.
     

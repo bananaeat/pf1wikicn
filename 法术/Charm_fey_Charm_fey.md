@@ -1,39 +1,40 @@
 
-    ---
-    title: Charm fey
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 1环法术, 吟游诗人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Charm fey
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 1环法术, 吟游诗人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Charm fey** *Charm fey*
+---
 
-    **学派** 惑控系 (胁迫) \[影响心灵\] 
+# **Charm fey** *Charm fey*
 
-    **环位** 术士/法师 1, 吟游诗人 1
+**学派** 惑控系 (胁迫) \[影响心灵\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 吟游诗人 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one fey creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one fey creature 
 
-    **持续时间** 1 hour/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates
+**持续时间** 1 hour/level 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell functions as charm person, except it affects a fey instead of a humanoid.
+## 📖 描述
+
+This spell functions as charm person, except it affects a fey instead of a humanoid.
     

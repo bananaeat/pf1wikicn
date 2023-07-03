@@ -1,39 +1,40 @@
 
-    ---
-    title: Rend body iv
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 异能者法术, 8环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Rend body iv
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 异能者法术, 8环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Rend body iv** *Rend body iv*
+---
 
-    **学派** 塑能系 
+# **Rend body iv** *Rend body iv*
 
-    **环位** 异能者 8
+**学派** 塑能系 
 
-    ## 🪄 施放
+**环位** 异能者 8
 
-    **施法时间** 1 full
+## 🪄 施放
 
-    **成分** 姿势
+**施法时间** 1 full
 
-    ## ✨ 效果 
+**成分** 姿势
 
-    **目标** one creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature 
 
-    **持续时间** 立即 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Fortitude partial (see text)
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Fortitude partial (see text)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This functions as per rend body III, but the target takes 1d8 points of damage per caster level (maximum 20d8), and one of the target's limbs is ripped off if the amount of damage dealt is greater than 1/4 of its maximum hit point total. This spell can be undercast.
+## 📖 描述
+
+This functions as per rend body III, but the target takes 1d8 points of damage per caster level (maximum 20d8), and one of the target's limbs is ripped off if the amount of damage dealt is greater than 1/4 of its maximum hit point total. This spell can be undercast.
     

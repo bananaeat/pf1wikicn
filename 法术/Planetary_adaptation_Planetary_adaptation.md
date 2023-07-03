@@ -1,37 +1,38 @@
 
-    ---
-    title: Planetary adaptation
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 5环法术, 牧师/先知法术, 4环法术, 炼金术师法术, 召唤师法术, unchained 召唤师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Planetary adaptation
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 5环法术, 牧师/先知法术, 4环法术, 炼金术师法术, 召唤师法术, unchained 召唤师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Planetary adaptation** *Planetary adaptation*
+---
 
-    **学派** 变化系 
+# **Planetary adaptation** *Planetary adaptation*
 
-    **环位** 术士/法师 5, 牧师/先知 4, 炼金术师 5, 召唤师 5, unchained 召唤师 5
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 5, 牧师/先知 4, 炼金术师 5, 召唤师 5, unchained 召唤师 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 hour/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 hour/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    This spell functions as planar adaptation (Pathfinder RPG Advanced Player's Guide 236), except that it works only on worlds of the Material Plane. The cold void of space is considered a single world for the purpose of this spell, allowing you to survive in vacuum.
+## 📖 描述
+
+This spell functions as planar adaptation (Pathfinder RPG Advanced Player's Guide 236), except that it works only on worlds of the Material Plane. The cold void of space is considered a single world for the purpose of this spell, allowing you to survive in vacuum.
     

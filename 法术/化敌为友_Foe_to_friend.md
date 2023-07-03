@@ -1,41 +1,42 @@
 
-    ---
-    title: 化敌为友
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 5环法术, 异能者法术, 7环法术, 催眠师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 化敌为友
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 5环法术, 异能者法术, 7环法术, 催眠师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **化敌为友** *Foe to friend*
+---
 
-    **学派** 惑控系 (胁迫) \[影响心灵\] 
+# **化敌为友** *Foe to friend*
 
-    **环位** 吟游诗人 5, 异能者 7, 催眠师 5
+**学派** 惑控系 (胁迫) \[影响心灵\] 
 
-    ## 🪄 施放
+**环位** 吟游诗人 5, 异能者 7, 催眠师 5
 
-    **施法时间** 1 immediate
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 immediate
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one living creature 
+## ✨ 效果 
 
-    **距离** 中距 (100尺+10尺/等级)  
+**目标** one living creature 
 
-    **持续时间** 1 round 
+**距离** 中距 (100尺+10尺/等级)  
 
-    **豁免** Will negates
+**持续时间** 1 round 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    Cast this spell when an enemy is about to make an attack against an ally. The creature makes the attack against a valid target of your choice instead or the attack is negated.
+## 📖 描述
 
-    In addition, the target is considered an ally for determining flanking for 1 round.
+Cast this spell when an enemy is about to make an attack against an ally. The creature makes the attack against a valid target of your choice instead or the attack is negated.
+
+In addition, the target is considered an ally for determining flanking for 1 round.
     

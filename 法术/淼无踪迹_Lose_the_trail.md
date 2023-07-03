@@ -1,39 +1,40 @@
 
-    ---
-    title: 淼无踪迹
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 幻术系, 五官幻觉, 术士/法师法术, 1环法术, 游侠法术, 反圣武士法术, 2环法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 淼无踪迹
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 幻术系, 五官幻觉, 术士/法师法术, 1环法术, 游侠法术, 反圣武士法术, 2环法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **淼无踪迹** *Lose the trail*
+---
 
-    **学派** 幻术系 (五官幻觉) 
+# **淼无踪迹** *Lose the trail*
 
-    **环位** 术士/法师 1, 游侠 1, 反圣武士 2, 猎人 1
+**学派** 幻术系 (五官幻觉) 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 游侠 1, 反圣武士 2, 猎人 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one creature/level 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature/level 
 
-    **持续时间** 1 hour/level (D) 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates (harmless)
+**持续时间** 1 hour/level (D) 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The target or targets of this spell can obscure their tracks when fleeing from a pursuer. This increases the DC of any Survival checks made to track the spell's targets by 2 per level of the caster.
+## 📖 描述
+
+The target or targets of this spell can obscure their tracks when fleeing from a pursuer. This increases the DC of any Survival checks made to track the spell's targets by 2 per level of the caster.
     

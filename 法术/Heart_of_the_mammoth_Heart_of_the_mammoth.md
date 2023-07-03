@@ -1,39 +1,40 @@
 
-    ---
-    title: Heart of the mammoth
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 8环法术, 牧师/先知法术, 德鲁伊法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Heart of the mammoth
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 8环法术, 牧师/先知法术, 德鲁伊法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Heart of the mammoth** *Heart of the mammoth*
+---
 
-    **学派** 变化系 
+# **Heart of the mammoth** *Heart of the mammoth*
 
-    **环位** 术士/法师 8, 牧师/先知 8, 德鲁伊 8, 女巫 8
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 8, 牧师/先知 8, 德鲁伊 8, 女巫 8
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 法器 (a fetish of mammoth hair soaked in dragon's blood)
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 法器 (a fetish of mammoth hair soaked in dragon's blood)
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 1 round/level 
+**距离** 接触  
 
-    **豁免** Will (harmless)
+**持续时间** 1 round/level 
 
-    **法术抗力** 否
+**豁免** Will (harmless)
 
-    ## 📖 描述
+**法术抗力** 否
 
-    The target creature becomes stronger, hardier, and imbued with the courage of the greatest megafauna of the tundra. The spell grants a +8 enhancement bonus to Strength and Constitution, immunity to fear, a +4 morale bonus to Will saves, and doubles the critical threat range of all its attacks against creatures of the dragon type (this does not stack with Improved Critical, keen edge, or similar effects).
+## 📖 描述
+
+The target creature becomes stronger, hardier, and imbued with the courage of the greatest megafauna of the tundra. The spell grants a +8 enhancement bonus to Strength and Constitution, immunity to fear, a +4 morale bonus to Will saves, and doubles the critical threat range of all its attacks against creatures of the dragon type (this does not stack with Improved Critical, keen edge, or similar effects).
     

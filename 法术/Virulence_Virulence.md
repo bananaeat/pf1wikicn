@@ -1,39 +1,40 @@
 
-    ---
-    title: Virulence
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 死灵系, 邪恶, 牧师/先知法术, 4环法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Virulence
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 死灵系, 邪恶, 牧师/先知法术, 4环法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Virulence** *Virulence*
+---
 
-    **学派** 死灵系 \[邪恶\] 
+# **Virulence** *Virulence*
 
-    **环位** 牧师/先知 4, 女巫 4
+**学派** 死灵系 \[邪恶\] 
 
-    ## 🪄 施放
+**环位** 牧师/先知 4, 女巫 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势
 
-    **范围** all living creatures within a 40-ft.-radius burst centered on you
+## ✨ 效果  
 
-    **距离** 40尺  
+**范围** all living creatures within a 40-ft.-radius burst centered on you
 
-    **持续时间** 立即 
+**距离** 40尺  
 
-    **豁免** see text
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** see text
 
-    ## 📖 描述
+**法术抗力** 是
 
-    All living creatures within the area of effect, including yourself, must immediately attempt a saving throw with a -2 penalty against any and all diseases they have contracted, even if the onset time has not yet elapsed. On a failed saving throw, the affliction has its usual effect. A successful save does not count toward curing the affliction.
+## 📖 描述
+
+All living creatures within the area of effect, including yourself, must immediately attempt a saving throw with a -2 penalty against any and all diseases they have contracted, even if the onset time has not yet elapsed. On a failed saving throw, the affliction has its usual effect. A successful save does not count toward curing the affliction.
     

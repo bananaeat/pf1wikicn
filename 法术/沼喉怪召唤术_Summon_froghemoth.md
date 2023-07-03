@@ -1,41 +1,42 @@
 
-    ---
-    title: 沼喉怪召唤术
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 召唤, 德鲁伊法术, 9环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 沼喉怪召唤术
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 召唤, 德鲁伊法术, 9环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **沼喉怪召唤术** *Summon froghemoth*
+---
 
-    **学派** 咒法系 (召唤) 
+# **沼喉怪召唤术** *Summon froghemoth*
 
-    **环位** 德鲁伊 9
+**学派** 咒法系 (召唤) 
 
-    ## 🪄 施放
+**环位** 德鲁伊 9
 
-    **施法时间** 1 轮
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 轮
 
-    ## ✨ 效果  
+**成分** 语言, 姿势
 
-    **距离** 近距 (25尺+5尺/2等级) 
+## ✨ 效果  
 
-    **效果** one summoned creature 
+**距离** 近距 (25尺+5尺/2等级) 
 
-    **持续时间** 1轮/等级 （可解消） 
+**效果** one summoned creature 
 
-    **豁免** 无
+**持续时间** 1轮/等级 （可解消） 
 
-    **法术抗力** 否
+**豁免** 无
 
-    ## 📖 描述
+**法术抗力** 否
 
-    效果          一个被召唤的生物
+## 📖 描述
 
-    该法术的功能如同九级自然盟友召唤术 （Summon Nature's Ally IX） 一般，不过你会召唤出一只沼喉怪 （Froghemoth）。
+效果          一个被召唤的生物
+
+该法术的功能如同九级自然盟友召唤术 （Summon Nature's Ally IX） 一般，不过你会召唤出一只沼喉怪 （Froghemoth）。
     

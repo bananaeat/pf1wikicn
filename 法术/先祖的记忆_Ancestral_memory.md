@@ -1,41 +1,42 @@
 
-    ---
-    title: 先祖的记忆
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 牧师/先知法术, 5环法术, 德鲁伊法术, 4环法术, 炼金术师法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 先祖的记忆
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 牧师/先知法术, 5环法术, 德鲁伊法术, 4环法术, 炼金术师法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **先祖的记忆** *Ancestral memory*
+---
 
-    **学派** 预言系 
+# **先祖的记忆** *Ancestral memory*
 
-    **环位** 牧师/先知 5, 德鲁伊 4, 炼金术师 5, 猎人 4
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 牧师/先知 5, 德鲁伊 4, 炼金术师 5, 猎人 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    When you cast this spell, you open your mind to the vast experiences of your ancestors in the hope of learning something pertinent about your current situation. The chance of successfully finding an ancestral memory that is pertinent is equal to 70% + your caster level. Failure indicates you merely gain a +5 insight bonus on all Intelligence-based skill checks for the duration of the spell.
+## 📖 描述
 
-    Success indicates that you not only gain the +5 insight bonus on all Intelligence-based skill checks, but that one of your ancestors came across a situation or problem similar to one you are currently facing. In this case, the GM provides you with some specific information to assist you in overcoming your problem.
+When you cast this spell, you open your mind to the vast experiences of your ancestors in the hope of learning something pertinent about your current situation. The chance of successfully finding an ancestral memory that is pertinent is equal to 70% + your caster level. Failure indicates you merely gain a +5 insight bonus on all Intelligence-based skill checks for the duration of the spell.
 
-    For example, a character might encounter a clay golem deep underground, and finds that her magic weapon and spells seem to be useless against the creature. She successfully casts ancestral memory, and "remembers" the proper type of weapons and spells that work against such creatures.
+Success indicates that you not only gain the +5 insight bonus on all Intelligence-based skill checks, but that one of your ancestors came across a situation or problem similar to one you are currently facing. In this case, the GM provides you with some specific information to assist you in overcoming your problem.
+
+For example, a character might encounter a clay golem deep underground, and finds that her magic weapon and spells seem to be useless against the creature. She successfully casts ancestral memory, and "remembers" the proper type of weapons and spells that work against such creatures.
     

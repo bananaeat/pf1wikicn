@@ -1,37 +1,38 @@
 
-    ---
-    title: Geomessage
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 幻术系, 虚假幻觉, 术士/法师法术, 4环法术, 游侠法术, 3环法术, 吟游诗人法术, 通灵者法术, 秘学士法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Geomessage
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 幻术系, 虚假幻觉, 术士/法师法术, 4环法术, 游侠法术, 3环法术, 吟游诗人法术, 通灵者法术, 秘学士法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Geomessage** *Geomessage*
+---
 
-    **学派** 幻术系 (虚假幻觉) 
+# **Geomessage** *Geomessage*
 
-    **环位** 术士/法师 4, 游侠 3, 吟游诗人 3, 通灵者 3, 秘学士 3, 猎人 3
+**学派** 幻术系 (虚假幻觉) 
 
-    ## 🪄 施放
+**环位** 术士/法师 4, 游侠 3, 吟游诗人 3, 通灵者 3, 秘学士 3, 猎人 3
 
-    **施法时间** 1 分钟
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 分钟
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** surface touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** surface touched 
 
-    **持续时间** 1 day/level 
+**距离** 接触  
 
-    **法术抗力** 否
+**持续时间** 1 day/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You create a written message of 50 words or fewer, or else an image, a drawing, or a similar diagram. The figment hangs invisible and obscured upon the target surface for the duration of the spell. Another casting of geomessage is needed to cause the figment to arrange itself into the intended message.  When you cast the spell, you can choose to incorporate a passphrase into the spell. If you do so, the message is protected as if nondetection had been cast on it for the full duration of the spell, though creatures that cast geomessage on the surface and speak the passphrase ignore the nondetection effect and cause the image to become visible until the caster speaks the passphrase again.  Without a passphrase, the message simply remains invisible to those who cast geomessage. Detection methods like detect magic and see invisibility indicate the message's presence but do not reveal its contents.
+## 📖 描述
+
+You create a written message of 50 words or fewer, or else an image, a drawing, or a similar diagram. The figment hangs invisible and obscured upon the target surface for the duration of the spell. Another casting of geomessage is needed to cause the figment to arrange itself into the intended message.  When you cast the spell, you can choose to incorporate a passphrase into the spell. If you do so, the message is protected as if nondetection had been cast on it for the full duration of the spell, though creatures that cast geomessage on the surface and speak the passphrase ignore the nondetection effect and cause the image to become visible until the caster speaks the passphrase again.  Without a passphrase, the message simply remains invisible to those who cast geomessage. Detection methods like detect magic and see invisibility indicate the message's presence but do not reveal its contents.
     

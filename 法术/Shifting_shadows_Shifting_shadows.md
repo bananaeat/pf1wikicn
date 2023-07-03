@@ -1,39 +1,40 @@
 
-    ---
-    title: Shifting shadows
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 黑暗, 术士/法师法术, 3环法术, 吟游诗人法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Shifting shadows
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 黑暗, 术士/法师法术, 3环法术, 吟游诗人法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Shifting shadows** *Shifting shadows*
+---
 
-    **学派** 塑能系 \[黑暗\] 
+# **Shifting shadows** *Shifting shadows*
 
-    **环位** 术士/法师 3, 吟游诗人 3, 女巫 3
+**学派** 塑能系 \[黑暗\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 3, 吟游诗人 3, 女巫 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势, 材料
 
-    **范围** 20-ft.-radius emanation centered on a point in space
+## ✨ 效果  
 
-    **距离** 中距 (100尺+10尺/等级)  
+**范围** 20-ft.-radius emanation centered on a point in space
 
-    **持续时间** 1 round/level (D) 
+**距离** 中距 (100尺+10尺/等级)  
 
-    **豁免** none, see text
+**持续时间** 1 round/level (D) 
 
-    **法术抗力** 否
+**豁免** none, see text
 
-    ## 📖 描述
+**法术抗力** 否
 
-    Waves of shifting shadows obscure the appearance of all creatures caught within the emanation, making it harder to tell friends from foes.  This spell does not cause affected creatures to risk accidentally attacking their allies, but it does require them to concentrate harder to keep track of their allies and foes. While this spell is in effect, every creature in the area can treat any other creature in the area as an allied threatening creature for the purpose of flanking. Further, whenever a creature in the area would provoke an attack of opportunity from an enemy, that creatures' allies in the area must succeed at a Reflex save or lose one attack of opportunity for that round as they suppress the instinct to attack a vulnerable target that might be an ally. The shadows do not hinder precision-based attacks or create areas of dim light.  Creatures under the effect of true seeing are not affected by this spell. Creatures with scent or keen scent, creatures that are blind, and creatures that operate effectively without vision (such as creatures with blindsight or blindsense) are also not affected by this spell.
+## 📖 描述
+
+Waves of shifting shadows obscure the appearance of all creatures caught within the emanation, making it harder to tell friends from foes.  This spell does not cause affected creatures to risk accidentally attacking their allies, but it does require them to concentrate harder to keep track of their allies and foes. While this spell is in effect, every creature in the area can treat any other creature in the area as an allied threatening creature for the purpose of flanking. Further, whenever a creature in the area would provoke an attack of opportunity from an enemy, that creatures' allies in the area must succeed at a Reflex save or lose one attack of opportunity for that round as they suppress the instinct to attack a vulnerable target that might be an ally. The shadows do not hinder precision-based attacks or create areas of dim light.  Creatures under the effect of true seeing are not affected by this spell. Creatures with scent or keen scent, creatures that are blind, and creatures that operate effectively without vision (such as creatures with blindsight or blindsense) are also not affected by this spell.
     

@@ -1,39 +1,40 @@
 
-    ---
-    title: Daemon ward
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 死灵系, 术士/法师法术, 4环法术, 牧师/先知法术, 德鲁伊法术, 5环法术, 圣武士法术, 女巫法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Daemon ward
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 死灵系, 术士/法师法术, 4环法术, 牧师/先知法术, 德鲁伊法术, 5环法术, 圣武士法术, 女巫法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Daemon ward** *Daemon ward*
+---
 
-    **学派** 死灵系 
+# **Daemon ward** *Daemon ward*
 
-    **环位** 术士/法师 4, 牧师/先知 4, 德鲁伊 5, 圣武士 4, 女巫 4, 猎人 5
+**学派** 死灵系 
 
-    ## 🪄 施放
+**环位** 术士/法师 4, 牧师/先知 4, 德鲁伊 5, 圣武士 4, 女巫 4, 猎人 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** living creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** living creature touched 
 
-    **持续时间** 1 min./level 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 1 min./level 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell functions like death ward, except as noted above and it only protects against these attacks from daemons.
+## 📖 描述
+
+This spell functions like death ward, except as noted above and it only protects against these attacks from daemons.
     

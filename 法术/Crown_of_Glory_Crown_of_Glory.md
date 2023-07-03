@@ -1,43 +1,44 @@
 
-    ---
-    title: Crown of Glory
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, Glory
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Crown of Glory
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, Glory
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Crown of Glory** *Crown of Glory*
+---
 
-    **学派** 塑能系 
+# **Crown of Glory** *Crown of Glory*
 
-    **领域** Glory 8
+**学派** 塑能系 
 
-    **环位** 
+**领域** Glory 8
 
-    ## 🪄 施放
+**环位** 
 
-    **施法时间** 1 full
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料, 圣徽
+**施法时间** 1 full
 
-    ## ✨ 效果  
+**成分** 语言, 姿势, 材料, 圣徽
 
-    **范围** 120-ft.-radius emanation centered on you
+## ✨ 效果  
 
-    **距离** 自身  
+**范围** 120-ft.-radius emanation centered on you
 
-    **持续时间** 1 minute/level 
+**距离** 自身  
 
-    **豁免** Will negates
+**持续时间** 1 minute/level 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You gain a +4 enhancement bonus to Charisma. All creatures with fewer than 8 HD are compelled to stop and pay attention to you. Any such creature that wants to take hostile action against you must make a Will save to do so. Any creature that fails this saving throw the first time it attempts a hostile action is enthralled for the duration of the spell (as the @Compendium[pf1.spells.v3d3lnjj7ks0ztii]{Enthrall} spell), as long as it is in the spell&rsquo;s area. It does not try to leave the area on its own. Creatures with 8 HD or more are not affected.
+## 📖 描述
 
-    When you speak, all listeners telepathically understand you. You can make up to three suggestions to creatures of fewer than 8 HD in range, as if using the @Compendium[pf1.spells.52v3fogun1n9jzum]{Mass Suggestion} spell (Will save negates). Only creatures within range at the time of a suggestion are subject to it.
+You gain a +4 enhancement bonus to Charisma. All creatures with fewer than 8 HD are compelled to stop and pay attention to you. Any such creature that wants to take hostile action against you must make a Will save to do so. Any creature that fails this saving throw the first time it attempts a hostile action is enthralled for the duration of the spell (as the @Compendium[pf1.spells.v3d3lnjj7ks0ztii]{Enthrall} spell), as long as it is in the spell&rsquo;s area. It does not try to leave the area on its own. Creatures with 8 HD or more are not affected.
+
+When you speak, all listeners telepathically understand you. You can make up to three suggestions to creatures of fewer than 8 HD in range, as if using the @Compendium[pf1.spells.52v3fogun1n9jzum]{Mass Suggestion} spell (Will save negates). Only creatures within range at the time of a suggestion are subject to it.
     

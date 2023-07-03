@@ -1,37 +1,38 @@
 
-    ---
-    title: Rune of durability
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 3环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Rune of durability
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 3环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Rune of durability** *Rune of durability*
+---
 
-    **学派** 变化系 
+# **Rune of durability** *Rune of durability*
 
-    **环位** 术士/法师 3
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 3
 
-    **施法时间** 1 分钟
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 分钟
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** weapon touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** weapon touched 
 
-    **持续时间** permanent 
+**距离** 接触  
 
-    **法术抗力** 否
+**持续时间** permanent 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You inscribe an angular rune upon the surface of a weapon, increasing its hit points. A weapon that bears this rune multiplies its hit points by 2, as if it were one size category larger than it actually is. Placing more than one rune of this type on a weapon has no effect.
+## 📖 描述
+
+You inscribe an angular rune upon the surface of a weapon, increasing its hit points. A weapon that bears this rune multiplies its hit points by 2, as if it were one size category larger than it actually is. Placing more than one rune of this type on a weapon has no effect.
     

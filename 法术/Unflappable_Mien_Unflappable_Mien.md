@@ -1,39 +1,40 @@
 
-    ---
-    title: Unflappable Mien
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 力场, 吟游诗人法术, 3环法术, 催眠师法术, 秘学士法术, 异能者法术, 术士/法师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Unflappable Mien
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 力场, 吟游诗人法术, 3环法术, 催眠师法术, 秘学士法术, 异能者法术, 术士/法师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Unflappable Mien** *Unflappable Mien*
+---
 
-    **学派** 塑能系 \[力场\] 
+# **Unflappable Mien** *Unflappable Mien*
 
-    **环位** 吟游诗人 3, 催眠师 3, 秘学士 3, 异能者 3, 术士/法师 3
+**学派** 塑能系 \[力场\] 
 
-    ## 🪄 施放
+**环位** 吟游诗人 3, 催眠师 3, 秘学士 3, 异能者 3, 术士/法师 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 法器 (a diamond clasp, brooch, or pin worth at least 100 gp)
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 法器 (a diamond clasp, brooch, or pin worth at least 100 gp)
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 10 minutes/level or until discharged; see text 
+**距离** 自身  
 
-    **法术抗力** 是
+**持续时间** 10 minutes/level or until discharged; see text 
 
-    ## 📖 描述
+**法术抗力** 是
 
-    When a creature attempts to touch you with an attack (such as a touch attack, an unarmed strike, an attack with a natural weapon, or a grapple), it feels a field of force blocking its way. It can choose to abandon the attempt, losing its action, or to push through the ward. If it pushes through, you can trigger a wave of force against that creature. This discharges the spell, deals 1d4 points of force damage per caster level (maximum 10d4), and pushes the creature back 5 feet. If the creature cannot be pushed back 5 feet (if a solid surface is directly behind it, for example), it takes 2d4 additional points of force damage. A successful Fortitude saving throw halves the total amount of force damage the creature takes.
+## 📖 描述
 
-    Members of the Sanctified Prophet prestige class can cast this spell, even though it is not a divination or enchantment.
+When a creature attempts to touch you with an attack (such as a touch attack, an unarmed strike, an attack with a natural weapon, or a grapple), it feels a field of force blocking its way. It can choose to abandon the attempt, losing its action, or to push through the ward. If it pushes through, you can trigger a wave of force against that creature. This discharges the spell, deals 1d4 points of force damage per caster level (maximum 10d4), and pushes the creature back 5 feet. If the creature cannot be pushed back 5 feet (if a solid surface is directly behind it, for example), it takes 2d4 additional points of force damage. A successful Fortitude saving throw halves the total amount of force damage the creature takes.
+
+Members of the Sanctified Prophet prestige class can cast this spell, even though it is not a divination or enchantment.
     

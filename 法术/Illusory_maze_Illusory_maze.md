@@ -1,39 +1,40 @@
 
-    ---
-    title: Illusory maze
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 幻术系, 虚假幻觉, 术士/法师法术, 2环法术, 吟游诗人法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Illusory maze
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 幻术系, 虚假幻觉, 术士/法师法术, 2环法术, 吟游诗人法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Illusory maze** *Illusory maze*
+---
 
-    **学派** 幻术系 (虚假幻觉) 
+# **Illusory maze** *Illusory maze*
 
-    **环位** 术士/法师 2, 吟游诗人 2, 女巫 2
+**学派** 幻术系 (虚假幻觉) 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 吟游诗人 2, 女巫 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势
 
-    **范围** 20-ft.-radius spread
+## ✨ 效果  
 
-    **距离** 中距 (100尺+10尺/等级)  
+**范围** 20-ft.-radius spread
 
-    **持续时间** 1 round/level 
+**距离** 中距 (100尺+10尺/等级)  
 
-    **豁免** Will disbelief (if interacted with)
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Will disbelief (if interacted with)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell creates the illusion of a translucent, ever-changing maze of glass in the target area. Creatures in the area who believe the maze to be real cannot move more than 5 feet continuously in any one direction and can't move diagonally, forcing them to take a circuitous route to their destination.
+## 📖 描述
+
+This spell creates the illusion of a translucent, ever-changing maze of glass in the target area. Creatures in the area who believe the maze to be real cannot move more than 5 feet continuously in any one direction and can't move diagonally, forcing them to take a circuitous route to their destination.
     

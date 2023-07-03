@@ -1,35 +1,36 @@
 
-    ---
-    title: Spherescry
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 探知, 术士/法师法术, 3环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Spherescry
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 探知, 术士/法师法术, 3环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Spherescry** *Spherescry*
+---
 
-    **学派** 预言系 (探知) 
+# **Spherescry** *Spherescry*
 
-    **环位** 术士/法师 3
+**学派** 预言系 (探知) 
 
-    ## 🪄 施放
+**环位** 术士/法师 3
 
-    **施法时间** 1 小时
+## 🪄 施放
 
-    **成分** 语言, 姿势, 法器 (onyx sphere worth at least 50 gp)
+**施法时间** 1 小时
 
-    ## ✨ 效果  
+**成分** 语言, 姿势, 法器 (onyx sphere worth at least 50 gp)
 
-    **距离**   
+## ✨ 效果  
 
-    **持续时间** 1 minute/level 
+**距离**   
 
-    **法术抗力** 否
+**持续时间** 1 minute/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    This spell allows remote viewing through spheres that have previously consumed some portion of the spellcaster's body: a single digit of a finger or toe at a minimum. The caster can view and listen to events within a 20-foot radius of the associated sphere; this radius follows the sphere if the sphere moves. Unlike a true scrying spell, no other spells operate through the associated sphere, but spherescry produces no indication of its activity on the target and cannot be discovered by normal methods of magical detection.
+## 📖 描述
+
+This spell allows remote viewing through spheres that have previously consumed some portion of the spellcaster's body: a single digit of a finger or toe at a minimum. The caster can view and listen to events within a 20-foot radius of the associated sphere; this radius follows the sphere if the sphere moves. Unlike a true scrying spell, no other spells operate through the associated sphere, but spherescry produces no indication of its activity on the target and cannot be discovered by normal methods of magical detection.
     

@@ -1,39 +1,40 @@
 
-    ---
-    title: Dwarven Veil
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 牧师/先知法术, 2环法术, 圣武士法术, 战斗祭司法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Dwarven Veil
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 牧师/先知法术, 2环法术, 圣武士法术, 战斗祭司法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Dwarven Veil** *Dwarven Veil*
+---
 
-    **学派** 变化系 
+# **Dwarven Veil** *Dwarven Veil*
 
-    **环位** cleric/oracle 2, paladin 2, warpriest 2
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** cleric/oracle 2, paladin 2, warpriest 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature 
 
-    **持续时间** 10 minutes/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates (harmless)
+**持续时间** 10 minutes/level 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This spell enhances the target&rsquo;s dwarven or dwarf-like qualities, making it appear more attractive, personable, and worthy of respect and admiration by dwarves. The target is still recognizable as itself. The target gains a +2 circumstance bonus to checks to influence dwarves (such as Diplomacy, Intimidate, and so on).
+## 📖 描述
+
+This spell enhances the target&rsquo;s dwarven or dwarf-like qualities, making it appear more attractive, personable, and worthy of respect and admiration by dwarves. The target is still recognizable as itself. The target gains a +2 circumstance bonus to checks to influence dwarves (such as Diplomacy, Intimidate, and so on).
     

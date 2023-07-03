@@ -1,37 +1,38 @@
 
-    ---
-    title: Swipe
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 传送, 术士/法师法术, 3环法术, 吟游诗人法术, 2环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Swipe
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 传送, 术士/法师法术, 3环法术, 吟游诗人法术, 2环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Swipe** *Swipe*
+---
 
-    **学派** 咒法系 (传送) 
+# **Swipe** *Swipe*
 
-    **环位** 术士/法师 3, 吟游诗人 2
+**学派** 咒法系 (传送) 
 
-    ## 🪄 施放
+**环位** 术士/法师 3, 吟游诗人 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** one held item 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one held item 
 
-    **持续时间** 立即 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **法术抗力** 否
+**持续时间** 立即 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    By flicking a finger in the appropriate direction and proclaiming ownership, you attempt to magically wrest an item from the target's grip and summon it to your hand. To claim an object held by an opponent, you must make a CMB check-this check has a bonus equal to your caster level + your Intelligence, Wisdom, or Charisma modifier (whichever is highest). If you fail this check, the target retains the item and the spell fails. If you succeed, the item teleports into one of your free hands or comes to rest at your feet.
+## 📖 描述
+
+By flicking a finger in the appropriate direction and proclaiming ownership, you attempt to magically wrest an item from the target's grip and summon it to your hand. To claim an object held by an opponent, you must make a CMB check-this check has a bonus equal to your caster level + your Intelligence, Wisdom, or Charisma modifier (whichever is highest). If you fail this check, the target retains the item and the spell fails. If you succeed, the item teleports into one of your free hands or comes to rest at your feet.
     

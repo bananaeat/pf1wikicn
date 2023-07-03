@@ -1,37 +1,38 @@
 
-    ---
-    title: Tap inner beauty
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 牧师/先知法术, 1环法术, 吟游诗人法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Tap inner beauty
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 牧师/先知法术, 1环法术, 吟游诗人法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Tap inner beauty** *Tap inner beauty*
+---
 
-    **学派** 预言系 
+# **Tap inner beauty** *Tap inner beauty*
 
-    **环位** 牧师/先知 1, 吟游诗人 1, 女巫 1
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 牧师/先知 1, 吟游诗人 1, 女巫 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 minute/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 minute/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    This spell allows you to tap into the natural beauty of your soul and let it shine from your eyes and your speech. While the spell is active, you gain a +2 insight bonus on all Charisma ability checks and Charisma-based skill checks.
+## 📖 描述
+
+This spell allows you to tap into the natural beauty of your soul and let it shine from your eyes and your speech. While the spell is active, you gain a +2 insight bonus on all Charisma ability checks and Charisma-based skill checks.
     

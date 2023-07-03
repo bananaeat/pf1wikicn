@@ -1,41 +1,42 @@
 
-    ---
-    title: 魔力通道
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 2环法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 魔力通道
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 2环法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **魔力通道** *Eldritch conduit*
+---
 
-    **学派** 变化系 
+# **魔力通道** *Eldritch conduit*
 
-    **环位** 术士/法师 2, 女巫 2
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 女巫 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** one creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature 
 
-    **持续时间** 1 round/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    Originally created by a disciple of the archwizard Nex, this spell was used to turn enemy soldiers in Geb's undead armies into conduits capable of blasting spell energy back into the far reaches of the Gebite lines. Since then, it has become a favorite among arcane casters with an understanding of battlefield tactics.
+## 📖 描述
 
-    If the target of this spell fails to resist its effects with a Will save, he becomes outlined in faint radiance, as if via faerie fire. At any time before the eldritch conduit expires, you may cast another spell with an area effect of cone, cylinder, line, or sphere and use the subject of the eldritch conduit as the point of origin for that spell. Doing so ends the spell immediately. The target must be within close range (25 feet + 5 feet/2 levels) in order for you to use the conduit-if the target moves out of range, the eldritch conduit effect persists but cannot be utilized by you until you get back within range.
+Originally created by a disciple of the archwizard Nex, this spell was used to turn enemy soldiers in Geb's undead armies into conduits capable of blasting spell energy back into the far reaches of the Gebite lines. Since then, it has become a favorite among arcane casters with an understanding of battlefield tactics.
+
+If the target of this spell fails to resist its effects with a Will save, he becomes outlined in faint radiance, as if via faerie fire. At any time before the eldritch conduit expires, you may cast another spell with an area effect of cone, cylinder, line, or sphere and use the subject of the eldritch conduit as the point of origin for that spell. Doing so ends the spell immediately. The target must be within close range (25 feet + 5 feet/2 levels) in order for you to use the conduit-if the target moves out of range, the eldritch conduit effect persists but cannot be utilized by you until you get back within range.
     

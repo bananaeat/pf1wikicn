@@ -1,39 +1,40 @@
 
-    ---
-    title: Psychonaut manifestation
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 异能者法术, 2环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Psychonaut manifestation
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 异能者法术, 2环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Psychonaut manifestation** *Psychonaut manifestation*
+---
 
-    **学派** 惑控系 (胁迫) \[emotion, mind-affecting\] 
+# **Psychonaut manifestation** *Psychonaut manifestation*
 
-    **环位** 异能者 2
+**学派** 惑控系 (胁迫) \[emotion, mind-affecting\] 
 
-    ## 🪄 施放
+**环位** 异能者 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level (D) 
+**距离** 自身  
 
-    **豁免** see text
+**持续时间** 1 round/level (D) 
 
-    **法术抗力** 否
+**豁免** see text
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You take a mental journey through the doors of perception to enter an altered state of consciousness. Despite this hallucinatory transmigration being entirely unreal, your mind and body fully react to it. You gain a +4 alchemical bonus to a random ability score, as well as a corresponding -2 penalty. If the bonus applies to Strength, the penalty applies to Intelligence, and vice versa. If the bonus applies to Dexterity, the penalty applies to Wisdom, and vice versa. If the bonus applies to Constitution, the penalty applies to Charisma, and vice versa. Each round as a standard action, you can explore the nooks and crannies of your imagination to further alter your corporal self. If you do so, attempt a Will save against the spell's save DC. If you succeed, randomly select another ability score and change the alchemical bonus and associated penalty accordingly. If you fail, you are dazed for 1 round instead as your mind reels from learning unexpected truths about yourself.
+## 📖 描述
+
+You take a mental journey through the doors of perception to enter an altered state of consciousness. Despite this hallucinatory transmigration being entirely unreal, your mind and body fully react to it. You gain a +4 alchemical bonus to a random ability score, as well as a corresponding -2 penalty. If the bonus applies to Strength, the penalty applies to Intelligence, and vice versa. If the bonus applies to Dexterity, the penalty applies to Wisdom, and vice versa. If the bonus applies to Constitution, the penalty applies to Charisma, and vice versa. Each round as a standard action, you can explore the nooks and crannies of your imagination to further alter your corporal self. If you do so, attempt a Will save against the spell's save DC. If you succeed, randomly select another ability score and change the alchemical bonus and associated penalty accordingly. If you fail, you are dazed for 1 round instead as your mind reels from learning unexpected truths about yourself.
     

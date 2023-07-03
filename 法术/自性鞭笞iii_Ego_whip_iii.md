@@ -1,39 +1,40 @@
 
-    ---
-    title: 自性鞭笞iii
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 异能者法术, 5环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 自性鞭笞iii
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 异能者法术, 5环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **自性鞭笞iii** *Ego whip iii*
+---
 
-    **学派** 惑控系 (胁迫) \[emotion, mind-affecting\] 
+# **自性鞭笞iii** *Ego whip iii*
 
-    **环位** 异能者 5
+**学派** 惑控系 (胁迫) \[emotion, mind-affecting\] 
 
-    ## 🪄 施放
+**环位** 异能者 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 姿势
 
-    **目标** one creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature 
 
-    **持续时间** 1 round/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will partial
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Will partial
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This functions as ego whip I, but the target takes a -6 penalty to the chosen ability score and is staggered for 1d6 rounds on a failed Will save. This spell can be undercast.
+## 📖 描述
+
+This functions as ego whip I, but the target takes a -6 penalty to the chosen ability score and is staggered for 1d6 rounds on a failed Will save. This spell can be undercast.
     

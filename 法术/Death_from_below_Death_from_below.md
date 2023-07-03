@@ -1,39 +1,40 @@
 
-    ---
-    title: Death from below
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 术士/法师法术, 2环法术, 吟游诗人法术, 3环法术, 血脉狂怒者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Death from below
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 术士/法师法术, 2环法术, 吟游诗人法术, 3环法术, 血脉狂怒者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Death from below** *Death from below*
+---
 
-    **学派** 防护系 
+# **Death from below** *Death from below*
 
-    **环位** 术士/法师 2, 吟游诗人 3, 血脉狂怒者 2
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 吟游诗人 3, 血脉狂怒者 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 1 round/level 
+**距离** 接触  
 
-    **豁免** Fortitude negates (harmless)
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Fortitude negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You grant the target a dodge bonus to its Armor Class against attacks from larger creatures. The bonus is equal to +1 for every size category the attacker is larger than the target of the spell, to a maximum of +1 per 3 caster levels. If the spell's target is a gnome, the maximum bonus is equal to +1 per 2 caster levels.
+## 📖 描述
+
+You grant the target a dodge bonus to its Armor Class against attacks from larger creatures. The bonus is equal to +1 for every size category the attacker is larger than the target of the spell, to a maximum of +1 per 3 caster levels. If the spell's target is a gnome, the maximum bonus is equal to +1 per 2 caster levels.
     

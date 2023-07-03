@@ -1,41 +1,42 @@
 
-    ---
-    title: Track ship
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 探知, travel, 术士/法师法术, 2环法术, 牧师/先知法术, 吟游诗人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Track ship
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 探知, travel, 术士/法师法术, 2环法术, 牧师/先知法术, 吟游诗人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Track ship** *Track ship*
+---
 
-    **学派** 预言系 (探知) \[travel\] 
+# **Track ship** *Track ship*
 
-    **环位** 术士/法师 2, 牧师/先知 2, 吟游诗人 2
+**学派** 预言系 (探知) \[travel\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 牧师/先知 2, 吟游诗人 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 法器 (piece of ship)
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势, 法器 (piece of ship)
 
-    **距离**  
+## ✨ 效果  
 
-    **效果** magical icon 
+**距离**  
 
-    **持续时间** 1 hour/level 
+**效果** magical icon 
 
-    **豁免** Will negates (object)
+**持续时间** 1 hour/level 
 
-    **法术抗力** 是
+**豁免** Will negates (object)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    In order to cast this spell, you must have a piece of the ship you wish to track. Merchants often preserve slivers from their trade ships specifically for this purpose. You also need a nautical chart.
+## 📖 描述
 
-    When you cast this spell, an icon of the targeted ship appears on the nautical chart. The icon moves as the ship moves for the duration of this spell. If the ship is not within the area delineated by the chart, the spell fails. If the ship is reduced to 0 or fewer hit points, its icon changes from a ship to a skull and crossbones.
+In order to cast this spell, you must have a piece of the ship you wish to track. Merchants often preserve slivers from their trade ships specifically for this purpose. You also need a nautical chart.
+
+When you cast this spell, an icon of the targeted ship appears on the nautical chart. The icon moves as the ship moves for the duration of this spell. If the ship is not within the area delineated by the chart, the spell fails. If the ship is reduced to 0 or fewer hit points, its icon changes from a ship to a skull and crossbones.
     

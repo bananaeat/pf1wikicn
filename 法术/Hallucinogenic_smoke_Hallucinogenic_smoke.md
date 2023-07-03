@@ -1,39 +1,40 @@
 
-    ---
-    title: Hallucinogenic smoke
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 咒法系, 毒素, 牧师/先知法术, 4环法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Hallucinogenic smoke
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 咒法系, 毒素, 牧师/先知法术, 4环法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Hallucinogenic smoke** *Hallucinogenic smoke*
+---
 
-    **学派** 咒法系 \[毒素\] 
+# **Hallucinogenic smoke** *Hallucinogenic smoke*
 
-    **环位** 牧师/先知 4, 女巫 4
+**学派** 咒法系 \[毒素\] 
 
-    ## 🪄 施放
+**环位** 牧师/先知 4, 女巫 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 3 rounds/level or until discharged; see text 
+**距离** 自身  
 
-    **豁免** Fortitude partial
+**持续时间** 3 rounds/level or until discharged; see text 
 
-    **法术抗力** 是
+**豁免** Fortitude partial
 
-    ## 📖 描述
+**法术抗力** 是
 
-    Dark gray smoke seeps from your eyes, ears, and mouth for the spell's duration, though the smoke doesn't significantly hamper your vision. Upon casting the spell, you may immediately exhale the smoke in a 30-foot cone or do so in a later round as a standard action, ending the spell. Each living creature caught within the cone must succeed at a Fortitude save or be nauseated for 1 round per caster level as it is wracked with waves of nausea and disorienting visions. If it succeeds at its Fortitude save, the creature is instead sickened for 1d4 rounds.  If you don't expel the smoke by the end of the spell's duration, you suffer the spell's effects instead.  If you cast augury during the duration of hallucinogenic smoke, treat your caster level as 5 higher when determining the chance for a meaningful reply. Additionally, you know whether a result of "nothing" resulted from a failed or successful augury.
+## 📖 描述
+
+Dark gray smoke seeps from your eyes, ears, and mouth for the spell's duration, though the smoke doesn't significantly hamper your vision. Upon casting the spell, you may immediately exhale the smoke in a 30-foot cone or do so in a later round as a standard action, ending the spell. Each living creature caught within the cone must succeed at a Fortitude save or be nauseated for 1 round per caster level as it is wracked with waves of nausea and disorienting visions. If it succeeds at its Fortitude save, the creature is instead sickened for 1d4 rounds.  If you don't expel the smoke by the end of the spell's duration, you suffer the spell's effects instead.  If you cast augury during the duration of hallucinogenic smoke, treat your caster level as 5 higher when determining the chance for a meaningful reply. Additionally, you know whether a result of "nothing" resulted from a failed or successful augury.
     

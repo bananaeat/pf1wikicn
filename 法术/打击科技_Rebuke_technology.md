@@ -1,41 +1,42 @@
 
-    ---
-    title: 打击科技
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 术士/法师法术, 4环法术, 德鲁伊法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 打击科技
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 术士/法师法术, 4环法术, 德鲁伊法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **打击科技** *Rebuke technology*
+---
 
-    **学派** 防护系 
+# **打击科技** *Rebuke technology*
 
-    **环位** 术士/法师 4, 德鲁伊 4, 猎人 4
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 术士/法师 4, 德鲁伊 4, 猎人 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 法器 (powdered fragments of technology), 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 法器 (powdered fragments of technology), 圣徽
 
-    **目标** one technological object or creature 
+## ✨ 效果 
 
-    **距离** 中距 (100尺+10尺/等级)  
+**目标** one technological object or creature 
 
-    **持续时间** 1 round/level 
+**距离** 中距 (100尺+10尺/等级)  
 
-    **豁免** Fortitude negates (object)
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Fortitude negates (object)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You shroud the targeted technological object or creature (such as a robot or a nanotech swarm) with magical energy.
+## 📖 描述
 
-    If the targeted creature fails to resist the spell, it is rendered inert and unusable (or unconscious in the case of creatures) for the spell's duration. A creature can attempt a new Fortitude saving throw to end the effect early at the end of its turn after the first full round it is affected by this spell.
+You shroud the targeted technological object or creature (such as a robot or a nanotech swarm) with magical energy.
+
+If the targeted creature fails to resist the spell, it is rendered inert and unusable (or unconscious in the case of creatures) for the spell's duration. A creature can attempt a new Fortitude saving throw to end the effect early at the end of its turn after the first full round it is affected by this spell.
     

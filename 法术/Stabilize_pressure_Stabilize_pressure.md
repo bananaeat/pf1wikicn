@@ -1,39 +1,40 @@
 
-    ---
-    title: Stabilize pressure
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 牧师/先知法术, 2环法术, 德鲁伊法术, 游侠法术, 圣武士法术, 炼金术师法术, 召唤师法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 猎人法术, unchained 召唤师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Stabilize pressure
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 牧师/先知法术, 2环法术, 德鲁伊法术, 游侠法术, 圣武士法术, 炼金术师法术, 召唤师法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 猎人法术, unchained 召唤师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Stabilize pressure** *Stabilize pressure*
+---
 
-    **学派** 防护系 
+# **Stabilize pressure** *Stabilize pressure*
 
-    **环位** 牧师/先知 2, 德鲁伊 2, 游侠 2, 圣武士 2, 炼金术师 2, 召唤师 2, 血脉狂怒者 2, 萨满 2, 异能者 2, 猎人 2, unchained 召唤师 2
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 牧师/先知 2, 德鲁伊 2, 游侠 2, 圣武士 2, 炼金术师 2, 召唤师 2, 血脉狂怒者 2, 萨满 2, 异能者 2, 猎人 2, unchained 召唤师 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 立即 
+**距离** 接触  
 
-    **豁免** Fortitude negates (harmless)
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Fortitude negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You instantly stabilize the target's pressure, causing it to adjust to its current pressure all at once. This doesn't help it readjust to future pressure changes.
+## 📖 描述
+
+You instantly stabilize the target's pressure, causing it to adjust to its current pressure all at once. This doesn't help it readjust to future pressure changes.
     

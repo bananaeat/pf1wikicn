@@ -1,37 +1,38 @@
 
-    ---
-    title: Dragon turtle shell
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 术士/法师法术, 3环法术, 牧师/先知法术, 德鲁伊法术, 2环法术, 炼金术师法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Dragon turtle shell
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 术士/法师法术, 3环法术, 牧师/先知法术, 德鲁伊法术, 2环法术, 炼金术师法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Dragon turtle shell** *Dragon turtle shell*
+---
 
-    **学派** 防护系 
+# **Dragon turtle shell** *Dragon turtle shell*
 
-    **环位** 术士/法师 3, 牧师/先知 3, 德鲁伊 2, 炼金术师 3, 猎人 2
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 术士/法师 3, 牧师/先知 3, 德鲁伊 2, 炼金术师 3, 猎人 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    When you are struck by an opponent's natural attacks, the damage is resolved as if the attack came from a creature one size smaller per 5 caster levels (maximum of four size categories smaller at CL 20th). Refer to Table 3-1 in the Pathfinder RPG Bestiary to determine an attack's altered base damage. If the creature's natural attack deals nonstandard damage, refer instead to the Improved Natural Attack feat on page 315 of the Bestiary. It is not possible to reduce the base damage of a creature's natural attack below 1d2 with this spell.
+## 📖 描述
+
+When you are struck by an opponent's natural attacks, the damage is resolved as if the attack came from a creature one size smaller per 5 caster levels (maximum of four size categories smaller at CL 20th). Refer to Table 3-1 in the Pathfinder RPG Bestiary to determine an attack's altered base damage. If the creature's natural attack deals nonstandard damage, refer instead to the Improved Natural Attack feat on page 315 of the Bestiary. It is not possible to reduce the base damage of a creature's natural attack below 1d2 with this spell.
     

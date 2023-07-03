@@ -1,39 +1,40 @@
 
-    ---
-    title: Preserve grace
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 善良, 牧师/先知法术, 2环法术, 圣武士法术, 1环法术, 审判者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Preserve grace
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 善良, 牧师/先知法术, 2环法术, 圣武士法术, 1环法术, 审判者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Preserve grace** *Preserve grace*
+---
 
-    **学派** 预言系 \[善良\] 
+# **Preserve grace** *Preserve grace*
 
-    **环位** 牧师/先知 2, 圣武士 1, 审判者 1
+**学派** 预言系 \[善良\] 
 
-    ## 🪄 施放
+**环位** 牧师/先知 2, 圣武士 1, 审判者 1
 
-    **施法时间** 1 分钟
+## 🪄 施放
 
-    **成分** 语言, 姿势, 法器 (a silver hand mirror worth 50 gp)
+**施法时间** 1 分钟
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 法器 (a silver hand mirror worth 50 gp)
 
-    **目标** one good-aligned creature 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** one good-aligned creature 
 
-    **持续时间** 1 day 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 1 day 
 
-    **法术抗力** 否
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 否
 
-    The Lantern Bearers must often make difficult decisions during their missions, such as determining what to do with captured enemies-should they be executed, imprisoned, set free, or given a chance to mend their ways? With this spell, you grant a creature the ability to foresee moral consequences, as if the creature were wearing a phylactery of faithfulness. The spell's guidance focuses on the protection of beauty and encourages peaceful resolution and mercy.
+## 📖 描述
+
+The Lantern Bearers must often make difficult decisions during their missions, such as determining what to do with captured enemies-should they be executed, imprisoned, set free, or given a chance to mend their ways? With this spell, you grant a creature the ability to foresee moral consequences, as if the creature were wearing a phylactery of faithfulness. The spell's guidance focuses on the protection of beauty and encourages peaceful resolution and mercy.
     

@@ -1,39 +1,40 @@
 
-    ---
-    title: Rune of warding
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 术士/法师法术, 3环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Rune of warding
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 术士/法师法术, 3环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Rune of warding** *Rune of warding*
+---
 
-    **学派** 防护系 
+# **Rune of warding** *Rune of warding*
 
-    **环位** 术士/法师 3
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 术士/法师 3
 
-    **施法时间** 1 小时
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 小时
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** doorway or portal touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** doorway or portal touched 
 
-    **持续时间** permanent until discharged 
+**距离** 接触  
 
-    **豁免** Reflex half
+**持续时间** permanent until discharged 
 
-    **法术抗力** 否
+**豁免** Reflex half
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You inscribe a series of runes upon the surface of a door or around the border of an entryway. They function as a Glyph of Warding (blast glyph), though unlike a Glyph of Warding, these runes are always visible. The runes count as a Glyph of Warding for the purpose of what spells can defeat it, placing multiple glyphs in the same area, and so on.
+## 📖 描述
+
+You inscribe a series of runes upon the surface of a door or around the border of an entryway. They function as a Glyph of Warding (blast glyph), though unlike a Glyph of Warding, these runes are always visible. The runes count as a Glyph of Warding for the purpose of what spells can defeat it, placing multiple glyphs in the same area, and so on.
     

@@ -1,39 +1,40 @@
 
-    ---
-    title: Bite the hand
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, 术士/法师法术, 4环法术, 德鲁伊法术, 3环法术, 召唤师法术, 女巫法术, 审判者法术, 猎人法术, unchained 召唤师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Bite the hand
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, 术士/法师法术, 4环法术, 德鲁伊法术, 3环法术, 召唤师法术, 女巫法术, 审判者法术, 猎人法术, unchained 召唤师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Bite the hand** *Bite the hand*
+---
 
-    **学派** 惑控系 (胁迫) 
+# **Bite the hand** *Bite the hand*
 
-    **环位** 术士/法师 4, 德鲁伊 3, 召唤师 3, 女巫 4, 审判者 3, 猎人 3, unchained 召唤师 3
+**学派** 惑控系 (胁迫) 
 
-    ## 🪄 施放
+**环位** 术士/法师 4, 德鲁伊 3, 召唤师 3, 女巫 4, 审判者 3, 猎人 3, unchained 召唤师 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 圣徽
 
-    **目标** one creature summoned by a spell or spell-like ability 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature summoned by a spell or spell-like ability 
 
-    **持续时间** 1 round/level (D) 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates
+**持续时间** 1 round/level (D) 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    With a short command and a wave of the hand, you compel the target creature to attack the being who summoned it, to the best of its ability. If the being who summoned it is not present, the creature acts normally according to its last task or instructions. This spell has no effect on called creatures, summoned creatures not brought forth by spells or spell-like abilities (such as a summoner's eidolon), or bonded creatures not explicitly summoned, such as a paladin's mount or wizard's familiar.
+## 📖 描述
+
+With a short command and a wave of the hand, you compel the target creature to attack the being who summoned it, to the best of its ability. If the being who summoned it is not present, the creature acts normally according to its last task or instructions. This spell has no effect on called creatures, summoned creatures not brought forth by spells or spell-like abilities (such as a summoner's eidolon), or bonded creatures not explicitly summoned, such as a paladin's mount or wizard's familiar.
     

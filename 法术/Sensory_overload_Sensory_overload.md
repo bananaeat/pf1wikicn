@@ -1,39 +1,40 @@
 
-    ---
-    title: Sensory overload
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 2环法术, 女巫法术, 异能者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Sensory overload
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 2环法术, 女巫法术, 异能者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Sensory overload** *Sensory overload*
+---
 
-    **学派** 惑控系 (胁迫) \[影响心灵\] 
+# **Sensory overload** *Sensory overload*
 
-    **环位** 术士/法师 2, 女巫 2, 异能者 2
+**学派** 惑控系 (胁迫) \[影响心灵\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 女巫 2, 异能者 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** 1 creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** 1 creature 
 
-    **持续时间** 1 round/level 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will negates (see text)
+**持续时间** 1 round/level 
 
-    **法术抗力** 是
+**豁免** Will negates (see text)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You overload the target creature's senses, making it difficult for the target to concentrate. For the duration of the effect, the target must succeed at a Will save at the same DC as the original effect to perform any standard or full-round action. On a failure,  the creature loses the action that triggered the saving throw. If successful, the creature is able to take the action, but this spell effect is not negated.
+## 📖 描述
+
+You overload the target creature's senses, making it difficult for the target to concentrate. For the duration of the effect, the target must succeed at a Will save at the same DC as the original effect to perform any standard or full-round action. On a failure,  the creature loses the action that triggered the saving throw. If successful, the creature is able to take the action, but this spell effect is not negated.
     

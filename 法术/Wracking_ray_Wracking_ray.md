@@ -1,39 +1,40 @@
 
-    ---
-    title: Wracking ray
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 死灵系, evil, pain, 术士/法师法术, 5环法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Wracking ray
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 死灵系, evil, pain, 术士/法师法术, 5环法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Wracking ray** *Wracking ray*
+---
 
-    **学派** 死灵系 \[evil, pain\] 
+# **Wracking ray** *Wracking ray*
 
-    **环位** 术士/法师 5, 女巫 5
+**学派** 死灵系 \[evil, pain\] 
 
-    ## 🪄 施放
+**环位** 术士/法师 5, 女巫 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 材料
 
-    **距离** 中距 (100尺+10尺/等级) 
+## ✨ 效果  
 
-    **效果** ray 
+**距离** 中距 (100尺+10尺/等级) 
 
-    **持续时间** 立即 
+**效果** ray 
 
-    **豁免** Fortitude half
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Fortitude half
 
-    ## 📖 描述
+**法术抗力** 是
 
-    A ray of sickly greenish-gray negative energy issues forth from the palm of your hand. Make a ranged touch attack against the target. A creature hit by this spell is wracked by painful spasms as its muscles and sinews wither and twist. The subject takes 1d4 points of Dexterity and Strength damage per 3 caster levels you possess (maximum 5d4 each). This spell cannot reduce an ability score below 1. A successful Fortitude save halves the damage.
+## 📖 描述
+
+A ray of sickly greenish-gray negative energy issues forth from the palm of your hand. Make a ranged touch attack against the target. A creature hit by this spell is wracked by painful spasms as its muscles and sinews wither and twist. The subject takes 1d4 points of Dexterity and Strength damage per 3 caster levels you possess (maximum 5d4 each). This spell cannot reduce an ability score below 1. A successful Fortitude save halves the damage.
     

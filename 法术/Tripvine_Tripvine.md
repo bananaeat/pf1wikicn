@@ -1,41 +1,42 @@
 
-    ---
-    title: Tripvine
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 1环法术, 德鲁伊法术, 吟游诗人法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Tripvine
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 1环法术, 德鲁伊法术, 吟游诗人法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Tripvine** *Tripvine*
+---
 
-    **学派** 变化系 
+# **Tripvine** *Tripvine*
 
-    **环位** 术士/法师 1, 德鲁伊 1, 吟游诗人 1, 猎人 1
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 德鲁伊 1, 吟游诗人 1, 猎人 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** 10-foot-long rope or vine 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** 10-foot-long rope or vine 
 
-    **持续时间** 10 minutes/level 
+**距离** 接触  
 
-    **豁免** Reflex negates
+**持续时间** 10 minutes/level 
 
-    **法术抗力** 否
+**豁免** Reflex negates
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You animate a rope, vine, or similar object so that it attempts to trip any creature that comes near. The rope attacks anything in a 10-foot-square area you designate. The rope does not provoke an attack of opportunity. Its CMB is equal to your caster level +2. A tripped target that was running, jumping, or charging takes 1d6 points of nonlethal damage. Creatures aware of the tripvine gain a +4 bonus to their CMD against it.
+## 📖 描述
 
-    The Green Faith created this spell, but it is now common.
+You animate a rope, vine, or similar object so that it attempts to trip any creature that comes near. The rope attacks anything in a 10-foot-square area you designate. The rope does not provoke an attack of opportunity. Its CMB is equal to your caster level +2. A tripped target that was running, jumping, or charging takes 1d6 points of nonlethal damage. Creatures aware of the tripvine gain a +4 bonus to their CMD against it.
+
+The Green Faith created this spell, but it is now common.
     

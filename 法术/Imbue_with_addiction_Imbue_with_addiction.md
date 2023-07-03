@@ -1,39 +1,40 @@
 
-    ---
-    title: Imbue with addiction
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 3环法术, 炼金术师法术, 2环法术, 女巫法术, 催眠师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Imbue with addiction
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 3环法术, 炼金术师法术, 2环法术, 女巫法术, 催眠师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Imbue with addiction** *Imbue with addiction*
+---
 
-    **学派** 变化系 
+# **Imbue with addiction** *Imbue with addiction*
 
-    **环位** 术士/法师 3, 炼金术师 2, 女巫 3, 催眠师 3
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 3, 炼金术师 2, 女巫 3, 催眠师 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** one living creature 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** one living creature 
 
-    **持续时间** 立即 
+**距离** 接触  
 
-    **豁免** Fortitude negates
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Fortitude negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The target immediately becomes addicted to the drug used as the material component during the casting of the spell. If the target was ever addicted to the drug at any point in the past, it takes a -4 penalty on its saving throw.
+## 📖 描述
+
+The target immediately becomes addicted to the drug used as the material component during the casting of the spell. If the target was ever addicted to the drug at any point in the past, it takes a -4 penalty on its saving throw.
     

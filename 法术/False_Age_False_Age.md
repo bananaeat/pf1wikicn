@@ -1,37 +1,38 @@
 
-    ---
-    title: False Age
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 炼金术士法术, 2环法术, 奥能师法术, 吟游诗人法术, 调查员法术, 异能者法术, 歌者法术, 法师/术士法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: False Age
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 炼金术士法术, 2环法术, 奥能师法术, 吟游诗人法术, 调查员法术, 异能者法术, 歌者法术, 法师/术士法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **False Age** *False Age*
+---
 
-    **学派** 变化系 
+# **False Age** *False Age*
 
-    **环位** alchemist 2, arcanist 2, bard 2, investigator 2, psychic 2, skald 2, sorcerer/wizard 2, witch 2
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** alchemist 2, arcanist 2, bard 2, investigator 2, psychic 2, skald 2, sorcerer/wizard 2, witch 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 10 minutes/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 10 minutes/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    Half-elves are accustomed to aging at a different rate from those close to them and can temporarily present themselves at a different age. Select an age category within one step of your actual age category, either older or younger. Your appearance changes to match your age for the chosen category. Your ability scores increase or decrease as appropriate for your chosen age category.
+## 📖 描述
+
+Half-elves are accustomed to aging at a different rate from those close to them and can temporarily present themselves at a different age. Select an age category within one step of your actual age category, either older or younger. Your appearance changes to match your age for the chosen category. Your ability scores increase or decrease as appropriate for your chosen age category.
     

@@ -1,35 +1,36 @@
 
-    ---
-    title: Bless army
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 惑控系, 胁迫, 影响心灵, 牧师/先知法术, 6环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Bless army
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 惑控系, 胁迫, 影响心灵, 牧师/先知法术, 6环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Bless army** *Bless army*
+---
 
-    **学派** 惑控系 (胁迫) \[影响心灵\] 
+# **Bless army** *Bless army*
 
-    **环位** 牧师/先知 6
+**学派** 惑控系 (胁迫) \[影响心灵\] 
 
-    ## 🪄 施放
+**环位** 牧师/先知 6
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果  
+**成分** 语言, 姿势, 圣徽
 
-    **距离**   
+## ✨ 效果  
 
-    **持续时间** 1 battle 
+**距离**   
 
-    **法术抗力** 是
+**持续时间** 1 battle 
 
-    ## 📖 描述
+**法术抗力** 是
 
-    Bless army fills an army with courage. The army gains a +1 bonus on OM and Morale checks.
+## 📖 描述
+
+Bless army fills an army with courage. The army gains a +1 bonus on OM and Morale checks.
     

@@ -1,39 +1,40 @@
 
-    ---
-    title: Pierce facade
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 预言系, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 炼金术师法术, 女巫法术, 审判者法术, 异能者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Pierce facade
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 预言系, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 炼金术师法术, 女巫法术, 审判者法术, 异能者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Pierce facade** *Pierce facade*
+---
 
-    **学派** 预言系 
+# **Pierce facade** *Pierce facade*
 
-    **环位** 术士/法师 1, 牧师/先知 1, 吟游诗人 1, 炼金术师 1, 女巫 1, 审判者 1, 异能者 1
+**学派** 预言系 
 
-    ## 🪄 施放
+**环位** 术士/法师 1, 牧师/先知 1, 吟游诗人 1, 炼金术师 1, 女巫 1, 审判者 1, 异能者 1
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料, 圣徽
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 10 minutes/level 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 10 minutes/level 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The target gains a +5 insight bonus on Perception checks to see through disguises. This bonus increases to +10 at caster level 7th.
+## 📖 描述
+
+The target gains a +5 insight bonus on Perception checks to see through disguises. This bonus increases to +10 at caster level 7th.
     

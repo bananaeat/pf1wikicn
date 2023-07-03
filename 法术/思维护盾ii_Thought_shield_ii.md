@@ -1,37 +1,38 @@
 
-    ---
-    title: 思维护盾ii
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 异能者法术, 3环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 思维护盾ii
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 异能者法术, 3环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **思维护盾ii** *Thought shield ii*
+---
 
-    **学派** 防护系 
+# **思维护盾ii** *Thought shield ii*
 
-    **环位** 异能者 3
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 异能者 3
 
-    **施法时间** 1 immediate
+## 🪄 施放
 
-    **成分** 语言
+**施法时间** 1 immediate
 
-    ## ✨ 效果 
+**成分** 语言
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    This functions as thought shield I, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +6. This spell can be undercast.
+## 📖 描述
+
+This functions as thought shield I, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +6. This spell can be undercast.
     

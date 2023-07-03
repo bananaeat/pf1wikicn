@@ -1,37 +1,38 @@
 
-    ---
-    title: Bit of luck
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 术士/法师法术, 4环法术, 牧师/先知法术, 吟游诗人法术, 3环法术, 炼金术师法术, 女巫法术, 萨满法术, 异能者法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Bit of luck
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 术士/法师法术, 4环法术, 牧师/先知法术, 吟游诗人法术, 3环法术, 炼金术师法术, 女巫法术, 萨满法术, 异能者法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Bit of luck** *Bit of luck*
+---
 
-    **学派** 塑能系 
+# **Bit of luck** *Bit of luck*
 
-    **环位** 术士/法师 4, 牧师/先知 4, 吟游诗人 3, 炼金术师 4, 女巫 4, 萨满 4, 异能者 4
+**学派** 塑能系 
 
-    ## 🪄 施放
+**环位** 术士/法师 4, 牧师/先知 4, 吟游诗人 3, 炼金术师 4, 女巫 4, 萨满 4, 异能者 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 10 minutes/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 10 minutes/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    For the spell's duration, the caster gains a reservoir of luck with a total number of points equal to 1 point per 2 caster levels. During the spell's duration, the caster can spend 1 point from this reservoir when making an attack roll or skill check to add a +1d8 luck bonus to the d20 roll's result. This bonus can be added before or after the roll or check's result is revealed, and if this bonus is large enough to turn a failure into a success, the roll succeeds. The spell instantly ends when all points are expended or when it is cast on the target again.  An 8th-level caster can instead spend 4 points to add a +2d8 luck bonus, and a 16th-level caster can spend 8 luck points to instead add a +3d8 luck bonus.
+## 📖 描述
+
+For the spell's duration, the caster gains a reservoir of luck with a total number of points equal to 1 point per 2 caster levels. During the spell's duration, the caster can spend 1 point from this reservoir when making an attack roll or skill check to add a +1d8 luck bonus to the d20 roll's result. This bonus can be added before or after the roll or check's result is revealed, and if this bonus is large enough to turn a failure into a success, the roll succeeds. The spell instantly ends when all points are expended or when it is cast on the target again.  An 8th-level caster can instead spend 4 points to add a +2d8 luck bonus, and a 16th-level caster can spend 8 luck points to instead add a +3d8 luck bonus.
     

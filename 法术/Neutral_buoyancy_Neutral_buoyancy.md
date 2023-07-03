@@ -1,39 +1,40 @@
 
-    ---
-    title: Neutral buoyancy
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 德鲁伊法术, 2环法术, 游侠法术, 吟游诗人法术, 炼金术师法术, 萨满法术, 异能者法术, 通灵者法术, 秘学士法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Neutral buoyancy
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 德鲁伊法术, 2环法术, 游侠法术, 吟游诗人法术, 炼金术师法术, 萨满法术, 异能者法术, 通灵者法术, 秘学士法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Neutral buoyancy** *Neutral buoyancy*
+---
 
-    **学派** 塑能系 
+# **Neutral buoyancy** *Neutral buoyancy*
 
-    **环位** 德鲁伊 2, 游侠 2, 吟游诗人 2, 炼金术师 2, 萨满 2, 异能者 2, 通灵者 2, 秘学士 2, 猎人 2
+**学派** 塑能系 
 
-    ## 🪄 施放
+**环位** 德鲁伊 2, 游侠 2, 吟游诗人 2, 炼金术师 2, 萨满 2, 异能者 2, 通灵者 2, 秘学士 2, 猎人 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料, 圣徽
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 10 minutes/level 
+**距离** 接触  
 
-    **豁免** Will negates
+**持续时间** 10 minutes/level 
 
-    **法术抗力** 是
+**豁免** Will negates
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The target's buoyancy becomes and stays neutral, regardless of how dense the target and its gear are. Among other effects, the target neither sinks nor rises when it doesn't attempt a Swim check, making it easier to stay put while performing demanding actions or when helpless or disabled, and the target can swim up and down with equal ease.
+## 📖 描述
+
+The target's buoyancy becomes and stays neutral, regardless of how dense the target and its gear are. Among other effects, the target neither sinks nor rises when it doesn't attempt a Swim check, making it easier to stay put while performing demanding actions or when helpless or disabled, and the target can swim up and down with equal ease.
     

@@ -1,37 +1,38 @@
 
-    ---
-    title: Titanic anchoring
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 牧师/先知法术, 3环法术, 游侠法术, 圣武士法术, 反圣武士法术, 魔战士法术, 血脉狂怒者法术, 猎人法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Titanic anchoring
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 牧师/先知法术, 3环法术, 游侠法术, 圣武士法术, 反圣武士法术, 魔战士法术, 血脉狂怒者法术, 猎人法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Titanic anchoring** *Titanic anchoring*
+---
 
-    **学派** 变化系 
+# **Titanic anchoring** *Titanic anchoring*
 
-    **环位** 牧师/先知 3, 游侠 3, 圣武士 3, 反圣武士 3, 魔战士 3, 血脉狂怒者 3, 猎人 3
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 牧师/先知 3, 游侠 3, 圣武士 3, 反圣武士 3, 魔战士 3, 血脉狂怒者 3, 猎人 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You become grounded and nearly immovable. You are immune to the pull and push special abilities, and all bull rush, grapple, overrun, reposition, and trip combat maneuvers made by creatures your size or smaller always fail. You gain a +10 bonus to your CMD against those combat maneuver checks made by creatures larger than you.
+## 📖 描述
+
+You become grounded and nearly immovable. You are immune to the pull and push special abilities, and all bull rush, grapple, overrun, reposition, and trip combat maneuvers made by creatures your size or smaller always fail. You gain a +10 bonus to your CMD against those combat maneuver checks made by creatures larger than you.
     

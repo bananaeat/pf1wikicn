@@ -1,39 +1,40 @@
 
-    ---
-    title: Barghest feast
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 邪恶, 炼金术师法术, 3环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Barghest feast
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 邪恶, 炼金术师法术, 3环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Barghest feast** *Barghest feast*
+---
 
-    **学派** 变化系 \[邪恶\] 
+# **Barghest feast** *Barghest feast*
 
-    **环位** 炼金术师 3
+**学派** 变化系 \[邪恶\] 
 
-    ## 🪄 施放
+**环位** 炼金术师 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 姿势
 
-    **目标** creature touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** creature touched 
 
-    **持续时间** 10 minutes/level; see text 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 10 minutes/level; see text 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The target gains the ability to absorb power from devouring a humanoid corpse. To use this ability, the target must feed on the corpse of one nonevil humanoid creature, a process that takes 1 full round per Hit Die the creature had and provokes attacks of opportunity. For every 2 rounds it feeds on the corpse in this way, the target gains a +1 profane bonus on attack rolls, saving throws, and skill checks (to a maximum of +5).
+## 📖 描述
+
+The target gains the ability to absorb power from devouring a humanoid corpse. To use this ability, the target must feed on the corpse of one nonevil humanoid creature, a process that takes 1 full round per Hit Die the creature had and provokes attacks of opportunity. For every 2 rounds it feeds on the corpse in this way, the target gains a +1 profane bonus on attack rolls, saving throws, and skill checks (to a maximum of +5).
     

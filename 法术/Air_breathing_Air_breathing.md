@@ -1,39 +1,40 @@
 
-    ---
-    title: Air breathing
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 术士/法师法术, 3环法术, 牧师/先知法术, 德鲁伊法术, 炼金术师法术, 召唤师法术, 魔战士法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 猎人法术, unchained 召唤师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Air breathing
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 术士/法师法术, 3环法术, 牧师/先知法术, 德鲁伊法术, 炼金术师法术, 召唤师法术, 魔战士法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 猎人法术, unchained 召唤师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Air breathing** *Air breathing*
+---
 
-    **学派** 变化系 
+# **Air breathing** *Air breathing*
 
-    **环位** 术士/法师 3, 牧师/先知 3, 德鲁伊 3, 炼金术师 3, 召唤师 3, 魔战士 3, 血脉狂怒者 3, 萨满 3, 异能者 3, 猎人 3, unchained 召唤师 3
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** 术士/法师 3, 牧师/先知 3, 德鲁伊 3, 炼金术师 3, 召唤师 3, 魔战士 3, 血脉狂怒者 3, 萨满 3, 异能者 3, 猎人 3, unchained 召唤师 3
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料, 圣徽
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料, 圣徽
 
-    **目标** living aquatic creatures touched 
+## ✨ 效果 
 
-    **距离** 接触  
+**目标** living aquatic creatures touched 
 
-    **持续时间** 2 hours/level; see text 
+**距离** 接触  
 
-    **豁免** Will negates (harmless)
+**持续时间** 2 hours/level; see text 
 
-    **法术抗力** 是
+**豁免** Will negates (harmless)
 
-    ## 📖 描述
+**法术抗力** 是
 
-    The transmuted creatures can breathe air freely. Divide the duration evenly among all the creatures you touch. The spell doesn't make creatures unable to breathe water.
+## 📖 描述
+
+The transmuted creatures can breathe air freely. Divide the duration evenly among all the creatures you touch. The spell doesn't make creatures unable to breathe water.
     

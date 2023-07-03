@@ -1,37 +1,38 @@
 
-    ---
-    title: Diminished detection
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 术士/法师法术, 2环法术, 吟游诗人法术, 炼金术师法术, 女巫法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Diminished detection
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 术士/法师法术, 2环法术, 吟游诗人法术, 炼金术师法术, 女巫法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Diminished detection** *Diminished detection*
+---
 
-    **学派** 防护系 
+# **Diminished detection** *Diminished detection*
 
-    **环位** 术士/法师 2, 吟游诗人 2, 炼金术师 2, 女巫 2
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 术士/法师 2, 吟游诗人 2, 炼金术师 2, 女巫 2
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 hour/level 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 hour/level 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    You can avoid being detected when you are on the edges of some divination spells' ranges. Whenever you would normally be within the area of effect of a detection spell (such as detect magic, detect evil, or detect undead), the area of effect is reduced by half for the purposes of the spell's caster detecting you or your possessions. The caster of the detect spell is unaware of this reduction in her spell's range; she simply does not detect you.
+## 📖 描述
+
+You can avoid being detected when you are on the edges of some divination spells' ranges. Whenever you would normally be within the area of effect of a detection spell (such as detect magic, detect evil, or detect undead), the area of effect is reduced by half for the purposes of the spell's caster detecting you or your possessions. The caster of the detect spell is unaware of this reduction in her spell's range; she simply does not detect you.
     

@@ -1,37 +1,38 @@
 
-    ---
-    title: 意志钢塔ii
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 防护系, 异能者法术, 6环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 意志钢塔ii
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 防护系, 异能者法术, 6环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **意志钢塔ii** *Tower of iron will ii*
+---
 
-    **学派** 防护系 
+# **意志钢塔ii** *Tower of iron will ii*
 
-    **环位** 异能者 6
+**学派** 防护系 
 
-    ## 🪄 施放
+**环位** 异能者 6
 
-    **施法时间** 1 immediate
+## 🪄 施放
 
-    **成分** 语言
+**施法时间** 1 immediate
 
-    ## ✨ 效果  
+**成分** 语言
 
-    **范围** 10-ft.-radius emanation centered on you
+## ✨ 效果  
 
-    **距离** 10尺  
+**范围** 10-ft.-radius emanation centered on you
 
-    **持续时间** 2 rounds 
+**距离** 10尺  
 
-    **法术抗力** 是
+**持续时间** 2 rounds 
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This functions as Tower of Iron Will I, except as noted above. This spell can be undercast.
+## 📖 描述
+
+This functions as Tower of Iron Will I, except as noted above. This spell can be undercast.
     

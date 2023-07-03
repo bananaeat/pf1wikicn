@@ -1,39 +1,40 @@
 
-    ---
-    title: 心灵碾压ii
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 死灵系, 影响心灵, 异能者法术, 6环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: 心灵碾压ii
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 死灵系, 影响心灵, 异能者法术, 6环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **心灵碾压ii** *Psychic crush ii*
+---
 
-    **学派** 死灵系 \[影响心灵\] 
+# **心灵碾压ii** *Psychic crush ii*
 
-    **环位** 异能者 6
+**学派** 死灵系 \[影响心灵\] 
 
-    ## 🪄 施放
+**环位** 异能者 6
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 姿势
 
-    **目标** one creature 
+## ✨ 效果 
 
-    **距离** 近距 (25尺+5尺/2等级)  
+**目标** one creature 
 
-    **持续时间** 立即 
+**距离** 近距 (25尺+5尺/2等级)  
 
-    **豁免** Will partial and Fortitude partial; see text
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Will partial and Fortitude partial; see text
 
-    ## 📖 描述
+**法术抗力** 是
 
-    This functions as psychic crush I, but on a successful Fortitude save, the target takes 5d6 points of damage + 1 point of  damage per caster level. In addition, the target receives a +4 circumstance bonus on the Fortitude save only if it is at full hit points; otherwise, it gains a +2 bonus if it has more than half its total hit points remaining. This spell can be undercast.
+## 📖 描述
+
+This functions as psychic crush I, but on a successful Fortitude save, the target takes 5d6 points of damage + 1 point of  damage per caster level. In addition, the target receives a +4 circumstance bonus on the Fortitude save only if it is at full hit points; otherwise, it gains a +2 bonus if it has more than half its total hit points remaining. This spell can be undercast.
     

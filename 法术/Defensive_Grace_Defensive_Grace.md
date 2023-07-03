@@ -1,39 +1,40 @@
 
-    ---
-    title: Defensive Grace
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 变化系, 调查员法术, 5环法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Defensive Grace
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 变化系, 调查员法术, 5环法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Defensive Grace** *Defensive Grace*
+---
 
-    **学派** 变化系 
+# **Defensive Grace** *Defensive Grace*
 
-    **环位** investigator 5
+**学派** 变化系 
 
-    ## 🪄 施放
+**环位** investigator 5
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势, 材料
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势, 材料
 
-    **目标** you 
+## ✨ 效果 
 
-    **距离** 自身  
+**目标** you 
 
-    **持续时间** 1 round/level (D; see below) 
+**距离** 自身  
 
-    **法术抗力** 否
+**持续时间** 1 round/level (D; see below) 
 
-    ## 📖 描述
+**法术抗力** 否
 
-    Each round you can roll an inspiration die without expending a use of inspiration and gain the result as a dodge bonus to AC for that round. You are immune to precision damage (including the extra damage from the precise strike deed, sneak attack, studied combat, and studied strike).
+## 📖 描述
 
-     If a critical hit is confirmed against you, you can dismiss this spell as an immediate action to negate the critical and make the attack instead deal normal damage.
+Each round you can roll an inspiration die without expending a use of inspiration and gain the result as a dodge bonus to AC for that round. You are immune to precision damage (including the extra damage from the precise strike deed, sneak attack, studied combat, and studied strike).
+
+ If a critical hit is confirmed against you, you can dismiss this spell as an immediate action to negate the critical and make the attack instead deal normal damage.
     

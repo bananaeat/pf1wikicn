@@ -1,39 +1,40 @@
 
-    ---
-    title: Martial telekinesis
-    description: 
-    published: true
-    date: 2023-07-03 19:41:38
-    tags: 法术, 塑能系, 术士/法师法术, 4环法术, 魔战士法术, 异能者法术, 3环法术, 秘学士法术, 唤魂师法术
-    editor: markdown
-    dateCreated: 2023-07-03 19:41:38
-    ---
+---
+title: Martial telekinesis
+description: 
+published: true
+date: 2023-07-03 19:56:10
+tags: 法术, 塑能系, 术士/法师法术, 4环法术, 魔战士法术, 异能者法术, 3环法术, 秘学士法术, 唤魂师法术
+editor: markdown
+dateCreated: 2023-07-03 19:56:10
 
-    # **Martial telekinesis** *Martial telekinesis*
+---
 
-    **学派** 塑能系 
+# **Martial telekinesis** *Martial telekinesis*
 
-    **环位** 术士/法师 4, 魔战士 4, 异能者 3, 秘学士 4, 唤魂师 4
+**学派** 塑能系 
 
-    ## 🪄 施放
+**环位** 术士/法师 4, 魔战士 4, 异能者 3, 秘学士 4, 唤魂师 4
 
-    **施法时间** 1 标准动作
+## 🪄 施放
 
-    **成分** 语言, 姿势
+**施法时间** 1 标准动作
 
-    ## ✨ 效果 
+**成分** 语言, 姿势
 
-    **目标** see text 
+## ✨ 效果 
 
-    **距离** 远距 (400尺+40尺/等级)  
+**目标** see text 
 
-    **持续时间** 立即 
+**距离** 远距 (400尺+40尺/等级)  
 
-    **豁免** Will none; see text
+**持续时间** 立即 
 
-    **法术抗力** 是
+**豁免** Will none; see text
 
-    ## 📖 描述
+**法术抗力** 是
 
-    You mingle the power of your mind and body to exert force beyond your reach. This spell functions as the combat maneuver version of telekinesis, except as noted above. Alternatively, you can inflict a telekinetic unarmed strike with this spell, using your own unarmed strike damage and applying your primary spellcasting ability score modifier to the damage in place of your Strength modifier.
+## 📖 描述
+
+You mingle the power of your mind and body to exert force beyond your reach. This spell functions as the combat maneuver version of telekinesis, except as noted above. Alternatively, you can inflict a telekinetic unarmed strike with this spell, using your own unarmed strike damage and applying your primary spellcasting ability score modifier to the damage in place of your Strength modifier.
     
