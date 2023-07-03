@@ -2,13 +2,13 @@
 title: Abeyance
 description: 
 published: true
-date: 2023-07-03 19:59:28
-tags: 法术, 防护系, 牧师/先知法术, 2环法术, 圣武士法术, 审判者法术
+date: 2023-07-03T20:27:27.226Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 圣武士法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 19:59:28
+dateCreated: 2023-07-03T19:11:52.583Z
 ---
 
-# **Abeyance** *Abeyance*
+# **延缓诅咒** *Abeyance*
 
 **学派** 防护系 
 
@@ -22,17 +22,18 @@ dateCreated: 2023-07-03 19:59:28
 
 ## ✨ 效果 
 
-**目标** creature touched 
+**目标** 接触到的生物 
 
 **距离** 接触  
 
-**持续时间** 24 hours 
+**持续时间** 24 小时 
 
-**豁免** Will negates (harmless)
+**豁免** 意志无效（无害）
 
-**法术抗力** 是
+**法术抗力** 是（无害）
 
 ## 📖 描述
 
-Abeyance suppresses the effects of a single  curse on a creature. It does not restore any damage or drain that might have been caused by the curse. Abeyance cannot suppress curses that cannot be removed by remove curse, but it can suppress curses such as lycanthropy that require remove curse along with additional measures. An individual curse can be suppressed only once by abeyance, even if cast by a different caster.  Abeyance does not allow a creature to divest itself of cursed objects, though it can suppress a curse contracted from an object.
+延缓诅咒会压制接触到生物身上的单一个诅咒效果。诅咒造成的伤害或吸取不会被回复。延缓诅咒不能压制那些无法被移除诅咒移除的诅咒，但是能压制例如兽化症（Lycanthropy）这类需要移除诅咒和额外措施同时使用才能解除的效果。同一个诅咒一次只能被一个延缓诅咒压制，哪怕它被另一个施法者施放。
+延缓诅咒不会使得生物得以脱下诅咒物品，但是它能压制一个来自物品上的诅咒。
     
