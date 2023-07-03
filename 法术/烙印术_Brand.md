@@ -1,13 +1,11 @@
-
 ---
 title: 烙印术
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 变化系, 诅咒, 审判者法术, 戏法/祷念
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **烙印术** *Brand*

@@ -1,13 +1,11 @@
-
 ---
 title: 石言术
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 预言系, 德鲁伊法术, 6环法术, 猎人法术, 异能者法术, 萨满法术, 7环法术, Ruins
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **石言术** *Stone tell*

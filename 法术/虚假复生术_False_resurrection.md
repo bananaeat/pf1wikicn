@@ -1,13 +1,11 @@
-
 ---
 title: 虚假复生术
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 咒法系, 呼唤, 混乱，邪恶，诡计, 牧师/先知法术, 7环法术, 萨满法术, 8环法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **虚假复生术** *False resurrection*

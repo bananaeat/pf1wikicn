@@ -1,13 +1,11 @@
-
 ---
 title: 共用防护守序
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 防护系, 邪恶, 术士/法师法术, 2环法术, 牧师/先知法术, 圣武士法术, 召唤师法术, 审判者法术, 反圣武士法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **共用防护守序** *Protection from law, communal*

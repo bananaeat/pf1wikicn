@@ -1,13 +1,11 @@
-
 ---
 title: 哀鸣合唱团
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 死灵系, 影响心灵，痛苦, 吟游诗人法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **哀鸣合唱团** *Haunting choir*

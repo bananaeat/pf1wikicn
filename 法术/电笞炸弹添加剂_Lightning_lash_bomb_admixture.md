@@ -1,13 +1,11 @@
-
 ---
 title: 电笞炸弹添加剂
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 塑能系, 闪电, 炼金术师法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **电笞炸弹添加剂** *Lightning lash bomb admixture*

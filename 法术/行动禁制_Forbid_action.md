@@ -1,13 +1,11 @@
-
 ---
 title: 行动禁制
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 胁迫, 依赖语言，影响心灵, 牧师/先知法术, 1环法术, 审判者法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **行动禁制** *Forbid action*

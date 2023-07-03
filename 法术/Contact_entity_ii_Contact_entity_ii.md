@@ -1,13 +1,11 @@
-
 ---
 title: Contact entity ii
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 塑能系, 术士/法师法术, 3环法术, 牧师/先知法术, 召唤师法术, 女巫法术, 萨满法术, 异能者法术, 通灵者法术, 2环法术, 秘学士法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Contact entity ii** *Contact entity ii*

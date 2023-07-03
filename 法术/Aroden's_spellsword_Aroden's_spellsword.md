@@ -1,13 +1,11 @@
-
 ---
 title: Aroden's spellsword
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 变化系, 术士/法师法术, 3环法术, 吟游诗人法术, 4环法术, 女巫法术, 魔战士法术, 血脉狂怒者法术, 秘学士法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Aroden's spellsword** *Aroden's spellsword*

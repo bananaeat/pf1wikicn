@@ -1,13 +1,11 @@
-
 ---
 title: 毁灭灵气
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 死灵系, 情绪，恐惧，影响心灵, 牧师/先知法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **毁灭灵气** *Aura of doom*

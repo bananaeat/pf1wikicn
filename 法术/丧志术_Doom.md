@@ -1,13 +1,11 @@
-
 ---
 title: 丧志术
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 死灵系, 情绪, 恐惧, 影响心灵, 反圣武士法术, 1环法术, 牧师/先知法术, 审判者法术, 催眠师法术, 萨满法术, 唤魂师法术, 恶魔子域
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **丧志术** *Doom*

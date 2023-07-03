@@ -1,13 +1,11 @@
-
 ---
 title: Shadow of doubt
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 胁迫, darkness, emotion, evil, mind-affecting, 吟游诗人法术, 4环法术, 反圣武士法术, 异能者法术, 6环法术, 催眠师法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Shadow of doubt** *Shadow of doubt*

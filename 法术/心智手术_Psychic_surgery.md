@@ -1,13 +1,11 @@
-
 ---
 title: 心智手术
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 影响心灵, 催眠师法术, 5环法术, 异能者法术, 6环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **心智手术** *Psychic surgery*

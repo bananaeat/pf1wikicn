@@ -1,13 +1,11 @@
-
 ---
 title: 转血为酸
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 变化系, 酸，痛苦, 术士/法师法术, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **转血为酸** *Transmute blood to acid*

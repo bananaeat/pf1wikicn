@@ -1,13 +1,11 @@
-
 ---
 title: Sealed life, greater
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 防护系, 唤魂师法术, 6环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Sealed life, greater** *Sealed life, greater*

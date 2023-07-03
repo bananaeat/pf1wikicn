@@ -1,13 +1,11 @@
-
 ---
 title: Planeslayer's call
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 胁迫, mind-affecting, see text, 牧师/先知法术, 5环法术, 圣武士法术, 4环法术, 审判者法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Planeslayer's call** *Planeslayer's call*

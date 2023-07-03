@@ -1,13 +1,11 @@
-
 ---
 title: Army across time
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 咒法系, 召唤, 术士/法师法术, 5环法术, 牧师/先知法术, 游侠法术, 3环法术, 吟游诗人法术, 4环法术, 审判者法术, 异能者法术, 通灵者法术, 猎人法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Army across time** *Army across time*

@@ -1,13 +1,11 @@
-
 ---
 title: 疲乏波
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 死灵系, 催眠师法术, 5环法术, 异能者法术, 术士/法师法术, 唤魂师法术, 女巫法术, 疲累子域
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **疲乏波** *Waves of fatigue*

@@ -1,13 +1,11 @@
-
 ---
 title: 医疗坐骑
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 咒法系, 医疗, 圣骑士法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **医疗坐骑** *Heal mount*

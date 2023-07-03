@@ -1,13 +1,11 @@
-
 ---
 title: Contagious suggestion
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 胁迫, language-dependent, mind-affecting, 术士/法师法术, 5环法术, 吟游诗人法术, 4环法术, 女巫法术, 异能者法术, 通灵者法术, 催眠师法术, 秘学士法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Contagious suggestion** *Contagious suggestion*

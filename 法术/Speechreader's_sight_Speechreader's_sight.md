@@ -1,13 +1,11 @@
-
 ---
 title: Speechreader's sight
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 预言系, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 炼金术师法术, 女巫法术, 审判者法术, 异能者法术, 通灵者法术, 催眠师法术, 秘学士法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Speechreader's sight** *Speechreader's sight*

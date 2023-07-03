@@ -1,13 +1,11 @@
-
 ---
 title: 移除目盲/耳聋
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 咒法系, 医疗, 炼金术师法术, 3环法术, 牧师/先知法术, 催眠师法术, 圣骑士法术, 萨满法术, 唤魂师法术, 女巫法术, 纯净子域
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **移除目盲/耳聋** *Remove blindness/deafness*

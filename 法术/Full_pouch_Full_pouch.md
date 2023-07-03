@@ -1,13 +1,11 @@
-
 ---
 title: Full pouch
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 变化系, 术士/法师法术, 2环法术, 德鲁伊法术, 游侠法术, 3环法术, 吟游诗人法术, 炼金术师法术, 审判者法术, 秘学士法术, 猎人法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Full pouch** *Full pouch*

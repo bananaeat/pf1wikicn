@@ -1,13 +1,11 @@
-
 ---
 title: Scourge of the horsemen
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 死灵系, acid, evil, 术士/法师法术, 9环法术, 牧师/先知法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Scourge of the horsemen** *Scourge of the horsemen*

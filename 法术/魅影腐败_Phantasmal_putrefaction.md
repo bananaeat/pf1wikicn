@@ -1,13 +1,11 @@
-
 ---
 title: 魅影腐败
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 幻术系, 魅影幻觉, fear, mind-affecting, 通灵者法术, 4环法术, 催眠师法术, 5环法术, 术士/法师法术, 6环法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **魅影腐败** *Phantasmal putrefaction*

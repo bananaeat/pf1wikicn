@@ -1,13 +1,11 @@
-
 ---
 title: 支配人类
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 4环法术, 催眠师法术, 秘学士法术, 5环法术, 异能者法术, 萨满法术, 术士/法师法术, 唤魂师法术, 女巫法术, Slavery
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **支配人类** *Dominate person*

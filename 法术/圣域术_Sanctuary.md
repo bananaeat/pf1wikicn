@@ -1,13 +1,11 @@
-
 ---
 title: 圣域术
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 防护系, 牧师/先知法术, 1环法术, 审判者法术, 唤魂师法术, 保护领域, Aeon, 自由子域
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **圣域术** *Sanctuary*

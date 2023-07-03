@@ -1,13 +1,11 @@
-
 ---
 title: Frost mammoth
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 咒法系, 创造, 寒冷, 术士/法师法术, 7环法术, 牧师/先知法术, 德鲁伊法术, 召唤师法术, 6环法术, 萨满法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Frost mammoth** *Frost mammoth*

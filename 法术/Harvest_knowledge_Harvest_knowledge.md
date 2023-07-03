@@ -1,13 +1,11 @@
-
 ---
 title: Harvest knowledge
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 预言系, 影响心灵, 术士/法师法术, 4环法术, 吟游诗人法术, 炼金术师法术, 女巫法术, 审判者法术, 反圣武士法术, 异能者法术, 催眠师法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Harvest knowledge** *Harvest knowledge*

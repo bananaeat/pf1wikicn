@@ -1,13 +1,11 @@
-
 ---
 title: 魔由心生
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 胁迫, 情绪，恐惧, 吟游诗人法术, 3环法术, 审判者法术, 催眠师法术, 圣骑士法术, 异能者法术, 4环法术, 萨满法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **魔由心生** *They know*

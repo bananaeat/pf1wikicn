@@ -1,13 +1,11 @@
-
 ---
 title: Oneiric horror, greater
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 幻术系, 魅影幻觉, 影响心灵, 术士/法师法术, 5环法术, 吟游诗人法术, 4环法术, 异能者法术, 通灵者法术, 2环法术, 催眠师法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Oneiric horror, greater** *Oneiric horror, greater*

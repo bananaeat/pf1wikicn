@@ -1,13 +1,11 @@
-
 ---
 title: Skin tag
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 死灵系, haunted, emotion, fear, mind-affecting, 术士/法师法术, 1环法术, 炼金术师法术, 女巫法术, 萨满法术, 通灵者法术, 秘学士法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Skin tag** *Skin tag*

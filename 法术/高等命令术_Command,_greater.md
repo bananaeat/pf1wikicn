@@ -1,13 +1,11 @@
-
 ---
 title: 高等命令术
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 胁迫, 依赖语言, 影响心灵, 牧师/先知法术, 5环法术, 审判者法术, 通灵者法术, 4环法术, 催眠师法术, 秘学士法术, 异能者法术, 高贵领域, 制裁子域, Loyalty, 战术子域
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **高等命令术** *Command, greater*

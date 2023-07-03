@@ -1,13 +1,11 @@
-
 ---
 title: 填写异能
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 变化系, 通灵者法术, 1环法术, 催眠师法术, 秘学士法术, 异能者法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **填写异能** *Charge object*

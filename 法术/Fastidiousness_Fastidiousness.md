@@ -1,13 +1,11 @@
-
 ---
 title: Fastidiousness
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 防护系, 奥能师法术, 1环法术, 吟游诗人法术, 牧师/先知法术, 催眠师法术, 秘学士法术, 圣武士法术, 异能者法术, 歌者法术, 法师/术士法术, 战斗祭司法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Fastidiousness** *Fastidiousness*

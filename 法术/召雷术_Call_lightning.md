@@ -1,13 +1,11 @@
-
 ---
 title: 召雷术
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 塑能系, 电击, 德鲁伊法术, 3环法术, 猎人法术, 秘学士法术, 萨满法术, 天气领域, 天灾子域
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **召雷术** *Call lightning*

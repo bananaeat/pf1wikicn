@@ -1,13 +1,11 @@
-
 ---
 title: 集结号
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 塑能系, 音波, 吟游诗人法术, 1环法术, 审判者法术, 圣骑士法术, 游侠法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **集结号** *Horn of pursuit*

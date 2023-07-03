@@ -1,13 +1,11 @@
-
 ---
 title: 协调行动
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 预言系, 吟游诗人法术, 3环法术, 审判者法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **协调行动** *Coordinated effort*

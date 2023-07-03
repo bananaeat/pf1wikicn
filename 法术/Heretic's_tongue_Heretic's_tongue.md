@@ -1,13 +1,11 @@
-
 ---
 title: Heretic's tongue
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 影响心灵, 牧师/先知法术, 5环法术, 审判者法术, 催眠师法术, 6环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Heretic's tongue** *Heretic's tongue*

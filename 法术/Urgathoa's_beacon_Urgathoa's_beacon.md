@@ -1,13 +1,11 @@
-
 ---
 title: Urgathoa's beacon
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 死灵系, haunted, emotion, evil, fear, mind-affecting, 牧师/先知法术, 2环法术, 审判者法术, 反圣武士法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Urgathoa's beacon** *Urgathoa's beacon*

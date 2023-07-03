@@ -1,13 +1,11 @@
-
 ---
 title: 天降祥瑞
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 预言系, 诅咒，恐惧，影响心灵, 术士/法师法术, 8环法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **天降祥瑞** *Prediction of failure*

@@ -1,13 +1,11 @@
-
 ---
 title: 地震术
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 塑能系, 土, 牧师/先知法术, 8环法术, 德鲁伊法术, 异能者法术, 萨满法术, 毁灭领域, 土领域, Ruins
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **地震术** *Earthquake*

@@ -1,13 +1,11 @@
-
 ---
 title: Arcane disruption
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 胁迫, curse, mind-affecting, 术士/法师法术, 2环法术, 吟游诗人法术, 女巫法术, 魔战士法术, 血脉狂怒者法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Arcane disruption** *Arcane disruption*

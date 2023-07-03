@@ -1,13 +1,11 @@
-
 ---
 title: 虚弱祷言
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 死灵系, 依赖语言, 反圣武士法术, 1环法术, 审判者法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **虚弱祷言** *Litany of weakness*

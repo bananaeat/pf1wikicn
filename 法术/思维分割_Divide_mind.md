@@ -1,13 +1,11 @@
-
 ---
 title: 思维分割
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 影响心灵, 异能者法术, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **思维分割** *Divide mind*

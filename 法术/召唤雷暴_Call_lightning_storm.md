@@ -1,13 +1,11 @@
-
 ---
 title: 召唤雷暴
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 塑能系, 电击, 德鲁伊法术, 5环法术, 猎人法术, 秘学士法术, 萨满法术, 风暴子域
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **召唤雷暴** *Call lightning storm*

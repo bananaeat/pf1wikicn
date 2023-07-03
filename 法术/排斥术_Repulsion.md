@@ -1,13 +1,11 @@
-
 ---
 title: 排斥术
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 防护系, 牧师/先知法术, 7环法术, 审判者法术, 6环法术, 秘学士法术, 异能者法术, 术士/法师法术, 唤魂师法术, 召唤师法术, 5环法术, unchained 召唤师法术, 高贵领域, 保护领域
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **排斥术** *Repulsion*

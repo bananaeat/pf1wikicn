@@ -1,13 +1,11 @@
-
 ---
 title: 阳炎爆
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 塑能系, 光亮, 德鲁伊法术, 8环法术, 萨满法术, 术士/法师法术, 太阳领域, 季节子域
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **阳炎爆** *Sunburst*

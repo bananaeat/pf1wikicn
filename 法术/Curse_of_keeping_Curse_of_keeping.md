@@ -1,13 +1,11 @@
-
 ---
 title: Curse of keeping
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 胁迫, 诅咒, 女巫法术, 2环法术, 反圣武士法术, 萨满法术, 催眠师法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Curse of keeping** *Curse of keeping*

@@ -1,13 +1,11 @@
-
 ---
 title: Fear the sun
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 变化系, 术士/法师法术, 2环法术, 牧师/先知法术, 德鲁伊法术, 女巫法术, 审判者法术, 反圣武士法术, 1环法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 秘学士法术, 猎人法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Fear the sun** *Fear the sun*

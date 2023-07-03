@@ -1,13 +1,11 @@
-
 ---
 title: 复仇鬼影
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 幻术系, 魅影幻觉, 恐惧，影响心灵，情绪, 术士/法师法术, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **复仇鬼影** *Phantasmal revenge*

@@ -1,13 +1,11 @@
-
 ---
 title: 高等雷霆重踏
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 塑能系, 土, 血脉狂怒者法术, 3环法术, 德鲁伊法术, 魔战士法术, 游侠法术, 术士/法师法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **高等雷霆重踏** *Thunderstomp, greater*

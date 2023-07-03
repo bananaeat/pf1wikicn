@@ -1,13 +1,11 @@
-
 ---
 title: Create holds
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 变化系, 术士/法师法术, 4环法术, 德鲁伊法术, 游侠法术, 3环法术, 猎人法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Create holds** *Create holds*

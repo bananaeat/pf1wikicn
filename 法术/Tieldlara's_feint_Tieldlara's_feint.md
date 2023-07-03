@@ -1,13 +1,11 @@
-
 ---
 title: Tieldlara's feint
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 惑控系, 魅惑, 影响心灵, 吟游诗人法术, 2环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Tieldlara's feint** *Tieldlara's feint*

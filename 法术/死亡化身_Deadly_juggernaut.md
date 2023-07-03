@@ -1,13 +1,11 @@
-
 ---
 title: 死亡化身
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 死灵系, 死亡, 反圣武士法术, 3环法术, 牧师/先知法术, 审判者法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **死亡化身** *Deadly juggernaut*

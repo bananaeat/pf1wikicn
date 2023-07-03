@@ -1,13 +1,11 @@
-
 ---
 title: Illusory hoard
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 幻术系, 魅影幻觉, 影响心灵, 术士/法师法术, 5环法术, 吟游诗人法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **Illusory hoard** *Illusory hoard*

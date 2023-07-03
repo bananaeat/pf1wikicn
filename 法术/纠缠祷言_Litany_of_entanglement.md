@@ -1,13 +1,11 @@
-
 ---
 title: 纠缠祷言
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 咒法系, 召唤, 依赖语言, 反圣武士法术, 2环法术, 审判者法术, 3环法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **纠缠祷言** *Litany of entanglement*

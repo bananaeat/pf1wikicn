@@ -1,13 +1,11 @@
-
 ---
 title: 高等炽焰法球
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 塑能系, 火, 血脉狂怒者法术, 4环法术, 德鲁伊法术, 魔战士法术, 术士/法师法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **高等炽焰法球** *Flaming sphere, greater*

@@ -1,13 +1,11 @@
-
 ---
 title: 生命之息
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 咒法系, 医疗, 牧师/先知法术, 5环法术, 萨满法术, 唤魂师法术, 医疗领域
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **生命之息** *Breath of life*

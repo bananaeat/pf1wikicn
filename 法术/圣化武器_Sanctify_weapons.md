@@ -1,13 +1,11 @@
-
 ---
 title: 圣化武器
 description: 
 published: true
-date: 2023-07-03 19:56:10
+date: 2023-07-03 19:59:28
 tags: 法术, 变化系, 牧师/先知法术, 5环法术, 圣武士法术, 3环法术
 editor: markdown
-dateCreated: 2023-07-03 19:56:10
-
+dateCreated: 2023-07-03 19:59:28
 ---
 
 # **圣化武器** *Sanctify weapons*
