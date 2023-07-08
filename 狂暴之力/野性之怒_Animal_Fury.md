@@ -2,8 +2,8 @@
 title: 野性之怒
 description: 
 published: true
-date: 2023-07-08T12:03:49.002Z
-tags: 
+date: 2023-07-08T22:22:18.063Z
+tags: 狂暴之力, 特异能力
 editor: markdown
 dateCreated: 2023-07-08T12:03:49.002Z
 ---
