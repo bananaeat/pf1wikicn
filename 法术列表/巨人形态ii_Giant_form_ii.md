@@ -2,10 +2,10 @@
 title: 巨人形态ii Giant form ii
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 变形, 术士/法师法术, 8环法术
+date: 2023-07-03T23:30:30.347Z
+tags: 法术, 术士/法师法术, 变化系, 8环法术, 变形
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:30:52.391Z
 ---
 
 # **巨人形态ii** *Giant form ii*

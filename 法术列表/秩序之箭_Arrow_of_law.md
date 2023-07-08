@@ -2,10 +2,10 @@
 title: 秩序之箭 Arrow of law
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 秩序, 牧师/先知法术, 2环法术, 圣骑士法术
+date: 2023-07-04T01:07:06.121Z
+tags: 2环法术, 法术, 牧师/先知法术, 塑能系, 圣骑士法术, 秩序
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:53:39.842Z
 ---
 
 # **秩序之箭** *Arrow of law*

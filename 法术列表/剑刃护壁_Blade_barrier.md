@@ -2,10 +2,10 @@
 title: 剑刃护壁 Blade barrier
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 牧师/先知法术, 6环法术, 审判者法术, 秘学士法术, 异能者法术, 善良领域, 战争领域
+date: 2023-07-03T22:54:40.601Z
+tags: 法术, 6环法术, 审判者法术, 牧师/先知法术, 秘学士法术, 力场, 异能者法术, 塑能系, 善良领域, 战争领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:41:01.767Z
 ---
 
 # **剑刃护壁** *Blade barrier*

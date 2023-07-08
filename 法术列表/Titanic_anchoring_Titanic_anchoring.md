@@ -2,10 +2,10 @@
 title: Titanic anchoring Titanic anchoring
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 牧师/先知法术, 3环法术, 游侠法术, 圣武士法术, 反圣武士法术, 魔战士法术, 血脉狂怒者法术, 猎人法术
+date: 2023-07-03T22:22:09.364Z
+tags: 法术, 血脉狂怒者法术, 魔战士法术, 牧师/先知法术, 游侠法术, 3环法术, 猎人法术, 圣武士法术, 变化系, 反圣武士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:18:42.715Z
 ---
 
 # **Titanic anchoring** *Titanic anchoring*

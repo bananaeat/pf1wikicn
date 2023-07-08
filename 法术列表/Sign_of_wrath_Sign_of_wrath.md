@@ -2,10 +2,10 @@
 title: Sign of wrath Sign of wrath
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 术士/法师法术, 6环法术, 牧师/先知法术
+date: 2023-07-03T22:07:06.900Z
+tags: 法术, 术士/法师法术, 6环法术, 牧师/先知法术, 力场, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:08:56.534Z
 ---
 
 # **Sign of wrath** *Sign of wrath*

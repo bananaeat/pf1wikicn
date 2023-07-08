@@ -2,10 +2,10 @@
 title: Martyr's bargain Martyr's bargain
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 善良, 牧师/先知法术, 2环法术, 圣武士法术
+date: 2023-07-03T21:39:40.641Z
+tags: 2环法术, 法术, 牧师/先知法术, 圣武士法术, 变化系, 善良
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:51:14.634Z
 ---
 
 # **Martyr's bargain** *Martyr's bargain*

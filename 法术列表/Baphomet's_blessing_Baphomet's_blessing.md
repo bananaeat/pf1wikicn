@@ -2,10 +2,10 @@
 title: Baphomet's blessing Baphomet's blessing
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 变形, 术士/法师法术, 4环法术, 牧师/先知法术, 德鲁伊法术, 召唤师法术, 女巫法术, 猎人法术, unchained 召唤师法术
+date: 2023-07-03T20:46:57.267Z
+tags: 法术, 术士/法师法术, 召唤师法术, 牧师/先知法术, 4环法术, 女巫法术, 猎人法术, unchained 召唤师法术, 德鲁伊法术, 变化系, 变形
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:17:54.315Z
 ---
 
 # **Baphomet's blessing** *Baphomet's blessing*

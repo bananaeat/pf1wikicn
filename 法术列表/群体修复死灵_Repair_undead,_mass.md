@@ -2,10 +2,10 @@
 title: 群体修复死灵 Repair undead, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 5环法术
+date: 2023-07-04T01:17:57.110Z
+tags: 法术, 术士/法师法术, 5环法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:10:36.378Z
 ---
 
 # **群体修复死灵** *Repair undead, mass*

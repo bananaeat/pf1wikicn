@@ -2,10 +2,10 @@
 title: 群体地缚术 Binding earth, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 土, 德鲁伊法术, 6环法术, 女巫法术
+date: 2023-07-04T01:18:37.238Z
+tags: 法术, 6环法术, 女巫法术, 德鲁伊法术, 变化系, 土
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:11:35.499Z
 ---
 
 # **群体地缚术** *Binding earth, mass*

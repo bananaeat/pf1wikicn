@@ -2,10 +2,10 @@
 title: 爆裂符文 Explosive runes
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 力场, 秘学士法术, 3环法术, 术士/法师法术, 符文领域
+date: 2023-07-04T00:46:59.785Z
+tags: 法术, 术士/法师法术, 3环法术, 秘学士法术, 防护系, 力场, 符文领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:24:06.391Z
 ---
 
 # **爆裂符文** *Explosive runes*

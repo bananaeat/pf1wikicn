@@ -2,10 +2,10 @@
 title: Mark of the reptile god Mark of the reptile god
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 诅咒, 牧师/先知法术, 4环法术, 审判者法术, 反圣武士法术
+date: 2023-07-03T21:39:28.211Z
+tags: 法术, 审判者法术, 牧师/先知法术, 4环法术, 变化系, 反圣武士法术, 诅咒
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:51:05.820Z
 ---
 
 # **Mark of the reptile god** *Mark of the reptile god*

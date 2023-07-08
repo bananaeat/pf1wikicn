@@ -2,10 +2,10 @@
 title: 长驻幻影 Persistent image
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 虚假幻觉, 吟游诗人法术, 5环法术, 通灵者法术, 4环法术, 催眠师法术, 秘学士法术, 异能者法术, 术士/法师法术
+date: 2023-07-04T02:01:39.006Z
+tags: 法术, 术士/法师法术, 5环法术, 4环法术, 秘学士法术, 吟游诗人法术, 异能者法术, 催眠师法术, 通灵者法术, 幻术系, 虚假幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:17:14.603Z
 ---
 
 # **长驻幻影** *Persistent image*

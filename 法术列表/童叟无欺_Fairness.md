@@ -2,10 +2,10 @@
 title: 童叟无欺 Fairness
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 牧师/先知法术, 1环法术, 圣武士法术, 2环法术, 审判者法术
+date: 2023-07-04T01:10:24.664Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 惑控系, 胁迫, 影响心灵, 1环法术, 圣武士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:58:41.316Z
 ---
 
 # **童叟无欺** *Fairness*

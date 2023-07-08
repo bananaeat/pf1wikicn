@@ -2,10 +2,10 @@
 title: 阳炎武器 Sun metal
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 火, 牧师/先知法术, 1环法术, 圣骑士法术, 游侠法术
+date: 2023-07-04T02:05:36.602Z
+tags: 法术, 牧师/先知法术, 游侠法术, 1环法术, 变化系, 火, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:24:32.303Z
 ---
 
 # **阳炎武器** *Sun metal*

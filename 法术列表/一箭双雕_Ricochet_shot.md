@@ -2,10 +2,10 @@
 title: 一箭双雕 Ricochet shot
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 游侠法术, 2环法术, 术士/法师法术
+date: 2023-07-03T22:30:00.014Z
+tags: 2环法术, 法术, 术士/法师法术, 游侠法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:23:53.779Z
 ---
 
 # **一箭双雕** *Ricochet shot*

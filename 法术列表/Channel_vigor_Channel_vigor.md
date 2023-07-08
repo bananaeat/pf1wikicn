@@ -2,10 +2,10 @@
 title: Channel vigor Channel vigor
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 牧师/先知法术, 3环法术, 炼金术师法术, 审判者法术, 魔战士法术
+date: 2023-07-03T20:57:12.241Z
+tags: 法术, 魔战士法术, 审判者法术, 牧师/先知法术, 3环法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:23:50.629Z
 ---
 
 # **Channel vigor** *Channel vigor*

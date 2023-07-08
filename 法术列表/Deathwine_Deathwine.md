@@ -2,10 +2,10 @@
 title: Deathwine Deathwine
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 3环法术, 牧师/先知法术, 2环法术, 炼金术师法术, 女巫法术
+date: 2023-07-03T21:05:07.067Z
+tags: 2环法术, 法术, 术士/法师法术, 牧师/先知法术, 3环法术, 女巫法术, 炼金术师法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:28:28.502Z
 ---
 
 # **Deathwine** *Deathwine*

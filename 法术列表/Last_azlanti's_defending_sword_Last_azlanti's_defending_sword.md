@@ -2,10 +2,10 @@
 title: Last azlanti's defending sword Last azlanti's defending sword
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 术士/法师法术, 6环法术, 魔战士法术, 异能者法术, 7环法术, 秘学士法术
+date: 2023-07-03T21:35:33.250Z
+tags: 法术, 术士/法师法术, 魔战士法术, 6环法术, 秘学士法术, 力场, 异能者法术, 塑能系, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:47:56.414Z
 ---
 
 # **Last azlanti's defending sword** *Last azlanti's defending sword*

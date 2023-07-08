@@ -2,10 +2,10 @@
 title: Storm step Storm step
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 电击, 术士/法师法术, 3环法术, 女巫法术, 魔战士法术
+date: 2023-07-03T22:13:26.047Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 3环法术, 女巫法术, 传送, 电击
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:13:00.472Z
 ---
 
 # **Storm step** *Storm step*

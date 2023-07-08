@@ -2,10 +2,10 @@
 title: Ardor's onslaught Ardor's onslaught
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 牧师/先知法术, 4环法术, 审判者法术
+date: 2023-07-03T20:45:04.183Z
+tags: 法术, 审判者法术, 牧师/先知法术, 4环法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:16:47.579Z
 ---
 
 # **Ardor's onslaught** *Ardor's onslaught*

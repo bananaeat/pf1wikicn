@@ -2,10 +2,10 @@
 title: 防御祷言 Litany of defense
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 反圣武士法术, 2环法术, 审判者法术, 圣骑士法术
+date: 2023-07-04T02:03:57.502Z
+tags: 2环法术, 法术, 审判者法术, 变化系, 反圣武士法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:21:17.000Z
 ---
 
 # **防御祷言** *Litany of defense*

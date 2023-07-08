@@ -2,10 +2,10 @@
 title: 噬心术 Enemy's heart
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 死亡，邪恶, 导师法术, 2环法术, 反圣武士法术, 牧师/先知法术, 女巫法术
+date: 2023-07-03T23:15:08.804Z
+tags: 2环法术, 法术, 牧师/先知法术, 女巫法术, 反圣武士法术, 死灵系, 导师法术, 死亡，邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:10:05.349Z
 ---
 
 # **噬心术** *Enemy's heart*

@@ -2,10 +2,10 @@
 title: Shadow trap Shadow trap
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 幽影幻觉, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 女巫法术, 反圣武士法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 催眠师法术, 秘学士法术
+date: 2023-07-03T22:04:52.085Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 牧师/先知法术, 萨满法术, 女巫法术, 秘学士法术, 1环法术, 吟游诗人法术, 异能者法术, 催眠师法术, 反圣武士法术, 幻术系, 幽影幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:07:37.201Z
 ---
 
 # **Shadow trap** *Shadow trap*

@@ -2,10 +2,10 @@
 title: 知己知彼 Know the enemy
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 牧师/先知法术, 1环法术, 审判者法术, 圣骑士法术, 游侠法术
+date: 2023-07-04T00:58:16.342Z
+tags: 法术, 审判者法术, 牧师/先知法术, 游侠法术, 1环法术, 预言系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:40:43.678Z
 ---
 
 # **知己知彼** *Know the enemy*

@@ -2,10 +2,10 @@
 title: 谋杀指令 Murderous command
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 反圣武士法术, 1环法术, 牧师/先知法术
+date: 2023-07-04T01:44:48.264Z
+tags: 法术, 牧师/先知法术, 惑控系, 胁迫, 影响心灵, 1环法术, 反圣武士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:50:42.399Z
 ---
 
 # **谋杀指令** *Murderous command*

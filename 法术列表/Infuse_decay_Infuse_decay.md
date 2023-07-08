@@ -2,10 +2,10 @@
 title: Infuse decay Infuse decay
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 邪恶, 术士/法师法术, 4环法术, 女巫法术
+date: 2023-07-03T21:30:44.697Z
+tags: 法术, 术士/法师法术, 4环法术, 女巫法术, 死灵系, 邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:44:34.339Z
 ---
 
 # **Infuse decay** *Infuse decay*

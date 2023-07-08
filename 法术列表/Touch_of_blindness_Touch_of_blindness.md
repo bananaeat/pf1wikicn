@@ -2,10 +2,10 @@
 title: Touch of blindness Touch of blindness
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, darkness, shadow, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 女巫法术, 反圣武士法术, 萨满法术
+date: 2023-07-03T22:22:22.690Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 萨满法术, 女巫法术, 1环法术, 吟游诗人法术, 反圣武士法术, 死灵系, darkness, shadow
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:18:52.029Z
 ---
 
 # **Touch of blindness** *Touch of blindness*

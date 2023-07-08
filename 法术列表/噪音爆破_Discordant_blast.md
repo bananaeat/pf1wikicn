@@ -2,10 +2,10 @@
 title: 噪音爆破 Discordant blast
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 吟游诗人法术, 4环法术
+date: 2023-07-03T23:15:00.178Z
+tags: 法术, 4环法术, 吟游诗人法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:09:54.090Z
 ---
 
 # **噪音爆破** *Discordant blast*

@@ -2,10 +2,10 @@
 title: Hunter's lore Hunter's lore
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 游侠法术, 2环法术, 审判者法术, 猎人法术
+date: 2023-07-03T21:27:41.439Z
+tags: 2环法术, 法术, 审判者法术, 游侠法术, 猎人法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:42:25.837Z
 ---
 
 # **Hunter's lore** *Hunter's lore*

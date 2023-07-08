@@ -2,10 +2,10 @@
 title: 恶犬转化术 Vile dog transformation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 变形, 邪恶, 反圣武士法术, 3环法术, 牧师/先知法术, 5环法术, 德鲁伊法术, 猎人法术, 萨满法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:49:38.383Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 萨满法术, 5环法术, 3环法术, 女巫法术, 猎人法术, 德鲁伊法术, 变化系, 反圣武士法术, 邪恶, 变形
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:58:13.943Z
 ---
 
 # **恶犬转化术** *Vile dog transformation*

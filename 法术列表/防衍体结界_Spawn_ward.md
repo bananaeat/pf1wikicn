@@ -2,10 +2,10 @@
 title: 防衍体结界 Spawn ward
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 牧师/先知法术, 5环法术, 审判者法术
+date: 2023-07-04T02:05:29.830Z
+tags: 法术, 审判者法术, 牧师/先知法术, 5环法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:24:08.255Z
 ---
 
 # **防衍体结界** *Spawn ward*

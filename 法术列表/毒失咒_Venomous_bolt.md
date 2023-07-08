@@ -2,10 +2,10 @@
 title: 毒失咒 Venomous bolt
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 毒素, 游侠法术, 3环法术
+date: 2023-07-04T00:24:17.569Z
+tags: 法术, 游侠法术, 3环法术, 死灵系, 毒素
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:48:04.045Z
 ---
 
 # **毒失咒** *Venomous bolt*

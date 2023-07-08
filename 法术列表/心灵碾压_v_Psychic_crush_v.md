@@ -2,10 +2,10 @@
 title: 心灵碾压 v Psychic crush v
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 影响心灵, 异能者法术, 9环法术
+date: 2023-07-03T23:42:57.607Z
+tags: 法术, 影响心灵, 异能者法术, 9环法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:48:21.039Z
 ---
 
 # **心灵碾压 v** *Psychic crush v*

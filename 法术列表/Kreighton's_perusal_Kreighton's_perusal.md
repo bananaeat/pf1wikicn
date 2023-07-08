@@ -2,10 +2,10 @@
 title: Kreighton's perusal Kreighton's perusal
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 魔战士法术
+date: 2023-07-03T21:35:06.010Z
+tags: 法术, 术士/法师法术, 魔战士法术, 牧师/先知法术, 1环法术, 吟游诗人法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:47:37.048Z
 ---
 
 # **Kreighton's perusal** *Kreighton's perusal*

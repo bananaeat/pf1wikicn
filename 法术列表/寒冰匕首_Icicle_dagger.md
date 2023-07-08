@@ -2,10 +2,10 @@
 title: 寒冰匕首 Icicle dagger
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 寒冷, 术士/法师法术, 1环法术, 召唤师法术, 女巫法术
+date: 2023-07-03T23:27:54.214Z
+tags: 法术, 咒法系, 术士/法师法术, 召唤师法术, 创造, 女巫法术, 1环法术, 寒冷
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:27:16.562Z
 ---
 
 # **寒冰匕首** *Icicle dagger*

@@ -2,10 +2,10 @@
 title: 光之尾迹 Wake of light
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 善良, 圣骑士法术, 2环法术
+date: 2023-07-03T22:43:12.198Z
+tags: 2环法术, 法术, 善良, 塑能系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:32:45.420Z
 ---
 
 # **光之尾迹** *Wake of light*

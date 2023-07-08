@@ -2,10 +2,10 @@
 title: 信仰之卫 Ward the faithful
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 审判者法术, 3环法术
+date: 2023-07-03T22:39:42.027Z
+tags: 法术, 审判者法术, 3环法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:30:29.298Z
 ---
 
 # **信仰之卫** *Ward the faithful*

@@ -2,10 +2,10 @@
 title: 窒息之发 Strangling hair
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 3环法术, 女巫法术
+date: 2023-07-04T01:10:00.947Z
+tags: 法术, 术士/法师法术, 3环法术, 女巫法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:58:08.839Z
 ---
 
 # **窒息之发** *Strangling hair*

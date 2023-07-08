@@ -2,10 +2,10 @@
 title: 爱与和平 Euphoric tranquility
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵，情绪, 吟游诗人法术, 6环法术, 牧师/先知法术, 8环法术, 德鲁伊法术, 术士/法师法术
+date: 2023-07-04T00:47:14.461Z
+tags: 法术, 术士/法师法术, 6环法术, 牧师/先知法术, 惑控系, 胁迫, 吟游诗人法术, 德鲁伊法术, 8环法术, 影响心灵，情绪
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:24:28.934Z
 ---
 
 # **爱与和平** *Euphoric tranquility*

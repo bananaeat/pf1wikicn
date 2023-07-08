@@ -2,10 +2,10 @@
 title: 圣光击 Holy smite
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 善良, 牧师/先知法术, 4环法术, 审判者法术, 荣耀领域, 善良领域
+date: 2023-07-03T23:16:48.686Z
+tags: 法术, 审判者法术, 牧师/先知法术, 4环法术, 善良, 塑能系, 荣耀领域, 善良领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:12:20.567Z
 ---
 
 # **圣光击** *Holy smite*

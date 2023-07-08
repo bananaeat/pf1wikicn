@@ -2,10 +2,10 @@
 title: Chains of light Chains of light
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 善良, 术士/法师法术, 6环法术, 牧师/先知法术, 圣武士法术, 4环法术, 审判者法术, 5环法术
+date: 2023-07-03T20:56:44.286Z
+tags: 法术, 咒法系, 术士/法师法术, 6环法术, 审判者法术, 创造, 牧师/先知法术, 5环法术, 4环法术, 圣武士法术, 善良
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:23:35.302Z
 ---
 
 # **Chains of light** *Chains of light*

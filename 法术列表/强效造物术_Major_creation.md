@@ -2,10 +2,10 @@
 title: 强效造物术 Major creation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 导师法术, 5环法术, 秘学士法术, 4环法术, 异能者法术, 术士/法师法术, 召唤师法术, unchained 召唤师法术, 女巫法术, 手艺领域, Flotsam
+date: 2023-07-03T23:39:18.813Z
+tags: 法术, 咒法系, 术士/法师法术, 召唤师法术, 创造, 5环法术, 4环法术, 女巫法术, 秘学士法术, unchained 召唤师法术, 异能者法术, 导师法术, 手艺领域, flotsam
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:43:10.059Z
 ---
 
 # **强效造物术** *Major creation*

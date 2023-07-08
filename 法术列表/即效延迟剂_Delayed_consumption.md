@@ -2,10 +2,10 @@
 title: 即效延迟剂 Delayed consumption
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 5环法术
+date: 2023-07-03T23:01:22.846Z
+tags: 法术, 5环法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:50:49.640Z
 ---
 
 # **即效延迟剂** *Delayed consumption*

@@ -2,10 +2,10 @@
 title: 高等法术免疫 Spell immunity, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 8环法术, 异能者法术
+date: 2023-07-04T02:12:38.574Z
+tags: 法术, 牧师/先知法术, 防护系, 8环法术, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:49:35.247Z
 ---
 
 # **高等法术免疫** *Spell immunity, greater*

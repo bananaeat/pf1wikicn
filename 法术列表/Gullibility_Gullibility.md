@@ -2,10 +2,10 @@
 title: Gullibility Gullibility
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 魅惑, 影响心灵, 术士/法师法术, 3环法术, 吟游诗人法术, 女巫法术, 审判者法术, 反圣武士法术, 异能者法术, 催眠师法术
+date: 2023-07-03T21:22:56.052Z
+tags: 法术, 术士/法师法术, 审判者法术, 惑控系, 影响心灵, 3环法术, 女巫法术, 吟游诗人法术, 异能者法术, 催眠师法术, 反圣武士法术, 魅惑
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:39:26.187Z
 ---
 
 # **Gullibility** *Gullibility*

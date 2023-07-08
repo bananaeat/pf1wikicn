@@ -2,10 +2,10 @@
 title: 炫目射线 Blinding ray
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 善良，光亮, 牧师/先知法术, 2环法术, 审判者法术, 3环法术, 圣骑士法术
+date: 2023-07-04T00:43:05.647Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 3环法术, 塑能系, 圣骑士法术, 善良，光亮
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:17:55.971Z
 ---
 
 # **炫目射线** *Blinding ray*

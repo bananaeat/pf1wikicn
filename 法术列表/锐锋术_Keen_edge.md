@@ -2,10 +2,10 @@
 title: 锐锋术 Keen edge
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 血脉狂怒者法术, 3环法术, 审判者法术, 魔战士法术, 秘学士法术, 术士/法师法术, 杀戮子域
+date: 2023-07-04T02:00:16.172Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 审判者法术, 3环法术, 秘学士法术, 变化系, 杀戮子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:14:58.755Z
 ---
 
 # **锐锋术** *Keen edge*

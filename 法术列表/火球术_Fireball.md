@@ -2,10 +2,10 @@
 title: 火球术 Fireball
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 血脉狂怒者法术, 3环法术, 魔战士法术, 秘学士法术, 术士/法师法术, 火领域
+date: 2023-07-04T00:39:18.465Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 3环法术, 秘学士法术, 塑能系, 火, 火领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:12:02.655Z
 ---
 
 # **火球术** *Fireball*

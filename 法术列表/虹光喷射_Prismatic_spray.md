@@ -2,10 +2,10 @@
 title: 虹光喷射 Prismatic spray
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 术士/法师法术, 7环法术
+date: 2023-07-04T01:34:28.306Z
+tags: 法术, 术士/法师法术, 塑能系, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:34:54.531Z
 ---
 
 # **虹光喷射** *Prismatic spray*

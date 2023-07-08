@@ -2,10 +2,10 @@
 title: 监察焦点 Focused scrutiny
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 炼金术师法术, 2环法术, 吟游诗人法术, 审判者法术, 萨满法术
+date: 2023-07-04T00:56:52.681Z
+tags: 2环法术, 法术, 审判者法术, 萨满法术, 吟游诗人法术, 炼金术师法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:38:31.160Z
 ---
 
 # **监察焦点** *Focused scrutiny*

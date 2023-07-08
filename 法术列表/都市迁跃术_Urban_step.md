@@ -2,10 +2,10 @@
 title: 都市迁跃术 Urban step
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 吟游诗人法术, 2环法术, 魔战士法术, 3环法术, 秘学士法术, 术士/法师法术, 召唤师法术
+date: 2023-07-04T01:55:52.562Z
+tags: 2环法术, 法术, 咒法系, 术士/法师法术, 魔战士法术, 召唤师法术, 3环法术, 秘学士法术, 吟游诗人法术, 传送
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:07:38.279Z
 ---
 
 # **都市迁跃术** *Urban step*

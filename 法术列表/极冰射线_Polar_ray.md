@@ -2,10 +2,10 @@
 title: 极冰射线 Polar ray
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 寒冷, 术士/法师法术, 8环法术, 冰子域
+date: 2023-07-04T00:13:02.438Z
+tags: 法术, 术士/法师法术, 8环法术, 塑能系, 寒冷, 冰子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:31:10.120Z
 ---
 
 # **极冰射线** *Polar ray*

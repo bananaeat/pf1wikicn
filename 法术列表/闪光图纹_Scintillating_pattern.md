@@ -2,10 +2,10 @@
 title: 闪光图纹 Scintillating pattern
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 心灵幻觉, 影响心灵, 灵能者法术, 8环法术, 术士/法师法术, 狂乱领域
+date: 2023-07-04T02:01:54.220Z
+tags: 法术, 术士/法师法术, 影响心灵, 8环法术, 幻术系, 心灵幻觉, 灵能者法术, 狂乱领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:17:38.647Z
 ---
 
 # **闪光图纹** *Scintillating pattern*

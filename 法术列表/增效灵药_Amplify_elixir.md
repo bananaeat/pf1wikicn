@@ -2,10 +2,10 @@
 title: 增效灵药 Amplify elixir
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 3环法术
+date: 2023-07-03T23:20:59.671Z
+tags: 法术, 3环法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:17:53.566Z
 ---
 
 # **增效灵药** *Amplify elixir*

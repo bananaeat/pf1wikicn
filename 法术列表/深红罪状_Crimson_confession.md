@@ -2,10 +2,10 @@
 title: 深红罪状 Crimson confession
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 术士/法师法术, 2环法术, 女巫法术
+date: 2023-07-04T00:34:58.313Z
+tags: 2环法术, 法术, 术士/法师法术, 女巫法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:05:17.550Z
 ---
 
 # **深红罪状** *Crimson confession*

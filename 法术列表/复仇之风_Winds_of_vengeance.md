@@ -2,10 +2,10 @@
 title: 复仇之风 Winds of vengeance
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 气, 牧师/先知法术, 9环法术, 德鲁伊法术, 术士/法师法术
+date: 2023-07-03T23:21:14.828Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 德鲁伊法术, 9环法术, 塑能系, 气
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:18:12.896Z
 ---
 
 # **复仇之风** *Winds of vengeance*

@@ -2,10 +2,10 @@
 title: 魅影窒息 Phantasmal asphyxiation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 魅影幻觉, 影响心灵, 通灵者法术, 3环法术, 催眠师法术, 4环法术, 异能者法术, 术士/法师法术, 唤魂师法术, 女巫法术
+date: 2023-07-04T02:14:36.065Z
+tags: 法术, 术士/法师法术, 影响心灵, 3环法术, 4环法术, 女巫法术, 异能者法术, 催眠师法术, 通灵者法术, 唤魂师法术, 幻术系, 魅影幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:56:40.425Z
 ---
 
 # **魅影窒息** *Phantasmal asphyxiation*

@@ -2,10 +2,10 @@
 title: 荣耀之路 Path of glory
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 吟游诗人法术, 2环法术, 牧师/先知法术
+date: 2023-07-04T01:30:50.212Z
+tags: 2环法术, 法术, 咒法系, 牧师/先知法术, 吟游诗人法术, 医疗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:29:30.948Z
 ---
 
 # **荣耀之路** *Path of glory*

@@ -2,10 +2,10 @@
 title: Firewalker's meditation Firewalker's meditation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, meditative, 牧师/先知法术, 4环法术, 德鲁伊法术, 圣武士法术, 3环法术, 萨满法术, 猎人法术
+date: 2023-07-03T21:16:18.176Z
+tags: 法术, 牧师/先知法术, 萨满法术, 3环法术, 4环法术, 猎人法术, 圣武士法术, 德鲁伊法术, 防护系, meditative
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:35:18.962Z
 ---
 
 # **Firewalker's meditation** *Firewalker's meditation*

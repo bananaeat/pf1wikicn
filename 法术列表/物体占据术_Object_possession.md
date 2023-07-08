@@ -2,10 +2,10 @@
 title: 物体占据术 Object possession
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 通灵者法术, 4环法术, 催眠师法术, 5环法术, 秘学士法术, 异能者法术, 术士/法师法术, 唤魂师法术, 女巫法术
+date: 2023-07-04T00:47:35.045Z
+tags: 法术, 术士/法师法术, 5环法术, 4环法术, 女巫法术, 秘学士法术, 异能者法术, 催眠师法术, 通灵者法术, 唤魂师法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:25:02.651Z
 ---
 
 # **物体占据术** *Object possession*

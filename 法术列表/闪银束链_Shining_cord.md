@@ -2,10 +2,10 @@
 title: 闪银束链 Shining cord
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 魔战士法术, 3环法术
+date: 2023-07-04T02:03:15.049Z
+tags: 法术, 魔战士法术, 3环法术, 力场, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:19:56.295Z
 ---
 
 # **闪银束链** *Shining cord*

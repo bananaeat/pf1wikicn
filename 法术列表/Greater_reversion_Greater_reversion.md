@@ -2,10 +2,10 @@
 title: Greater reversion Greater reversion
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 术士/法师法术, 5环法术, 牧师/先知法术, 异能者法术, 4环法术
+date: 2023-07-03T21:22:18.746Z
+tags: 法术, 咒法系, 术士/法师法术, 牧师/先知法术, 5环法术, 4环法术, 异能者法术, 医疗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:39:02.375Z
 ---
 
 # **Greater reversion** *Greater reversion*

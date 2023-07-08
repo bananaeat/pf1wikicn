@@ -2,10 +2,10 @@
 title: 有限祈愿术 Limited wish
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, uni, 灵能者法术, 7环法术, 术士/法师法术, 构装子域
+date: 2023-07-04T00:11:00.282Z
+tags: 法术, 术士/法师法术, uni, 7环法术, 灵能者法术, 构装子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:28:18.631Z
 ---
 
 # **有限祈愿术** *Limited wish*

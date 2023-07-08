@@ -2,10 +2,10 @@
 title: 妖火 Faerie fire
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 光亮, 德鲁伊法术, 1环法术, 猎人法术, 催眠师法术, 光明子域, Moon
+date: 2023-07-03T23:24:59.369Z
+tags: 法术, 猎人法术, 1环法术, 德鲁伊法术, 催眠师法术, 塑能系, 光亮, 光明子域, moon
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:23:12.794Z
 ---
 
 # **妖火** *Faerie fire*

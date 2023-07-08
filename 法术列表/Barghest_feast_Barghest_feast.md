@@ -2,10 +2,10 @@
 title: Barghest feast Barghest feast
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 邪恶, 炼金术师法术, 3环法术
+date: 2023-07-03T20:47:04.154Z
+tags: 法术, 3环法术, 变化系, 炼金术师法术, 邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:17:58.039Z
 ---
 
 # **Barghest feast** *Barghest feast*

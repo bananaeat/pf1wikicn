@@ -2,10 +2,10 @@
 title: 反震屏障 Stunning barrier
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 1环法术, 审判者法术, 圣骑士法术, 术士/法师法术
+date: 2023-07-03T23:05:01.535Z
+tags: 法术, 术士/法师法术, 审判者法术, 牧师/先知法术, 1环法术, 防护系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:55:52.326Z
 ---
 
 # **反震屏障** *Stunning barrier*

@@ -2,10 +2,10 @@
 title: 力场监牢 Forcecage
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 灵能者法术, 7环法术, 术士/法师法术
+date: 2023-07-03T22:55:24.397Z
+tags: 法术, 术士/法师法术, 力场, 塑能系, 7环法术, 灵能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:42:05.057Z
 ---
 
 # **力场监牢** *Forcecage*

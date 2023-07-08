@@ -2,10 +2,10 @@
 title: 侦测同道 Detect the faithful
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 反圣武士法术, 1环法术, 牧师/先知法术, 德鲁伊法术, 审判者法术, 圣骑士法术, 游侠法术, 萨满法术
+date: 2023-07-03T22:37:23.323Z
+tags: 法术, 审判者法术, 牧师/先知法术, 萨满法术, 游侠法术, 1环法术, 德鲁伊法术, 预言系, 反圣武士法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:28:57.747Z
 ---
 
 # **侦测同道** *Detect the faithful*

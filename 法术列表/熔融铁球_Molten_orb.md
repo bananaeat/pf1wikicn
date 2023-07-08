@@ -2,10 +2,10 @@
 title: 熔融铁球 Molten orb
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, earth, fire, 血脉狂怒者法术, 2环法术, 魔战士法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:45:24.977Z
+tags: 2环法术, 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 女巫法术, 塑能系, fire, earth
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:21:40.520Z
 ---
 
 # **熔融铁球** *Molten orb*

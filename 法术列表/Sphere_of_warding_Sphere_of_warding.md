@@ -2,10 +2,10 @@
 title: Sphere of warding Sphere of warding
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 5环法术, 女巫法术, 审判者法术, 4环法术
+date: 2023-07-03T22:10:28.084Z
+tags: 法术, 审判者法术, 牧师/先知法术, 5环法术, 4环法术, 女巫法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:11:04.319Z
 ---
 
 # **Sphere of warding** *Sphere of warding*

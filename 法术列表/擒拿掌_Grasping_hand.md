@@ -2,10 +2,10 @@
 title: 擒拿掌 Grasping hand
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 灵能者法术, 7环法术, 术士/法师法术, 力量领域
+date: 2023-07-04T00:02:56.602Z
+tags: 法术, 术士/法师法术, 力场, 塑能系, 7环法术, 灵能者法术, 力量领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:17:08.374Z
 ---
 
 # **擒拿掌** *Grasping hand*

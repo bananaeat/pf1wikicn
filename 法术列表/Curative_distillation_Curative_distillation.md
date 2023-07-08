@@ -2,10 +2,10 @@
 title: Curative distillation Curative distillation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 牧师/先知法术, 3环法术, 炼金术师法术, 2环法术
+date: 2023-07-03T21:02:39.932Z
+tags: 2环法术, 法术, 咒法系, 牧师/先知法术, 3环法术, 炼金术师法术, 医疗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:27:03.107Z
 ---
 
 # **Curative distillation** *Curative distillation*

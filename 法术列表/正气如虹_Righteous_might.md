@@ -2,10 +2,10 @@
 title: 正气如虹 Righteous might
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 牧师/先知法术, 5环法术, 审判者法术, 荣耀领域, 力量领域, 滋长子域
+date: 2023-07-04T00:21:11.693Z
+tags: 法术, 审判者法术, 牧师/先知法术, 5环法术, 变化系, 荣耀领域, 力量领域, 滋长子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:43:15.844Z
 ---
 
 # **正气如虹** *Righteous might*

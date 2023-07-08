@@ -2,10 +2,10 @@
 title: 探知徽记 Symbol of scrying
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 探知, 牧师/先知法术, 5环法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:59:33.759Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 5环法术, 女巫法术, 预言系, 探知
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:12:53.535Z
 ---
 
 # **探知徽记** *Symbol of scrying*

@@ -2,10 +2,10 @@
 title: 预知危险 Anticipate peril
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 炼金术师法术, 1环法术, 吟游诗人法术, 游侠法术, 术士/法师法术
+date: 2023-07-04T02:09:02.051Z
+tags: 法术, 术士/法师法术, 游侠法术, 1环法术, 吟游诗人法术, 炼金术师法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:36:43.143Z
 ---
 
 # **预知危险** *Anticipate peril*

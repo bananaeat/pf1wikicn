@@ -2,10 +2,10 @@
 title: 树肤术 Barkskin
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 2环法术, 德鲁伊法术, 猎人法术, 游侠法术, 萨满法术, 召唤师法术, unchained 召唤师法术, 植物领域, 防御子域
+date: 2023-07-04T00:15:16.629Z
+tags: 2环法术, 法术, 召唤师法术, 萨满法术, 游侠法术, 猎人法术, unchained 召唤师法术, 德鲁伊法术, 变化系, 炼金术师法术, 植物领域, 防御子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:34:28.887Z
 ---
 
 # **树肤术** *Barkskin*

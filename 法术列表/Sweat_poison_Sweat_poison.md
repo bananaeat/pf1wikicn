@@ -2,10 +2,10 @@
 title: Sweat poison Sweat poison
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 毒素, 德鲁伊法术, 3环法术, 游侠法术, 2环法术, 炼金术师法术, 审判者法术, 猎人法术
+date: 2023-07-03T22:18:21.061Z
+tags: 2环法术, 法术, 审判者法术, 游侠法术, 3环法术, 猎人法术, 德鲁伊法术, 炼金术师法术, 死灵系, 毒素
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:16:13.603Z
 ---
 
 # **Sweat poison** *Sweat poison*

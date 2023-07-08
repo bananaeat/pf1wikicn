@@ -2,10 +2,10 @@
 title: Defensive Grace
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 调查员法术, 5环法术
+date: 2023-07-03T21:05:46.838Z
+tags: 法术, 5环法术, 变化系, 调查员法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:28:51.962Z
 ---
 
 # **Defensive Grace** *Defensive Grace*

@@ -2,10 +2,10 @@
 title: 火焰之流 Firestream
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 魔战士法术, 3环法术, 术士/法师法术
+date: 2023-07-04T00:37:59.844Z
+tags: 法术, 术士/法师法术, 魔战士法术, 3环法术, 塑能系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:09:58.543Z
 ---
 
 # **火焰之流** *Firestream*

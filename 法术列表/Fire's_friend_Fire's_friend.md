@@ -2,10 +2,10 @@
 title: Fire's friend Fire's friend
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 炼金术师法术, 2环法术, 魔战士法术, 血脉狂怒者法术
+date: 2023-07-03T21:16:05.972Z
+tags: 2环法术, 法术, 血脉狂怒者法术, 魔战士法术, 炼金术师法术, 塑能系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:35:11.205Z
 ---
 
 # **Fire's friend** *Fire's friend*

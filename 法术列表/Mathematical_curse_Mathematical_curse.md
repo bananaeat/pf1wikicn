@@ -2,10 +2,10 @@
 title: Mathematical curse Mathematical curse
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 诅咒, 术士/法师法术, 2环法术, 牧师/先知法术, 3环法术, 吟游诗人法术, 女巫法术, 反圣武士法术
+date: 2023-07-03T21:40:20.216Z
+tags: 2环法术, 法术, 术士/法师法术, 牧师/先知法术, 3环法术, 女巫法术, 吟游诗人法术, 反圣武士法术, 死灵系, 诅咒
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:51:41.000Z
 ---
 
 # **Mathematical curse** *Mathematical curse*

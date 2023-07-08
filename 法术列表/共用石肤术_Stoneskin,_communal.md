@@ -2,10 +2,10 @@
 title: 共用石肤术 Stoneskin, communal
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 炼金术师法术, 5环法术, 德鲁伊法术, 6环法术, 审判者法术, 术士/法师法术, 召唤师法术, 4环法术
+date: 2023-07-03T22:46:37.285Z
+tags: 法术, 术士/法师法术, 6环法术, 审判者法术, 召唤师法术, 5环法术, 4环法术, 德鲁伊法术, 防护系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:34:56.342Z
 ---
 
 # **共用石肤术** *Stoneskin, communal*

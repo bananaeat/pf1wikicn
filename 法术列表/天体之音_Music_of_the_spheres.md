@@ -2,10 +2,10 @@
 title: 天体之音 Music of the spheres
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 音波, 牧师/先知法术, 6环法术, 吟游诗人法术, 5环法术
+date: 2023-07-03T23:23:18.757Z
+tags: 法术, 咒法系, 6环法术, 牧师/先知法术, 5环法术, 吟游诗人法术, 医疗, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:20:58.771Z
 ---
 
 # **天体之音** *Music of the spheres*

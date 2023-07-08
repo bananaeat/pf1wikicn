@@ -2,10 +2,10 @@
 title: Lament of summer's last breath Lament of summer's last breath
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, fire, good, 游侠法术, 2环法术, 吟游诗人法术, 猎人法术
+date: 2023-07-03T21:35:13.012Z
+tags: 2环法术, 法术, 游侠法术, 猎人法术, 吟游诗人法术, 防护系, good, fire
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:47:41.594Z
 ---
 
 # **Lament of summer's last breath** *Lament of summer's last breath*

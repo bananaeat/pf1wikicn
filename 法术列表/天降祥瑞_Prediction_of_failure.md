@@ -2,10 +2,10 @@
 title: 天降祥瑞 Prediction of failure
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 诅咒，恐惧，影响心灵, 术士/法师法术, 8环法术, 女巫法术
+date: 2023-07-03T23:23:39.984Z
+tags: 法术, 术士/法师法术, 女巫法术, 8环法术, 预言系, 诅咒，恐惧，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:21:28.099Z
 ---
 
 # **天降祥瑞** *Prediction of failure*

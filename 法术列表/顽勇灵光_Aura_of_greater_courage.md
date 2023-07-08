@@ -2,10 +2,10 @@
 title: 顽勇灵光 Aura of greater courage
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 情绪, 圣骑士法术, 2环法术
+date: 2023-07-04T02:08:51.071Z
+tags: 2环法术, 法术, 防护系, 情绪, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:36:07.143Z
 ---
 
 # **顽勇灵光** *Aura of greater courage*

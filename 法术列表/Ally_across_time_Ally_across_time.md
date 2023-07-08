@@ -2,10 +2,10 @@
 title: Ally across time Ally across time
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, 术士/法师法术, 2环法术, 牧师/先知法术, 游侠法术, 1环法术, 吟游诗人法术, 审判者法术, 异能者法术, 通灵者法术, 猎人法术
+date: 2023-07-03T20:41:53.854Z
+tags: 2环法术, 法术, 咒法系, 术士/法师法术, 审判者法术, 牧师/先知法术, 游侠法术, 猎人法术, 1环法术, 召唤, 吟游诗人法术, 异能者法术, 通灵者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:14:55.002Z
 ---
 
 # **Ally across time** *Ally across time*

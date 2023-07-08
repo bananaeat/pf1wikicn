@@ -2,10 +2,10 @@
 title: Pugwampi's grace Pugwampi's grace
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 3环法术, 吟游诗人法术, 2环法术, 女巫法术
+date: 2023-07-03T21:52:27.320Z
+tags: 2环法术, 法术, 术士/法师法术, 惑控系, 胁迫, 影响心灵, 3环法术, 女巫法术, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:59:40.093Z
 ---
 
 # **Pugwampi's grace** *Pugwampi's grace*

@@ -2,10 +2,10 @@
 title: Revenant armor Revenant armor
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 4环法术, 牧师/先知法术, 圣武士法术, 3环法术, 女巫法术, 反圣武士法术, 魔战士法术, 萨满法术, 通灵者法术, 秘学士法术, 唤魂师法术
+date: 2023-07-03T21:56:23.350Z
+tags: 法术, 术士/法师法术, 魔战士法术, 牧师/先知法术, 萨满法术, 3环法术, 4环法术, 女巫法术, 秘学士法术, 圣武士法术, 变化系, 通灵者法术, 唤魂师法术, 反圣武士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:02:26.422Z
 ---
 
 # **Revenant armor** *Revenant armor*

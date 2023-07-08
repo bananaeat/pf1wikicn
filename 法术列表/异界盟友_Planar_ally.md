@@ -2,10 +2,10 @@
 title: 异界盟友 Planar ally
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 呼唤, 见次等异界盟友的描述, 牧师/先知法术, 6环法术, 异能者法术, 萨满法术, 盖森子域, 亚空子域, 爱塔子域, Psychopomp
+date: 2023-07-03T23:35:42.050Z
+tags: 法术, 咒法系, 6环法术, 牧师/先知法术, 萨满法术, 异能者法术, 呼唤, 盖森子域, 见次等异界盟友的描述, 亚空子域, 爱塔子域, psychopomp
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:38:04.517Z
 ---
 
 # **异界盟友** *Planar ally*

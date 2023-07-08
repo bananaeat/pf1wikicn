@@ -2,10 +2,10 @@
 title: 爆燃之触 Touch of combustion
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 德鲁伊法术, 1环法术, 审判者法术, 魔战士法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:46:45.803Z
+tags: 法术, 术士/法师法术, 魔战士法术, 审判者法术, 女巫法术, 1环法术, 德鲁伊法术, 塑能系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:23:44.173Z
 ---
 
 # **爆燃之触** *Touch of combustion*

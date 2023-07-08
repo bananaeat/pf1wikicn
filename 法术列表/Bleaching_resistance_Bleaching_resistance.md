@@ -2,10 +2,10 @@
 title: Bleaching resistance Bleaching resistance
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 6环法术, 德鲁伊法术, 炼金术师法术, 4环法术, 女巫法术, 唤魂师法术, 猎人法术
+date: 2023-07-03T20:50:15.026Z
+tags: 法术, 术士/法师法术, 6环法术, 惑控系, 胁迫, 影响心灵, 4环法术, 女巫法术, 猎人法术, 德鲁伊法术, 炼金术师法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:19:36.979Z
 ---
 
 # **Bleaching resistance** *Bleaching resistance*

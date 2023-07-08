@@ -2,10 +2,10 @@
 title: 冰矛术 Ice spears
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 寒冷, 术士/法师法术, 3环法术, 德鲁伊法术, 女巫法术, 猎人法术
+date: 2023-07-03T22:50:19.143Z
+tags: 法术, 咒法系, 术士/法师法术, 3环法术, 女巫法术, 猎人法术, 德鲁伊法术, 寒冷
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:37:03.101Z
 ---
 
 # **冰矛术** *Ice spears*

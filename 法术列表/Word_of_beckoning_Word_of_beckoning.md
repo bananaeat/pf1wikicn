@@ -2,10 +2,10 @@
 title: Word of beckoning Word of beckoning
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 术士/法师法术, 7环法术, 异能者法术
+date: 2023-07-03T22:29:17.799Z
+tags: 法术, 咒法系, 术士/法师法术, 异能者法术, 传送, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:23:27.259Z
 ---
 
 # **Word of beckoning** *Word of beckoning*

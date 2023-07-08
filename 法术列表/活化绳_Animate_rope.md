@@ -2,10 +2,10 @@
 title: 活化绳 Animate rope
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 吟游诗人法术, 1环法术, 催眠师法术, 异能者法术, 术士/法师法术, 手艺领域
+date: 2023-07-04T00:32:18.281Z
+tags: 法术, 术士/法师法术, 1环法术, 吟游诗人法术, 变化系, 异能者法术, 催眠师法术, 手艺领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:01:07.729Z
 ---
 
 # **活化绳** *Animate rope*

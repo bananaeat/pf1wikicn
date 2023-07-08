@@ -2,10 +2,10 @@
 title: 胜利骑士的挽歌 Dirge of the victorious knights
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 幽影幻觉, 吟游诗人法术, 6环法术
+date: 2023-07-04T01:24:29.196Z
+tags: 法术, 6环法术, 吟游诗人法术, 幻术系, 幽影幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:20:06.930Z
 ---
 
 # **胜利骑士的挽歌** *Dirge of the victorious knights*

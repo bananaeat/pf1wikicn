@@ -2,10 +2,10 @@
 title: 魅力四射 Adoration
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, emotion, mind-affecting, 吟游诗人法术, 1环法术, 术士/法师法术, 2环法术, 女巫法术
+date: 2023-07-04T02:14:29.235Z
+tags: 2环法术, 法术, 术士/法师法术, 惑控系, 女巫法术, 1环法术, 吟游诗人法术, emotion, mind-affecting
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:56:17.374Z
 ---
 
 # **魅力四射** *Adoration*

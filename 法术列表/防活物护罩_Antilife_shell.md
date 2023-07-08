@@ -2,10 +2,10 @@
 title: 防活物护罩 Antilife shell
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 6环法术, 德鲁伊法术, 猎人法术, 异能者法术, 萨满法术, 动物领域, 灵魂子域
+date: 2023-07-04T02:05:23.293Z
+tags: 法术, 6环法术, 牧师/先知法术, 萨满法术, 猎人法术, 德鲁伊法术, 防护系, 异能者法术, 动物领域, 灵魂子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:23:43.228Z
 ---
 
 # **防活物护罩** *Antilife shell*

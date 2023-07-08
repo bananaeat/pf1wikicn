@@ -2,10 +2,10 @@
 title: 献祭 Spontaneous immolation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 术士/法师法术, 2环法术
+date: 2023-07-04T00:51:53.406Z
+tags: 2环法术, 法术, 术士/法师法术, 塑能系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:30:52.383Z
 ---
 
 # **献祭** *Spontaneous immolation*

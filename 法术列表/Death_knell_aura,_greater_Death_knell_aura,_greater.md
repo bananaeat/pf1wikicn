@@ -2,10 +2,10 @@
 title: Death knell aura, greater Death knell aura, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, death, evil, 术士/法师法术, 6环法术, 牧师/先知法术, 女巫法术, 审判者法术
+date: 2023-07-03T21:04:46.252Z
+tags: 法术, 术士/法师法术, 6环法术, 审判者法术, 牧师/先知法术, 女巫法术, 死灵系, evil, death
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:28:17.085Z
 ---
 
 # **Death knell aura, greater** *Death knell aura, greater*

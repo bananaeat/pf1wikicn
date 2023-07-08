@@ -2,10 +2,10 @@
 title: 战意鼓舞 Invigorate
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 幻象, 吟游诗人法术, 1环法术
+date: 2023-07-03T23:54:03.664Z
+tags: 法术, 1环法术, 吟游诗人法术, 幻术系, 幻象
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:04:46.888Z
 ---
 
 # **战意鼓舞** *Invigorate*

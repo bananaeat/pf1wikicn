@@ -2,10 +2,10 @@
 title: 窃取伟力 Plundered power
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 邪恶, 牧师/先知法术, 7环法术, 德鲁伊法术, 秘学士法术, 6环法术, 萨满法术, 术士/法师法术, 召唤师法术, 女巫法术
+date: 2023-07-04T01:09:30.890Z
+tags: 法术, 术士/法师法术, 6环法术, 召唤师法术, 牧师/先知法术, 萨满法术, 女巫法术, 秘学士法术, 德鲁伊法术, 死灵系, 7环法术, 邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:57:23.349Z
 ---
 
 # **窃取伟力** *Plundered power*

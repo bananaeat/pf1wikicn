@@ -2,10 +2,10 @@
 title: 狂怒斗篷 Wrathful mantle
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场，光亮, 牧师/先知法术, 3环法术, 圣骑士法术
+date: 2023-07-04T00:49:11.164Z
+tags: 法术, 牧师/先知法术, 3环法术, 塑能系, 圣骑士法术, 力场，光亮
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:27:24.377Z
 ---
 
 # **狂怒斗篷** *Wrathful mantle*

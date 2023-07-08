@@ -2,10 +2,10 @@
 title: Find fault Find fault
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 术士/法师法术, 3环法术, 吟游诗人法术, 女巫法术, 审判者法术, 魔战士法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 通灵者法术
+date: 2023-07-03T21:15:52.929Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 审判者法术, 萨满法术, 3环法术, 女巫法术, 吟游诗人法术, 异能者法术, 预言系, 通灵者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:35:03.182Z
 ---
 
 # **Find fault** *Find fault*

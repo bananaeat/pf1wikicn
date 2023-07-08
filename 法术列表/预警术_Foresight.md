@@ -2,10 +2,10 @@
 title: 预警术 Foresight
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 德鲁伊法术, 9环法术, 异能者法术, 萨满法术, 术士/法师法术, 女巫法术, 知识领域
+date: 2023-07-04T02:09:12.882Z
+tags: 法术, 术士/法师法术, 萨满法术, 女巫法术, 德鲁伊法术, 异能者法术, 预言系, 9环法术, 知识领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:37:17.783Z
 ---
 
 # **预警术** *Foresight*

@@ -2,10 +2,10 @@
 title: 勾刺锁炼 Barbed chains
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, emotion, fear, mind-affecting, 反圣武士法术, 1环法术, 血脉狂怒者法术, 牧师/先知法术, 审判者法术, 秘学士法术, 萨满法术, 召唤师法术
+date: 2023-07-03T22:58:13.529Z
+tags: 法术, 咒法系, 血脉狂怒者法术, 审判者法术, 召唤师法术, 牧师/先知法术, 萨满法术, 秘学士法术, 1环法术, 召唤, 反圣武士法术, emotion, mind-affecting, fear
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:46:07.599Z
 ---
 
 # **勾刺锁炼** *Barbed chains*

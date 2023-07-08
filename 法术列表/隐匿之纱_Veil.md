@@ -2,10 +2,10 @@
 title: 隐匿之纱 Veil
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 五官幻觉, 吟游诗人法术, 6环法术, 催眠师法术, 异能者法术, 术士/法师法术, Ambush
+date: 2023-07-04T02:06:27.480Z
+tags: 法术, 术士/法师法术, 6环法术, 吟游诗人法术, 异能者法术, 催眠师法术, 幻术系, 五官幻觉, ambush
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:27:35.356Z
 ---
 
 # **隐匿之纱** *Veil*

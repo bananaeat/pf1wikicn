@@ -2,10 +2,10 @@
 title: 狂热执念 Unshakable zeal
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 情绪，影响心灵, 吟游诗人法术, 5环法术, 审判者法术, 6环法术, 异能者法术, 7环法术, 唤魂师法术
+date: 2023-07-04T00:49:27.046Z
+tags: 法术, 6环法术, 审判者法术, 惑控系, 胁迫, 5环法术, 吟游诗人法术, 异能者法术, 唤魂师法术, 7环法术, 情绪，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:27:45.276Z
 ---
 
 # **狂热执念** *Unshakable zeal*

@@ -2,10 +2,10 @@
 title: 塑声术 Sculpt sound
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 吟游诗人法术, 3环法术
+date: 2023-07-03T23:20:06.794Z
+tags: 法术, 3环法术, 吟游诗人法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:16:46.820Z
 ---
 
 # **塑声术** *Sculpt sound*

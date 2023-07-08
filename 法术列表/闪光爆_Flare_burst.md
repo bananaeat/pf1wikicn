@@ -2,10 +2,10 @@
 title: 闪光爆 Flare burst
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 光亮, 吟游诗人法术, 1环法术, 德鲁伊法术, 魔战士法术, 术士/法师法术
+date: 2023-07-04T02:02:23.573Z
+tags: 法术, 术士/法师法术, 魔战士法术, 1环法术, 吟游诗人法术, 德鲁伊法术, 塑能系, 光亮
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:18:29.458Z
 ---
 
 # **闪光爆** *Flare burst*

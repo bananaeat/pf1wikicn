@@ -2,10 +2,10 @@
 title: 花言巧语 Glibness
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 吟游诗人法术, 3环法术, 催眠师法术
+date: 2023-07-04T01:28:47.494Z
+tags: 法术, 3环法术, 吟游诗人法术, 变化系, 催眠师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:26:32.855Z
 ---
 
 # **花言巧语** *Glibness*

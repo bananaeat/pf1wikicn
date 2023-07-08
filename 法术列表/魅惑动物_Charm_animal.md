@@ -2,10 +2,10 @@
 title: 魅惑动物 Charm animal
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 魅惑, 影响心灵, 德鲁伊法术, 1环法术, 猎人法术, 异能者法术, 游侠法术, 萨满法术
+date: 2023-07-04T02:14:59.900Z
+tags: 法术, 萨满法术, 惑控系, 影响心灵, 游侠法术, 猎人法术, 1环法术, 德鲁伊法术, 异能者法术, 魅惑
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:58:02.615Z
 ---
 
 # **魅惑动物** *Charm animal*

@@ -2,10 +2,10 @@
 title: 友伴复活 Raise animal companion
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 德鲁伊法术, 5环法术, 圣骑士法术, 4环法术, 游侠法术
+date: 2023-07-03T23:02:45.545Z
+tags: 法术, 咒法系, 5环法术, 游侠法术, 4环法术, 德鲁伊法术, 医疗, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:52:45.432Z
 ---
 
 # **友伴复活** *Raise animal companion*

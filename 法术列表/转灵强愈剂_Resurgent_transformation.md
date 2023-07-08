@@ -2,10 +2,10 @@
 title: 转灵强愈剂 Resurgent transformation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 炼金术师法术, 5环法术
+date: 2023-07-04T01:47:25.801Z
+tags: 法术, 咒法系, 5环法术, 炼金术师法术, 医疗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:54:37.703Z
 ---
 
 # **转灵强愈剂** *Resurgent transformation*

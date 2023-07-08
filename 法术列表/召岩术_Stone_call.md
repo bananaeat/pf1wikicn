@@ -2,10 +2,10 @@
 title: 召岩术 Stone call
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 土, 德鲁伊法术, 2环法术, 魔战士法术, 游侠法术, 术士/法师法术
+date: 2023-07-03T23:09:29.219Z
+tags: 2环法术, 法术, 咒法系, 术士/法师法术, 魔战士法术, 创造, 游侠法术, 德鲁伊法术, 土
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:02:14.571Z
 ---
 
 # **召岩术** *Stone call*

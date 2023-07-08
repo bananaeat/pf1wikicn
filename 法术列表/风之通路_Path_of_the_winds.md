@@ -2,10 +2,10 @@
 title: 风之通路 Path of the winds
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 气, 德鲁伊法术, 6环法术, 术士/法师法术
+date: 2023-07-04T02:09:22.877Z
+tags: 法术, 术士/法师法术, 6环法术, 德鲁伊法术, 塑能系, 气
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:37:54.415Z
 ---
 
 # **风之通路** *Path of the winds*

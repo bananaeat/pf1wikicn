@@ -2,10 +2,10 @@
 title: 血雾术 Blood mist
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 毒素, 德鲁伊法术, 8环法术
+date: 2023-07-04T01:38:46.252Z
+tags: 法术, 咒法系, 创造, 德鲁伊法术, 8环法术, 毒素
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:41:14.463Z
 ---
 
 # **血雾术** *Blood mist*

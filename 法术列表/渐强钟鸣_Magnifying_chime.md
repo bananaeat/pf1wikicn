@@ -2,10 +2,10 @@
 title: 渐强钟鸣 Magnifying chime
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 音波, 吟游诗人法术, 6环法术
+date: 2023-07-04T00:35:54.920Z
+tags: 法术, 6环法术, 吟游诗人法术, 变化系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:06:42.867Z
 ---
 
 # **渐强钟鸣** *Magnifying chime*

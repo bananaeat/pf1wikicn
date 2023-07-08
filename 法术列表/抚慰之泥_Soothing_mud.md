@@ -2,10 +2,10 @@
 title: 抚慰之泥 Soothing mud
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 土，水, 德鲁伊法术, 3环法术, 游侠法术, 萨满法术
+date: 2023-07-03T23:55:57.788Z
+tags: 法术, 咒法系, 萨满法术, 游侠法术, 3环法术, 德鲁伊法术, 医疗, 土，水
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:07:36.419Z
 ---
 
 # **抚慰之泥** *Soothing mud*

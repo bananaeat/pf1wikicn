@@ -2,10 +2,10 @@
 title: 束缚大法 Binding
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 灵能者法术, 8环法术, 术士/法师法术, 召唤师法术, 6环法术, unchained 召唤师法术, Slavery
+date: 2023-07-04T00:12:25.658Z
+tags: 法术, 术士/法师法术, 6环法术, 召唤师法术, 惑控系, 胁迫, 影响心灵, unchained 召唤师法术, 8环法术, 灵能者法术, slavery
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:30:15.844Z
 ---
 
 # **束缚大法** *Binding*

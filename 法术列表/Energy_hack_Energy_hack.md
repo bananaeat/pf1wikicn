@@ -2,10 +2,10 @@
 title: Energy hack Energy hack
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, acid, cold, electricity, or fire, see below, 术士/法师法术, 4环法术
+date: 2023-07-03T21:12:23.005Z
+tags: 法术, 术士/法师法术, 4环法术, 变化系, acid, cold, electricity, or fire, see below
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:32:51.134Z
 ---
 
 # **Energy hack** *Energy hack*

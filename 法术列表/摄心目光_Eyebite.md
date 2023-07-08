@@ -2,10 +2,10 @@
 title: 摄心目光 Eyebite
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 情绪, 痛苦, 炼金术师法术, 6环法术, 吟游诗人法术, 催眠师法术, 术士/法师法术, 唤魂师法术, 女巫法术, Scalykind, 诅咒子域
+date: 2023-07-04T00:01:39.510Z
+tags: 法术, 术士/法师法术, 6环法术, 女巫法术, 吟游诗人法术, 炼金术师法术, 催眠师法术, 唤魂师法术, 死灵系, 痛苦, 情绪, scalykind, 诅咒子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:15:31.100Z
 ---
 
 # **摄心目光** *Eyebite*

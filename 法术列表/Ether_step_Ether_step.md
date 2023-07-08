@@ -2,10 +2,10 @@
 title: Ether step Ether step
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 6环法术, 召唤师法术, 5环法术, 魔战士法术
+date: 2023-07-03T21:13:26.636Z
+tags: 法术, 术士/法师法术, 魔战士法术, 6环法术, 召唤师法术, 5环法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:33:31.317Z
 ---
 
 # **Ether step** *Ether step*

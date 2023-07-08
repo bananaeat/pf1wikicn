@@ -2,10 +2,10 @@
 title: 触发术 Contingency
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 秘学士法术, 6环法术, 异能者法术, 术士/法师法术
+date: 2023-07-04T01:41:54.362Z
+tags: 法术, 术士/法师法术, 6环法术, 秘学士法术, 异能者法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:45:50.575Z
 ---
 
 # **触发术** *Contingency*

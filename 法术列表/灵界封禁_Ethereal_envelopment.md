@@ -2,10 +2,10 @@
 title: 灵界封禁 Ethereal envelopment
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 异能者法术, 7环法术, 唤魂师法术, 5环法术
+date: 2023-07-04T00:41:13.504Z
+tags: 法术, 咒法系, 5环法术, 异能者法术, 唤魂师法术, 传送, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:15:00.000Z
 ---
 
 # **灵界封禁** *Ethereal envelopment*

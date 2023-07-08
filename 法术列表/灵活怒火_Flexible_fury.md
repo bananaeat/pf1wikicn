@@ -2,10 +2,10 @@
 title: 灵活怒火 Flexible fury
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 吟游诗人法术, 3环法术
+date: 2023-07-04T00:41:06.890Z
+tags: 法术, 3环法术, 吟游诗人法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:14:47.755Z
 ---
 
 # **灵活怒火** *Flexible fury*

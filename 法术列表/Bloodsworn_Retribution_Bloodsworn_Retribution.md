@@ -2,10 +2,10 @@
 title: Bloodsworn Retribution
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 牧师/先知法术, 6环法术, 猎人法术, 4环法术, 圣武士法术, 游侠法术, 战斗祭司法术
+date: 2023-07-03T20:51:54.615Z
+tags: 法术, 6环法术, 牧师/先知法术, 游侠法术, 4环法术, 猎人法术, 圣武士法术, 死灵系, 战斗祭司法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:20:36.784Z
 ---
 
 # **Bloodsworn Retribution** *Bloodsworn Retribution*

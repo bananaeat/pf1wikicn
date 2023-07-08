@@ -2,10 +2,10 @@
 title: Accept affliction Accept affliction
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 善良, 牧师/先知法术, 3环法术, 德鲁伊法术, 吟游诗人法术, 圣武士法术, 女巫法术, 猎人法术
+date: 2023-07-03T20:40:02.497Z
+tags: 法术, 咒法系, 牧师/先知法术, 3环法术, 女巫法术, 猎人法术, 圣武士法术, 吟游诗人法术, 德鲁伊法术, 善良, 医疗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:13:00.496Z
 ---
 
 # **Accept affliction** *Accept affliction*

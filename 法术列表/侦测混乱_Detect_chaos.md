@@ -2,10 +2,10 @@
 title: 侦测混乱 Detect chaos
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 导师法术, 1环法术, 牧师/先知法术, 审判者法术, 萨满法术, 唤魂师法术
+date: 2023-07-03T22:38:45.812Z
+tags: 法术, 审判者法术, 牧师/先知法术, 萨满法术, 1环法术, 预言系, 唤魂师法术, 导师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:29:50.973Z
 ---
 
 # **侦测混乱** *Detect chaos*

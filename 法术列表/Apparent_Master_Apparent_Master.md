@@ -2,10 +2,10 @@
 title: Apparent Master
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 奥能师法术, 5环法术, 吟游诗人法术, 4环法术, 歌者法术, 法师/术士法术
+date: 2023-07-03T20:43:50.362Z
+tags: 法术, 奥能师法术, 惑控系, 5环法术, 4环法术, 吟游诗人法术, 法师/术士法术, 歌者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:16:03.939Z
 ---
 
 # **Apparent Master** *Apparent Master*

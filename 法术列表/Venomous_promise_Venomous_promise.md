@@ -2,10 +2,10 @@
 title: Venomous promise Venomous promise
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, language-dependent, poison, 吟游诗人法术, 3环法术, 女巫法术, 反圣武士法术, 萨满法术, 催眠师法术
+date: 2023-07-03T22:26:47.068Z
+tags: 法术, 萨满法术, 3环法术, 女巫法术, 吟游诗人法术, 变化系, 催眠师法术, 反圣武士法术, language-dependent, poison
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:21:48.143Z
 ---
 
 # **Venomous promise** *Venomous promise*

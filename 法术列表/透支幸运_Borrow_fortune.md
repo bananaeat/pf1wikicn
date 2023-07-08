@@ -2,10 +2,10 @@
 title: 透支幸运 Borrow fortune
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 先知法术, 3环法术
+date: 2023-07-04T01:52:18.417Z
+tags: 法术, 3环法术, 塑能系, 先知法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:01:48.195Z
 ---
 
 # **透支幸运** *Borrow fortune*

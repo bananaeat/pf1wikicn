@@ -2,10 +2,10 @@
 title: 虹光法墙 Prismatic wall
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 灵能者法术, 8环法术, 术士/法师法术, Fortifications, Isolation
+date: 2023-07-04T01:34:35.595Z
+tags: 法术, 术士/法师法术, 防护系, 8环法术, 灵能者法术, isolation, fortifications
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:35:05.943Z
 ---
 
 # **虹光法墙** *Prismatic wall*

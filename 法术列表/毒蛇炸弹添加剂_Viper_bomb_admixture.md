@@ -2,10 +2,10 @@
 title: 毒蛇炸弹添加剂 Viper bomb admixture
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 炼金术师法术, 4环法术
+date: 2023-07-04T00:24:39.650Z
+tags: 法术, 咒法系, 创造, 4环法术, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:48:38.249Z
 ---
 
 # **毒蛇炸弹添加剂** *Viper bomb admixture*

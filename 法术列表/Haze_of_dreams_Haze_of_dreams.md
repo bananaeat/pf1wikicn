@@ -2,10 +2,10 @@
 title: Haze of dreams Haze of dreams
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 魅惑, emotion, mind-affecting, 牧师/先知法术, 1环法术, 吟游诗人法术, 圣武士法术, 女巫法术, 审判者法术
+date: 2023-07-03T21:24:26.544Z
+tags: 法术, 审判者法术, 牧师/先知法术, 惑控系, 女巫法术, 1环法术, 圣武士法术, 吟游诗人法术, emotion, mind-affecting, 魅惑
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:40:23.420Z
 ---
 
 # **Haze of dreams** *Haze of dreams*

@@ -2,10 +2,10 @@
 title: Garrulous grin Garrulous grin
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, fear, mind-affecting, 吟游诗人法术, 2环法术, 女巫法术, 3环法术, 审判者法术, 反圣武士法术, 萨满法术, 异能者法术, 催眠师法术, 唤魂师法术
+date: 2023-07-03T21:20:08.621Z
+tags: 2环法术, 法术, 审判者法术, 萨满法术, 3环法术, 女巫法术, 吟游诗人法术, 异能者法术, 催眠师法术, 唤魂师法术, 反圣武士法术, 死灵系, mind-affecting, fear
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:37:42.208Z
 ---
 
 # **Garrulous grin** *Garrulous grin*

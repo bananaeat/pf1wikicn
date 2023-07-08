@@ -2,10 +2,10 @@
 title: 安抚动物 Calm animals
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 情绪, 德鲁伊法术, 1环法术, 猎人法术, 异能者法术, 游侠法术, 萨满法术, 动物领域
+date: 2023-07-03T23:26:11.097Z
+tags: 法术, 萨满法术, 惑控系, 胁迫, 影响心灵, 游侠法术, 猎人法术, 1环法术, 德鲁伊法术, 异能者法术, 情绪, 动物领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:24:50.385Z
 ---
 
 # **安抚动物** *Calm animals*

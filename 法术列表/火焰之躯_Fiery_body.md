@@ -2,10 +2,10 @@
 title: 火焰之躯 Fiery body
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 火, 术士/法师法术, 9环法术
+date: 2023-07-04T00:38:07.805Z
+tags: 法术, 术士/法师法术, 变化系, 9环法术, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:10:11.276Z
 ---
 
 # **火焰之躯** *Fiery body*

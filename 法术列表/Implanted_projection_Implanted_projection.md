@@ -2,10 +2,10 @@
 title: Implanted projection Implanted projection
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 异能者法术, 3环法术, 催眠师法术
+date: 2023-07-03T21:30:05.397Z
+tags: 法术, 惑控系, 胁迫, 3环法术, 异能者法术, 催眠师法术, emotion, mind-affecting
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:44:05.987Z
 ---
 
 # **Implanted projection** *Implanted projection*

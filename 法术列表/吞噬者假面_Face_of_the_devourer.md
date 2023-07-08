@@ -2,10 +2,10 @@
 title: 吞噬者假面 Face of the devourer
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 变形, 术士/法师法术, 1环法术, 牧师/先知法术, 德鲁伊法术, 反圣武士法术, 导师法术, 猎人法术
+date: 2023-07-03T23:10:48.169Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 猎人法术, 1环法术, 德鲁伊法术, 变化系, 反圣武士法术, 变形, 导师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:04:02.231Z
 ---
 
 # **吞噬者假面** *Face of the devourer*

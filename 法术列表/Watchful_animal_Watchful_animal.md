@@ -2,10 +2,10 @@
 title: Watchful animal Watchful animal
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 探知, 术士/法师法术, 4环法术, 德鲁伊法术, 游侠法术, 女巫法术, 萨满法术, 猎人法术
+date: 2023-07-03T22:28:36.593Z
+tags: 法术, 术士/法师法术, 萨满法术, 游侠法术, 4环法术, 女巫法术, 猎人法术, 德鲁伊法术, 预言系, 探知
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:23:00.134Z
 ---
 
 # **Watchful animal** *Watchful animal*

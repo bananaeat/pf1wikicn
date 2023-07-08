@@ -2,10 +2,10 @@
 title: 力竭射线 Ray of exhaustion
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 血脉狂怒者法术, 3环法术, 魔战士法术, 催眠师法术, 术士/法师法术, 唤魂师法术, 女巫法术
+date: 2023-07-03T22:55:45.256Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 3环法术, 女巫法术, 催眠师法术, 唤魂师法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:42:34.595Z
 ---
 
 # **力竭射线** *Ray of exhaustion*

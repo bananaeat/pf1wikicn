@@ -2,10 +2,10 @@
 title: 群体绞杀 Suffocation, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 9环法术, 女巫法术
+date: 2023-07-04T01:21:02.241Z
+tags: 法术, 术士/法师法术, 女巫法术, 9环法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:14:59.247Z
 ---
 
 # **群体绞杀** *Suffocation, mass*

@@ -2,10 +2,10 @@
 title: 向导召唤术 Summon eidolon
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, 召唤师法术, 2环法术
+date: 2023-07-03T23:10:26.343Z
+tags: 2环法术, 法术, 咒法系, 召唤师法术, 召唤
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:03:32.451Z
 ---
 
 # **向导召唤术** *Summon eidolon*

@@ -2,10 +2,10 @@
 title: 遏止腐化 Ban corruption
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 善良, 牧师/先知法术, 5环法术, 审判者法术, 4环法术, 通灵者法术, 3环法术, 秘学士法术, 圣骑士法术, 萨满法术
+date: 2023-07-04T01:54:08.847Z
+tags: 法术, 审判者法术, 牧师/先知法术, 萨满法术, 5环法术, 3环法术, 4环法术, 秘学士法术, 防护系, 善良, 通灵者法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:04:51.203Z
 ---
 
 # **遏止腐化** *Ban corruption*

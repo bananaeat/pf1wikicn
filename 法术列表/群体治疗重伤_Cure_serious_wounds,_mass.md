@@ -2,10 +2,10 @@
 title: 群体治疗重伤 Cure serious wounds, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 牧师/先知法术, 7环法术, 德鲁伊法术, 8环法术, 萨满法术, 女巫法术
+date: 2023-07-04T01:20:03.258Z
+tags: 法术, 咒法系, 牧师/先知法术, 萨满法术, 女巫法术, 德鲁伊法术, 8环法术, 医疗, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:13:42.683Z
 ---
 
 # **群体治疗重伤** *Cure serious wounds, mass*

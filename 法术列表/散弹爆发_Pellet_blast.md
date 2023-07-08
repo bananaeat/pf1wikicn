@@ -2,10 +2,10 @@
 title: 散弹爆发 Pellet blast
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 魔战士法术, 4环法术, 术士/法师法术, 3环法术, 召唤师法术
+date: 2023-07-04T00:04:51.195Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 召唤师法术, 创造, 3环法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:19:42.326Z
 ---
 
 # **散弹爆发** *Pellet blast*

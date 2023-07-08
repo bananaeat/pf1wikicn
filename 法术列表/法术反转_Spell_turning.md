@@ -2,10 +2,10 @@
 title: 法术反转 Spell turning
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 灵能者法术, 7环法术, 术士/法师法术, 召唤师法术, 5环法术, unchained 召唤师法术, 6环法术, 机运领域, 魔法领域
+date: 2023-07-04T00:30:08.974Z
+tags: 法术, 术士/法师法术, 6环法术, 召唤师法术, 机运领域, 5环法术, unchained 召唤师法术, 防护系, 7环法术, 灵能者法术, 魔法领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:57:35.431Z
 ---
 
 # **法术反转** *Spell turning*

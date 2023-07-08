@@ -2,10 +2,10 @@
 title: 召唤自然盟友ix Summon nature's ally ix
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, see text, 德鲁伊法术, 9环法术
+date: 2023-07-03T23:08:33.426Z
+tags: 法术, 咒法系, 召唤, 德鲁伊法术, 9环法术, see text
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:00:53.145Z
 ---
 
 # **召唤自然盟友ix** *Summon nature's ally ix*

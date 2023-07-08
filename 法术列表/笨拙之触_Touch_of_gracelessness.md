@@ -2,10 +2,10 @@
 title: 笨拙之触 Touch of gracelessness
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 吟游诗人法术, 1环法术, 术士/法师法术
+date: 2023-07-04T01:10:39.783Z
+tags: 法术, 术士/法师法术, 1环法术, 吟游诗人法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:59:03.491Z
 ---
 
 # **笨拙之触** *Touch of gracelessness*

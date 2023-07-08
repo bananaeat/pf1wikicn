@@ -2,10 +2,10 @@
 title: Visualization of the mind Visualization of the mind
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, meditative, 牧师/先知法术, 2环法术, 萨满法术
+date: 2023-07-03T22:27:27.377Z
+tags: 2环法术, 法术, 牧师/先知法术, 萨满法术, 变化系, meditative
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:22:15.600Z
 ---
 
 # **Visualization of the mind** *Visualization of the mind*

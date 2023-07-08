@@ -2,10 +2,10 @@
 title: 墓穴之语 Grave words
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 依赖语言, 通灵者法术, 戏法/祷念, 秘学士法术, 异能者法术, 唤魂师法术
+date: 2023-07-03T23:20:43.812Z
+tags: 法术, 秘学士法术, 异能者法术, 通灵者法术, 唤魂师法术, 死灵系, 戏法/祷念, 依赖语言
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:17:34.461Z
 ---
 
 # **墓穴之语** *Grave words*

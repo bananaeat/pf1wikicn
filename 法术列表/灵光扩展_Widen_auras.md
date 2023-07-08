@@ -2,10 +2,10 @@
 title: 灵光扩展 Widen auras
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 反圣武士法术, 2环法术, 圣骑士法术
+date: 2023-07-04T00:40:37.236Z
+tags: 2环法术, 法术, 变化系, 反圣武士法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:14:04.100Z
 ---
 
 # **灵光扩展** *Widen auras*

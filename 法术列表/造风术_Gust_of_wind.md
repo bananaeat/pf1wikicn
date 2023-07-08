@@ -2,10 +2,10 @@
 title: 造风术 Gust of wind
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 气, 血脉狂怒者法术, 2环法术, 德鲁伊法术, 猎人法术, 魔战士法术, 秘学士法术, 术士/法师法术, 天灾子域
+date: 2023-07-04T01:54:01.504Z
+tags: 2环法术, 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 秘学士法术, 猎人法术, 德鲁伊法术, 塑能系, 气, 天灾子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:04:38.940Z
 ---
 
 # **造风术** *Gust of wind*

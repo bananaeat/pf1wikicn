@@ -2,10 +2,10 @@
 title: 地狱舌鞭 Hellmouth lash
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-03T23:19:01.835Z
 tags: 法术, 变化系, 酸，电或火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:15:22.351Z
 ---
 
 # **地狱舌鞭** *Hellmouth lash*

@@ -2,10 +2,10 @@
 title: Bolt of Glory
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, Glory
+date: 2023-07-03T20:52:21.083Z
+tags: 法术, 塑能系, glory
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:20:52.035Z
 ---
 
 # **Bolt of Glory** *Bolt of Glory*

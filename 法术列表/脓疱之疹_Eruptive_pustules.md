@@ -2,10 +2,10 @@
 title: 脓疱之疹 Eruptive pustules
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 酸, 炼金术师法术, 3环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T01:25:01.110Z
+tags: 法术, 酸, 术士/法师法术, 3环法术, 女巫法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:20:53.397Z
 ---
 
 # **脓疱之疹** *Eruptive pustules*

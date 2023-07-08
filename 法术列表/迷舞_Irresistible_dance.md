@@ -2,10 +2,10 @@
 title: 迷舞 Irresistible dance
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 6环法术, 催眠师法术, 异能者法术, 8环法术, 萨满法术, 术士/法师法术, 女巫法术, Revelry
+date: 2023-07-04T01:50:57.724Z
+tags: 法术, 术士/法师法术, 6环法术, 萨满法术, 惑控系, 胁迫, 影响心灵, 女巫法术, 吟游诗人法术, 8环法术, 异能者法术, 催眠师法术, revelry
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:59:17.651Z
 ---
 
 # **迷舞** *Irresistible dance*

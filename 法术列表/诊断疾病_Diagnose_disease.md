@@ -2,10 +2,10 @@
 title: 诊断疾病 Diagnose disease
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 牧师/先知法术, 1环法术, 德鲁伊法术, 圣骑士法术, 游侠法术, 女巫法术
+date: 2023-07-04T01:43:32.850Z
+tags: 法术, 牧师/先知法术, 游侠法术, 女巫法术, 1环法术, 德鲁伊法术, 预言系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:48:21.258Z
 ---
 
 # **诊断疾病** *Diagnose disease*

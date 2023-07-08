@@ -2,10 +2,10 @@
 title: 束缚爆破 Burst bonds
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 审判者法术, 1环法术
+date: 2023-07-04T00:12:32.465Z
+tags: 法术, 审判者法术, 1环法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:30:27.253Z
 ---
 
 # **束缚爆破** *Burst bonds*

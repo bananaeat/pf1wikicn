@@ -2,10 +2,10 @@
 title: 稳固抓握 Certain grip
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 2环法术, 德鲁伊法术, 术士/法师法术
+date: 2023-07-04T01:08:35.777Z
+tags: 2环法术, 法术, 术士/法师法术, 德鲁伊法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:56:03.618Z
 ---
 
 # **稳固抓握** *Certain grip*

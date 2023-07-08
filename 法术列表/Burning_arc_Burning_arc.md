@@ -2,10 +2,10 @@
 title: Burning arc Burning arc
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 术士/法师法术, 2环法术
+date: 2023-07-03T20:54:18.737Z
+tags: 2环法术, 法术, 术士/法师法术, 塑能系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:22:02.884Z
 ---
 
 # **Burning arc** *Burning arc*

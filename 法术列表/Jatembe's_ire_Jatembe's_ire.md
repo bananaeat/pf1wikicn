@@ -2,10 +2,10 @@
 title: Jatembe's ire Jatembe's ire
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 善良, 术士/法师法术, 6环法术, 德鲁伊法术, 猎人法术
+date: 2023-07-03T21:33:59.925Z
+tags: 法术, 术士/法师法术, 6环法术, 猎人法术, 德鲁伊法术, 变化系, 善良
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:46:49.546Z
 ---
 
 # **Jatembe's ire** *Jatembe's ire*

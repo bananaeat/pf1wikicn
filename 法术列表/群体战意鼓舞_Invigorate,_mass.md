@@ -2,10 +2,10 @@
 title: 群体战意鼓舞 Invigorate, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 幻象, 吟游诗人法术, 3环法术
+date: 2023-07-04T01:18:53.385Z
+tags: 法术, 3环法术, 吟游诗人法术, 幻术系, 幻象
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:11:59.235Z
 ---
 
 # **群体战意鼓舞** *Invigorate, mass*

@@ -2,10 +2,10 @@
 title: Runic overload Runic overload
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 术士/法师法术, 5环法术, 女巫法术, 6环法术, 魔战士法术, 4环法术, 血脉狂怒者法术, 3环法术
+date: 2023-07-03T21:58:32.884Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 6环法术, 5环法术, 3环法术, 4环法术, 女巫法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:03:48.700Z
 ---
 
 # **Runic overload** *Runic overload*

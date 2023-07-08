@@ -2,10 +2,10 @@
 title: 和平条令 Peacebond
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 审判者法术, 1环法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:13:27.319Z
+tags: 法术, 术士/法师法术, 审判者法术, 女巫法术, 1环法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:07:43.151Z
 ---
 
 # **和平条令** *Peacebond*

@@ -2,10 +2,10 @@
 title: 幻化灵体 Ethereal jaunt
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 牧师/先知法术, 7环法术, 异能者法术, 6环法术, 术士/法师法术, 召唤师法术, 5环法术, unchained 召唤师法术, 盗窃子域
+date: 2023-07-03T23:32:08.661Z
+tags: 法术, 术士/法师法术, 6环法术, 召唤师法术, 牧师/先知法术, 5环法术, unchained 召唤师法术, 变化系, 异能者法术, 7环法术, 盗窃子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:33:10.399Z
 ---
 
 # **幻化灵体** *Ethereal jaunt*

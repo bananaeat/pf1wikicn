@@ -2,10 +2,10 @@
 title: 操控天气 Control weather
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 牧师/先知法术, 7环法术, 德鲁伊法术, 萨满法术, 术士/法师法术, 女巫法术, 天气领域, 天灾子域
+date: 2023-07-04T00:02:05.461Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 萨满法术, 女巫法术, 德鲁伊法术, 变化系, 7环法术, 天气领域, 天灾子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:16:02.868Z
 ---
 
 # **操控天气** *Control weather*

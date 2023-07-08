@@ -2,10 +2,10 @@
 title: 酷烈苛责 Blistering invective
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火，依赖语言, 炼金术师法术, 2环法术, 吟游诗人法术, 审判者法术
+date: 2023-07-04T01:56:00.000Z
+tags: 2环法术, 法术, 审判者法术, 吟游诗人法术, 炼金术师法术, 塑能系, 火，依赖语言
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:07:50.479Z
 ---
 
 # **酷烈苛责** *Blistering invective*

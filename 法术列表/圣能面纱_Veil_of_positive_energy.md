@@ -2,10 +2,10 @@
 title: 圣能面纱 Veil of positive energy
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 善良, 圣骑士法术, 1环法术
+date: 2023-07-03T23:18:05.941Z
+tags: 法术, 1环法术, 防护系, 善良, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:14:04.681Z
 ---
 
 # **圣能面纱** *Veil of positive energy*

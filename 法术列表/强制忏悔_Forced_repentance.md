@@ -2,10 +2,10 @@
 title: 强制忏悔 Forced repentance
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵，情绪, 审判者法术, 4环法术, 圣骑士法术
+date: 2023-07-03T23:38:08.475Z
+tags: 法术, 审判者法术, 惑控系, 胁迫, 4环法术, 圣骑士法术, 影响心灵，情绪
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:41:30.901Z
 ---
 
 # **强制忏悔** *Forced repentance*

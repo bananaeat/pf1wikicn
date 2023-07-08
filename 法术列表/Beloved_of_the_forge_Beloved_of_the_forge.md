@@ -2,10 +2,10 @@
 title: Beloved of the forge Beloved of the forge
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 牧师/先知法术, 2环法术, 吟游诗人法术, 炼金术师法术, 萨满法术
+date: 2023-07-03T20:47:42.838Z
+tags: 2环法术, 法术, 牧师/先知法术, 萨满法术, 吟游诗人法术, 炼金术师法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:18:21.543Z
 ---
 
 # **Beloved of the forge** *Beloved of the forge*

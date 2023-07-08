@@ -2,10 +2,10 @@
 title: 毁灭灵气 Aura of doom
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 情绪，恐惧，影响心灵, 牧师/先知法术, 4环法术
+date: 2023-07-04T00:24:03.078Z
+tags: 法术, 牧师/先知法术, 4环法术, 死灵系, 情绪，恐惧，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:47:42.454Z
 ---
 
 # **毁灭灵气** *Aura of doom*

@@ -2,10 +2,10 @@
 title: 心有灵犀 Battlemind link
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 影响心灵, 审判者法术, 4环法术, 术士/法师法术, 6环法术
+date: 2023-07-03T23:41:48.769Z
+tags: 法术, 术士/法师法术, 6环法术, 审判者法术, 影响心灵, 4环法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:46:41.038Z
 ---
 
 # **心有灵犀** *Battlemind link*

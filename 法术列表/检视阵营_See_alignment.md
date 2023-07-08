@@ -2,10 +2,10 @@
 title: 检视阵营 See alignment
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 炼金术师法术, 1环法术, 吟游诗人法术, 术士/法师法术
+date: 2023-07-04T00:16:28.898Z
+tags: 法术, 术士/法师法术, 1环法术, 吟游诗人法术, 炼金术师法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:36:15.021Z
 ---
 
 # **检视阵营** *See alignment*

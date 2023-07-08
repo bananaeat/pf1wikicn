@@ -2,10 +2,10 @@
 title: Wall of brine Wall of brine
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 水, 术士/法师法术, 4环法术, 德鲁伊法术, 游侠法术, 3环法术, 魔战士法术, 萨满法术, 猎人法术
+date: 2023-07-03T22:27:40.502Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 创造, 萨满法术, 游侠法术, 3环法术, 4环法术, 猎人法术, 德鲁伊法术, 水
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:22:24.408Z
 ---
 
 # **Wall of brine** *Wall of brine*

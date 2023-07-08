@@ -2,10 +2,10 @@
 title: 苦痛责难 Agonizing rebuke
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 魅影幻觉, 情绪, 影响心灵，痛苦, 反圣武士法术, 2环法术, 牧师/先知法术, 3环法术, 审判者法术, 女巫法术
+date: 2023-07-04T01:29:10.712Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 3环法术, 女巫法术, 反圣武士法术, 幻术系, 魅影幻觉, 情绪, 影响心灵，痛苦
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:27:06.302Z
 ---
 
 # **苦痛责难** *Agonizing rebuke*

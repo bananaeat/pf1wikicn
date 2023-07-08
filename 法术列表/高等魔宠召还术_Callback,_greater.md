@@ -2,10 +2,10 @@
 title: 高等魔宠召还术 Callback, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 萨满法术, 5环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T02:13:57.813Z
+tags: 法术, 咒法系, 术士/法师法术, 萨满法术, 5环法术, 女巫法术, 传送
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:54:31.440Z
 ---
 
 # **高等魔宠召还术** *Callback, greater*

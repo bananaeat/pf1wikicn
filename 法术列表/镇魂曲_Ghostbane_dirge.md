@@ -2,10 +2,10 @@
 title: 镇魂曲 Ghostbane dirge
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 吟游诗人法术, 2环法术, 牧师/先知法术, 审判者法术, 圣骑士法术, 1环法术
+date: 2023-07-04T02:00:30.934Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 1环法术, 吟游诗人法术, 变化系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:15:23.599Z
 ---
 
 # **镇魂曲** *Ghostbane dirge*

@@ -2,10 +2,10 @@
 title: 灵界拳 Ethereal fists
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 魔战士法术, 4环法术, 唤魂师法术, 3环法术
+date: 2023-07-04T00:41:20.213Z
+tags: 法术, 魔战士法术, 3环法术, 4环法术, 变化系, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:15:13.069Z
 ---
 
 # **灵界拳** *Ethereal fists*

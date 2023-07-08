@@ -2,10 +2,10 @@
 title: 进阶生命通道 Life conduit, improved
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-04T01:49:34.840Z
 tags: 法术, 咒法系, 医疗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:57:49.527Z
 ---
 
 # **进阶生命通道** *Life conduit, improved*

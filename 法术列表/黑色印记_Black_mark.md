@@ -2,10 +2,10 @@
 title: 黑色印记 Black mark
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 诅咒，恐惧, 德鲁伊法术, 7环法术, 女巫法术
+date: 2023-07-04T02:16:54.689Z
+tags: 法术, 女巫法术, 德鲁伊法术, 死灵系, 7环法术, 诅咒，恐惧
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T02:04:34.814Z
 ---
 
 # **黑色印记** *Black mark*

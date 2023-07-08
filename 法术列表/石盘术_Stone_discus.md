@@ -2,10 +2,10 @@
 title: 石盘术 Stone discus
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 土, 血脉狂怒者法术, 2环法术, 德鲁伊法术, 魔战士法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:59:18.757Z
+tags: 2环法术, 法术, 咒法系, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 创造, 女巫法术, 德鲁伊法术, 土
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:42:22.670Z
 ---
 
 # **石盘术** *Stone discus*

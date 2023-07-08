@@ -2,10 +2,10 @@
 title: 亡灵归亡 Undeath to death
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 牧师/先知法术, 6环法术, 审判者法术, 术士/法师法术, 唤魂师法术, 荣耀领域, 安眠领域
+date: 2023-07-03T22:33:21.388Z
+tags: 法术, 术士/法师法术, 6环法术, 审判者法术, 牧师/先知法术, 唤魂师法术, 死灵系, 荣耀领域, 安眠领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:26:13.736Z
 ---
 
 # **亡灵归亡** *Undeath to death*

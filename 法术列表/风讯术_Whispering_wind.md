@@ -2,10 +2,10 @@
 title: 风讯术 Whispering wind
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 气, 吟游诗人法术, 2环法术, 审判者法术, 通灵者法术, 催眠师法术, 异能者法术, 术士/法师法术, 风子域
+date: 2023-07-04T02:09:40.503Z
+tags: 2环法术, 法术, 术士/法师法术, 审判者法术, 吟游诗人法术, 变化系, 异能者法术, 催眠师法术, 通灵者法术, 气, 风子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:38:54.403Z
 ---
 
 # **风讯术** *Whispering wind*

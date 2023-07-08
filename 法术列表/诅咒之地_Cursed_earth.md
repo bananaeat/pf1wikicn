@@ -2,10 +2,10 @@
 title: 诅咒之地 Cursed earth
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 诅咒，邪恶；见下文, 牧师/先知法术, 9环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T01:42:48.594Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 女巫法术, 9环法术, 死灵系, 诅咒，邪恶；见下文
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:47:11.859Z
 ---
 
 # **诅咒之地** *Cursed earth*

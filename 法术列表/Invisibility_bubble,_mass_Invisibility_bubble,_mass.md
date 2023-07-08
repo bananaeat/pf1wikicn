@@ -2,10 +2,10 @@
 title: Invisibility bubble, mass Invisibility bubble, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 五官幻觉, 术士/法师法术, 7环法术, 召唤师法术, 6环法术, 异能者法术, 催眠师法术, unchained 召唤师法术
+date: 2023-07-03T21:32:35.698Z
+tags: 法术, 术士/法师法术, 6环法术, 召唤师法术, unchained 召唤师法术, 异能者法术, 催眠师法术, 7环法术, 幻术系, 五官幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:45:51.187Z
 ---
 
 # **Invisibility bubble, mass** *Invisibility bubble, mass*

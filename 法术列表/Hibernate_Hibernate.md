@@ -2,10 +2,10 @@
 title: Hibernate Hibernate
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 德鲁伊法术, 1环法术, 猎人法术
+date: 2023-07-03T21:25:52.073Z
+tags: 法术, 猎人法术, 1环法术, 德鲁伊法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:41:16.482Z
 ---
 
 # **Hibernate** *Hibernate*

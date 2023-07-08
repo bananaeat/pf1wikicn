@@ -2,10 +2,10 @@
 title: 群体医疗术 Heal, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 牧师/先知法术, 9环法术, 萨满法术, 医疗领域
+date: 2023-07-04T01:18:13.651Z
+tags: 法术, 咒法系, 牧师/先知法术, 萨满法术, 9环法术, 医疗, 医疗领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:10:59.067Z
 ---
 
 # **群体医疗术** *Heal, mass*

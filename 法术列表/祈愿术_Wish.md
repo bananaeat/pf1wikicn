@@ -2,10 +2,10 @@
 title: 祈愿术 Wish
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, uni, 灵能者法术, 9环法术, 术士/法师法术
+date: 2023-07-04T01:01:46.475Z
+tags: 法术, 术士/法师法术, uni, 9环法术, 灵能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:45:27.587Z
 ---
 
 # **祈愿术** *Wish*

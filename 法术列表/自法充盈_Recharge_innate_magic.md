@@ -2,10 +2,10 @@
 title: 自法充盈 Recharge innate magic
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 1环法术, 吟游诗人法术, 牧师/先知法术, 德鲁伊法术, 审判者法术, 魔战士法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T01:27:03.424Z
+tags: 法术, 术士/法师法术, 魔战士法术, 审判者法术, 牧师/先知法术, 女巫法术, 1环法术, 吟游诗人法术, 德鲁伊法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:23:52.232Z
 ---
 
 # **自法充盈** *Recharge innate magic*

@@ -2,10 +2,10 @@
 title: 冰晶传送 Ice crystal teleport
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 寒冷, 术士/法师法术, 6环法术, 召唤师法术, 5环法术, 女巫法术
+date: 2023-07-03T22:50:02.291Z
+tags: 法术, 咒法系, 术士/法师法术, 6环法术, 召唤师法术, 5环法术, 女巫法术, 传送, 寒冷
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:36:53.522Z
 ---
 
 # **冰晶传送** *Ice crystal teleport*

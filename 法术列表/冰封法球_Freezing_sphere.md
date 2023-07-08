@@ -2,10 +2,10 @@
 title: 冰封法球 Freezing sphere
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 寒冷, 魔战士法术, 6环法术, 秘学士法术, 术士/法师法术, 冰子域
+date: 2023-07-03T22:49:46.033Z
+tags: 法术, 术士/法师法术, 魔战士法术, 6环法术, 秘学士法术, 塑能系, 寒冷, 冰子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:36:49.063Z
 ---
 
 # **冰封法球** *Freezing sphere*

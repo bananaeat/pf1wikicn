@@ -2,10 +2,10 @@
 title: 吸能术 Energy drain
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 牧师/先知法术, 9环法术, 萨满法术, 术士/法师法术, 失却子域, 亡灵子域
+date: 2023-07-03T23:11:32.339Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 萨满法术, 9环法术, 死灵系, 失却子域, 亡灵子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:05:04.146Z
 ---
 
 # **吸能术** *Energy drain*

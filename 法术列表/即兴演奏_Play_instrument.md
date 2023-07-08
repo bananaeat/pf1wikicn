@@ -2,10 +2,10 @@
 title: 即兴演奏 Play instrument
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 吟游诗人法术, 1环法术
+date: 2023-07-03T23:00:44.988Z
+tags: 法术, 1环法术, 吟游诗人法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:49:47.715Z
 ---
 
 # **即兴演奏** *Play instrument*

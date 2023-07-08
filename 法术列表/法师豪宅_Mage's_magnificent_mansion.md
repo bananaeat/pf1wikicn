@@ -2,10 +2,10 @@
 title: 法师豪宅 Mage's magnificent mansion
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 灵能者法术, 7环法术, 术士/法师法术, Industry
+date: 2023-07-04T00:29:53.989Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 7环法术, 灵能者法术, industry
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:57:14.648Z
 ---
 
 # **法师豪宅** *Mage's magnificent mansion*

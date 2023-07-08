@@ -2,10 +2,10 @@
 title: Elemental bombardment Elemental bombardment
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, see text, 术士/法师法术, 7环法术, 德鲁伊法术
+date: 2023-07-03T21:11:19.788Z
+tags: 法术, 咒法系, 术士/法师法术, 召唤, 德鲁伊法术, 7环法术, see text
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:32:11.268Z
 ---
 
 # **Elemental bombardment** *Elemental bombardment*

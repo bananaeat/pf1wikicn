@@ -2,10 +2,10 @@
 title: 衰弱射线 Ray of enfeeblement
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 血脉狂怒者法术, 1环法术, 魔战士法术, 催眠师法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T01:39:53.223Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 女巫法术, 1环法术, 催眠师法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:42:52.639Z
 ---
 
 # **衰弱射线** *Ray of enfeeblement*

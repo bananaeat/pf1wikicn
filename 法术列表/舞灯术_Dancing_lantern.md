@@ -2,10 +2,10 @@
 title: 舞灯术 Dancing lantern
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 火，光亮, 吟游诗人法术, 1环法术, 牧师/先知法术, 游侠法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T01:28:31.754Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 游侠法术, 女巫法术, 1环法术, 吟游诗人法术, 变化系, 火，光亮
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:26:09.981Z
 ---
 
 # **舞灯术** *Dancing lantern*

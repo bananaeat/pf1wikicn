@@ -2,10 +2,10 @@
 title: Spectral scout Spectral scout
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 术士/法师法术, 3环法术, 德鲁伊法术, 游侠法术, 吟游诗人法术, 萨满法术, 猎人法术
+date: 2023-07-03T22:09:38.461Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 萨满法术, 游侠法术, 3环法术, 猎人法术, 吟游诗人法术, 德鲁伊法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:10:33.815Z
 ---
 
 # **Spectral scout** *Spectral scout*

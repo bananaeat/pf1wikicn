@@ -2,10 +2,10 @@
 title: 隆地术 Groundswell
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 土, 牧师/先知法术, 2环法术, 德鲁伊法术, 魔战士法术, 游侠法术
+date: 2023-07-04T02:06:24.008Z
+tags: 2环法术, 法术, 魔战士法术, 牧师/先知法术, 游侠法术, 德鲁伊法术, 变化系, 土
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:27:23.603Z
 ---
 
 # **隆地术** *Groundswell*

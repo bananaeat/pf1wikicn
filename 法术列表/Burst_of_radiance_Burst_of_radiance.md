@@ -2,10 +2,10 @@
 title: Burst of radiance Burst of radiance
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, good, light, 术士/法师法术, 2环法术, 牧师/先知法术, 德鲁伊法术, 猎人法术
+date: 2023-07-03T20:54:44.772Z
+tags: 2环法术, 法术, 术士/法师法术, 牧师/先知法术, 猎人法术, 德鲁伊法术, 塑能系, good, light
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:22:18.621Z
 ---
 
 # **Burst of radiance** *Burst of radiance*

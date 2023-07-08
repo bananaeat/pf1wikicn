@@ -2,10 +2,10 @@
 title: 幽影诗人 Shadowbard
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 幽影幻觉, 暗影, 吟游诗人法术, 5环法术
+date: 2023-07-03T23:34:02.100Z
+tags: 法术, 5环法术, 吟游诗人法术, 幻术系, 幽影幻觉, 暗影
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:35:47.521Z
 ---
 
 # **幽影诗人** *Shadowbard*

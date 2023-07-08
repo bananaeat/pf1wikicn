@@ -2,10 +2,10 @@
 title: 受诅财宝 Cursed treasure
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 诅咒, 反圣武士法术, 3环法术, 血脉狂怒者法术, 4环法术, 牧师/先知法术, 萨满法术, 术士/法师法术, 唤魂师法术, 女巫法术
+date: 2023-07-03T23:05:16.030Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 牧师/先知法术, 萨满法术, 3环法术, 4环法术, 女巫法术, 唤魂师法术, 反圣武士法术, 死灵系, 诅咒
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:56:12.334Z
 ---
 
 # **受诅财宝** *Cursed treasure*

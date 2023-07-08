@@ -2,10 +2,10 @@
 title: Spellcasting contract Spellcasting contract
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 牧师/先知法术, 7环法术
+date: 2023-07-03T22:10:07.570Z
+tags: 法术, 牧师/先知法术, 塑能系, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:10:50.887Z
 ---
 
 # **Spellcasting contract** *Spellcasting contract*

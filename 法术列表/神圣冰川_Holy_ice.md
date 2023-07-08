@@ -2,10 +2,10 @@
 title: 神圣冰川 Holy ice
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 寒冷，善良，水, 牧师/先知法术, 5环法术
+date: 2023-07-04T01:03:02.561Z
+tags: 法术, 牧师/先知法术, 5环法术, 变化系, 寒冷，善良，水
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:47:18.925Z
 ---
 
 # **神圣冰川** *Holy ice*

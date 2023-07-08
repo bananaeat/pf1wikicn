@@ -2,10 +2,10 @@
 title: Grease, greater Grease, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 术士/法师法术, 5环法术, 吟游诗人法术, 召唤师法术, 魔战士法术, unchained 召唤师法术
+date: 2023-07-03T21:22:12.136Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 召唤师法术, 创造, 5环法术, unchained 召唤师法术, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:38:57.793Z
 ---
 
 # **Grease, greater** *Grease, greater*

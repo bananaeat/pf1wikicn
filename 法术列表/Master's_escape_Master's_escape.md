@@ -2,10 +2,10 @@
 title: Master's escape Master's escape
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 术士/法师法术, 4环法术, 牧师/先知法术, 德鲁伊法术, 召唤师法术, 3环法术, 女巫法术, 猎人法术, unchained 召唤师法术
+date: 2023-07-03T21:40:07.003Z
+tags: 法术, 咒法系, 术士/法师法术, 召唤师法术, 牧师/先知法术, 3环法术, 4环法术, 女巫法术, 猎人法术, unchained 召唤师法术, 德鲁伊法术, 传送
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:51:32.293Z
 ---
 
 # **Master's escape** *Master's escape*

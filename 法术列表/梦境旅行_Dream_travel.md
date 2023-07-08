@@ -2,10 +2,10 @@
 title: 梦境旅行 Dream travel
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 影响心灵, 催眠师法术, 6环法术, 异能者法术
+date: 2023-07-04T00:15:52.334Z
+tags: 法术, 咒法系, 6环法术, 影响心灵, 异能者法术, 催眠师法术, 传送
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:35:21.349Z
 ---
 
 # **梦境旅行** *Dream travel*

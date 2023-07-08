@@ -2,10 +2,10 @@
 title: 油腻术 Grease
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 吟游诗人法术, 1环法术, 魔战士法术, 催眠师法术, 术士/法师法术, 召唤师法术, unchained 召唤师法术
+date: 2023-07-04T00:27:53.119Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 召唤师法术, 创造, unchained 召唤师法术, 1环法术, 吟游诗人法术, 催眠师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:54:08.027Z
 ---
 
 # **油腻术** *Grease*

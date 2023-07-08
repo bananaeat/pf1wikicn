@@ -2,10 +2,10 @@
 title: 神恩 Divine favor
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 牧师/先知法术, 1环法术, 审判者法术, 圣骑士法术, 高贵领域, 亚空子域
+date: 2023-07-04T01:04:11.862Z
+tags: 法术, 审判者法术, 牧师/先知法术, 1环法术, 塑能系, 圣骑士法术, 高贵领域, 亚空子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:49:01.972Z
 ---
 
 # **神恩** *Divine favor*

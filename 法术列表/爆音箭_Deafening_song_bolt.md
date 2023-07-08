@@ -2,10 +2,10 @@
 title: 爆音箭 Deafening song bolt
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 吟游诗人法术, 5环法术
+date: 2023-07-04T00:47:07.415Z
+tags: 法术, 5环法术, 吟游诗人法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:24:17.370Z
 ---
 
 # **爆音箭** *Deafening song bolt*

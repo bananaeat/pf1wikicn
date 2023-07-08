@@ -2,10 +2,10 @@
 title: Deceptive redundancy Deceptive redundancy
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 五官幻觉, 术士/法师法术, 5环法术, 吟游诗人法术, 异能者法术, 催眠师法术
+date: 2023-07-03T21:05:33.370Z
+tags: 法术, 术士/法师法术, 5环法术, 吟游诗人法术, 异能者法术, 催眠师法术, 幻术系, 五官幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:28:43.922Z
 ---
 
 # **Deceptive redundancy** *Deceptive redundancy*

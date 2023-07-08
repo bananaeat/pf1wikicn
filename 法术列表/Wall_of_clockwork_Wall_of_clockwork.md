@@ -2,10 +2,10 @@
 title: Wall of clockwork Wall of clockwork
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 术士/法师法术, 5环法术, 牧师/先知法术
+date: 2023-07-03T22:27:47.443Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 牧师/先知法术, 5环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:22:28.705Z
 ---
 
 # **Wall of clockwork** *Wall of clockwork*

@@ -2,10 +2,10 @@
 title: 自性鞭笞ii Ego whip ii
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 异能者法术, 4环法术
+date: 2023-07-04T01:26:40.379Z
+tags: 法术, 惑控系, 胁迫, 4环法术, 异能者法术, emotion, mind-affecting
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:23:19.579Z
 ---
 
 # **自性鞭笞ii** *Ego whip ii*

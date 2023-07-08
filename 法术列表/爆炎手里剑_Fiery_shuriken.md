@@ -2,10 +2,10 @@
 title: 爆炎手里剑 Fiery shuriken
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 火, 术士/法师法术, 2环法术
+date: 2023-07-04T00:46:38.665Z
+tags: 2环法术, 法术, 咒法系, 术士/法师法术, 创造, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:23:32.943Z
 ---
 
 # **爆炎手里剑** *Fiery shuriken*

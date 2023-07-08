@@ -2,10 +2,10 @@
 title: 弓之精魂 Bow spirit
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-03T23:36:04.253Z
 tags: 法术, 咒法系, 创造, 游侠法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:38:34.823Z
 ---
 
 # **弓之精魂** *Bow spirit*

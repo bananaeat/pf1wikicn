@@ -2,10 +2,10 @@
 title: Opportunistic loyalty Opportunistic loyalty
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 牧师/先知法术, 1环法术, 女巫法术, 审判者法术, 反圣武士法术, 异能者法术, 催眠师法术
+date: 2023-07-03T21:45:44.742Z
+tags: 法术, 审判者法术, 牧师/先知法术, 惑控系, 胁迫, 女巫法术, 1环法术, 异能者法术, 催眠师法术, 反圣武士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:55:25.769Z
 ---
 
 # **Opportunistic loyalty** *Opportunistic loyalty*

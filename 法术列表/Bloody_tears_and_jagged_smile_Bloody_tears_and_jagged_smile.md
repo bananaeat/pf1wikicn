@@ -2,10 +2,10 @@
 title: Bloody tears and jagged smile Bloody tears and jagged smile
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 2环法术, 牧师/先知法术
+date: 2023-07-03T20:52:01.181Z
+tags: 2环法术, 法术, 术士/法师法术, 牧师/先知法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:20:40.693Z
 ---
 
 # **Bloody tears and jagged smile** *Bloody tears and jagged smile*

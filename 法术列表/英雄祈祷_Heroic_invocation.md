@@ -2,10 +2,10 @@
 title: 英雄祈祷 Heroic invocation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 9环法术, 女巫法术
+date: 2023-07-04T01:29:56.040Z
+tags: 法术, 术士/法师法术, 惑控系, 胁迫, 影响心灵, 女巫法术, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:28:12.935Z
 ---
 
 # **英雄祈祷** *Heroic invocation*

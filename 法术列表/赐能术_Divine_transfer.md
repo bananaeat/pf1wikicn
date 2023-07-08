@@ -2,10 +2,10 @@
 title: 赐能术 Divine transfer
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 圣骑士法术, 3环法术
+date: 2023-07-04T01:46:03.278Z
+tags: 法术, 3环法术, 死灵系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:52:33.767Z
 ---
 
 # **赐能术** *Divine transfer*

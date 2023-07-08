@@ -2,10 +2,10 @@
 title: 速度爆发 Burst of speed
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 3环法术, 反圣武士法术, 魔战士法术, 审判者法术, 圣骑士法术, 游侠法术
+date: 2023-07-04T01:52:55.266Z
+tags: 法术, 魔战士法术, 审判者法术, 游侠法术, 3环法术, 变化系, 炼金术师法术, 反圣武士法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:02:47.548Z
 ---
 
 # **速度爆发** *Burst of speed*

@@ -2,10 +2,10 @@
 title: 压榨劳工 Agonize
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 邪恶，痛苦, 牧师/先知法术, 3环法术, 术士/法师法术, 4环法术, 召唤师法术
+date: 2023-07-03T23:01:56.564Z
+tags: 法术, 术士/法师法术, 召唤师法术, 牧师/先知法术, 3环法术, 4环法术, 塑能系, 邪恶，痛苦
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:51:37.989Z
 ---
 
 # **压榨劳工** *Agonize*

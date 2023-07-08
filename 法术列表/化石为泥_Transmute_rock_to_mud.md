@@ -2,10 +2,10 @@
 title: 化石为泥 Transmute rock to mud
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 土, 德鲁伊法术, 5环法术, 猎人法术, 秘学士法术, 术士/法师法术
+date: 2023-07-03T22:58:54.589Z
+tags: 法术, 术士/法师法术, 5环法术, 秘学士法术, 猎人法术, 德鲁伊法术, 变化系, 土
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:47:05.260Z
 ---
 
 # **化石为泥** *Transmute rock to mud*

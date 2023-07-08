@@ -2,10 +2,10 @@
 title: 群体冰封之牢 Icy prison, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 寒冷, 术士/法师法术, 9环法术
+date: 2023-07-04T01:18:05.780Z
+tags: 法术, 术士/法师法术, 9环法术, 塑能系, 寒冷
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:10:48.156Z
 ---
 
 # **群体冰封之牢** *Icy prison, mass*

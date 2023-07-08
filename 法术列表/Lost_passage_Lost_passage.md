@@ -2,10 +2,10 @@
 title: Lost passage Lost passage
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 4环法术, 吟游诗人法术, 异能者法术, 催眠师法术, 3环法术
+date: 2023-07-03T21:37:55.618Z
+tags: 法术, 术士/法师法术, 惑控系, 胁迫, 影响心灵, 3环法术, 4环法术, 吟游诗人法术, 异能者法术, 催眠师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:49:56.801Z
 ---
 
 # **Lost passage** *Lost passage*

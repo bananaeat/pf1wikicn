@@ -2,10 +2,10 @@
 title: 短期动物训练 Animal purpose training
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 反圣武士法术, 1环法术, 吟游诗人法术, 2环法术, 德鲁伊法术, 审判者法术, 圣骑士法术, 游侠法术, 萨满法术, 女巫法术
+date: 2023-07-04T00:58:29.557Z
+tags: 2环法术, 法术, 审判者法术, 萨满法术, 惑控系, 胁迫, 影响心灵, 游侠法术, 女巫法术, 1环法术, 吟游诗人法术, 德鲁伊法术, 反圣武士法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:41:07.488Z
 ---
 
 # **短期动物训练** *Animal purpose training*

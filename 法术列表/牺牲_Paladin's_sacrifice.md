@@ -2,10 +2,10 @@
 title: 牺牲 Paladin's sacrifice
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 圣骑士法术, 2环法术
+date: 2023-07-04T00:48:20.253Z
+tags: 2环法术, 法术, 防护系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:26:09.151Z
 ---
 
 # **牺牲** *Paladin's sacrifice*

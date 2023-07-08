@@ -2,10 +2,10 @@
 title: Apsu's shining scales Apsu's shining scales
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, draconic, good, 术士/法师法术, 3环法术, 炼金术师法术, 血脉狂怒者法术, 通灵者法术
+date: 2023-07-03T20:44:04.021Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 3环法术, 炼金术师法术, 通灵者法术, 塑能系, draconic, good
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:16:12.100Z
 ---
 
 # **Apsu's shining scales** *Apsu's shining scales*

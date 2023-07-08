@@ -2,10 +2,10 @@
 title: Huntmaster's spear Huntmaster's spear
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 德鲁伊法术, 2环法术, 游侠法术, 1环法术, 圣武士法术, 审判者法术, 反圣武士法术, 魔战士法术, 血脉狂怒者法术, 萨满法术, 秘学士法术, 猎人法术
+date: 2023-07-03T21:27:47.647Z
+tags: 2环法术, 法术, 血脉狂怒者法术, 魔战士法术, 审判者法术, 萨满法术, 游侠法术, 秘学士法术, 猎人法术, 1环法术, 圣武士法术, 德鲁伊法术, 变化系, 反圣武士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:42:30.365Z
 ---
 
 # **Huntmaster's spear** *Huntmaster's spear*

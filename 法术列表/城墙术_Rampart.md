@@ -2,10 +2,10 @@
 title: 城墙术 Rampart
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 土, 德鲁伊法术, 7环法术, 术士/法师法术
+date: 2023-07-03T23:19:51.427Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 德鲁伊法术, 7环法术, 土
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:16:28.147Z
 ---
 
 # **城墙术** *Rampart*

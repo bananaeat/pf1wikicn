@@ -2,10 +2,10 @@
 title: 恐怖高热 Eldritch fever
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 诅咒，疾病，邪恶, 审判者法术, 3环法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:47:19.482Z
+tags: 法术, 术士/法师法术, 审判者法术, 3环法术, 女巫法术, 死灵系, 诅咒，疾病，邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:54:59.761Z
 ---
 
 # **恐怖高热** *Eldritch fever*

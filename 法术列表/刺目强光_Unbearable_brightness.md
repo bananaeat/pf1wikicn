@@ -2,10 +2,10 @@
 title: 刺目强光 Unbearable brightness
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 光亮, 炼金术师法术, 4环法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T22:53:55.662Z
+tags: 法术, 术士/法师法术, 4环法术, 女巫法术, 炼金术师法术, 塑能系, 光亮
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:40:00.028Z
 ---
 
 # **刺目强光** *Unbearable brightness*

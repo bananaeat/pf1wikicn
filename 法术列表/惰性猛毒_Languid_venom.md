@@ -2,10 +2,10 @@
 title: 惰性猛毒 Languid venom
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 毒素, 炼金术师法术, 2环法术, 萨满法术, 术士/法师法术
+date: 2023-07-03T23:50:57.008Z
+tags: 2环法术, 法术, 术士/法师法术, 萨满法术, 炼金术师法术, 死灵系, 毒素
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:59:49.527Z
 ---
 
 # **惰性猛毒** *Languid venom*

@@ -2,10 +2,10 @@
 title: Drench Drench
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 水, 术士/法师法术, 戏法/祷念
+date: 2023-07-03T21:10:00.294Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 水, 戏法/祷念
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:31:24.708Z
 ---
 
 # **Drench** *Drench*

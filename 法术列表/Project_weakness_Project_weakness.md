@@ -2,10 +2,10 @@
 title: Project weakness Project weakness
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, curse, evil, 术士/法师法术, 4环法术, 牧师/先知法术, 3环法术, 女巫法术
+date: 2023-07-03T21:51:39.905Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 3环法术, 4环法术, 女巫法术, 死灵系, evil, curse
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:59:08.557Z
 ---
 
 # **Project weakness** *Project weakness*

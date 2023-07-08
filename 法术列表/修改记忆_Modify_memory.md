@@ -2,10 +2,10 @@
 title: 修改记忆 Modify memory
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 4环法术, 通灵者法术, 催眠师法术, 异能者法术, 5环法术, 失却子域, 记忆子域
+date: 2023-07-03T22:40:17.713Z
+tags: 法术, 惑控系, 胁迫, 影响心灵, 5环法术, 4环法术, 吟游诗人法术, 异能者法术, 催眠师法术, 通灵者法术, 失却子域, 记忆子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:30:52.054Z
 ---
 
 # **修改记忆** *Modify memory*

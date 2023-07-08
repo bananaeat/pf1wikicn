@@ -2,10 +2,10 @@
 title: 毁容之触 Disfiguring touch
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 诅咒, 牧师/先知法术, 2环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:23:48.585Z
+tags: 2环法术, 法术, 术士/法师法术, 牧师/先知法术, 女巫法术, 变化系, 诅咒
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:47:19.340Z
 ---
 
 # **毁容之触** *Disfiguring touch*

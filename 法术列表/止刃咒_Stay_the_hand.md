@@ -2,10 +2,10 @@
 title: 止刃咒 Stay the hand
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 圣骑士法术, 4环法术
+date: 2023-07-04T00:20:43.425Z
+tags: 法术, 惑控系, 胁迫, 影响心灵, 4环法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:42:33.222Z
 ---
 
 # **止刃咒** *Stay the hand*

@@ -2,10 +2,10 @@
 title: Infernal challenger Infernal challenger
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 呼唤, lawful, see text, 术士/法师法术, 3环法术, 牧师/先知法术, 召唤师法术, unchained 召唤师法术
+date: 2023-07-03T21:30:25.206Z
+tags: 法术, 咒法系, 术士/法师法术, 召唤师法术, 牧师/先知法术, 3环法术, unchained 召唤师法术, 呼唤, see text, lawful
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:44:19.898Z
 ---
 
 # **Infernal challenger** *Infernal challenger*

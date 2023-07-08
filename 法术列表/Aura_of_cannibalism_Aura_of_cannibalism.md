@@ -2,10 +2,10 @@
 title: Aura of cannibalism Aura of cannibalism
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 邪恶, 术士/法师法术, 3环法术, 牧师/先知法术, 女巫法术
+date: 2023-07-03T20:46:12.209Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 3环法术, 女巫法术, 死灵系, 邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:17:26.859Z
 ---
 
 # **Aura of cannibalism** *Aura of cannibalism*

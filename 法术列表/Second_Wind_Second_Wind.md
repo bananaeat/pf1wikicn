@@ -2,10 +2,10 @@
 title: Second Wind
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 气, 反圣武士法术, 3环法术, 牧师/先知法术, 猎人法术, 审判者法术, 圣武士法术, 游侠法术, 战争祭司法术
+date: 2023-07-03T22:01:08.971Z
+tags: 法术, 咒法系, 审判者法术, 牧师/先知法术, 游侠法术, 3环法术, 猎人法术, 圣武士法术, 反圣武士法术, 医疗, 战争祭司法术, 气
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:05:24.635Z
 ---
 
 # **Second Wind** *Second Wind*

@@ -2,10 +2,10 @@
 title: 反制秩序 Dispel law
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 混乱, 反圣武士法术, 4环法术, 牧师/先知法术, 5环法术, 审判者法术, 萨满法术, 混乱领域
+date: 2023-07-03T23:03:27.158Z
+tags: 法术, 审判者法术, 牧师/先知法术, 萨满法术, 5环法术, 4环法术, 防护系, 反圣武士法术, 混乱, 混乱领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:53:43.917Z
 ---
 
 # **反制秩序** *Dispel law*

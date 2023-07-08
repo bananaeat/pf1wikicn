@@ -2,10 +2,10 @@
 title: 臭气四溢 Nauseating trail
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 毒素, 炼金术师法术, 3环法术, 德鲁伊法术, 魔战士法术, 萨满法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T01:27:54.479Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 创造, 萨满法术, 3环法术, 女巫法术, 德鲁伊法术, 炼金术师法术, 毒素
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:25:13.243Z
 ---
 
 # **臭气四溢** *Nauseating trail*

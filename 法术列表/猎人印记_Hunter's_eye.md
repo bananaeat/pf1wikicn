@@ -2,10 +2,10 @@
 title: 猎人印记 Hunter's eye
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 审判者法术, 3环法术, 游侠法术, 2环法术
+date: 2023-07-04T00:51:05.224Z
+tags: 2环法术, 法术, 审判者法术, 游侠法术, 3环法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:29:32.268Z
 ---
 
 # **猎人印记** *Hunter's eye*

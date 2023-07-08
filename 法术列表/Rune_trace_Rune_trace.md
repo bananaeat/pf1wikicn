@@ -2,10 +2,10 @@
 title: Rune trace Rune trace
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 术士/法师法术, 1环法术, 牧师/先知法术, 吟游诗人法术, 异能者法术, 秘学士法术
+date: 2023-07-03T21:58:25.975Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 秘学士法术, 1环法术, 吟游诗人法术, 异能者法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:03:44.446Z
 ---
 
 # **Rune trace** *Rune trace*

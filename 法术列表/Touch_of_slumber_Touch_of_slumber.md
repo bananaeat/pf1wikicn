@@ -2,10 +2,10 @@
 title: Touch of slumber Touch of slumber
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 5环法术, 牧师/先知法术, 德鲁伊法术, 吟游诗人法术, 6环法术, 女巫法术, 萨满法术, 异能者法术, 猎人法术
+date: 2023-07-03T22:22:36.428Z
+tags: 法术, 术士/法师法术, 6环法术, 牧师/先知法术, 萨满法术, 惑控系, 胁迫, 影响心灵, 5环法术, 女巫法术, 猎人法术, 吟游诗人法术, 德鲁伊法术, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:19:01.600Z
 ---
 
 # **Touch of slumber** *Touch of slumber*

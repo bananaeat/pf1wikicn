@@ -2,10 +2,10 @@
 title: 死云术 Cloudkill
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 毒素, 魔战士法术, 5环法术, 术士/法师法术, 唤魂师法术, unchained 召唤师法术, 女巫法术, Venom
+date: 2023-07-04T00:21:55.243Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 创造, 5环法术, 女巫法术, unchained 召唤师法术, 唤魂师法术, 毒素, venom
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:44:21.893Z
 ---
 
 # **死云术** *Cloudkill*

@@ -2,10 +2,10 @@
 title: Rift of ruin Rift of ruin
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 呼唤, chaotic, evil, 术士/法师法术, 8环法术, 牧师/先知法术, 女巫法术
+date: 2023-07-03T21:56:30.406Z
+tags: 法术, 咒法系, 术士/法师法术, 牧师/先知法术, 女巫法术, 8环法术, evil, 呼唤, chaotic
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:02:30.796Z
 ---
 
 # **Rift of ruin** *Rift of ruin*

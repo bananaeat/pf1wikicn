@@ -2,10 +2,10 @@
 title: Apparent treachery Apparent treachery
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 4环法术, 吟游诗人法术, 3环法术, 审判者法术
+date: 2023-07-03T20:43:56.859Z
+tags: 法术, 术士/法师法术, 审判者法术, 惑控系, 胁迫, 影响心灵, 3环法术, 4环法术, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:16:08.017Z
 ---
 
 # **Apparent treachery** *Apparent treachery*

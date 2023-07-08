@@ -2,10 +2,10 @@
 title: 心灵戳刺vi Mind thrust vi
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 异能者法术, 6环法术
+date: 2023-07-03T23:42:44.150Z
+tags: 法术, 6环法术, 异能者法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:47:58.819Z
 ---
 
 # **心灵戳刺vi** *Mind thrust vi*

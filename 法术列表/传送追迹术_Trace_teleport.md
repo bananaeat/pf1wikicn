@@ -2,10 +2,10 @@
 title: 传送追迹术 Trace teleport
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 异能者法术, 4环法术, 术士/法师法术, 5环法术
+date: 2023-07-03T22:36:08.719Z
+tags: 法术, 术士/法师法术, 5环法术, 4环法术, 异能者法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:28:10.384Z
 ---
 
 # **传送追迹术** *Trace teleport*

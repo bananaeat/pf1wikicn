@@ -2,10 +2,10 @@
 title: 群体原始野性 Atavism, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 德鲁伊法术, 8环法术
+date: 2023-07-04T01:18:21.552Z
+tags: 法术, 德鲁伊法术, 变化系, 8环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:11:11.171Z
 ---
 
 # **群体原始野性** *Atavism, mass*

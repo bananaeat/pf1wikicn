@@ -2,10 +2,10 @@
 title: 群体牛之力量 Bull's strength, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 牧师/先知法术, 6环法术, 德鲁伊法术, 猎人法术, 魔战士法术, 异能者法术, 萨满法术, 术士/法师法术, 召唤师法术, 4环法术, unchained 召唤师法术, 凶猛子域
+date: 2023-07-04T01:20:20.184Z
+tags: 法术, 术士/法师法术, 魔战士法术, 6环法术, 召唤师法术, 牧师/先知法术, 萨满法术, 4环法术, 猎人法术, unchained 召唤师法术, 德鲁伊法术, 变化系, 异能者法术, 凶猛子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:14:04.897Z
 ---
 
 # **群体牛之力量** *Bull's strength, mass*

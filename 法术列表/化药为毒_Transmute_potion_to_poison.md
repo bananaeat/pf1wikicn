@@ -2,10 +2,10 @@
 title: 化药为毒 Transmute potion to poison
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 毒素, 炼金术师法术, 2环法术
+date: 2023-07-03T22:59:01.998Z
+tags: 2环法术, 法术, 变化系, 炼金术师法术, 毒素
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:47:15.007Z
 ---
 
 # **化药为毒** *Transmute potion to poison*

@@ -2,10 +2,10 @@
 title: 造成重伤 Inflict serious wounds
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 反圣武士法术, 4环法术, 牧师/先知法术, 3环法术, 审判者法术, 秘学士法术, 萨满法术, 唤魂师法术, 女巫法术
+date: 2023-07-04T01:53:39.795Z
+tags: 法术, 审判者法术, 牧师/先知法术, 萨满法术, 3环法术, 4环法术, 女巫法术, 秘学士法术, 唤魂师法术, 反圣武士法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:04:01.979Z
 ---
 
 # **造成重伤** *Inflict serious wounds*

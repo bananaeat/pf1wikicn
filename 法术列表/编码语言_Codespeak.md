@@ -2,10 +2,10 @@
 title: 编码语言 Codespeak
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 吟游诗人法术, 2环法术, 通灵者法术, 催眠师法术, 秘学士法术, 异能者法术, 术士/法师法术
+date: 2023-07-04T01:16:40.410Z
+tags: 2环法术, 法术, 术士/法师法术, 秘学士法术, 吟游诗人法术, 变化系, 异能者法术, 催眠师法术, 通灵者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:08:41.133Z
 ---
 
 # **编码语言** *Codespeak*

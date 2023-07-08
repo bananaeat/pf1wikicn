@@ -2,10 +2,10 @@
 title: 自爆术 Detonate
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 酸，冷，电或火, 炼金术师法术, 4环法术, 魔战士法术, 术士/法师法术
+date: 2023-07-04T01:27:39.866Z
+tags: 法术, 术士/法师法术, 魔战士法术, 4环法术, 炼金术师法术, 塑能系, 酸，冷，电或火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:24:49.395Z
 ---
 
 # **自爆术** *Detonate*

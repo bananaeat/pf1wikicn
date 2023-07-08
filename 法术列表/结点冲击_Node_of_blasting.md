@@ -2,10 +2,10 @@
 title: 结点冲击 Node of blasting
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 影响心灵, 通灵者法术, 3环法术, 催眠师法术, 秘学士法术, 2环法术, 异能者法术
+date: 2023-07-04T01:15:31.406Z
+tags: 2环法术, 法术, 影响心灵, 3环法术, 秘学士法术, 防护系, 异能者法术, 催眠师法术, 通灵者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:06:52.303Z
 ---
 
 # **结点冲击** *Node of blasting*

@@ -2,10 +2,10 @@
 title: Glimpse of the akashic Glimpse of the akashic
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 异能者法术, 8环法术
+date: 2023-07-03T21:20:54.642Z
+tags: 法术, 8环法术, 异能者法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:38:10.751Z
 ---
 
 # **Glimpse of the akashic** *Glimpse of the akashic*

@@ -2,10 +2,10 @@
 title: Jungle mind Jungle mind
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 探知, 德鲁伊法术, 5环法术, 游侠法术, 4环法术, 猎人法术
+date: 2023-07-03T21:34:26.289Z
+tags: 法术, 5环法术, 游侠法术, 4环法术, 猎人法术, 德鲁伊法术, 预言系, 探知
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:47:08.557Z
 ---
 
 # **Jungle mind** *Jungle mind*

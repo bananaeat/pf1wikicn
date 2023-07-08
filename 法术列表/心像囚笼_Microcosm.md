@@ -2,10 +2,10 @@
 title: 心像囚笼 Microcosm
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 魅影幻觉, 影响心灵, 异能者法术, 9环法术
+date: 2023-07-03T23:41:14.434Z
+tags: 法术, 影响心灵, 异能者法术, 9环法术, 幻术系, 魅影幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:45:50.578Z
 ---
 
 # **心像囚笼** *Microcosm*

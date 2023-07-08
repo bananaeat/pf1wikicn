@@ -2,10 +2,10 @@
 title: 魅惑怪物 Charm monster
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 魅惑, 影响心灵, 吟游诗人法术, 3环法术, 催眠师法术, 秘学士法术, 4环法术, 异能者法术, 术士/法师法术, 召唤师法术, unchained 召唤师法术, 女巫法术, 魅惑领域
+date: 2023-07-04T02:15:03.889Z
+tags: 法术, 术士/法师法术, 召唤师法术, 惑控系, 影响心灵, 3环法术, 4环法术, 女巫法术, 秘学士法术, unchained 召唤师法术, 吟游诗人法术, 异能者法术, 催眠师法术, 魅惑, 魅惑领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:58:14.218Z
 ---
 
 # **魅惑怪物** *Charm monster*

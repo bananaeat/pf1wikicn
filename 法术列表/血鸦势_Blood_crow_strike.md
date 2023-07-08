@@ -2,10 +2,10 @@
 title: 血鸦势 Blood crow strike
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 牧师/先知法术, 4环法术
+date: 2023-07-04T01:38:53.344Z
+tags: 法术, 牧师/先知法术, 4环法术, 塑能系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:41:25.159Z
 ---
 
 # **血鸦势** *Blood crow strike*

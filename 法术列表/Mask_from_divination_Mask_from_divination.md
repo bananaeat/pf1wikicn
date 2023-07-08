@@ -2,10 +2,10 @@
 title: Mask from divination Mask from divination
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 术士/法师法术, 5环法术, 炼金术师法术, 女巫法术, 魔战士法术, 血脉狂怒者法术, 4环法术, 萨满法术
+date: 2023-07-03T21:39:53.544Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 萨满法术, 5环法术, 4环法术, 女巫法术, 炼金术师法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:51:23.753Z
 ---
 
 # **Mask from divination** *Mask from divination*

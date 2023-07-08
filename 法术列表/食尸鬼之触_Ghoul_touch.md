@@ -2,10 +2,10 @@
 title: 食尸鬼之触 Ghoul touch
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-04T02:10:09.646Z
 tags: 法术, 死灵系, 毒素 （仅限恶臭）
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:40:45.043Z
 ---
 
 # **食尸鬼之触** *Ghoul touch*

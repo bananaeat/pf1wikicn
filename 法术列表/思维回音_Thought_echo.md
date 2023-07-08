@@ -2,10 +2,10 @@
 title: 思维回音 Thought echo
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 五官幻觉, 催眠师法术, 1环法术, 异能者法术
+date: 2023-07-03T23:45:39.852Z
+tags: 法术, 1环法术, 异能者法术, 催眠师法术, 幻术系, 五官幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:52:40.931Z
 ---
 
 # **思维回音** *Thought echo*

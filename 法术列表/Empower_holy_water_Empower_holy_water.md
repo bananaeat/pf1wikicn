@@ -2,10 +2,10 @@
 title: Empower holy water Empower holy water
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 善良, 吟游诗人法术, 2环法术, 圣武士法术, 1环法术, 炼金术师法术
+date: 2023-07-03T21:12:03.873Z
+tags: 2环法术, 法术, 1环法术, 圣武士法术, 吟游诗人法术, 变化系, 善良, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:32:38.986Z
 ---
 
 # **Empower holy water** *Empower holy water*

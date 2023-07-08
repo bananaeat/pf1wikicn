@@ -2,10 +2,10 @@
 title: Tomb legion Tomb legion
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 邪恶, 术士/法师法术, 8环法术, 牧师/先知法术
+date: 2023-07-03T22:22:16.064Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 8环法术, 死灵系, 邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:18:47.479Z
 ---
 
 # **Tomb legion** *Tomb legion*

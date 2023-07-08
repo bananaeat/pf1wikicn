@@ -2,10 +2,10 @@
 title: 护卫宠伴 Shield companion
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 圣骑士法术, 2环法术, 游侠法术, 萨满法术, 术士/法师法术, 3环法术, 召唤师法术
+date: 2023-07-03T23:56:12.704Z
+tags: 2环法术, 法术, 术士/法师法术, 召唤师法术, 萨满法术, 游侠法术, 3环法术, 防护系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:07:59.105Z
 ---
 
 # **护卫宠伴** *Shield companion*

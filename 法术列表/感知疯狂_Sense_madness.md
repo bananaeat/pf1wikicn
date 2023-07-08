@@ -2,10 +2,10 @@
 title: 感知疯狂 Sense madness
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 牧师/先知法术, 2环法术, 审判者法术, 通灵者法术, 秘学士法术, 圣骑士法术, 异能者法术
+date: 2023-07-03T23:52:57.998Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 秘学士法术, 异能者法术, 预言系, 通灵者法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:03:08.232Z
 ---
 
 # **感知疯狂** *Sense madness*

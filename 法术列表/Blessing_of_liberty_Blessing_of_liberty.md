@@ -2,10 +2,10 @@
 title: Blessing of liberty Blessing of liberty
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 吟游诗人法术, 2环法术, 萨满法术
+date: 2023-07-03T20:50:43.486Z
+tags: 2环法术, 法术, 萨满法术, 吟游诗人法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:19:52.808Z
 ---
 
 # **Blessing of liberty** *Blessing of liberty*

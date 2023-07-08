@@ -2,10 +2,10 @@
 title: Anywhere but here Anywhere but here
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 术士/法师法术, 4环法术, 召唤师法术, 女巫法术, 魔战士法术, 异能者法术
+date: 2023-07-03T20:43:29.695Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 召唤师法术, 4环法术, 女巫法术, 异能者法术, 传送
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:15:51.703Z
 ---
 
 # **Anywhere but here** *Anywhere but here*

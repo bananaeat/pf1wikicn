@@ -2,10 +2,10 @@
 title: 衰弱预兆 Debilitating portent
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 牧师/先知法术, 4环法术, 女巫法术
+date: 2023-07-04T01:40:09.317Z
+tags: 法术, 牧师/先知法术, 惑控系, 胁迫, 影响心灵, 4环法术, 女巫法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:43:15.142Z
 ---
 
 # **衰弱预兆** *Debilitating portent*

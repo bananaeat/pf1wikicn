@@ -2,10 +2,10 @@
 title: 群体造成重伤 Inflict serious wounds, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 牧师/先知法术, 7环法术, 萨满法术, 女巫法术, 8环法术, 鲜血子域
+date: 2023-07-04T01:21:49.287Z
+tags: 法术, 牧师/先知法术, 萨满法术, 女巫法术, 8环法术, 死灵系, 7环法术, 鲜血子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:16:09.432Z
 ---
 
 # **群体造成重伤** *Inflict serious wounds, mass*

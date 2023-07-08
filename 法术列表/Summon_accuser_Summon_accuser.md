@@ -2,10 +2,10 @@
 title: Summon accuser Summon accuser
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, evil, lawful, 术士/法师法术, 4环法术, 牧师/先知法术, 吟游诗人法术, 召唤师法术, 女巫法术, unchained 召唤师法术
+date: 2023-07-03T22:14:06.376Z
+tags: 法术, 咒法系, 术士/法师法术, 召唤师法术, 牧师/先知法术, 4环法术, 女巫法术, unchained 召唤师法术, 召唤, 吟游诗人法术, evil, lawful
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:13:27.769Z
 ---
 
 # **Summon accuser** *Summon accuser*

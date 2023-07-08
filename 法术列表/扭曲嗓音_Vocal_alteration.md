@@ -2,10 +2,10 @@
 title: 扭曲嗓音 Vocal alteration
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 1环法术, 吟游诗人法术, 审判者法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:55:11.304Z
+tags: 法术, 术士/法师法术, 审判者法术, 女巫法术, 1环法术, 吟游诗人法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:06:27.302Z
 ---
 
 # **扭曲嗓音** *Vocal alteration*

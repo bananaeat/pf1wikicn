@@ -2,10 +2,10 @@
 title: 和平誓言 Oath of peace
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 圣骑士法术, 4环法术
+date: 2023-07-03T23:13:34.508Z
+tags: 法术, 4环法术, 防护系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:07:52.931Z
 ---
 
 # **和平誓言** *Oath of peace*

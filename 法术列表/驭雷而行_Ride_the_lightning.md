@@ -2,10 +2,10 @@
 title: 驭雷而行 Ride the lightning
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 电, 术士/法师法术, 9环法术
+date: 2023-07-04T02:10:26.085Z
+tags: 法术, 术士/法师法术, 9环法术, 塑能系, 电
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:41:43.759Z
 ---
 
 # **驭雷而行** *Ride the lightning*

@@ -2,10 +2,10 @@
 title: 共用高等法术免疫 Spell immunity, greater communal
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 9环法术
+date: 2023-07-03T22:47:53.801Z
+tags: 法术, 牧师/先知法术, 防护系, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:35:44.057Z
 ---
 
 # **共用高等法术免疫** *Spell immunity, greater communal*

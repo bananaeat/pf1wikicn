@@ -2,10 +2,10 @@
 title: 迟缓徽记 Symbol of slowing
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 牧师/先知法术, 4环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T01:50:15.912Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 4环法术, 女巫法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:58:22.571Z
 ---
 
 # **迟缓徽记** *Symbol of slowing*

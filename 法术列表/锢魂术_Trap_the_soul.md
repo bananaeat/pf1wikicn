@@ -2,10 +2,10 @@
 title: 锢魂术 Trap the soul
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, 灵能者法术, 8环法术, 术士/法师法术, 女巫法术, Psychopomp, 灵魂子域
+date: 2023-07-04T02:00:23.548Z
+tags: 法术, 咒法系, 术士/法师法术, 女巫法术, 召唤, 8环法术, 灵能者法术, psychopomp, 灵魂子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:15:11.391Z
 ---
 
 # **锢魂术** *Trap the soul*

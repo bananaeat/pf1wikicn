@@ -2,10 +2,10 @@
 title: 狂笑术 Hideous laughter
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 1环法术, 通灵者法术, 2环法术, 催眠师法术, 异能者法术, 术士/法师法术, Revelry, Whimsy
+date: 2023-07-04T00:49:55.051Z
+tags: 2环法术, 法术, 术士/法师法术, 惑控系, 胁迫, 影响心灵, 1环法术, 吟游诗人法术, 异能者法术, 催眠师法术, 通灵者法术, whimsy, revelry
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:28:07.046Z
 ---
 
 # **狂笑术** *Hideous laughter*

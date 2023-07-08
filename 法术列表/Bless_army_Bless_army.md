@@ -2,10 +2,10 @@
 title: Bless army Bless army
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 牧师/先知法术, 6环法术
+date: 2023-07-03T20:50:36.107Z
+tags: 法术, 6环法术, 牧师/先知法术, 惑控系, 胁迫, 影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:19:48.814Z
 ---
 
 # **Bless army** *Bless army*

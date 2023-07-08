@@ -2,10 +2,10 @@
 title: Aroden's spellbane Aroden's spellbane
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 术士/法师法术, 9环法术
+date: 2023-07-03T20:45:39.547Z
+tags: 法术, 术士/法师法术, 防护系, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:17:07.329Z
 ---
 
 # **Aroden's spellbane** *Aroden's spellbane*

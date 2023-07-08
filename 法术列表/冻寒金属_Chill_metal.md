@@ -2,10 +2,10 @@
 title: 冻寒金属 Chill metal
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 寒冷, 德鲁伊法术, 2环法术, 猎人法术, 秘学士法术, 异能者法术
+date: 2023-07-03T22:51:27.703Z
+tags: 2环法术, 法术, 秘学士法术, 猎人法术, 德鲁伊法术, 变化系, 异能者法术, 寒冷
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:37:45.140Z
 ---
 
 # **冻寒金属** *Chill metal*

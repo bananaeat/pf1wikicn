@@ -2,10 +2,10 @@
 title: Winter's grasp Winter's grasp
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 寒冷, 德鲁伊法术, 2环法术, 女巫法术, 猎人法术
+date: 2023-07-03T22:29:11.553Z
+tags: 2环法术, 法术, 咒法系, 创造, 女巫法术, 猎人法术, 德鲁伊法术, 寒冷
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:23:22.730Z
 ---
 
 # **Winter's grasp** *Winter's grasp*

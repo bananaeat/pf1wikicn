@@ -2,10 +2,10 @@
 title: Shadowfade Shadowfade
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 幽影幻觉, 术士/法师法术, 1环法术, 吟游诗人法术, 召唤师法术, 审判者法术, 魔战士法术, 催眠师法术, unchained 召唤师法术
+date: 2023-07-03T22:04:58.962Z
+tags: 法术, 术士/法师法术, 魔战士法术, 审判者法术, 召唤师法术, unchained 召唤师法术, 1环法术, 吟游诗人法术, 催眠师法术, 幻术系, 幽影幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:07:41.942Z
 ---
 
 # **Shadowfade** *Shadowfade*

@@ -2,10 +2,10 @@
 title: 尖叫火墙 Screaming flames
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, evil, fire, mind-affecting, 反圣武士法术, 3环法术, 牧师/先知法术
+date: 2023-07-03T23:29:03.814Z
+tags: 法术, 牧师/先知法术, 3环法术, 反圣武士法术, mind-affecting, 塑能系, evil, fire
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:28:53.705Z
 ---
 
 # **尖叫火墙** *Screaming flames*

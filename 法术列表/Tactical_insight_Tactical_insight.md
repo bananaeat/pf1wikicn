@@ -2,10 +2,10 @@
 title: Tactical insight Tactical insight
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 吟游诗人法术, 6环法术, 审判者法术
+date: 2023-07-03T22:19:29.215Z
+tags: 法术, 6环法术, 审判者法术, 吟游诗人法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:16:57.154Z
 ---
 
 # **Tactical insight** *Tactical insight*

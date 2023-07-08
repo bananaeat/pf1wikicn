@@ -2,10 +2,10 @@
 title: 即刻召唤 Instant summons
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, 灵能者法术, 7环法术, 术士/法师法术, 女巫法术, 符文领域
+date: 2023-07-03T23:01:08.968Z
+tags: 法术, 咒法系, 术士/法师法术, 女巫法术, 召唤, 7环法术, 灵能者法术, 符文领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:50:28.715Z
 ---
 
 # **即刻召唤** *Instant summons*

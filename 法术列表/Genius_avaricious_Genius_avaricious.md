@@ -2,10 +2,10 @@
 title: Genius avaricious Genius avaricious
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 邪恶, 术士/法师法术, 6环法术, 牧师/先知法术
+date: 2023-07-03T21:20:21.605Z
+tags: 法术, 咒法系, 术士/法师法术, 6环法术, 创造, 牧师/先知法术, 邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:37:50.119Z
 ---
 
 # **Genius avaricious** *Genius avaricious*

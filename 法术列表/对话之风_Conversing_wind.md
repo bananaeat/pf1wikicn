@@ -2,10 +2,10 @@
 title: 对话之风 Conversing wind
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 气, 术士/法师法术, 4环法术, 吟游诗人法术
+date: 2023-07-03T23:28:22.858Z
+tags: 法术, 术士/法师法术, 4环法术, 吟游诗人法术, 变化系, 气
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:27:55.345Z
 ---
 
 # **对话之风** *Conversing wind*

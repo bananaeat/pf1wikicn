@@ -2,10 +2,10 @@
 title: 邪剑术 Unholy sword
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 邪恶, 反圣武士法术, 4环法术
+date: 2023-07-04T01:55:23.815Z
+tags: 法术, 4环法术, 反圣武士法术, 塑能系, 邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:06:50.479Z
 ---
 
 # **邪剑术** *Unholy sword*

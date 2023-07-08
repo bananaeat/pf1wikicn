@@ -2,10 +2,10 @@
 title: Fungal blisters Fungal blisters
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 2环法术, 德鲁伊法术, 炼金术师法术, 女巫法术, 猎人法术
+date: 2023-07-03T21:19:47.840Z
+tags: 2环法术, 法术, 术士/法师法术, 女巫法术, 猎人法术, 德鲁伊法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:37:30.360Z
 ---
 
 # **Fungal blisters** *Fungal blisters*

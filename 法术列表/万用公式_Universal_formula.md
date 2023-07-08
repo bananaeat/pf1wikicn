@@ -2,10 +2,10 @@
 title: 万用公式 Universal formula
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 4环法术
+date: 2023-07-03T22:30:30.598Z
+tags: 法术, 4环法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:24:12.341Z
 ---
 
 # **万用公式** *Universal formula*

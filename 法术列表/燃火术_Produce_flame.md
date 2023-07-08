@@ -2,10 +2,10 @@
 title: 燃火术 Produce flame
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 德鲁伊法术, 1环法术, 猎人法术, 萨满法术, 火领域
+date: 2023-07-04T00:45:39.000Z
+tags: 法术, 萨满法术, 猎人法术, 1环法术, 德鲁伊法术, 塑能系, 火, 火领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:22:02.743Z
 ---
 
 # **燃火术** *Produce flame*

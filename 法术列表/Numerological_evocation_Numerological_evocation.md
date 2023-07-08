@@ -2,10 +2,10 @@
 title: Numerological evocation Numerological evocation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 术士/法师法术, 3环法术, 女巫法术, 4环法术, 魔战士法术
+date: 2023-07-03T21:44:17.356Z
+tags: 法术, 术士/法师法术, 魔战士法术, 3环法术, 4环法术, 女巫法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:54:23.818Z
 ---
 
 # **Numerological evocation** *Numerological evocation*

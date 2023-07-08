@@ -2,10 +2,10 @@
 title: 魔化防具 Magic vestment
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 牧师/先知法术, 3环法术, 审判者法术, 秘学士法术, 萨满法术, 高贵领域, 力量领域, 战争领域
+date: 2023-07-04T02:15:21.298Z
+tags: 法术, 审判者法术, 牧师/先知法术, 萨满法术, 3环法术, 秘学士法术, 变化系, 战争领域, 力量领域, 高贵领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:59:13.367Z
 ---
 
 # **魔化防具** *Magic vestment*

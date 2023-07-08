@@ -2,10 +2,10 @@
 title: Balance of suffering Balance of suffering
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 死亡, 牧师/先知法术, 6环法术, 女巫法术, 审判者法术, 萨满法术, 秘学士法术, 唤魂师法术
+date: 2023-07-03T20:46:38.242Z
+tags: 法术, 咒法系, 6环法术, 审判者法术, 牧师/先知法术, 萨满法术, 女巫法术, 秘学士法术, 唤魂师法术, 医疗, 死亡
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:17:42.645Z
 ---
 
 # **Balance of suffering** *Balance of suffering*

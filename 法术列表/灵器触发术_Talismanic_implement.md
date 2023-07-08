@@ -2,10 +2,10 @@
 title: 灵器触发术 Talismanic implement
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 秘学士法术, 3环法术
+date: 2023-07-04T00:40:59.097Z
+tags: 法术, 3环法术, 秘学士法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:14:35.997Z
 ---
 
 # **灵器触发术** *Talismanic implement*

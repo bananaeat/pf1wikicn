@@ -2,10 +2,10 @@
 title: 狂怒 Wrath
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵，情绪, 审判者法术, 1环法术
+date: 2023-07-04T00:49:03.210Z
+tags: 法术, 审判者法术, 惑控系, 胁迫, 1环法术, 影响心灵，情绪
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:27:13.732Z
 ---
 
 # **狂怒** *Wrath*

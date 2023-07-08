@@ -2,10 +2,10 @@
 title: 剑刃花环 Wreath of blades
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 魔战士法术, 4环法术, 术士/法师法术, 5环法术, 召唤师法术, 女巫法术
+date: 2023-07-03T22:54:48.637Z
+tags: 法术, 术士/法师法术, 魔战士法术, 召唤师法术, 5环法术, 4环法术, 女巫法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:41:15.949Z
 ---
 
 # **剑刃花环** *Wreath of blades*

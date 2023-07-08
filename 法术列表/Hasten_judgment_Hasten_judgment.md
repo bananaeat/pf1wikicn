@@ -2,10 +2,10 @@
 title: Hasten judgment Hasten judgment
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 诅咒, 术士/法师法术, 6环法术, 牧师/先知法术, 5环法术, 德鲁伊法术, 女巫法术, 审判者法术, 4环法术, 反圣武士法术, 唤魂师法术, 猎人法术
+date: 2023-07-03T21:24:12.939Z
+tags: 法术, 术士/法师法术, 6环法术, 审判者法术, 牧师/先知法术, 5环法术, 4环法术, 女巫法术, 猎人法术, 德鲁伊法术, 唤魂师法术, 反圣武士法术, 死灵系, 诅咒
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:40:15.394Z
 ---
 
 # **Hasten judgment** *Hasten judgment*

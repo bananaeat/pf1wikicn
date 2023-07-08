@@ -2,10 +2,10 @@
 title: 神圣化身 Divine vessel
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 混乱，邪恶，善良或守序, 先知法术, 8环法术
+date: 2023-07-04T01:03:10.417Z
+tags: 法术, 变化系, 8环法术, 先知法术, 混乱，邪恶，善良或守序
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:47:30.185Z
 ---
 
 # **神圣化身** *Divine vessel*

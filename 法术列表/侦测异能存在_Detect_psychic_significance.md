@@ -2,10 +2,10 @@
 title: 侦测异能存在 Detect psychic significance
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 通灵者法术, 戏法/祷念, 催眠师法术, 秘学士法术, 异能者法术, 唤魂师法术
+date: 2023-07-03T22:37:50.980Z
+tags: 法术, 秘学士法术, 异能者法术, 预言系, 催眠师法术, 通灵者法术, 唤魂师法术, 戏法/祷念
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:29:15.740Z
 ---
 
 # **侦测异能存在** *Detect psychic significance*

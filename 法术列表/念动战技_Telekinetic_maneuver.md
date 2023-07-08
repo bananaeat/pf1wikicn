@@ -2,10 +2,10 @@
 title: 念动战技 Telekinetic maneuver
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 魔战士法术, 4环法术, 异能者法术, 3环法术, 术士/法师法术, 唤魂师法术
+date: 2023-07-03T23:45:03.639Z
+tags: 法术, 术士/法师法术, 魔战士法术, 3环法术, 4环法术, 变化系, 异能者法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:51:50.535Z
 ---
 
 # **念动战技** *Telekinetic maneuver*

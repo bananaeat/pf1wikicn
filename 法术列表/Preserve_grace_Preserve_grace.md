@@ -2,10 +2,10 @@
 title: Preserve grace Preserve grace
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 善良, 牧师/先知法术, 2环法术, 圣武士法术, 1环法术, 审判者法术
+date: 2023-07-03T21:51:20.198Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 1环法术, 圣武士法术, 善良, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:58:54.694Z
 ---
 
 # **Preserve grace** *Preserve grace*

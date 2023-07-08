@@ -2,10 +2,10 @@
 title: 梦境远航 Dream voyage
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 影响心灵, 异能者法术, 9环法术
+date: 2023-07-04T00:15:59.875Z
+tags: 法术, 咒法系, 影响心灵, 异能者法术, 9环法术, 传送
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:35:32.269Z
 ---
 
 # **梦境远航** *Dream voyage*

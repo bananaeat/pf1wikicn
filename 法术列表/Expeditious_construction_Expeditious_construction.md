@@ -2,10 +2,10 @@
 title: Expeditious construction Expeditious construction
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 土, 术士/法师法术, 1环法术, 德鲁伊法术, 猎人法术
+date: 2023-07-03T21:13:39.214Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 猎人法术, 1环法术, 德鲁伊法术, 土
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:33:39.263Z
 ---
 
 # **Expeditious construction** *Expeditious construction*

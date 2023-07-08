@@ -2,10 +2,10 @@
 title: 修复死灵 Repair undead
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 1环法术
+date: 2023-07-03T22:40:10.884Z
+tags: 法术, 术士/法师法术, 1环法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:30:47.643Z
 ---
 
 # **修复死灵** *Repair undead*

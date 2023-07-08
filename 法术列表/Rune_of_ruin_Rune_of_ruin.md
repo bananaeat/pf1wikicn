@@ -2,10 +2,10 @@
 title: Rune of ruin Rune of ruin
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 诅咒, 术士/法师法术, 5环法术, 吟游诗人法术, 4环法术, 炼金术师法术, 女巫法术, 审判者法术
+date: 2023-07-03T21:58:03.930Z
+tags: 法术, 术士/法师法术, 审判者法术, 5环法术, 4环法术, 女巫法术, 吟游诗人法术, 变化系, 炼金术师法术, 诅咒
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:03:31.290Z
 ---
 
 # **Rune of ruin** *Rune of ruin*

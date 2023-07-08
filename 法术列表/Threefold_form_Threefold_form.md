@@ -2,10 +2,10 @@
 title: Threefold form Threefold form
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 德鲁伊法术, 9环法术, 女巫法术, 异能者法术
+date: 2023-07-03T22:21:42.349Z
+tags: 法术, 女巫法术, 德鲁伊法术, 异能者法术, 预言系, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:18:23.179Z
 ---
 
 # **Threefold form** *Threefold form*

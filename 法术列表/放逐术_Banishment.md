@@ -2,10 +2,10 @@
 title: 放逐术 Banishment
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 6环法术, 审判者法术, 5环法术, 异能者法术, 7环法术, 萨满法术, 术士/法师法术, 唤魂师法术, 召唤师法术, unchained 召唤师法术
+date: 2023-07-04T00:04:15.658Z
+tags: 法术, 术士/法师法术, 6环法术, 审判者法术, 召唤师法术, 牧师/先知法术, 萨满法术, 5环法术, unchained 召唤师法术, 防护系, 异能者法术, 唤魂师法术, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:18:49.907Z
 ---
 
 # **放逐术** *Banishment*

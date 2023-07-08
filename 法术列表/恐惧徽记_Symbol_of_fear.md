@@ -2,10 +2,10 @@
 title: 恐惧徽记 Symbol of fear
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 恐惧, 影响心灵, 情绪, 牧师/先知法术, 6环法术, 秘学士法术, 4环法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:47:34.129Z
+tags: 法术, 术士/法师法术, 6环法术, 牧师/先知法术, 影响心灵, 4环法术, 女巫法术, 秘学士法术, 死灵系, 情绪, 恐惧
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:55:21.538Z
 ---
 
 # **恐惧徽记** *Symbol of fear*

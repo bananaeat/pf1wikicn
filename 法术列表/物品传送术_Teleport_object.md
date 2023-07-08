@@ -2,10 +2,10 @@
 title: 物品传送术 Teleport object
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 灵能者法术, 7环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:47:49.432Z
+tags: 法术, 咒法系, 术士/法师法术, 女巫法术, 传送, 7环法术, 灵能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:25:25.738Z
 ---
 
 # **物品传送术** *Teleport object*

@@ -2,10 +2,10 @@
 title: Canopic conversion Canopic conversion
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, death, evil, 术士/法师法术, 9环法术, 牧师/先知法术
+date: 2023-07-03T20:55:32.504Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 9环法术, 死灵系, evil, death
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:22:51.060Z
 ---
 
 # **Canopic conversion** *Canopic conversion*

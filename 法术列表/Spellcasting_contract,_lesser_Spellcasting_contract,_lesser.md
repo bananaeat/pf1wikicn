@@ -2,10 +2,10 @@
 title: Spellcasting contract, lesser Spellcasting contract, lesser
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 牧师/先知法术, 5环法术
+date: 2023-07-03T22:10:00.056Z
+tags: 法术, 牧师/先知法术, 5环法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:10:46.728Z
 ---
 
 # **Spellcasting contract, lesser** *Spellcasting contract, lesser*

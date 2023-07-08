@@ -2,10 +2,10 @@
 title: 爆头 Explode head
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 魔战士法术, 6环法术, 异能者法术, 5环法术, 术士/法师法术
+date: 2023-07-04T00:46:24.233Z
+tags: 法术, 术士/法师法术, 魔战士法术, 6环法术, 5环法术, 异能者法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:23:11.303Z
 ---
 
 # **爆头** *Explode head*

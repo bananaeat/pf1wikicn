@@ -2,10 +2,10 @@
 title: 囚困魂魄 Entrap spirit
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 通灵者法术, 4环法术, 秘学士法术, 5环法术, 异能者法术, 唤魂师法术
+date: 2023-07-03T23:15:16.525Z
+tags: 法术, 5环法术, 4环法术, 秘学士法术, 异能者法术, 通灵者法术, 唤魂师法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:10:15.879Z
 ---
 
 # **囚困魂魄** *Entrap spirit*

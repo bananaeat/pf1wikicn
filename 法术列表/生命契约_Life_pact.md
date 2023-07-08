@@ -2,10 +2,10 @@
 title: 生命契约 Life pact
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 牧师/先知法术, 2环法术, 萨满法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:53:10.709Z
+tags: 2环法术, 法术, 术士/法师法术, 牧师/先知法术, 萨满法术, 女巫法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:32:53.178Z
 ---
 
 # **生命契约** *Life pact*

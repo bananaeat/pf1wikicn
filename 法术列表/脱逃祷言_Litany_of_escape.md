@@ -2,10 +2,10 @@
 title: 脱逃祷言 Litany of escape
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 依赖语言, 反圣武士法术, 3环法术, 审判者法术, 4环法术, 圣骑士法术
+date: 2023-07-04T01:25:31.822Z
+tags: 法术, 咒法系, 审判者法术, 3环法术, 4环法术, 反圣武士法术, 传送, 依赖语言, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:21:39.187Z
 ---
 
 # **脱逃祷言** *Litany of escape*

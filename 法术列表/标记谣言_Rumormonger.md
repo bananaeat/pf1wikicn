@@ -2,10 +2,10 @@
 title: 标记谣言 Rumormonger
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 吟游诗人法术, 2环法术, 审判者法术, 通灵者法术, 1环法术, 催眠师法术, 异能者法术, 3环法术
+date: 2023-07-04T00:14:54.020Z
+tags: 2环法术, 法术, 审判者法术, 3环法术, 1环法术, 吟游诗人法术, 异能者法术, 预言系, 催眠师法术, 通灵者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:33:57.111Z
 ---
 
 # **标记谣言** *Rumormonger*

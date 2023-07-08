@@ -2,10 +2,10 @@
 title: Ancestral gift Ancestral gift
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, 牧师/先知法术, 4环法术, 吟游诗人法术
+date: 2023-07-03T20:42:27.446Z
+tags: 法术, 咒法系, 牧师/先知法术, 4环法术, 召唤, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:15:15.681Z
 ---
 
 # **Ancestral gift** *Ancestral gift*

@@ -2,10 +2,10 @@
 title: 秩序之怒 Order's wrath
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 秩序, 牧师/先知法术, 4环法术, 审判者法术, 秩序领域
+date: 2023-07-04T01:06:58.311Z
+tags: 法术, 审判者法术, 牧师/先知法术, 4环法术, 塑能系, 秩序, 秩序领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:53:28.933Z
 ---
 
 # **秩序之怒** *Order's wrath*

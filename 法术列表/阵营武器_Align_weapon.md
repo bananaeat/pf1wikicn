@@ -2,10 +2,10 @@
 title: 阵营武器 Align weapon
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, see text, 牧师/先知法术, 2环法术, 审判者法术, 混乱领域, 邪恶领域, 善良领域, 秩序领域, Demodand
+date: 2023-07-04T02:06:03.495Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 变化系, see text, 善良领域, 邪恶领域, 秩序领域, 混乱领域, demodand
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:26:10.127Z
 ---
 
 # **阵营武器** *Align weapon*

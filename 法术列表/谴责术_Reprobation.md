@@ -2,10 +2,10 @@
 title: 谴责术 Reprobation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 诅咒，见下文, 牧师/先知法术, 5环法术, 德鲁伊法术, 审判者法术, 4环法术, 圣骑士法术
+date: 2023-07-04T01:45:25.787Z
+tags: 法术, 审判者法术, 牧师/先知法术, 5环法术, 4环法术, 德鲁伊法术, 变化系, 圣骑士法术, 诅咒，见下文
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:51:39.271Z
 ---
 
 # **谴责术** *Reprobation*

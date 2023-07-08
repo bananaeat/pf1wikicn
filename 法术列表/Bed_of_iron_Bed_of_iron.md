@@ -2,10 +2,10 @@
 title: Bed of iron Bed of iron
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 1环法术, 圣武士法术, 审判者法术, 魔战士法术
+date: 2023-07-03T20:47:30.289Z
+tags: 法术, 术士/法师法术, 魔战士法术, 审判者法术, 1环法术, 圣武士法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:18:13.736Z
 ---
 
 # **Bed of iron** *Bed of iron*

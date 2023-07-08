@@ -2,10 +2,10 @@
 title: 追猎印记 Tracking mark
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 牧师/先知法术, 1环法术, 德鲁伊法术, 游侠法术, 圣武士法术, 猎人法术
+date: 2023-07-04T01:51:20.470Z
+tags: 法术, 牧师/先知法术, 游侠法术, 猎人法术, 1环法术, 圣武士法术, 德鲁伊法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:59:50.019Z
 ---
 
 # **追猎印记** *Tracking mark*

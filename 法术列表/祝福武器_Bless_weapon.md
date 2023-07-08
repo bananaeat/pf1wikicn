@@ -2,10 +2,10 @@
 title: 祝福武器 Bless weapon
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 圣骑士法术, 1环法术, 荣耀领域
+date: 2023-07-04T01:02:39.331Z
+tags: 法术, 1环法术, 变化系, 圣骑士法术, 荣耀领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:46:45.279Z
 ---
 
 # **祝福武器** *Bless weapon*

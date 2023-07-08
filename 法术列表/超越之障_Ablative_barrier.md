@@ -2,10 +2,10 @@
 title: 超越之障 Ablative barrier
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 力场, 炼金术师法术, 2环法术, 魔战士法术, 术士/法师法术, 3环法术, 召唤师法术
+date: 2023-07-04T01:46:27.108Z
+tags: 2环法术, 法术, 咒法系, 术士/法师法术, 魔战士法术, 召唤师法术, 创造, 3环法术, 力场, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:53:07.212Z
 ---
 
 # **超越之障** *Ablative barrier*

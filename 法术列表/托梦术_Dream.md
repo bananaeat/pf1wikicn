@@ -2,10 +2,10 @@
 title: 托梦术 Dream
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 魅影幻觉, 影响心灵, 炼金术师法术, 5环法术, 吟游诗人法术, 通灵者法术, 3环法术, 催眠师法术, 4环法术, 异能者法术, 术士/法师法术, 唤魂师法术, Imagination, Moon
+date: 2023-07-03T23:55:02.736Z
+tags: 法术, 术士/法师法术, 影响心灵, 5环法术, 3环法术, 4环法术, 吟游诗人法术, 炼金术师法术, 异能者法术, 催眠师法术, 通灵者法术, 唤魂师法术, 幻术系, 魅影幻觉, moon, imagination
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:06:16.031Z
 ---
 
 # **托梦术** *Dream*

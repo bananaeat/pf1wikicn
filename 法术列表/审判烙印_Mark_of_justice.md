@@ -2,10 +2,10 @@
 title: 审判烙印 Mark of justice
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 诅咒, 牧师/先知法术, 5环法术, 审判者法术, 圣骑士法术, 4环法术, 女巫法术, Judgment
+date: 2023-07-03T23:27:41.185Z
+tags: 法术, 审判者法术, 牧师/先知法术, 5环法术, 4环法术, 女巫法术, 死灵系, 诅咒, 圣骑士法术, judgment
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:26:57.389Z
 ---
 
 # **审判烙印** *Mark of justice*

@@ -2,10 +2,10 @@
 title: 生命通道 Life conduit
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 召唤师法术, 1环法术
+date: 2023-07-04T00:53:24.784Z
+tags: 法术, 咒法系, 召唤师法术, 1环法术, 医疗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:33:15.275Z
 ---
 
 # **生命通道** *Life conduit*

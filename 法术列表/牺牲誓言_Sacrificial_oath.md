@@ -2,10 +2,10 @@
 title: 牺牲誓言 Sacrificial oath
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 圣骑士法术, 4环法术
+date: 2023-07-04T00:48:27.014Z
+tags: 法术, 4环法术, 防护系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:26:19.260Z
 ---
 
 # **牺牲誓言** *Sacrificial oath*

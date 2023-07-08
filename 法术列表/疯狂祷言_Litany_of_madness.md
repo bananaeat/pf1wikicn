@@ -2,10 +2,10 @@
 title: 疯狂祷言 Litany of madness
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 魅惑, 依赖语言, 反圣武士法术, 4环法术, 审判者法术, 6环法术
+date: 2023-07-04T00:55:04.985Z
+tags: 法术, 6环法术, 审判者法术, 惑控系, 4环法术, 反圣武士法术, 魅惑, 依赖语言
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:35:49.054Z
 ---
 
 # **疯狂祷言** *Litany of madness*

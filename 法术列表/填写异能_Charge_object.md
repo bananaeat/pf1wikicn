@@ -2,10 +2,10 @@
 title: 填写异能 Charge object
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 通灵者法术, 1环法术, 催眠师法术, 秘学士法术, 异能者法术, 唤魂师法术
+date: 2023-07-03T23:20:36.434Z
+tags: 法术, 秘学士法术, 1环法术, 变化系, 异能者法术, 催眠师法术, 通灵者法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:17:24.868Z
 ---
 
 # **填写异能** *Charge object*

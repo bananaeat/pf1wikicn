@@ -2,10 +2,10 @@
 title: 木遁术 Transport via plants
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 德鲁伊法术, 6环法术, 猎人法术, 萨满法术, 7环法术
+date: 2023-07-04T00:11:15.639Z
+tags: 法术, 咒法系, 6环法术, 萨满法术, 猎人法术, 德鲁伊法术, 传送, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:28:39.142Z
 ---
 
 # **木遁术** *Transport via plants*

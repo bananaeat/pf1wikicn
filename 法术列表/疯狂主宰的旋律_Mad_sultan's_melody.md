@@ -2,10 +2,10 @@
 title: 疯狂主宰的旋律 Mad sultan's melody
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, mind-affecting, sonic, 吟游诗人法术, 3环法术, 催眠师法术, 4环法术, 秘学士法术, 异能者法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:54:43.136Z
+tags: 法术, 术士/法师法术, 惑控系, 胁迫, 3环法术, 4环法术, 女巫法术, 秘学士法术, 吟游诗人法术, 异能者法术, 催眠师法术, mind-affecting, sonic
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:35:14.407Z
 ---
 
 # **疯狂主宰的旋律** *Mad sultan's melody*

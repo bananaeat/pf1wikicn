@@ -2,10 +2,10 @@
 title: Open arms Open arms
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 5环法术
+date: 2023-07-03T21:45:31.000Z
+tags: 法术, 术士/法师法术, 5环法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:55:16.159Z
 ---
 
 # **Open arms** *Open arms*

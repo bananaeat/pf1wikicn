@@ -2,10 +2,10 @@
 title: Psychonaut manifestation Psychonaut manifestation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 异能者法术, 2环法术
+date: 2023-07-03T21:52:20.738Z
+tags: 2环法术, 法术, 惑控系, 胁迫, 异能者法术, emotion, mind-affecting
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:59:35.554Z
 ---
 
 # **Psychonaut manifestation** *Psychonaut manifestation*

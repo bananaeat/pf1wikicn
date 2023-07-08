@@ -2,10 +2,10 @@
 title: Summon elemental steed Summon elemental steed
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, see text, 德鲁伊法术, 9环法术
+date: 2023-07-03T22:14:47.142Z
+tags: 法术, 咒法系, 召唤, 德鲁伊法术, 9环法术, see text
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:13:54.022Z
 ---
 
 # **Summon elemental steed** *Summon elemental steed*

@@ -2,10 +2,10 @@
 title: 高等护命屏障 Shield of fortification, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 4环法术, 审判者法术, 3环法术, 圣骑士法术
+date: 2023-07-04T02:12:22.437Z
+tags: 法术, 审判者法术, 牧师/先知法术, 3环法术, 4环法术, 防护系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:48:30.578Z
 ---
 
 # **高等护命屏障** *Shield of fortification, greater*

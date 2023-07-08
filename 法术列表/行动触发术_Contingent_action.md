@@ -2,10 +2,10 @@
 title: 行动触发术 Contingent action
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 吟游诗人法术, 3环法术, 术士/法师法术
+date: 2023-07-04T01:39:23.854Z
+tags: 法术, 术士/法师法术, 3环法术, 吟游诗人法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:42:08.987Z
 ---
 
 # **行动触发术** *Contingent action*

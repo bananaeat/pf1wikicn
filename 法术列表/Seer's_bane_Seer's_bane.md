@@ -2,10 +2,10 @@
 title: Seer's bane Seer's bane
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 术士/法师法术, 6环法术, 牧师/先知法术, 审判者法术
+date: 2023-07-03T22:02:33.152Z
+tags: 法术, 术士/法师法术, 6环法术, 审判者法术, 牧师/先知法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:06:14.245Z
 ---
 
 # **Seer's bane** *Seer's bane*

@@ -2,10 +2,10 @@
 title: 元素评估 Elemental assessor
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, acid, cold, electricity, fire, 术士/法师法术, 6环法术, 牧师/先知法术
+date: 2023-07-03T22:42:23.893Z
+tags: 法术, 术士/法师法术, 6环法术, 牧师/先知法术, 塑能系, fire, acid, cold, electricity
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:32:13.342Z
 ---
 
 # **元素评估** *Elemental assessor*

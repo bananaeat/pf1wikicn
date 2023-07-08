@@ -2,10 +2,10 @@
 title: Brightest Night
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 奥能师法术, 1环法术, 吟游诗人法术, 牧师/先知法术, 德鲁伊法术, 猎人法术, 圣武士法术, 歌者法术, 法师/术士法术, 战斗祭司法术, 女巫法术
+date: 2023-07-03T20:53:52.202Z
+tags: 法术, 奥能师法术, 牧师/先知法术, 女巫法术, 猎人法术, 1环法术, 圣武士法术, 吟游诗人法术, 德鲁伊法术, 变化系, 法师/术士法术, 歌者法术, 战斗祭司法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:21:47.048Z
 ---
 
 # **Brightest Night** *Brightest Night*

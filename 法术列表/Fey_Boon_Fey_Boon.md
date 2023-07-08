@@ -2,10 +2,10 @@
 title: Fey Boon
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-03T21:15:08.597Z
 tags: 法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:34:35.381Z
 ---
 
 # **Fey Boon** *Fey Boon*

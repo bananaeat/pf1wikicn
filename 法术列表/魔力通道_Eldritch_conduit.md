@@ -2,10 +2,10 @@
 title: 魔力通道 Eldritch conduit
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 2环法术, 女巫法术
+date: 2023-07-04T02:15:07.502Z
+tags: 2环法术, 法术, 术士/法师法术, 女巫法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:58:25.535Z
 ---
 
 # **魔力通道** *Eldritch conduit*

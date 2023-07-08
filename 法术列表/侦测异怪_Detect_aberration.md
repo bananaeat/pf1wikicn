@@ -2,10 +2,10 @@
 title: 侦测异怪 Detect aberration
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 德鲁伊法术, 1环法术, 游侠法术
+date: 2023-07-03T22:37:43.971Z
+tags: 法术, 游侠法术, 1环法术, 德鲁伊法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:29:11.440Z
 ---
 
 # **侦测异怪** *Detect aberration*

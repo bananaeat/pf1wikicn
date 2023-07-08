@@ -2,10 +2,10 @@
 title: 津波 Tsunami
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 水, 德鲁伊法术, 9环法术, 术士/法师法术
+date: 2023-07-04T00:31:50.308Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 德鲁伊法术, 9环法术, 水
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:00:19.910Z
 ---
 
 # **津波** *Tsunami*

@@ -2,10 +2,10 @@
 title: 渐隐术 Vanish
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 五官幻觉, 吟游诗人法术, 1环法术, 魔战士法术, 术士/法师法术
+date: 2023-07-04T00:36:01.950Z
+tags: 法术, 术士/法师法术, 魔战士法术, 1环法术, 吟游诗人法术, 幻术系, 五官幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:06:53.663Z
 ---
 
 # **渐隐术** *Vanish*

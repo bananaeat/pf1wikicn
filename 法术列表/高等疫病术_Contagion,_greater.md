@@ -2,10 +2,10 @@
 title: 高等疫病术 Contagion, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 疾病，邪恶, 牧师/先知法术, 5环法术, 德鲁伊法术, 术士/法师法术, 6环法术, 女巫法术
+date: 2023-07-04T02:12:56.185Z
+tags: 法术, 术士/法师法术, 6环法术, 牧师/先知法术, 5环法术, 女巫法术, 德鲁伊法术, 死灵系, 疾病，邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:50:57.955Z
 ---
 
 # **高等疫病术** *Contagion, greater*

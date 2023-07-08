@@ -2,10 +2,10 @@
 title: Bloodstone mirror Bloodstone mirror
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 7环法术, 女巫法术, 秘学士法术, 5环法术
+date: 2023-07-03T20:51:48.581Z
+tags: 法术, 牧师/先知法术, 5环法术, 女巫法术, 秘学士法术, 防护系, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:20:32.997Z
 ---
 
 # **Bloodstone mirror** *Bloodstone mirror*

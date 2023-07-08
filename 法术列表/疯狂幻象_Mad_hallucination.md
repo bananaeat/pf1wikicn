@@ -2,10 +2,10 @@
 title: 疯狂幻象 Mad hallucination
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 魅影幻觉, 吟游诗人法术, 2环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:54:50.115Z
+tags: 2环法术, 法术, 术士/法师法术, 女巫法术, 吟游诗人法术, 幻术系, 魅影幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:35:25.567Z
 ---
 
 # **疯狂幻象** *Mad hallucination*

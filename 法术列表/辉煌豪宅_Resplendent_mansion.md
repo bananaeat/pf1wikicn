@@ -2,10 +2,10 @@
 title: 辉煌豪宅 Resplendent mansion
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 异能者法术, 9环法术, 术士/法师法术
+date: 2023-07-04T01:48:37.793Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 异能者法术, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:56:31.215Z
 ---
 
 # **辉煌豪宅** *Resplendent mansion*

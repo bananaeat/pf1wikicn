@@ -2,10 +2,10 @@
 title: Bone fists Bone fists
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 2环法术, 牧师/先知法术, 德鲁伊法术, 女巫法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 猎人法术
+date: 2023-07-03T20:52:33.794Z
+tags: 2环法术, 法术, 术士/法师法术, 血脉狂怒者法术, 牧师/先知法术, 萨满法术, 女巫法术, 猎人法术, 德鲁伊法术, 异能者法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:20:59.624Z
 ---
 
 # **Bone fists** *Bone fists*

@@ -2,10 +2,10 @@
 title: 召唤乐器 Summon instrument
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-03T23:06:32.104Z
 tags: 法术, 咒法系, 召唤, 吟游诗人法术, 戏法/祷念
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:58:01.359Z
 ---
 
 # **召唤乐器** *Summon instrument*

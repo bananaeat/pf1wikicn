@@ -2,10 +2,10 @@
 title: 恐惧饕宴 Feast on fear
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 情绪，恐惧，影响心灵, 吟游诗人法术, 4环法术, 萨满法术, 5环法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:48:02.291Z
+tags: 法术, 术士/法师法术, 萨满法术, 5环法术, 4环法术, 女巫法术, 吟游诗人法术, 死灵系, 情绪，恐惧，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:56:04.395Z
 ---
 
 # **恐惧饕宴** *Feast on fear*

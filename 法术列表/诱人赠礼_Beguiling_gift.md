@@ -2,10 +2,10 @@
 title: 诱人赠礼 Beguiling gift
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 1环法术, 女巫法术
+date: 2023-07-04T01:44:10.300Z
+tags: 法术, 惑控系, 胁迫, 影响心灵, 女巫法术, 1环法术, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:49:19.144Z
 ---
 
 # **诱人赠礼** *Beguiling gift*

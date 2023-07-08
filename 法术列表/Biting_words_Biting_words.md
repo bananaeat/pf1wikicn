@@ -2,10 +2,10 @@
 title: Biting words Biting words
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, language-dependent, sonic, 吟游诗人法术, 1环法术, 血脉狂怒者法术
+date: 2023-07-03T20:49:12.159Z
+tags: 法术, 血脉狂怒者法术, 1环法术, 吟游诗人法术, 塑能系, language-dependent, sonic
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:19:13.305Z
 ---
 
 # **Biting words** *Biting words*

@@ -2,10 +2,10 @@
 title: 王车易位 King's castle
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 圣骑士法术, 4环法术
+date: 2023-07-04T00:52:20.675Z
+tags: 法术, 咒法系, 4环法术, 传送, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:31:34.803Z
 ---
 
 # **王车易位** *King's castle*

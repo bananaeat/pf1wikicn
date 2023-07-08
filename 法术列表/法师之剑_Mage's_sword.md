@@ -2,10 +2,10 @@
 title: 法师之剑 Mage's sword
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 灵能者法术, 7环法术, 术士/法师法术
+date: 2023-07-04T00:29:04.887Z
+tags: 法术, 术士/法师法术, 力场, 塑能系, 7环法术, 灵能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:55:58.767Z
 ---
 
 # **法师之剑** *Mage's sword*

@@ -2,10 +2,10 @@
 title: 法师裂解术 Mage's disjunction
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 灵能者法术, 9环法术, 术士/法师法术, 魔法领域
+date: 2023-07-04T00:29:46.625Z
+tags: 法术, 术士/法师法术, 防护系, 9环法术, 灵能者法术, 魔法领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:57:04.389Z
 ---
 
 # **法师裂解术** *Mage's disjunction*

@@ -2,10 +2,10 @@
 title: Hymn of mercy Hymn of mercy
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, good, mind-affecting, 牧师/先知法术, 5环法术, 吟游诗人法术
+date: 2023-07-03T21:28:07.477Z
+tags: 法术, 牧师/先知法术, 惑控系, 胁迫, 5环法术, 吟游诗人法术, mind-affecting, good
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:42:44.028Z
 ---
 
 # **Hymn of mercy** *Hymn of mercy*

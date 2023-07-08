@@ -2,10 +2,10 @@
 title: 休养仙环 Fairy ring retreat
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 德鲁伊法术, 7环法术, 萨满法术, 女巫法术
+date: 2023-07-03T22:35:13.154Z
+tags: 法术, 咒法系, 创造, 萨满法术, 女巫法术, 德鲁伊法术, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:27:25.496Z
 ---
 
 # **休养仙环** *Fairy ring retreat*

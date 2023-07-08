@@ -2,10 +2,10 @@
 title: 英雄宴 Heroes' feast
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 吟游诗人法术, 6环法术, 牧师/先知法术, 审判者法术, 团队领域, 决意子域, Revelry
+date: 2023-07-04T01:29:41.600Z
+tags: 法术, 咒法系, 6环法术, 审判者法术, 创造, 牧师/先知法术, 吟游诗人法术, revelry, 团队领域, 决意子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:27:50.391Z
 ---
 
 # **英雄宴** *Heroes' feast*

@@ -2,10 +2,10 @@
 title: 灵质捕网 Ectoplasmic snare
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 魔战士法术, 3环法术, 异能者法术, 萨满法术, 术士/法师法术, 唤魂师法术
+date: 2023-07-04T00:42:23.361Z
+tags: 法术, 术士/法师法术, 魔战士法术, 萨满法术, 3环法术, 异能者法术, 唤魂师法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:16:51.519Z
 ---
 
 # **灵质捕网** *Ectoplasmic snare*

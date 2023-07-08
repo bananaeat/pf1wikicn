@@ -2,10 +2,10 @@
 title: 为主而伤 Bleed for your master
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 3环法术, 德鲁伊法术, 游侠法术, 女巫法术, 反圣武士法术, 2环法术, 猎人法术
+date: 2023-07-03T22:32:32.460Z
+tags: 2环法术, 法术, 术士/法师法术, 惑控系, 胁迫, 影响心灵, 游侠法术, 3环法术, 女巫法术, 猎人法术, 德鲁伊法术, 反圣武士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:25:34.975Z
 ---
 
 # **为主而伤** *Bleed for your master*

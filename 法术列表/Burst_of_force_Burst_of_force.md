@@ -2,10 +2,10 @@
 title: Burst of force Burst of force
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 术士/法师法术, 5环法术, 异能者法术
+date: 2023-07-03T20:54:38.396Z
+tags: 法术, 术士/法师法术, 5环法术, 力场, 异能者法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:22:14.474Z
 ---
 
 # **Burst of force** *Burst of force*

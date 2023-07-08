@@ -2,10 +2,10 @@
 title: 间歇泉 Geyser
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 火，水, 德鲁伊法术, 4环法术, 魔战士法术, 5环法术, 术士/法师法术
+date: 2023-07-04T02:03:35.881Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 创造, 5环法术, 4环法术, 德鲁伊法术, 火，水
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:20:36.960Z
 ---
 
 # **间歇泉** *Geyser*

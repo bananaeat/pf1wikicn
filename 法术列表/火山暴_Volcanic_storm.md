@@ -2,10 +2,10 @@
 title: 火山暴 Volcanic storm
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 德鲁伊法术, 4环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:37:53.414Z
+tags: 法术, 术士/法师法术, 4环法术, 女巫法术, 德鲁伊法术, 塑能系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:09:48.077Z
 ---
 
 # **火山暴** *Volcanic storm*

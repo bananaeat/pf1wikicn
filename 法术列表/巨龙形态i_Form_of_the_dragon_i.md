@@ -2,10 +2,10 @@
 title: 巨龙形态i Form of the dragon i
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 变形, 炼金术师法术, 6环法术, 魔战士法术, 术士/法师法术, Dragon
+date: 2023-07-03T23:30:58.858Z
+tags: 法术, 术士/法师法术, 魔战士法术, 6环法术, 变化系, 炼金术师法术, 变形, dragon
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:31:31.642Z
 ---
 
 # **巨龙形态i** *Form of the dragon i*

@@ -2,10 +2,10 @@
 title: 共用防护能量伤害 Protection from energy, communal
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 术士/法师法术, 4环法术, 牧师/先知法术, 德鲁伊法术, 游侠法术, 3环法术, 召唤师法术, 审判者法术, 异能者法术, 猎人法术, unchained 召唤师法术
+date: 2023-07-03T22:47:32.934Z
+tags: 法术, 术士/法师法术, 审判者法术, 召唤师法术, 牧师/先知法术, 游侠法术, 3环法术, 4环法术, 猎人法术, unchained 召唤师法术, 德鲁伊法术, 防护系, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:35:30.204Z
 ---
 
 # **共用防护能量伤害** *Protection from energy, communal*

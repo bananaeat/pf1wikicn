@@ -2,10 +2,10 @@
 title: 闪电弧 Lightning arc
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 电, 术士/法师法术, 5环法术
+date: 2023-07-04T02:02:53.410Z
+tags: 法术, 术士/法师法术, 5环法术, 塑能系, 电
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:19:19.567Z
 ---
 
 # **闪电弧** *Lightning arc*

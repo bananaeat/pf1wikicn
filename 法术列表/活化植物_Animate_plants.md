@@ -2,10 +2,10 @@
 title: 活化植物 Animate plants
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 德鲁伊法术, 7环法术, 萨满法术, 植物领域
+date: 2023-07-04T00:32:04.208Z
+tags: 法术, 萨满法术, 德鲁伊法术, 变化系, 7环法术, 植物领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:00:43.111Z
 ---
 
 # **活化植物** *Animate plants*

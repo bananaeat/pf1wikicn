@@ -2,10 +2,10 @@
 title: 藏物鬼印 Ghost brand
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 阴影, 吟游诗人法术, 4环法术, 秘学士法术, 3环法术, 唤魂师法术, 女巫法术
+date: 2023-07-04T01:31:52.149Z
+tags: 法术, 3环法术, 4环法术, 女巫法术, 秘学士法术, 吟游诗人法术, 变化系, 唤魂师法术, 阴影
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:31:03.012Z
 ---
 
 # **藏物鬼印** *Ghost brand*

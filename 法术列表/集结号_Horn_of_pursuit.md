@@ -2,10 +2,10 @@
 title: 集结号 Horn of pursuit
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 吟游诗人法术, 1环法术, 审判者法术, 圣骑士法术, 游侠法术
+date: 2023-07-04T02:07:25.875Z
+tags: 法术, 审判者法术, 游侠法术, 1环法术, 吟游诗人法术, 塑能系, 音波, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:31:03.932Z
 ---
 
 # **集结号** *Horn of pursuit*

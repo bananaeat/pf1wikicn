@@ -2,10 +2,10 @@
 title: Impenetrable veil Impenetrable veil
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 术士/法师法术, 9环法术, 吟游诗人法术, 6环法术, 女巫法术, 异能者法术, 催眠师法术, 唤魂师法术
+date: 2023-07-03T21:29:51.518Z
+tags: 法术, 术士/法师法术, 6环法术, 女巫法术, 吟游诗人法术, 防护系, 异能者法术, 催眠师法术, 唤魂师法术, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:43:56.116Z
 ---
 
 # **Impenetrable veil** *Impenetrable veil*

@@ -2,10 +2,10 @@
 title: 极度自恋 Smug narcissism
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 情绪，影响心灵, 吟游诗人法术, 3环法术, 术士/法师法术, 5环法术, 女巫法术
+date: 2023-07-04T00:13:37.204Z
+tags: 法术, 术士/法师法术, 惑控系, 胁迫, 5环法术, 3环法术, 女巫法术, 吟游诗人法术, 情绪，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:31:59.334Z
 ---
 
 # **极度自恋** *Smug narcissism*

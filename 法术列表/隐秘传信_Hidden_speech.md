@@ -2,10 +2,10 @@
 title: 隐秘传信 Hidden speech
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 依赖语言, 吟游诗人法术, 2环法术, 审判者法术, 3环法术, 女巫法术
+date: 2023-07-04T02:06:45.873Z
+tags: 2环法术, 法术, 审判者法术, 3环法术, 女巫法术, 吟游诗人法术, 变化系, 依赖语言
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:28:35.272Z
 ---
 
 # **隐秘传信** *Hidden speech*

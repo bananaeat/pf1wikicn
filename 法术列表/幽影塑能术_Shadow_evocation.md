@@ -2,10 +2,10 @@
 title: 幽影塑能术 Shadow evocation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 幽影幻觉, 阴影, 吟游诗人法术, 5环法术, 催眠师法术, 术士/法师法术, 唤魂师法术
+date: 2023-07-03T23:33:40.705Z
+tags: 法术, 术士/法师法术, 5环法术, 吟游诗人法术, 催眠师法术, 唤魂师法术, 幻术系, 幽影幻觉, 阴影
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:35:17.571Z
 ---
 
 # **幽影塑能术** *Shadow evocation*

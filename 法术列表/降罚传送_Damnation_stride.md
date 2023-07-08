@@ -2,10 +2,10 @@
 title: 降罚传送 Damnation stride
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-04T02:06:20.788Z
 tags: 法术, 咒法系, 传送, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:27:11.558Z
 ---
 
 # **降罚传送** *Damnation stride*

@@ -2,10 +2,10 @@
 title: 亵渎光环 Profane nimbus
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 邪恶, 反圣武士法术, 4环法术, 牧师/先知法术, 5环法术, 审判者法术
+date: 2023-07-03T22:34:17.285Z
+tags: 法术, 审判者法术, 牧师/先知法术, 5环法术, 4环法术, 反圣武士法术, 塑能系, 邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:26:48.742Z
 ---
 
 # **亵渎光环** *Profane nimbus*

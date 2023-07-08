@@ -2,10 +2,10 @@
 title: 抹除异能 Erase impressions
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 通灵者法术, 3环法术, 催眠师法术, 4环法术, 秘学士法术, 异能者法术, 5环法术, 唤魂师法术
+date: 2023-07-03T23:57:19.143Z
+tags: 法术, 5环法术, 3环法术, 4环法术, 秘学士法术, 防护系, 异能者法术, 催眠师法术, 通灵者法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:09:36.115Z
 ---
 
 # **抹除异能** *Erase impressions*

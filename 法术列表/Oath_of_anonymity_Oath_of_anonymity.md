@@ -2,10 +2,10 @@
 title: Oath of anonymity Oath of anonymity
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 五官幻觉, 术士/法师法术, 戏法/祷念, 吟游诗人法术, 圣武士法术, 1环法术, 审判者法术, 通灵者法术
+date: 2023-07-03T21:44:36.455Z
+tags: 法术, 术士/法师法术, 审判者法术, 1环法术, 圣武士法术, 吟游诗人法术, 通灵者法术, 幻术系, 五官幻觉, 戏法/祷念
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:54:37.759Z
 ---
 
 # **Oath of anonymity** *Oath of anonymity*

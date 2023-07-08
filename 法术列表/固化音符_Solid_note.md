@@ -2,10 +2,10 @@
 title: 固化音符 Solid note
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 吟游诗人法术, 1环法术
+date: 2023-07-03T23:16:35.142Z
+tags: 法术, 咒法系, 创造, 1环法术, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:12:01.167Z
 ---
 
 # **固化音符** *Solid note*

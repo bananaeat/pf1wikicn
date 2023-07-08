@@ -2,10 +2,10 @@
 title: 召唤黑布丁怪 Conjure black pudding
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, 酸, 术士/法师法术, 6环法术, 召唤师法术, 5环法术
+date: 2023-07-03T23:09:22.548Z
+tags: 法术, 酸, 咒法系, 术士/法师法术, 6环法术, 召唤师法术, 5环法术, 召唤
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:02:04.964Z
 ---
 
 # **召唤黑布丁怪** *Conjure black pudding*

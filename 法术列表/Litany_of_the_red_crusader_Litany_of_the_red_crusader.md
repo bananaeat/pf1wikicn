@@ -2,10 +2,10 @@
 title: Litany of the red crusader Litany of the red crusader
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 圣武士法术, 1环法术, 审判者法术, 2环法术, 反圣武士法术
+date: 2023-07-03T21:37:16.193Z
+tags: 2环法术, 法术, 审判者法术, 1环法术, 圣武士法术, 反圣武士法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:49:10.860Z
 ---
 
 # **Litany of the red crusader** *Litany of the red crusader*

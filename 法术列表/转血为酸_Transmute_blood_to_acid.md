@@ -2,10 +2,10 @@
 title: 转血为酸 Transmute blood to acid
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 酸，痛苦, 术士/法师法术, 9环法术
+date: 2023-07-04T01:47:46.726Z
+tags: 法术, 术士/法师法术, 变化系, 9环法术, 酸，痛苦
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:55:12.484Z
 ---
 
 # **转血为酸** *Transmute blood to acid*

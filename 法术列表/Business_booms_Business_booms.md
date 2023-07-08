@@ -2,10 +2,10 @@
 title: Business booms Business booms
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 术士/法师法术, 3环法术, 吟游诗人法术
+date: 2023-07-03T20:54:58.181Z
+tags: 法术, 术士/法师法术, 惑控系, 3环法术, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:22:31.077Z
 ---
 
 # **Business booms** *Business booms*

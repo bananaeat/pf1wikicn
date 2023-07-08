@@ -2,10 +2,10 @@
 title: Scoop Scoop
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 术士/法师法术, 戏法/祷念
+date: 2023-07-03T21:59:50.344Z
+tags: 法术, 术士/法师法术, 力场, 塑能系, 戏法/祷念
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:04:37.444Z
 ---
 
 # **Scoop** *Scoop*

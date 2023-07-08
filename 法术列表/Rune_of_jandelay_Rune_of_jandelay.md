@@ -2,10 +2,10 @@
 title: Rune of jandelay Rune of jandelay
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 9环法术, 女巫法术
+date: 2023-07-03T21:57:56.549Z
+tags: 法术, 术士/法师法术, 女巫法术, 变化系, 9环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:03:26.371Z
 ---
 
 # **Rune of jandelay** *Rune of jandelay*

@@ -2,10 +2,10 @@
 title: 次等异界盟友 Planar ally, lesser
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 呼唤, 见后文, 牧师/先知法术, 4环法术, 通灵者法术, 3环法术, 异能者法术, 萨满法术
+date: 2023-07-04T00:18:37.398Z
+tags: 法术, 咒法系, 牧师/先知法术, 萨满法术, 3环法术, 4环法术, 异能者法术, 通灵者法术, 呼唤, 见后文
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:39:30.947Z
 ---
 
 # **次等异界盟友** *Planar ally, lesser*

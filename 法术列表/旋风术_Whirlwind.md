@@ -2,10 +2,10 @@
 title: 旋风术 Whirlwind
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 气, 德鲁伊法术, 8环法术, 萨满法术, 气领域, 天气领域
+date: 2023-07-04T00:05:44.680Z
+tags: 法术, 萨满法术, 德鲁伊法术, 8环法术, 塑能系, 气, 天气领域, 气领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:20:57.509Z
 ---
 
 # **旋风术** *Whirlwind*

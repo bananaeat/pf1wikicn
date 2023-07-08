@@ -2,10 +2,10 @@
 title: 厉声尖啸 Piercing shriek
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 痛苦，音波, 吟游诗人法术, 2环法术
+date: 2023-07-03T23:01:36.046Z
+tags: 2环法术, 法术, 吟游诗人法术, 塑能系, 痛苦，音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:51:09.557Z
 ---
 
 # **厉声尖啸** *Piercing shriek*

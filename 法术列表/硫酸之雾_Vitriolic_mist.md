@@ -2,10 +2,10 @@
 title: 硫酸之雾 Vitriolic mist
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 酸, 炼金术师法术, 4环法术, 术士/法师法术, 召唤师法术
+date: 2023-07-04T01:00:37.992Z
+tags: 法术, 酸, 术士/法师法术, 召唤师法术, 4环法术, 炼金术师法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:44:22.695Z
 ---
 
 # **硫酸之雾** *Vitriolic mist*

@@ -2,10 +2,10 @@
 title: 变形万物 Polymorph any object
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 变形, 术士/法师法术, 8环法术, 构装子域
+date: 2023-07-03T23:05:36.819Z
+tags: 法术, 术士/法师法术, 变化系, 8环法术, 变形, 构装子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:56:41.525Z
 ---
 
 # **变形万物** *Polymorph any object*

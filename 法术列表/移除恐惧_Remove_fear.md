@@ -2,10 +2,10 @@
 title: 移除恐惧 Remove fear
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 吟游诗人法术, 1环法术, 牧师/先知法术, 审判者法术, 通灵者法术, 催眠师法术, 异能者法术, 萨满法术, 唤魂师法术, 解放领域, Loyalty
+date: 2023-07-04T01:07:28.696Z
+tags: 法术, 审判者法术, 牧师/先知法术, 萨满法术, 1环法术, 吟游诗人法术, 防护系, 异能者法术, 催眠师法术, 通灵者法术, 唤魂师法术, 解放领域, loyalty
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:54:14.883Z
 ---
 
 # **移除恐惧** *Remove fear*

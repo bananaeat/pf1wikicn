@@ -2,10 +2,10 @@
 title: Dazzling blade Dazzling blade
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 心灵幻觉, 术士/法师法术, 1环法术, 吟游诗人法术
+date: 2023-07-03T21:04:25.188Z
+tags: 法术, 术士/法师法术, 1环法术, 吟游诗人法术, 幻术系, 心灵幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:28:05.673Z
 ---
 
 # **Dazzling blade** *Dazzling blade*

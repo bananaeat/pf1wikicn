@@ -2,10 +2,10 @@
 title: 幽灵伪装 Ghostly disguise
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 五官幻觉, 炼金术师法术, 2环法术, 吟游诗人法术, 审判者法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:34:09.346Z
+tags: 2环法术, 法术, 术士/法师法术, 审判者法术, 女巫法术, 吟游诗人法术, 炼金术师法术, 幻术系, 五官幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:35:57.514Z
 ---
 
 # **幽灵伪装** *Ghostly disguise*

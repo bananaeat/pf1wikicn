@@ -2,10 +2,10 @@
 title: 异能宣战 Instigate psychic duel
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 魅影幻觉, 影响心灵, 通灵者法术, 2环法术, 催眠师法术, 秘学士法术, 异能者法术, 唤魂师法术
+date: 2023-07-03T23:35:56.673Z
+tags: 2环法术, 法术, 影响心灵, 秘学士法术, 异能者法术, 催眠师法术, 通灵者法术, 唤魂师法术, 幻术系, 魅影幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:38:24.513Z
 ---
 
 # **异能宣战** *Instigate psychic duel*

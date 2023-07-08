@@ -2,10 +2,10 @@
 title: 音爆狂嚎 Sonic scream
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 吟游诗人法术, 2环法术, 血脉狂怒者法术, 魔战士法术, 术士/法师法术
+date: 2023-07-04T02:08:37.499Z
+tags: 2环法术, 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 吟游诗人法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:35:17.951Z
 ---
 
 # **音爆狂嚎** *Sonic scream*

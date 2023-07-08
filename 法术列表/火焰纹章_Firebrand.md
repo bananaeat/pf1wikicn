@@ -2,10 +2,10 @@
 title: 火焰纹章 Firebrand
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 火, 术士/法师法术, 7环法术
+date: 2023-07-04T00:38:49.660Z
+tags: 法术, 术士/法师法术, 变化系, 7环法术, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:11:19.361Z
 ---
 
 # **火焰纹章** *Firebrand*

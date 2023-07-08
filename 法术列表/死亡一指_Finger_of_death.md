@@ -2,10 +2,10 @@
 title: 死亡一指 Finger of death
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 死亡, 德鲁伊法术, 8环法术, 异能者法术, 7环法术, 术士/法师法术, 亡灵血脉
+date: 2023-07-04T00:22:01.971Z
+tags: 法术, 术士/法师法术, 德鲁伊法术, 8环法术, 异能者法术, 死灵系, 7环法术, 死亡, 亡灵血脉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:44:32.366Z
 ---
 
 # **死亡一指** *Finger of death*

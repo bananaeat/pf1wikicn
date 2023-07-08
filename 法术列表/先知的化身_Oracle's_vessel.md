@@ -2,10 +2,10 @@
 title: 先知的化身 Oracle's vessel
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 先知法术, 4环法术
+date: 2023-07-03T22:42:44.537Z
+tags: 法术, 4环法术, 变化系, 先知法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:32:27.056Z
 ---
 
 # **先知的化身** *Oracle's vessel*

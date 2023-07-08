@@ -2,10 +2,10 @@
 title: 完全复生术 True resurrection
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 牧师/先知法术, 9环法术, 回生子域
+date: 2023-07-03T23:26:38.765Z
+tags: 法术, 咒法系, 牧师/先知法术, 9环法术, 医疗, 回生子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:25:30.999Z
 ---
 
 # **完全复生术** *True resurrection*

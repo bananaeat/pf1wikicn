@@ -2,10 +2,10 @@
 title: 锋鸣碎片 Chord of shards
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 吟游诗人法术, 1环法术
+date: 2023-07-04T02:00:00.024Z
+tags: 法术, 1环法术, 吟游诗人法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:14:33.699Z
 ---
 
 # **锋鸣碎片** *Chord of shards*

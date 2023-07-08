@@ -2,10 +2,10 @@
 title: 联系怪诞存在 i Contact entity i
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 牧师/先知法术, 2环法术, 通灵者法术, 1环法术, 秘学士法术, 异能者法术, 萨满法术, 术士/法师法术, 召唤师法术, 女巫法术
+date: 2023-07-04T01:23:20.373Z
+tags: 2环法术, 法术, 术士/法师法术, 召唤师法术, 牧师/先知法术, 萨满法术, 女巫法术, 秘学士法术, 1环法术, 异能者法术, 通灵者法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:18:23.939Z
 ---
 
 # **联系怪诞存在 i** *Contact entity i*

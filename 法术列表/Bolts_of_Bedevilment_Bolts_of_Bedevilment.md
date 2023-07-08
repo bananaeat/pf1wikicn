@@ -2,10 +2,10 @@
 title: Bolts of Bedevilment
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, Madness
+date: 2023-07-03T20:52:27.593Z
+tags: 法术, 惑控系, madness
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:20:55.776Z
 ---
 
 # **Bolts of Bedevilment** *Bolts of Bedevilment*

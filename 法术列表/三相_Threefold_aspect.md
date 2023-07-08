@@ -2,10 +2,10 @@
 title: 三相 Threefold aspect
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 德鲁伊法术, 5环法术, 女巫法术, 4环法术
+date: 2023-07-03T22:30:37.075Z
+tags: 法术, 5环法术, 4环法术, 女巫法术, 德鲁伊法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:24:16.557Z
 ---
 
 # **三相** *Threefold aspect*

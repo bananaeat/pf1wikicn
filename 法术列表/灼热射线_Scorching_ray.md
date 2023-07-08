@@ -2,10 +2,10 @@
 title: 灼热射线 Scorching ray
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 导师法术, 2环法术, 血脉狂怒者法术, 魔战士法术, 术士/法师法术
+date: 2023-07-04T00:42:50.669Z
+tags: 2环法术, 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 塑能系, 火, 导师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:17:35.043Z
 ---
 
 # **灼热射线** *Scorching ray*

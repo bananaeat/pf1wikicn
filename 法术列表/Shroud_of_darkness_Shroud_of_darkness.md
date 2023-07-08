@@ -2,10 +2,10 @@
 title: Shroud of darkness Shroud of darkness
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 黑暗, 术士/法师法术, 5环法术, 牧师/先知法术, 吟游诗人法术, 审判者法术, 反圣武士法术, 4环法术, 萨满法术, 催眠师法术
+date: 2023-07-03T22:06:44.324Z
+tags: 法术, 术士/法师法术, 审判者法术, 牧师/先知法术, 萨满法术, 5环法术, 4环法术, 吟游诗人法术, 催眠师法术, 反圣武士法术, 塑能系, 黑暗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:08:43.743Z
 ---
 
 # **Shroud of darkness** *Shroud of darkness*

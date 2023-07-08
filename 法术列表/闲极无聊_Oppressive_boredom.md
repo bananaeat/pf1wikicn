@@ -2,10 +2,10 @@
 title: 闲极无聊 Oppressive boredom
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 情绪，影响心灵, 吟游诗人法术, 2环法术, 术士/法师法术
+date: 2023-07-04T02:03:28.763Z
+tags: 2环法术, 法术, 术士/法师法术, 惑控系, 胁迫, 吟游诗人法术, 情绪，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:20:23.867Z
 ---
 
 # **闲极无聊** *Oppressive boredom*

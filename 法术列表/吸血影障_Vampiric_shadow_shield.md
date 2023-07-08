@@ -2,10 +2,10 @@
 title: 吸血影障 Vampiric shadow shield
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 魔战士法术, 5环法术, 术士/法师法术
+date: 2023-07-03T23:11:46.404Z
+tags: 法术, 术士/法师法术, 魔战士法术, 5环法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:05:24.204Z
 ---
 
 # **吸血影障** *Vampiric shadow shield*

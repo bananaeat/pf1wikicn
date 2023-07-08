@@ -2,10 +2,10 @@
 title: 蛇纹法印 Sepia snake sigil
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 力场, 吟游诗人法术, 3环法术, 秘学士法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T01:35:07.528Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 3环法术, 女巫法术, 秘学士法术, 吟游诗人法术, 力场
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:35:50.131Z
 ---
 
 # **蛇纹法印** *Sepia snake sigil*

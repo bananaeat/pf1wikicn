@@ -2,10 +2,10 @@
 title: Restful cloak Restful cloak
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 牧师/先知法术, 2环法术, 德鲁伊法术, 游侠法术, 圣武士法术, 萨满法术, 秘学士法术, 猎人法术
+date: 2023-07-03T21:55:32.980Z
+tags: 2环法术, 法术, 咒法系, 牧师/先知法术, 萨满法术, 游侠法术, 秘学士法术, 猎人法术, 圣武士法术, 德鲁伊法术, 医疗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:01:54.439Z
 ---
 
 # **Restful cloak** *Restful cloak*

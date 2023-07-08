@@ -2,10 +2,10 @@
 title: 复苏谢幕曲 Reviving finale
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 吟游诗人法术, 3环法术
+date: 2023-07-03T23:22:27.658Z
+tags: 法术, 咒法系, 3环法术, 吟游诗人法术, 医疗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:19:48.799Z
 ---
 
 # **复苏谢幕曲** *Reviving finale*

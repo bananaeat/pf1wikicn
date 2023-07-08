@@ -2,10 +2,10 @@
 title: 弱效托梦术 Minor dream
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 虚假幻觉, 影响心灵, 炼金术师法术, 2环法术, 吟游诗人法术, 3环法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:36:52.199Z
+tags: 2环法术, 法术, 术士/法师法术, 影响心灵, 3环法术, 女巫法术, 吟游诗人法术, 炼金术师法术, 幻术系, 虚假幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:39:42.515Z
 ---
 
 # **弱效托梦术** *Minor dream*

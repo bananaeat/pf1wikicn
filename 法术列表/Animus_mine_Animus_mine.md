@@ -2,10 +2,10 @@
 title: Animus mine Animus mine
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 影响心灵, 异能者法术, 3环法术, 催眠师法术, 2环法术
+date: 2023-07-03T20:43:02.307Z
+tags: 2环法术, 法术, 影响心灵, 3环法术, 防护系, 异能者法术, 催眠师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:15:35.622Z
 ---
 
 # **Animus mine** *Animus mine*

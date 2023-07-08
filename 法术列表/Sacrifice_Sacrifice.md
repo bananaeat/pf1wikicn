@@ -2,10 +2,10 @@
 title: Sacrifice Sacrifice
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 魅惑, 影响心灵, 术士/法师法术, 4环法术, 牧师/先知法术
+date: 2023-07-03T21:58:47.351Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 惑控系, 影响心灵, 4环法术, 魅惑
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:03:57.342Z
 ---
 
 # **Sacrifice** *Sacrifice*

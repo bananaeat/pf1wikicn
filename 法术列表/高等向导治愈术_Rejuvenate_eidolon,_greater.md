@@ -2,10 +2,10 @@
 title: 高等向导治愈术 Rejuvenate eidolon, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 召唤师法术, 5环法术
+date: 2023-07-04T02:11:37.991Z
+tags: 法术, 咒法系, 召唤师法术, 5环法术, 医疗
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:45:57.042Z
 ---
 
 # **高等向导治愈术** *Rejuvenate eidolon, greater*

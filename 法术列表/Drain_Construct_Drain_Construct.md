@@ -2,10 +2,10 @@
 title: Drain Construct
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 奥能师法术, 2环法术, 法师/术士法术, 女巫法术
+date: 2023-07-03T21:09:27.386Z
+tags: 2环法术, 法术, 奥能师法术, 女巫法术, 法师/术士法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:31:05.192Z
 ---
 
 # **Drain Construct** *Drain Construct*

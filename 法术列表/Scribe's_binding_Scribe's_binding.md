@@ -2,10 +2,10 @@
 title: Scribe's binding Scribe's binding
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 变形, 术士/法师法术, 9环法术, 女巫法术, 秘学士法术, 6环法术
+date: 2023-07-03T22:00:06.955Z
+tags: 法术, 术士/法师法术, 6环法术, 女巫法术, 秘学士法术, 变化系, 9环法术, 变形
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:04:46.398Z
 ---
 
 # **Scribe's binding** *Scribe's binding*

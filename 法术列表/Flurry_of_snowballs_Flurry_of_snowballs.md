@@ -2,10 +2,10 @@
 title: Flurry of snowballs Flurry of snowballs
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, cold, water, 术士/法师法术, 2环法术, 德鲁伊法术, 女巫法术, 魔战士法术, 猎人法术
+date: 2023-07-03T21:17:27.269Z
+tags: 2环法术, 法术, 术士/法师法术, 魔战士法术, 女巫法术, 猎人法术, 德鲁伊法术, 塑能系, cold, water
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:36:02.035Z
 ---
 
 # **Flurry of snowballs** *Flurry of snowballs*

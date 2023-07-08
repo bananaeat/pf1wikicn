@@ -2,10 +2,10 @@
 title: 尖叫 Screech
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 女巫法术, 3环法术
+date: 2023-07-03T23:28:56.509Z
+tags: 法术, 3环法术, 女巫法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:28:43.609Z
 ---
 
 # **尖叫** *Screech*

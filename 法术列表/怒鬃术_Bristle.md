@@ -2,10 +2,10 @@
 title: 怒鬃术 Bristle
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 德鲁伊法术, 1环法术
+date: 2023-07-03T23:45:25.068Z
+tags: 法术, 1环法术, 德鲁伊法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:52:21.437Z
 ---
 
 # **怒鬃术** *Bristle*

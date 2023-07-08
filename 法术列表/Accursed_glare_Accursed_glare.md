@@ -2,10 +2,10 @@
 title: Accursed glare Accursed glare
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 诅咒, 术士/法师法术, 3环法术, 女巫法术, 反圣武士法术
+date: 2023-07-03T20:40:10.033Z
+tags: 法术, 术士/法师法术, 3环法术, 女巫法术, 反圣武士法术, 死灵系, 诅咒
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:13:08.944Z
 ---
 
 # **Accursed glare** *Accursed glare*

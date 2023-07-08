@@ -2,10 +2,10 @@
 title: 心灵连线 Telepathic bond
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 审判者法术, 5环法术, 通灵者法术, 4环法术, 催眠师法术, 异能者法术, 术士/法师法术, 唤魂师法术, 女巫法术, 团队领域, Aeon, Friendship, 语言子域, 思想子域
+date: 2023-07-03T23:43:26.265Z
+tags: 法术, 术士/法师法术, 审判者法术, 5环法术, 4环法术, 女巫法术, 异能者法术, 预言系, 催眠师法术, 通灵者法术, 唤魂师法术, aeon, 语言子域, 思想子域, 团队领域, friendship
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:49:01.249Z
 ---
 
 # **心灵连线** *Telepathic bond*

@@ -2,10 +2,10 @@
 title: 隔音罩 Silent table
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 五官幻觉, 吟游诗人法术, 2环法术, 牧师/先知法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T02:07:12.329Z
+tags: 2环法术, 法术, 术士/法师法术, 牧师/先知法术, 女巫法术, 吟游诗人法术, 幻术系, 五官幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:30:13.847Z
 ---
 
 # **隔音罩** *Silent table*

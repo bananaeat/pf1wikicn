@@ -2,10 +2,10 @@
 title: 化铁为木 Transmute metal to wood
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 德鲁伊法术, 7环法术
+date: 2023-07-03T22:59:16.854Z
+tags: 法术, 德鲁伊法术, 变化系, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:47:34.344Z
 ---
 
 # **化铁为木** *Transmute metal to wood*

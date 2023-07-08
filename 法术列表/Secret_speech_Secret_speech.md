@@ -2,10 +2,10 @@
 title: Secret speech Secret speech
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 术士/法师法术, 2环法术, 牧师/先知法术, 吟游诗人法术, 1环法术, 审判者法术
+date: 2023-07-03T22:01:32.042Z
+tags: 2环法术, 法术, 术士/法师法术, 审判者法术, 牧师/先知法术, 1环法术, 吟游诗人法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:05:38.564Z
 ---
 
 # **Secret speech** *Secret speech*

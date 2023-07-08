@@ -2,10 +2,10 @@
 title: 黑盲矢 Gloomblind bolts
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 阴影, 魔战士法术, 3环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T02:16:51.438Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 创造, 3环法术, 女巫法术, 阴影
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T02:04:23.067Z
 ---
 
 # **黑盲矢** *Gloomblind bolts*

@@ -2,10 +2,10 @@
 title: 惩戒 Retribution
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 邪恶，痛苦, 审判者法术, 3环法术
+date: 2023-07-03T23:50:43.125Z
+tags: 法术, 审判者法术, 3环法术, 死灵系, 邪恶，痛苦
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:59:28.658Z
 ---
 
 # **惩戒** *Retribution*

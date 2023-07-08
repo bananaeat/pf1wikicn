@@ -2,10 +2,10 @@
 title: 雕像术 Statue
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 6环法术, 秘学士法术, 术士/法师法术, 7环法术, 手艺领域, Ruins
+date: 2023-07-04T02:07:36.147Z
+tags: 法术, 术士/法师法术, 6环法术, 秘学士法术, 变化系, 炼金术师法术, 7环法术, ruins, 手艺领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:31:40.947Z
 ---
 
 # **雕像术** *Statue*

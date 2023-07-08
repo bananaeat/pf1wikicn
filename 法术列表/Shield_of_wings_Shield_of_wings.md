@@ -2,10 +2,10 @@
 title: Shield of wings Shield of wings
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 火, 牧师/先知法术, 3环法术, 游侠法术, 圣武士法术, 审判者法术, 猎人法术
+date: 2023-07-03T22:06:21.055Z
+tags: 法术, 审判者法术, 牧师/先知法术, 游侠法术, 3环法术, 猎人法术, 圣武士法术, 变化系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:08:30.461Z
 ---
 
 # **Shield of wings** *Shield of wings*

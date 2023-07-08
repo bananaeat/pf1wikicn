@@ -2,10 +2,10 @@
 title: 灵动法球 Telekinetic sphere
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 灵能者法术, 7环法术, 术士/法师法术, 8环法术
+date: 2023-07-04T00:40:52.452Z
+tags: 法术, 术士/法师法术, 8环法术, 力场, 塑能系, 7环法术, 灵能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:14:25.395Z
 ---
 
 # **灵动法球** *Telekinetic sphere*

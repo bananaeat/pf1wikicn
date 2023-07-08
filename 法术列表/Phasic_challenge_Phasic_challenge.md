@@ -2,10 +2,10 @@
 title: Phasic challenge Phasic challenge
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 8环法术, 牧师/先知法术, 女巫法术, 7环法术, 萨满法术, 异能者法术, 唤魂师法术, 6环法术
+date: 2023-07-03T21:48:31.790Z
+tags: 法术, 术士/法师法术, 6环法术, 牧师/先知法术, 萨满法术, 女巫法术, 变化系, 8环法术, 异能者法术, 唤魂师法术, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:57:19.861Z
 ---
 
 # **Phasic challenge** *Phasic challenge*

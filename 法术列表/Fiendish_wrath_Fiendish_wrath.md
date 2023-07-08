@@ -2,10 +2,10 @@
 title: Fiendish wrath Fiendish wrath
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 术士/法师法术, 4环法术, 吟游诗人法术, 3环法术, 炼金术师法术, 召唤师法术, 女巫法术, 血脉狂怒者法术, 异能者法术, 催眠师法术
+date: 2023-07-03T21:15:34.839Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 召唤师法术, 惑控系, 胁迫, 3环法术, 4环法术, 女巫法术, 吟游诗人法术, 炼金术师法术, 异能者法术, 催眠师法术, emotion, mind-affecting
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:34:51.238Z
 ---
 
 # **Fiendish wrath** *Fiendish wrath*

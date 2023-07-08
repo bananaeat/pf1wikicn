@@ -2,10 +2,10 @@
 title: Guardian monument, lesser Guardian monument, lesser
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 术士/法师法术, 3环法术, 吟游诗人法术, 圣武士法术, 女巫法术, 审判者法术, 魔战士法术, 萨满法术, 4环法术, 异能者法术, 秘学士法术
+date: 2023-07-03T21:22:43.226Z
+tags: 法术, 术士/法师法术, 魔战士法术, 审判者法术, 萨满法术, 3环法术, 4环法术, 女巫法术, 秘学士法术, 圣武士法术, 吟游诗人法术, 防护系, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:39:18.223Z
 ---
 
 # **Guardian monument, lesser** *Guardian monument, lesser*

@@ -2,10 +2,10 @@
 title: 血箭术 Bloody arrows
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 4环法术, 游侠法术, 3环法术, 女巫法术, 审判者法术, 反圣武士法术, 魔战士法术, 萨满法术, 猎人法术
+date: 2023-07-04T01:37:45.560Z
+tags: 法术, 术士/法师法术, 魔战士法术, 审判者法术, 萨满法术, 游侠法术, 3环法术, 4环法术, 女巫法术, 猎人法术, 反圣武士法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:39:42.548Z
 ---
 
 # **血箭术** *Bloody arrows*

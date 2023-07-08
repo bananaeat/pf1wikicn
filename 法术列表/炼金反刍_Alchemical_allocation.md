@@ -2,10 +2,10 @@
 title: 炼金反刍 Alchemical allocation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 2环法术
+date: 2023-07-04T00:43:12.444Z
+tags: 2环法术, 法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:18:07.624Z
 ---
 
 # **炼金反刍** *Alchemical allocation*

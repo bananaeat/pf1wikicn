@@ -2,10 +2,10 @@
 title: 战友情深 Compassionate ally
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 情绪，影响心灵, 吟游诗人法术, 2环法术, 牧师/先知法术, 术士/法师法术
+date: 2023-07-03T23:53:55.617Z
+tags: 2环法术, 法术, 术士/法师法术, 牧师/先知法术, 惑控系, 胁迫, 吟游诗人法术, 情绪，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:04:36.155Z
 ---
 
 # **战友情深** *Compassionate ally*

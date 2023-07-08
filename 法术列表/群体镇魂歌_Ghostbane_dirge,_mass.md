@@ -2,10 +2,10 @@
 title: 群体镇魂歌 Ghostbane dirge, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 吟游诗人法术, 4环法术, 牧师/先知法术, 5环法术, 审判者法术, 圣骑士法术, 3环法术
+date: 2023-07-04T01:21:56.691Z
+tags: 法术, 审判者法术, 牧师/先知法术, 5环法术, 3环法术, 4环法术, 吟游诗人法术, 变化系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:16:20.607Z
 ---
 
 # **群体镇魂歌** *Ghostbane dirge, mass*

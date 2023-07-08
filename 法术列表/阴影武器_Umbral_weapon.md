@@ -2,10 +2,10 @@
 title: 阴影武器 Umbral weapon
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, cold, shadow, 术士/法师法术, 2环法术, 吟游诗人法术, 女巫法术, 反圣武士法术, 魔战士法术
+date: 2023-07-04T02:05:53.258Z
+tags: 2环法术, 法术, 术士/法师法术, 魔战士法术, 女巫法术, 吟游诗人法术, 反圣武士法术, 幻术系, shadow, cold
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:25:34.503Z
 ---
 
 # **阴影武器** *Umbral weapon*

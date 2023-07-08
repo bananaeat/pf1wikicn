@@ -2,10 +2,10 @@
 title: 柔石术 Soften earth and stone
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 土, 德鲁伊法术, 2环法术, 猎人法术, 土领域
+date: 2023-07-04T00:14:40.471Z
+tags: 2环法术, 法术, 猎人法术, 德鲁伊法术, 变化系, 土, 土领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:33:36.474Z
 ---
 
 # **柔石术** *Soften earth and stone*

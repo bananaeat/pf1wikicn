@@ -2,10 +2,10 @@
 title: 压制记忆 Repress memory
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 5环法术, 催眠师法术, 异能者法术, 6环法术
+date: 2023-07-03T23:01:49.533Z
+tags: 法术, 6环法术, 惑控系, 胁迫, 影响心灵, 5环法术, 吟游诗人法术, 异能者法术, 催眠师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:51:28.388Z
 ---
 
 # **压制记忆** *Repress memory*

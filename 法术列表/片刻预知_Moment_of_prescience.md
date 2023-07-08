@@ -2,10 +2,10 @@
 title: 片刻预知 Moment of prescience
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 灵能者法术, 8环法术, 术士/法师法术, 女巫法术, 机运领域, 记忆子域
+date: 2023-07-04T00:47:21.036Z
+tags: 法术, 术士/法师法术, 机运领域, 女巫法术, 8环法术, 预言系, 灵能者法术, 记忆子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:24:40.647Z
 ---
 
 # **片刻预知** *Moment of prescience*

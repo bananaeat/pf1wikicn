@@ -2,10 +2,10 @@
 title: 法力诅咒·否决 Curse of magic negation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 诅咒, 牧师/先知法术, 5环法术, 审判者法术, 4环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:28:51.027Z
+tags: 法术, 术士/法师法术, 审判者法术, 牧师/先知法术, 5环法术, 4环法术, 女巫法术, 防护系, 诅咒
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:55:36.775Z
 ---
 
 # **法力诅咒·否决** *Curse of magic negation*

@@ -2,10 +2,10 @@
 title: 圣剑术 Holy sword
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 善良, 圣骑士法术, 4环法术, 荣耀领域
+date: 2023-07-03T23:17:02.982Z
+tags: 法术, 4环法术, 善良, 塑能系, 圣骑士法术, 荣耀领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:12:39.026Z
 ---
 
 # **圣剑术** *Holy sword*

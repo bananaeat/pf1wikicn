@@ -2,10 +2,10 @@
 title: 因果祝福 Karmic blessing
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 善良, 牧师/先知法术, 1环法术, 女巫法术
+date: 2023-07-03T23:16:20.734Z
+tags: 法术, 牧师/先知法术, 女巫法术, 1环法术, 善良, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:11:43.083Z
 ---
 
 # **因果祝福** *Karmic blessing*

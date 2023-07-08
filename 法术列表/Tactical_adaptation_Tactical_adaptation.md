@@ -2,10 +2,10 @@
 title: Tactical adaptation Tactical adaptation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 魔战士法术, 3环法术
+date: 2023-07-03T22:19:15.857Z
+tags: 法术, 魔战士法术, 3环法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:16:48.779Z
 ---
 
 # **Tactical adaptation** *Tactical adaptation*

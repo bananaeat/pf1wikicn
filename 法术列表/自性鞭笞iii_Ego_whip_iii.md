@@ -2,10 +2,10 @@
 title: 自性鞭笞iii Ego whip iii
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, emotion, mind-affecting, 异能者法术, 5环法术
+date: 2023-07-04T01:26:47.641Z
+tags: 法术, 惑控系, 胁迫, 5环法术, 异能者法术, emotion, mind-affecting
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:23:30.548Z
 ---
 
 # **自性鞭笞iii** *Ego whip iii*

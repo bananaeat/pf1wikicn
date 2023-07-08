@@ -2,10 +2,10 @@
 title: 冻结音符 Frozen note
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵，音波, 吟游诗人法术, 5环法术
+date: 2023-07-03T22:51:35.168Z
+tags: 法术, 惑控系, 胁迫, 5环法术, 吟游诗人法术, 影响心灵，音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:37:49.711Z
 ---
 
 # **冻结音符** *Frozen note*

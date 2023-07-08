@@ -2,10 +2,10 @@
 title: 凶兆 Ill omen
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 诅咒, 女巫法术, 1环法术
+date: 2023-07-03T22:52:40.463Z
+tags: 法术, 惑控系, 胁迫, 女巫法术, 1环法术, 诅咒
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:38:33.390Z
 ---
 
 # **凶兆** *Ill omen*

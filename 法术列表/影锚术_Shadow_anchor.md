@@ -2,10 +2,10 @@
 title: 影锚术 Shadow anchor
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 幽影幻觉, 阴影, 吟游诗人法术, 2环法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:40:44.746Z
+tags: 2环法术, 法术, 术士/法师法术, 女巫法术, 吟游诗人法术, 幻术系, 幽影幻觉, 阴影
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:45:09.731Z
 ---
 
 # **影锚术** *Shadow anchor*

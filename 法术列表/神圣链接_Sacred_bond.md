@@ -2,10 +2,10 @@
 title: 神圣链接 Sacred bond
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 牧师/先知法术, 3环法术, 审判者法术, 2环法术, 圣骑士法术
+date: 2023-07-04T01:03:41.218Z
+tags: 2环法术, 法术, 咒法系, 审判者法术, 牧师/先知法术, 3环法术, 医疗, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:48:15.468Z
 ---
 
 # **神圣链接** *Sacred bond*

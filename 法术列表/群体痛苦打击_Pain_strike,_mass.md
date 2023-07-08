@@ -2,10 +2,10 @@
 title: 群体痛苦打击 Pain strike, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 邪恶，痛苦, 术士/法师法术, 5环法术, 女巫法术
+date: 2023-07-04T01:20:45.276Z
+tags: 法术, 术士/法师法术, 5环法术, 女巫法术, 塑能系, 邪恶，痛苦
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:14:37.658Z
 ---
 
 # **群体痛苦打击** *Pain strike, mass*

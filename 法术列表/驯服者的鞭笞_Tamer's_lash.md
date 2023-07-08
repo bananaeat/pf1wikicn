@@ -2,10 +2,10 @@
 title: 驯服者的鞭笞 Tamer's lash
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 吟游诗人法术, 1环法术, 血脉狂怒者法术, 魔战士法术, 游侠法术
+date: 2023-07-04T02:10:29.120Z
+tags: 法术, 血脉狂怒者法术, 魔战士法术, 游侠法术, 1环法术, 吟游诗人法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:41:55.935Z
 ---
 
 # **驯服者的鞭笞** *Tamer's lash*

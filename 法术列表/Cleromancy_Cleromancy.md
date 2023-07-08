@@ -2,10 +2,10 @@
 title: Cleromancy Cleromancy
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 术士/法师法术, 3环法术, 牧师/先知法术, 2环法术, 德鲁伊法术, 审判者法术, 猎人法术
+date: 2023-07-03T20:58:29.951Z
+tags: 2环法术, 法术, 术士/法师法术, 审判者法术, 牧师/先知法术, 3环法术, 猎人法术, 德鲁伊法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:24:37.069Z
 ---
 
 # **Cleromancy** *Cleromancy*

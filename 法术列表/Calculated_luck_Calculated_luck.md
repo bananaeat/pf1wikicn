@@ -2,10 +2,10 @@
 title: Calculated luck Calculated luck
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 牧师/先知法术, 3环法术, 女巫法术, 4环法术
+date: 2023-07-03T20:55:12.334Z
+tags: 法术, 牧师/先知法术, 3环法术, 4环法术, 女巫法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:22:38.965Z
 ---
 
 # **Calculated luck** *Calculated luck*

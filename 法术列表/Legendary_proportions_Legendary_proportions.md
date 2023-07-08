@@ -2,10 +2,10 @@
 title: Legendary proportions Legendary proportions
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 7环法术, 德鲁伊法术, 炼金术师法术, 6环法术, 女巫法术, 萨满法术
+date: 2023-07-03T21:35:59.092Z
+tags: 法术, 术士/法师法术, 6环法术, 萨满法术, 女巫法术, 德鲁伊法术, 变化系, 炼金术师法术, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:48:16.428Z
 ---
 
 # **Legendary proportions** *Legendary proportions*

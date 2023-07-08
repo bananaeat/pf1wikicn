@@ -2,10 +2,10 @@
 title: 虚魂锁链 Incorporeal chains
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 异能者法术, 6环法术, 唤魂师法术, 5环法术
+date: 2023-07-04T01:33:58.134Z
+tags: 法术, 6环法术, 5环法术, 力场, 异能者法术, 唤魂师法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:34:11.680Z
 ---
 
 # **虚魂锁链** *Incorporeal chains*

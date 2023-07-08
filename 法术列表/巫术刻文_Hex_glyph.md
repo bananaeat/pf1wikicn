@@ -2,10 +2,10 @@
 title: 巫术刻文 Hex glyph
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 萨满法术, 3环法术, 女巫法术
+date: 2023-07-03T23:31:19.149Z
+tags: 法术, 萨满法术, 3环法术, 女巫法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:32:00.561Z
 ---
 
 # **巫术刻文** *Hex glyph*

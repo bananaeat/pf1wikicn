@@ -2,10 +2,10 @@
 title: 冰冻射线 Ray of frost
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 寒冷, 魔战士法术, 戏法/祷念, 术士/法师法术
+date: 2023-07-03T22:49:14.147Z
+tags: 法术, 术士/法师法术, 魔战士法术, 塑能系, 戏法/祷念, 寒冷
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:36:34.989Z
 ---
 
 # **冰冻射线** *Ray of frost*

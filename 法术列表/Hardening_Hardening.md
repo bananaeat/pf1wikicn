@@ -2,10 +2,10 @@
 title: Hardening
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 奥能师法术, 6环法术, 法师/术士法术
+date: 2023-07-03T21:23:40.662Z
+tags: 法术, 奥能师法术, 6环法术, 变化系, 法师/术士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:39:54.193Z
 ---
 
 # **Hardening** *Hardening*

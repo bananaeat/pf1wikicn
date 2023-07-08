@@ -2,10 +2,10 @@
 title: 荣誉之辉 Blaze of glory
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 善良，影响心灵, 圣骑士法术, 4环法术
+date: 2023-07-04T01:30:58.774Z
+tags: 法术, 咒法系, 4环法术, 医疗, 圣骑士法术, 善良，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:29:42.011Z
 ---
 
 # **荣誉之辉** *Blaze of glory*

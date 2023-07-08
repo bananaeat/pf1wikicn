@@ -2,10 +2,10 @@
 title: 精神屏障ii Mental barrier ii
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 异能者法术, 3环法术
+date: 2023-07-04T01:13:18.932Z
+tags: 法术, 3环法术, 防护系, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:03:30.363Z
 ---
 
 # **精神屏障ii** *Mental barrier ii*

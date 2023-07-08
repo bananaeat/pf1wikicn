@@ -2,10 +2,10 @@
 title: Scintillating wall Scintillating wall
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 心灵幻觉, 影响心灵, 术士/法师法术, 5环法术, 吟游诗人法术, 4环法术, 异能者法术
+date: 2023-07-03T21:59:43.278Z
+tags: 法术, 术士/法师法术, 影响心灵, 5环法术, 4环法术, 吟游诗人法术, 异能者法术, 幻术系, 心灵幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:04:33.235Z
 ---
 
 # **Scintillating wall** *Scintillating wall*

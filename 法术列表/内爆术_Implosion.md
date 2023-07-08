@@ -2,10 +2,10 @@
 title: 内爆术 Implosion
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 牧师/先知法术, 9环法术, 异能者法术, 毁灭领域
+date: 2023-07-03T22:48:44.739Z
+tags: 法术, 牧师/先知法术, 异能者法术, 9环法术, 塑能系, 毁灭领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:36:16.187Z
 ---
 
 # **内爆术** *Implosion*

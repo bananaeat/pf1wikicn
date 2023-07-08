@@ -2,10 +2,10 @@
 title: 酸蚀术 Corrosive consumption
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 酸, 魔战士法术, 5环法术, 术士/法师法术
+date: 2023-07-04T01:56:43.199Z
+tags: 法术, 酸, 咒法系, 术士/法师法术, 魔战士法术, 创造, 5环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:09:03.383Z
 ---
 
 # **酸蚀术** *Corrosive consumption*

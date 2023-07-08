@@ -2,10 +2,10 @@
 title: 高等异界盟友 Planar ally, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 呼唤, 见次等异界盟友的描述, 牧师/先知法术, 8环法术, 异能者法术, 萨满法术, 战术子域
+date: 2023-07-04T02:12:11.805Z
+tags: 法术, 咒法系, 牧师/先知法术, 萨满法术, 战术子域, 8环法术, 异能者法术, 呼唤, 见次等异界盟友的描述
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:47:55.551Z
 ---
 
 # **高等异界盟友** *Planar ally, greater*

@@ -2,10 +2,10 @@
 title: Toxic rupture Toxic rupture
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 毒素, 术士/法师法术, 3环法术, 德鲁伊法术, 女巫法术, 萨满法术, 猎人法术
+date: 2023-07-03T22:22:49.995Z
+tags: 法术, 术士/法师法术, 萨满法术, 3环法术, 女巫法术, 猎人法术, 德鲁伊法术, 死灵系, 毒素
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:19:11.390Z
 ---
 
 # **Toxic rupture** *Toxic rupture*

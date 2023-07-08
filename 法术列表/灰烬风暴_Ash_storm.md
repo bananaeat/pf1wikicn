@@ -2,10 +2,10 @@
 title: 灰烬风暴 Ash storm
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 火, 德鲁伊法术, 3环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:40:22.990Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 3环法术, 女巫法术, 德鲁伊法术, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:13:42.603Z
 ---
 
 # **灰烬风暴** *Ash storm*

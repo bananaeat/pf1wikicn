@@ -2,10 +2,10 @@
 title: 法师回忆术 Mage's lucubration
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-04T00:29:19.047Z
 tags: 法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:56:20.417Z
 ---
 
 # **法师回忆术** *Mage's lucubration*

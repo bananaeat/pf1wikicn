@@ -2,10 +2,10 @@
 title: 遗忘沉眠 Forgetful slumber
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 4环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T01:54:23.842Z
+tags: 法术, 术士/法师法术, 惑控系, 胁迫, 影响心灵, 4环法术, 女巫法术, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:05:15.579Z
 ---
 
 # **遗忘沉眠** *Forgetful slumber*

@@ -2,10 +2,10 @@
 title: Caustic safeguard Caustic safeguard
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 强酸, 术士/法师法术, 4环法术, 炼金术师法术, 3环法术, 魔战士法术, 血脉狂怒者法术
+date: 2023-07-03T20:56:04.899Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 3环法术, 4环法术, 防护系, 炼金术师法术, 强酸
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:23:11.101Z
 ---
 
 # **Caustic safeguard** *Caustic safeguard*

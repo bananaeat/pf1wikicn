@@ -2,10 +2,10 @@
 title: Create variant mummy Create variant mummy
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 邪恶, 术士/法师法术, 7环法术, 牧师/先知法术
+date: 2023-07-03T21:02:13.866Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 死灵系, 7环法术, 邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:26:46.846Z
 ---
 
 # **Create variant mummy** *Create variant mummy*

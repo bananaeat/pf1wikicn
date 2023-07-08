@@ -2,10 +2,10 @@
 title: 攀行豆茎 Climbing beanstalk
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 德鲁伊法术, 2环法术, 女巫法术
+date: 2023-07-04T00:03:13.518Z
+tags: 2环法术, 法术, 咒法系, 创造, 女巫法术, 德鲁伊法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:17:28.599Z
 ---
 
 # **攀行豆茎** *Climbing beanstalk*

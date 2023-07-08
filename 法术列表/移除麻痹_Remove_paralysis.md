@@ -2,10 +2,10 @@
 title: 移除麻痹 Remove paralysis
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 牧师/先知法术, 2环法术, 审判者法术, 圣骑士法术, 萨满法术, 唤魂师法术, 解放领域
+date: 2023-07-04T01:08:13.356Z
+tags: 2环法术, 法术, 咒法系, 审判者法术, 牧师/先知法术, 萨满法术, 唤魂师法术, 医疗, 圣骑士法术, 解放领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:55:26.919Z
 ---
 
 # **移除麻痹** *Remove paralysis*

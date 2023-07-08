@@ -2,10 +2,10 @@
 title: 魔绳术 Rope trick
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 通灵者法术, 2环法术, 秘学士法术, 异能者法术, 术士/法师法术
+date: 2023-07-04T02:16:12.213Z
+tags: 2环法术, 法术, 术士/法师法术, 秘学士法术, 变化系, 异能者法术, 通灵者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T02:02:13.279Z
 ---
 
 # **魔绳术** *Rope trick*

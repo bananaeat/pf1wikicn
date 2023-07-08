@@ -2,10 +2,10 @@
 title: 共用召唤坐骑 Mount, communal
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-03T22:45:12.800Z
 tags: 法术, 咒法系, 召唤
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:34:03.045Z
 ---
 
 # **共用召唤坐骑** *Mount, communal*

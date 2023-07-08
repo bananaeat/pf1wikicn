@@ -2,10 +2,10 @@
 title: 感知魂术 Sense spirit magic
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 萨满法术, 1环法术
+date: 2023-07-03T23:53:05.856Z
+tags: 法术, 萨满法术, 1环法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:03:19.502Z
 ---
 
 # **感知魂术** *Sense spirit magic*

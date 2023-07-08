@@ -2,10 +2,10 @@
 title: 疲乏之触 Touch of fatigue
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 导师法术, 戏法/祷念, 催眠师法术, 秘学士法术, 萨满法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:55:26.771Z
+tags: 法术, 术士/法师法术, 萨满法术, 女巫法术, 秘学士法术, 催眠师法术, 死灵系, 戏法/祷念, 导师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:36:22.011Z
 ---
 
 # **疲乏之触** *Touch of fatigue*

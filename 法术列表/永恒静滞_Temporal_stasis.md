@@ -2,10 +2,10 @@
 title: 永恒静滞 Temporal stasis
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 灵能者法术, 8环法术, 术士/法师法术
+date: 2023-07-04T00:27:03.788Z
+tags: 法术, 术士/法师法术, 变化系, 8环法术, 灵能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:52:46.236Z
 ---
 
 # **永恒静滞** *Temporal stasis*

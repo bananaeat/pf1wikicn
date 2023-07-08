@@ -2,10 +2,10 @@
 title: 群体怪物定身术 Hold monster, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 灵能者法术, 9环法术, 术士/法师法术, 女巫法术, Legislation
+date: 2023-07-04T01:18:45.409Z
+tags: 法术, 术士/法师法术, 惑控系, 胁迫, 影响心灵, 女巫法术, 9环法术, 灵能者法术, legislation
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:11:47.735Z
 ---
 
 # **群体怪物定身术** *Hold monster, mass*

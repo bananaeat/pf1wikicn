@@ -2,10 +2,10 @@
 title: 咒诅 Damnation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 善良, 牧师/先知法术, 3环法术, 审判者法术, 圣骑士法术
+date: 2023-07-03T23:14:02.040Z
+tags: 法术, 审判者法术, 牧师/先知法术, 3环法术, 善良, 塑能系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:08:34.527Z
 ---
 
 # **咒诅** *Damnation*

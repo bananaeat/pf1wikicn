@@ -2,10 +2,10 @@
 title: 极乐波 Waves of ecstasy
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 情绪，影响心灵, 吟游诗人法术, 6环法术, 牧师/先知法术, 7环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:12:54.745Z
+tags: 法术, 术士/法师法术, 6环法术, 牧师/先知法术, 惑控系, 胁迫, 女巫法术, 吟游诗人法术, 7环法术, 情绪，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:30:58.877Z
 ---
 
 # **极乐波** *Waves of ecstasy*

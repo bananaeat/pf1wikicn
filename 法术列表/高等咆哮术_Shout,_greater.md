@@ -2,10 +2,10 @@
 title: 高等咆哮术 Shout, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 吟游诗人法术, 6环法术, 异能者法术, 8环法术, 术士/法师法术
+date: 2023-07-04T02:11:44.892Z
+tags: 法术, 术士/法师法术, 6环法术, 吟游诗人法术, 8环法术, 异能者法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:46:21.872Z
 ---
 
 # **高等咆哮术** *Shout, greater*

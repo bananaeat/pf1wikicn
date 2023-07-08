@@ -2,10 +2,10 @@
 title: 绊脚沟坎 Stumble gap
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 术士/法师法术, 1环法术
+date: 2023-07-04T01:15:24.008Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 1环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:06:39.583Z
 ---
 
 # **绊脚沟坎** *Stumble gap*

@@ -2,10 +2,10 @@
 title: 煽动恨意 Foster hatred
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 情绪, 反圣武士法术, 4环法术, 审判者法术, 5环法术, 催眠师法术, 异能者法术, 6环法术, 唤魂师法术
+date: 2023-07-04T00:44:56.926Z
+tags: 法术, 6环法术, 审判者法术, 惑控系, 胁迫, 5环法术, 4环法术, 异能者法术, 催眠师法术, 唤魂师法术, 反圣武士法术, 情绪
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:20:54.465Z
 ---
 
 # **煽动恨意** *Foster hatred*

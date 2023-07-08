@@ -2,10 +2,10 @@
 title: False resurrection, greater False resurrection, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 呼唤, evil, lawful, ruse, 牧师/先知法术, 9环法术
+date: 2023-07-03T21:14:22.761Z
+tags: 法术, 咒法系, 牧师/先知法术, 9环法术, evil, 呼唤, lawful, ruse
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:34:07.710Z
 ---
 
 # **False resurrection, greater** *False resurrection, greater*

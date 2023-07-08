@@ -2,10 +2,10 @@
 title: Secluded grimoire Secluded grimoire
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, 术士/法师法术, 1环法术, 魔战士法术
+date: 2023-07-03T22:01:00.295Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 1环法术, 召唤
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:05:19.887Z
 ---
 
 # **Secluded grimoire** *Secluded grimoire*

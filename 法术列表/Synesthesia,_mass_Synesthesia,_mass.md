@@ -2,10 +2,10 @@
 title: Synesthesia, mass Synesthesia, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 魅影幻觉, 影响心灵, 异能者法术, 7环法术, 催眠师法术, 5环法术
+date: 2023-07-03T22:19:08.914Z
+tags: 法术, 影响心灵, 5环法术, 异能者法术, 催眠师法术, 7环法术, 幻术系, 魅影幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:16:44.541Z
 ---
 
 # **Synesthesia, mass** *Synesthesia, mass*

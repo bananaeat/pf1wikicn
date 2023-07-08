@@ -2,10 +2,10 @@
 title: 高等巫术刻文 Hex glyph, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 萨满法术, 5环法术, 女巫法术
+date: 2023-07-04T02:12:01.745Z
+tags: 法术, 萨满法术, 5环法术, 女巫法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:47:21.441Z
 ---
 
 # **高等巫术刻文** *Hex glyph, greater*

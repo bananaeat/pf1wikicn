@@ -2,10 +2,10 @@
 title: Shackle Shackle
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 术士/法师法术, 2环法术, 牧师/先知法术, 游侠法术, 召唤师法术, 审判者法术, 猎人法术, unchained 召唤师法术
+date: 2023-07-03T22:03:47.011Z
+tags: 2环法术, 法术, 咒法系, 术士/法师法术, 审判者法术, 召唤师法术, 创造, 牧师/先知法术, 游侠法术, 猎人法术, unchained 召唤师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:06:57.077Z
 ---
 
 # **Shackle** *Shackle*

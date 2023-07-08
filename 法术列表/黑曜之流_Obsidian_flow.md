@@ -2,10 +2,10 @@
 title: 黑曜之流 Obsidian flow
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 土，火, 德鲁伊法术, 4环法术, 术士/法师法术, 召唤师法术, 3环法术
+date: 2023-07-04T02:16:48.440Z
+tags: 法术, 术士/法师法术, 召唤师法术, 3环法术, 4环法术, 德鲁伊法术, 变化系, 土，火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T02:04:10.743Z
 ---
 
 # **黑曜之流** *Obsidian flow*

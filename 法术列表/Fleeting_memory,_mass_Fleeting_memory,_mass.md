@@ -2,10 +2,10 @@
 title: Fleeting memory, mass Fleeting memory, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 术士/法师法术, 8环法术, 吟游诗人法术, 6环法术, 异能者法术, 7环法术, 催眠师法术, 5环法术, 秘学士法术
+date: 2023-07-03T21:16:55.304Z
+tags: 法术, 术士/法师法术, 6环法术, 惑控系, 胁迫, 影响心灵, 5环法术, 秘学士法术, 吟游诗人法术, 8环法术, 异能者法术, 催眠师法术, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:35:42.754Z
 ---
 
 # **Fleeting memory, mass** *Fleeting memory, mass*

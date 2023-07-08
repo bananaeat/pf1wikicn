@@ -2,10 +2,10 @@
 title: Shared suffering Shared suffering
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 邪恶, 术士/法师法术, 2环法术, 女巫法术, 审判者法术, 反圣武士法术
+date: 2023-07-03T22:05:36.071Z
+tags: 2环法术, 法术, 术士/法师法术, 审判者法术, 女巫法术, 反圣武士法术, 死灵系, 邪恶
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:08:03.722Z
 ---
 
 # **Shared suffering** *Shared suffering*

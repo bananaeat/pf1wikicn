@@ -2,10 +2,10 @@
 title: 吸血冲动 Vampiric hunger
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 变形, 邪恶, 术士/法师法术, 3环法术, 牧师/先知法术, 德鲁伊法术, 女巫法术, 反圣武士法术, 猎人法术
+date: 2023-07-03T23:11:39.040Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 3环法术, 女巫法术, 猎人法术, 德鲁伊法术, 反圣武士法术, 死灵系, 邪恶, 变形
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:05:14.511Z
 ---
 
 # **吸血冲动** *Vampiric hunger*

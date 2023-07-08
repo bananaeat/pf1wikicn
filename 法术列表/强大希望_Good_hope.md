@@ -2,10 +2,10 @@
 title: 强大希望 Good hope
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 情绪, 吟游诗人法术, 3环法术, Revelry
+date: 2023-07-03T23:38:49.799Z
+tags: 法术, 惑控系, 胁迫, 影响心灵, 3环法术, 吟游诗人法术, 情绪, revelry
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:42:29.533Z
 ---
 
 # **强大希望** *Good hope*

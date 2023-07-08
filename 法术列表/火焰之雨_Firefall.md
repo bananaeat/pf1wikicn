@@ -2,10 +2,10 @@
 title: 火焰之雨 Firefall
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 火, 魔战士法术, 4环法术, 术士/法师法术
+date: 2023-07-04T00:38:14.850Z
+tags: 法术, 术士/法师法术, 魔战士法术, 4环法术, 变化系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:10:22.058Z
 ---
 
 # **火焰之雨** *Firefall*

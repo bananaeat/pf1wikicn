@@ -2,10 +2,10 @@
 title: Grappling scarf Grappling scarf
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 1环法术, 吟游诗人法术, 审判者法术, 秘学士法术, 歌者法术
+date: 2023-07-03T21:21:33.415Z
+tags: 法术, 术士/法师法术, 审判者法术, 秘学士法术, 1环法术, 吟游诗人法术, 变化系, 歌者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:38:34.447Z
 ---
 
 # **Grappling scarf** *Grappling scarf*

@@ -2,10 +2,10 @@
 title: 闪燃术 Flashfire
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 德鲁伊法术, 3环法术, 萨满法术
+date: 2023-07-04T02:02:31.843Z
+tags: 法术, 萨满法术, 3环法术, 德鲁伊法术, 塑能系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:18:41.731Z
 ---
 
 # **闪燃术** *Flashfire*

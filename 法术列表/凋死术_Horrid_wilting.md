@@ -2,10 +2,10 @@
 title: 凋死术 Horrid wilting
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 萨满法术, 8环法术, 术士/法师法术, 女巫法术, 水领域, Plague, Radiation
+date: 2023-07-03T22:52:03.642Z
+tags: 法术, 术士/法师法术, 萨满法术, 女巫法术, 8环法术, 死灵系, radiation, 水领域, plague
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:38:09.038Z
 ---
 
 # **凋死术** *Horrid wilting*

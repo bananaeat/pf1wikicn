@@ -2,10 +2,10 @@
 title: 流逝荣耀 Bleed glory
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 诅咒, 牧师/先知法术, 3环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:32:46.754Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 3环法术, 女巫法术, 死灵系, 诅咒
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:01:49.355Z
 ---
 
 # **流逝荣耀** *Bleed glory*

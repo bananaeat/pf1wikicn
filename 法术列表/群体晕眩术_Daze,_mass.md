@@ -2,10 +2,10 @@
 title: 群体晕眩术 Daze, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 4环法术, 审判者法术, 术士/法师法术, 召唤师法术, 女巫法术
+date: 2023-07-04T01:19:09.483Z
+tags: 法术, 术士/法师法术, 审判者法术, 召唤师法术, 惑控系, 胁迫, 影响心灵, 4环法术, 女巫法术, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:12:24.291Z
 ---
 
 # **群体晕眩术** *Daze, mass*

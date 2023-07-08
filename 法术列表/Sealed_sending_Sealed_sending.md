@@ -2,10 +2,10 @@
 title: Sealed sending Sealed sending
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 依赖语言, 术士/法师法术, 5环法术
+date: 2023-07-03T22:00:37.823Z
+tags: 法术, 咒法系, 术士/法师法术, 创造, 5环法术, 依赖语言
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:05:05.719Z
 ---
 
 # **Sealed sending** *Sealed sending*

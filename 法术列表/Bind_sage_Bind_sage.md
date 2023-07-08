@@ -2,10 +2,10 @@
 title: Bind sage Bind sage
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 呼唤, 术士/法师法术, 4环法术, 召唤师法术, 女巫法术, 5环法术, 萨满法术, 异能者法术, 秘学士法术, unchained 召唤师法术
+date: 2023-07-03T20:48:42.311Z
+tags: 法术, 咒法系, 术士/法师法术, 召唤师法术, 萨满法术, 5环法术, 4环法术, 女巫法术, 秘学士法术, unchained 召唤师法术, 异能者法术, 呼唤
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:18:56.978Z
 ---
 
 # **Bind sage** *Bind sage*

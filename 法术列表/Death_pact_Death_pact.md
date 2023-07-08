@@ -2,10 +2,10 @@
 title: Death pact Death pact
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 影响心灵, 吟游诗人法术, 5环法术, 女巫法术, 6环法术, 异能者法术, 催眠师法术
+date: 2023-07-03T21:04:59.820Z
+tags: 法术, 6环法术, 惑控系, 影响心灵, 5环法术, 女巫法术, 吟游诗人法术, 异能者法术, 催眠师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:28:24.700Z
 ---
 
 # **Death pact** *Death pact*

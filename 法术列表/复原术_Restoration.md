@@ -2,10 +2,10 @@
 title: 复原术 Restoration
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 医疗, 导师法术, 4环法术, 牧师/先知法术, 催眠师法术, 圣骑士法术, 萨满法术, 唤魂师法术
+date: 2023-07-03T23:21:57.108Z
+tags: 法术, 咒法系, 牧师/先知法术, 萨满法术, 4环法术, 催眠师法术, 唤魂师法术, 医疗, 导师法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:19:11.121Z
 ---
 
 # **复原术** *Restoration*

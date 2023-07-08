@@ -2,10 +2,10 @@
 title: 高等反震屏障 Stunning barrier, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 3环法术, 审判者法术, 圣骑士法术, 术士/法师法术
+date: 2023-07-04T02:11:25.134Z
+tags: 法术, 术士/法师法术, 审判者法术, 牧师/先知法术, 3环法术, 防护系, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:45:09.340Z
 ---
 
 # **高等反震屏障** *Stunning barrier, greater*

@@ -2,10 +2,10 @@
 title: 快速挖掘 Expeditious excavation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 土, 德鲁伊法术, 1环法术, 术士/法师法术
+date: 2023-07-03T23:44:36.330Z
+tags: 法术, 术士/法师法术, 1环法术, 德鲁伊法术, 变化系, 土
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:51:10.215Z
 ---
 
 # **快速挖掘** *Expeditious excavation*

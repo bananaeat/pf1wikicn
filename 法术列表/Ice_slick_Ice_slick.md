@@ -2,10 +2,10 @@
 title: Ice slick Ice slick
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 寒冷, 术士/法师法术, 2环法术, 德鲁伊法术, 游侠法术, 女巫法术, 魔战士法术, 猎人法术
+date: 2023-07-03T21:28:32.860Z
+tags: 2环法术, 法术, 术士/法师法术, 魔战士法术, 游侠法术, 女巫法术, 猎人法术, 德鲁伊法术, 塑能系, 寒冷
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:43:02.438Z
 ---
 
 # **Ice slick** *Ice slick*

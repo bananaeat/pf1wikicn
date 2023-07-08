@@ -2,10 +2,10 @@
 title: 残痕显影术 Residual tracking
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 游侠法术, 1环法术
+date: 2023-07-04T00:23:35.011Z
+tags: 法术, 游侠法术, 1环法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:46:54.234Z
 ---
 
 # **残痕显影术** *Residual tracking*

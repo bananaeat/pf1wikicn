@@ -2,10 +2,10 @@
 title: Vacuous vessel Vacuous vessel
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 五官幻觉, 术士/法师法术, 戏法/祷念, 吟游诗人法术
+date: 2023-07-03T22:26:33.201Z
+tags: 法术, 术士/法师法术, 吟游诗人法术, 幻术系, 五官幻觉, 戏法/祷念
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:21:39.438Z
 ---
 
 # **Vacuous vessel** *Vacuous vessel*

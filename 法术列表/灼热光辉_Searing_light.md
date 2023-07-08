@@ -2,10 +2,10 @@
 title: 灼热光辉 Searing light
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 牧师/先知法术, 3环法术, 审判者法术, 荣耀领域, 太阳领域
+date: 2023-07-04T00:42:36.925Z
+tags: 法术, 审判者法术, 牧师/先知法术, 3环法术, 塑能系, 荣耀领域, 太阳领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:17:14.119Z
 ---
 
 # **灼热光辉** *Searing light*

@@ -2,10 +2,10 @@
 title: 扰神唤音 Cacophonous call
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 2环法术
+date: 2023-07-03T23:55:33.897Z
+tags: 2环法术, 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:07:02.031Z
 ---
 
 # **扰神唤音** *Cacophonous call*

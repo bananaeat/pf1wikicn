@@ -2,10 +2,10 @@
 title: 操控植物 Control plants
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 德鲁伊法术, 8环法术, 植物领域
+date: 2023-07-04T00:02:14.125Z
+tags: 法术, 德鲁伊法术, 变化系, 8环法术, 植物领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:16:13.913Z
 ---
 
 # **操控植物** *Control plants*

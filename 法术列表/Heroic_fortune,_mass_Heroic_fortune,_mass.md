@@ -2,10 +2,10 @@
 title: Heroic fortune, mass Heroic fortune, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 牧师/先知法术, 5环法术, 吟游诗人法术, 4环法术
+date: 2023-07-03T21:25:39.419Z
+tags: 法术, 牧师/先知法术, 5环法术, 4环法术, 吟游诗人法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:41:08.688Z
 ---
 
 # **Heroic fortune, mass** *Heroic fortune, mass*

@@ -2,10 +2,10 @@
 title: Inflict pain, mass Inflict pain, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, mind-affecting, pain, 术士/法师法术, 7环法术, 女巫法术, 审判者法术, 5环法术, 反圣武士法术, 4环法术, 异能者法术, 6环法术, 通灵者法术, 催眠师法术, 秘学士法术, 唤魂师法术
+date: 2023-07-03T21:30:38.344Z
+tags: 法术, 术士/法师法术, 6环法术, 审判者法术, 惑控系, 5环法术, 4环法术, 女巫法术, 秘学士法术, 异能者法术, 催眠师法术, 通灵者法术, 唤魂师法术, 反圣武士法术, mind-affecting, 7环法术, pain
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:44:29.885Z
 ---
 
 # **Inflict pain, mass** *Inflict pain, mass*

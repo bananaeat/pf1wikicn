@@ -2,10 +2,10 @@
 title: 安抚魂魄 Calm spirit
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 牧师/先知法术, 2环法术, 通灵者法术, 1环法术, 萨满法术, 唤魂师法术
+date: 2023-07-03T23:26:24.531Z
+tags: 2环法术, 法术, 牧师/先知法术, 萨满法术, 1环法术, 通灵者法术, 唤魂师法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:25:11.359Z
 ---
 
 # **安抚魂魄** *Calm spirit*

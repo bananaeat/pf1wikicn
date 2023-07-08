@@ -2,10 +2,10 @@
 title: Guardian monument, greater Guardian monument, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 术士/法师法术, 5环法术, 吟游诗人法术, 女巫法术, 审判者法术, 异能者法术, 秘学士法术
+date: 2023-07-03T21:22:36.810Z
+tags: 法术, 术士/法师法术, 审判者法术, 5环法术, 女巫法术, 秘学士法术, 吟游诗人法术, 防护系, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:39:14.223Z
 ---
 
 # **Guardian monument, greater** *Guardian monument, greater*

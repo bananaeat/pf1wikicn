@@ -2,10 +2,10 @@
 title: 复仇圣炎 Fire of vengeance
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 圣骑士法术, 4环法术
+date: 2023-07-03T23:21:22.253Z
+tags: 法术, 4环法术, 塑能系, 火, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:18:22.732Z
 ---
 
 # **复仇圣炎** *Fire of vengeance*

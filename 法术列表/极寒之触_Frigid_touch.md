@@ -2,10 +2,10 @@
 title: 极寒之触 Frigid touch
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 寒冷, 德鲁伊法术, 2环法术, 魔战士法术, 术士/法师法术
+date: 2023-07-04T00:13:15.970Z
+tags: 2环法术, 法术, 术士/法师法术, 魔战士法术, 德鲁伊法术, 塑能系, 寒冷
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:31:29.199Z
 ---
 
 # **极寒之触** *Frigid touch*

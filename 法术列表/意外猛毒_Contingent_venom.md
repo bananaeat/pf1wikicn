@@ -2,10 +2,10 @@
 title: 意外猛毒 Contingent venom
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 毒素, 萨满法术, 4环法术, 术士/法师法术
+date: 2023-07-03T23:51:04.652Z
+tags: 法术, 术士/法师法术, 萨满法术, 4环法术, 死灵系, 毒素
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:00:01.436Z
 ---
 
 # **意外猛毒** *Contingent venom*

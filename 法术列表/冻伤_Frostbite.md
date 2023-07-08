@@ -2,10 +2,10 @@
 title: 冻伤 Frostbite
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 寒冷, 德鲁伊法术, 1环法术, 魔战士法术, 女巫法术
+date: 2023-07-03T22:51:20.459Z
+tags: 法术, 魔战士法术, 女巫法术, 1环法术, 德鲁伊法术, 变化系, 寒冷
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:37:40.561Z
 ---
 
 # **冻伤** *Frostbite*

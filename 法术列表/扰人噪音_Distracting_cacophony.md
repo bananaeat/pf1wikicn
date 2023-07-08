@@ -2,10 +2,10 @@
 title: 扰人噪音 Distracting cacophony
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 吟游诗人法术, 2环法术, 术士/法师法术, 3环法术
+date: 2023-07-03T23:55:26.973Z
+tags: 2环法术, 法术, 术士/法师法术, 3环法术, 吟游诗人法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:06:51.194Z
 ---
 
 # **扰人噪音** *Distracting cacophony*

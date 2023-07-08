@@ -2,10 +2,10 @@
 title: 挑战邪恶 Challenge evil
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 圣骑士法术, 1环法术
+date: 2023-07-03T23:58:23.337Z
+tags: 法术, 惑控系, 胁迫, 影响心灵, 1环法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:11:10.584Z
 ---
 
 # **挑战邪恶** *Challenge evil*

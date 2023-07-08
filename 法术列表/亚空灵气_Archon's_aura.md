@@ -2,10 +2,10 @@
 title: 亚空灵气 Archon's aura
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 善良，秩序, 牧师/先知法术, 3环法术, 圣骑士法术
+date: 2023-07-03T22:33:14.557Z
+tags: 法术, 牧师/先知法术, 3环法术, 塑能系, 圣骑士法术, 善良，秩序
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:26:09.075Z
 ---
 
 # **亚空灵气** *Archon's aura*

@@ -2,10 +2,10 @@
 title: 高等魔牙术 Magic fang, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 德鲁伊法术, 3环法术, 猎人法术, 游侠法术, 唤魂师法术, 召唤师法术, unchained 召唤师法术, Scalykind, Cannibalism, Fist
+date: 2023-07-04T02:14:01.403Z
+tags: 法术, 召唤师法术, 游侠法术, 3环法术, 猎人法术, unchained 召唤师法术, 德鲁伊法术, 变化系, 唤魂师法术, fist, scalykind, cannibalism
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:54:42.347Z
 ---
 
 # **高等魔牙术** *Magic fang, greater*

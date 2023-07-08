@@ -2,10 +2,10 @@
 title: 解锢术 Freedom
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 灵能者法术, 9环法术, 术士/法师法术, 解放领域
+date: 2023-07-04T01:41:17.858Z
+tags: 法术, 术士/法师法术, 防护系, 9环法术, 灵能者法术, 解放领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:44:54.543Z
 ---
 
 # **解锢术** *Freedom*

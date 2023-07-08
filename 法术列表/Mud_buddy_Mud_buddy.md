@@ -2,10 +2,10 @@
 title: Mud buddy Mud buddy
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 术士/法师法术, 2环法术, 德鲁伊法术, 女巫法术, 猎人法术
+date: 2023-07-03T21:42:17.809Z
+tags: 2环法术, 法术, 咒法系, 术士/法师法术, 创造, 女巫法术, 猎人法术, 德鲁伊法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:53:02.575Z
 ---
 
 # **Mud buddy** *Mud buddy*

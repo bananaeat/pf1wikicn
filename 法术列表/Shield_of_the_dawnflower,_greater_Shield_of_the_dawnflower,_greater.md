@@ -2,10 +2,10 @@
 title: Shield of the dawnflower, greater Shield of the dawnflower, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, fire, good, light, 牧师/先知法术, 6环法术, 吟游诗人法术, 魔战士法术
+date: 2023-07-03T22:06:13.550Z
+tags: 法术, 魔战士法术, 6环法术, 牧师/先知法术, 吟游诗人法术, 塑能系, good, light, fire
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:08:26.220Z
 ---
 
 # **Shield of the dawnflower, greater** *Shield of the dawnflower, greater*

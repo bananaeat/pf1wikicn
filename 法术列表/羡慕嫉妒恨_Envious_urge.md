@@ -2,10 +2,10 @@
 title: 羡慕嫉妒恨 Envious urge
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 情绪，影响心灵, 吟游诗人法术, 4环法术, 术士/法师法术, 6环法术
+date: 2023-07-04T01:17:27.087Z
+tags: 法术, 术士/法师法术, 6环法术, 惑控系, 胁迫, 4环法术, 吟游诗人法术, 情绪，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:09:49.727Z
 ---
 
 # **羡慕嫉妒恨** *Envious urge*

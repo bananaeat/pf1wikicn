@@ -2,10 +2,10 @@
 title: 护卫他人 Shield other
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 2环法术, 审判者法术, 圣骑士法术, 异能者法术, 团队领域, 保护领域, Friendship, 殉难子域
+date: 2023-07-03T23:56:05.723Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 防护系, 异能者法术, 圣骑士法术, 保护领域, 团队领域, friendship, 殉难子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:07:47.889Z
 ---
 
 # **护卫他人** *Shield other*

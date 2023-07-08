@@ -2,10 +2,10 @@
 title: 地形联结 Terrain bond
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-03T23:18:41.212Z
 tags: 法术, 惑控系, 胁迫, 影响心灵, 游侠法术, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:14:51.675Z
 ---
 
 # **地形联结** *Terrain bond*

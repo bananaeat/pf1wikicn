@@ -2,10 +2,10 @@
 title: Blood song Blood song
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 吟游诗人法术, 4环法术
+date: 2023-07-03T20:51:35.813Z
+tags: 法术, 4环法术, 吟游诗人法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:20:25.071Z
 ---
 
 # **Blood song** *Blood song*

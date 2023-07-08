@@ -2,10 +2,10 @@
 title: 群体造成轻伤 Inflict light wounds, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 牧师/先知法术, 5环法术, 审判者法术, 秘学士法术, 萨满法术, 女巫法术, 6环法术
+date: 2023-07-04T01:21:42.208Z
+tags: 法术, 6环法术, 审判者法术, 牧师/先知法术, 萨满法术, 5环法术, 女巫法术, 秘学士法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:15:56.820Z
 ---
 
 # **群体造成轻伤** *Inflict light wounds, mass*

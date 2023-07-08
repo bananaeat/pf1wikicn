@@ -2,10 +2,10 @@
 title: Debilitating pain, mass Debilitating pain, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, mind-affecting, pain, 女巫法术, 5环法术, 异能者法术
+date: 2023-07-03T21:05:20.438Z
+tags: 法术, 惑控系, 胁迫, 5环法术, 女巫法术, 异能者法术, mind-affecting, pain
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:28:36.274Z
 ---
 
 # **Debilitating pain, mass** *Debilitating pain, mass*

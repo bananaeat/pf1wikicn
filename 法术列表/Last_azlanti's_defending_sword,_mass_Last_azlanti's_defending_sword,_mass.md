@@ -2,10 +2,10 @@
 title: Last azlanti's defending sword, mass Last azlanti's defending sword, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 术士/法师法术, 9环法术
+date: 2023-07-03T21:35:26.413Z
+tags: 法术, 术士/法师法术, 力场, 9环法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:47:51.519Z
 ---
 
 # **Last azlanti's defending sword, mass** *Last azlanti's defending sword, mass*

@@ -2,10 +2,10 @@
 title: 知识之耳语 Whispering lore
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 牧师/先知法术, 2环法术, 德鲁伊法术, 1环法术, 游侠法术, 女巫法术
+date: 2023-07-04T00:58:23.337Z
+tags: 2环法术, 法术, 牧师/先知法术, 游侠法术, 女巫法术, 1环法术, 德鲁伊法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:40:55.299Z
 ---
 
 # **知识之耳语** *Whispering lore*

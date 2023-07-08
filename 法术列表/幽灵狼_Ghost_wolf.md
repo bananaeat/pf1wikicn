@@ -2,10 +2,10 @@
 title: 幽灵狼 Ghost wolf
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 术士/法师法术, 4环法术, 召唤师法术, 2环法术
+date: 2023-07-03T23:34:23.020Z
+tags: 2环法术, 法术, 咒法系, 术士/法师法术, 召唤师法术, 创造, 4环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:36:16.926Z
 ---
 
 # **幽灵狼** *Ghost wolf*

@@ -2,10 +2,10 @@
 title: Possession trap Possession trap
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 5环法术, 女巫法术
+date: 2023-07-03T21:51:06.647Z
+tags: 法术, 术士/法师法术, 5环法术, 女巫法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:58:45.924Z
 ---
 
 # **Possession trap** *Possession trap*

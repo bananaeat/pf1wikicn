@@ -2,10 +2,10 @@
 title: 音鸣爆 Sound burst
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 吟游诗人法术, 2环法术, 牧师/先知法术, 秘学士法术
+date: 2023-07-04T02:08:40.746Z
+tags: 2环法术, 法术, 牧师/先知法术, 秘学士法术, 吟游诗人法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:35:30.681Z
 ---
 
 # **音鸣爆** *Sound burst*

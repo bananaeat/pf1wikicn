@@ -2,10 +2,10 @@
 title: 心灵遥控 Telekinesis
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 魔战士法术, 5环法术, 秘学士法术, 异能者法术, 4环法术, 术士/法师法术, 唤魂师法术
+date: 2023-07-03T23:43:39.769Z
+tags: 法术, 术士/法师法术, 魔战士法术, 5环法术, 4环法术, 秘学士法术, 变化系, 异能者法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:49:22.907Z
 ---
 
 # **心灵遥控** *Telekinesis*

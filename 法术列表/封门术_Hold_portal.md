@@ -2,10 +2,10 @@
 title: 封门术 Hold portal
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 秘学士法术, 1环法术, 异能者法术, 术士/法师法术
+date: 2023-07-03T23:28:49.530Z
+tags: 法术, 术士/法师法术, 秘学士法术, 1环法术, 防护系, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:28:34.302Z
 ---
 
 # **封门术** *Hold portal*

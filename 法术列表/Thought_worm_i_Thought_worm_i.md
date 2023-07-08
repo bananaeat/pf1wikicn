@@ -2,10 +2,10 @@
 title: Thought worm i Thought worm i
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 异能者法术, 2环法术
+date: 2023-07-03T22:21:08.495Z
+tags: 2环法术, 法术, 惑控系, 胁迫, 影响心灵, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:17:58.908Z
 ---
 
 # **Thought worm i** *Thought worm i*

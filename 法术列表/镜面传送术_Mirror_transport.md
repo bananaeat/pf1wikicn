@@ -2,10 +2,10 @@
 title: 镜面传送术 Mirror transport
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 4环法术, 女巫法术
+date: 2023-07-04T02:01:08.985Z
+tags: 法术, 术士/法师法术, 4环法术, 女巫法术, 变化系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:16:24.002Z
 ---
 
 # **镜面传送术** *Mirror transport*

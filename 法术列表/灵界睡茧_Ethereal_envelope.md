@@ -2,10 +2,10 @@
 title: 灵界睡茧 Ethereal envelope
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 传送, 异能者法术, 5环法术, 唤魂师法术, 4环法术
+date: 2023-07-04T00:41:26.917Z
+tags: 法术, 咒法系, 5环法术, 4环法术, 异能者法术, 唤魂师法术, 传送
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:15:25.309Z
 ---
 
 # **灵界睡茧** *Ethereal envelope*

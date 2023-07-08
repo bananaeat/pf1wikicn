@@ -2,10 +2,10 @@
 title: 群体祥瑞之助 Blessing of luck and resolve, mass
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 牧师/先知法术, 6环法术, 审判者法术, 圣骑士法术, 4环法术
+date: 2023-07-04T01:20:53.864Z
+tags: 法术, 6环法术, 审判者法术, 牧师/先知法术, 惑控系, 胁迫, 影响心灵, 4环法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:14:48.419Z
 ---
 
 # **群体祥瑞之助** *Blessing of luck and resolve, mass*

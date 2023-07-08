@@ -2,10 +2,10 @@
 title: 灵能武器 Spiritual weapon
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 牧师/先知法术, 2环法术, 审判者法术, 通灵者法术, 萨满法术, 唤魂师法术, 战争领域
+date: 2023-07-04T00:41:33.988Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 萨满法术, 力场, 通灵者法术, 唤魂师法术, 塑能系, 战争领域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:15:36.196Z
 ---
 
 # **灵能武器** *Spiritual weapon*

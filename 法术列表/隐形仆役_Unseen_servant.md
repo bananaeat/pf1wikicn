@@ -2,10 +2,10 @@
 title: 隐形仆役 Unseen servant
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 吟游诗人法术, 1环法术, 魔战士法术, 通灵者法术, 催眠师法术, 秘学士法术, 异能者法术, 术士/法师法术, 唤魂师法术, 召唤师法术, unchained 召唤师法术, 女巫法术
+date: 2023-07-04T02:06:34.183Z
+tags: 法术, 咒法系, 术士/法师法术, 魔战士法术, 召唤师法术, 创造, 女巫法术, 秘学士法术, unchained 召唤师法术, 1环法术, 吟游诗人法术, 异能者法术, 催眠师法术, 通灵者法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:27:58.619Z
 ---
 
 # **隐形仆役** *Unseen servant*

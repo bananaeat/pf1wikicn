@@ -2,10 +2,10 @@
 title: 生命暴发 Life blast
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 德鲁伊法术, 4环法术, 游侠法术, 3环法术, 猎人法术, 萨满法术
+date: 2023-07-04T00:53:17.870Z
+tags: 法术, 萨满法术, 游侠法术, 3环法术, 4环法术, 猎人法术, 德鲁伊法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:33:04.330Z
 ---
 
 # **生命暴发** *Life blast*

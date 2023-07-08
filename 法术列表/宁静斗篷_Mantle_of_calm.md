@@ -2,10 +2,10 @@
 title: 宁静斗篷 Mantle of calm
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 情绪，影响心灵, 牧师/先知法术, 3环法术, 审判者法术, 圣骑士法术, 萨满法术
+date: 2023-07-03T23:25:29.218Z
+tags: 法术, 审判者法术, 牧师/先知法术, 萨满法术, 惑控系, 胁迫, 3环法术, 圣骑士法术, 情绪，影响心灵
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:23:51.050Z
 ---
 
 # **宁静斗篷** *Mantle of calm*

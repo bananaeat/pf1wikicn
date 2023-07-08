@@ -2,10 +2,10 @@
 title: Embrace destiny Embrace destiny
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 术士/法师法术, 2环法术, 女巫法术
+date: 2023-07-03T21:11:45.361Z
+tags: 2环法术, 法术, 术士/法师法术, 女巫法术, 预言系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:32:27.056Z
 ---
 
 # **Embrace destiny** *Embrace destiny*

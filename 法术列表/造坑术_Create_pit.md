@@ -2,10 +2,10 @@
 title: 造坑术 Create pit
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 术士/法师法术, 2环法术, 召唤师法术
+date: 2023-07-04T01:53:02.927Z
+tags: 2环法术, 法术, 咒法系, 术士/法师法术, 召唤师法术, 创造
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:03:00.011Z
 ---
 
 # **造坑术** *Create pit*

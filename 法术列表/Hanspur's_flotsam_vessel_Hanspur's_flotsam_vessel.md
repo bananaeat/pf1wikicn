@@ -2,10 +2,10 @@
 title: Hanspur's flotsam vessel Hanspur's flotsam vessel
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 牧师/先知法术, 2环法术, 德鲁伊法术, 游侠法术, 1环法术, 召唤师法术, 猎人法术, unchained 召唤师法术
+date: 2023-07-03T21:23:33.903Z
+tags: 2环法术, 法术, 咒法系, 召唤师法术, 创造, 牧师/先知法术, 游侠法术, 猎人法术, unchained 召唤师法术, 1环法术, 德鲁伊法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:39:50.185Z
 ---
 
 # **Hanspur's flotsam vessel** *Hanspur's flotsam vessel*

@@ -2,10 +2,10 @@
 title: 强记术 Mnemonic enhancer
 description: 
 published: true
-date: 2023-07-03 21:37:18
+date: 2023-07-03T23:39:39.650Z
 tags: 法术, 变化系, 自身
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:43:39.391Z
 ---
 
 # **强记术** *Mnemonic enhancer*

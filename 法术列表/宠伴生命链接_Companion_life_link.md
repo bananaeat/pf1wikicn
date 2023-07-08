@@ -2,10 +2,10 @@
 title: 宠伴生命链接 Companion life link
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 德鲁伊法术, 2环法术, 游侠法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T23:27:20.953Z
+tags: 2环法术, 法术, 术士/法师法术, 游侠法术, 女巫法术, 德鲁伊法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T21:26:28.685Z
 ---
 
 # **宠伴生命链接** *Companion life link*

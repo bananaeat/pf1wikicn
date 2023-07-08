@@ -2,10 +2,10 @@
 title: Wall of bone Wall of bone
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 4环法术, 牧师/先知法术, 反圣武士法术, 血脉狂怒者法术, 异能者法术, 唤魂师法术
+date: 2023-07-03T22:27:34.056Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 牧师/先知法术, 4环法术, 异能者法术, 唤魂师法术, 反圣武士法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:22:19.987Z
 ---
 
 # **Wall of bone** *Wall of bone*

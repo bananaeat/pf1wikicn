@@ -2,10 +2,10 @@
 title: 打击死灵 Disrupt undead
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 审判者法术, 戏法/祷念, 魔战士法术, 术士/法师法术
+date: 2023-07-03T23:54:47.707Z
+tags: 法术, 术士/法师法术, 魔战士法术, 审判者法术, 死灵系, 戏法/祷念
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:05:53.583Z
 ---
 
 # **打击死灵** *Disrupt undead*

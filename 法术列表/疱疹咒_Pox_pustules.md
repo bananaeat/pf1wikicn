@@ -2,10 +2,10 @@
 title: 疱疹咒 Pox pustules
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 疾病, 德鲁伊法术, 2环法术, 女巫法术
+date: 2023-07-04T00:55:19.475Z
+tags: 2环法术, 法术, 女巫法术, 德鲁伊法术, 死灵系, 疾病
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:36:11.763Z
 ---
 
 # **疱疹咒** *Pox pustules*

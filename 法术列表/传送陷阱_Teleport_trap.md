@@ -2,10 +2,10 @@
 title: 传送陷阱 Teleport trap
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 术士/法师法术, 7环法术, Trap
+date: 2023-07-03T22:36:15.924Z
+tags: 法术, 术士/法师法术, 防护系, 7环法术, trap
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:28:15.267Z
 ---
 
 # **传送陷阱** *Teleport trap*

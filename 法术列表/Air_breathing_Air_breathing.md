@@ -2,10 +2,10 @@
 title: Air breathing Air breathing
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 术士/法师法术, 3环法术, 牧师/先知法术, 德鲁伊法术, 炼金术师法术, 召唤师法术, 魔战士法术, 血脉狂怒者法术, 萨满法术, 异能者法术, 猎人法术, unchained 召唤师法术
+date: 2023-07-03T20:40:50.602Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 召唤师法术, 牧师/先知法术, 萨满法术, 3环法术, 猎人法术, unchained 召唤师法术, 德鲁伊法术, 变化系, 炼金术师法术, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:13:57.859Z
 ---
 
 # **Air breathing** *Air breathing*

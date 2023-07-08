@@ -2,10 +2,10 @@
 title: Spiritual squire Spiritual squire
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 力场, 牧师/先知法术, 2环法术, 圣武士法术, 审判者法术, 反圣武士法术, 萨满法术, 唤魂师法术
+date: 2023-07-03T22:11:15.365Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 萨满法术, 圣武士法术, 力场, 唤魂师法术, 反圣武士法术, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:11:35.080Z
 ---
 
 # **Spiritual squire** *Spiritual squire*

@@ -2,10 +2,10 @@
 title: 高等英雄气概 Heroism, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 吟游诗人法术, 5环法术, 异能者法术, 6环法术, 术士/法师法术, 唤魂师法术, 召唤师法术, unchained 召唤师法术, 女巫法术, Competition, 英勇子域
+date: 2023-07-04T02:13:13.070Z
+tags: 法术, 术士/法师法术, 6环法术, 召唤师法术, 惑控系, 胁迫, 影响心灵, 5环法术, 女巫法术, unchained 召唤师法术, 吟游诗人法术, 异能者法术, 唤魂师法术, 英勇子域, competition
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:51:57.383Z
 ---
 
 # **高等英雄气概** *Heroism, greater*

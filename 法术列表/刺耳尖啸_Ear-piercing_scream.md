@@ -2,10 +2,10 @@
 title: 刺耳尖啸 Ear-piercing scream
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 吟游诗人法术, 1环法术, 审判者法术, 术士/法师法术, 女巫法术
+date: 2023-07-03T22:54:11.878Z
+tags: 法术, 术士/法师法术, 审判者法术, 女巫法术, 1环法术, 吟游诗人法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:40:21.572Z
 ---
 
 # **刺耳尖啸** *Ear-piercing scream*

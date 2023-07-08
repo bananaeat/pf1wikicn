@@ -2,10 +2,10 @@
 title: 摄魂徽记 Symbol of insanity
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 牧师/先知法术, 8环法术, 秘学士法术, 6环法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T00:01:47.748Z
+tags: 法术, 术士/法师法术, 6环法术, 牧师/先知法术, 惑控系, 胁迫, 影响心灵, 女巫法术, 秘学士法术, 8环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:15:41.538Z
 ---
 
 # **摄魂徽记** *Symbol of insanity*

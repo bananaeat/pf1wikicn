@@ -2,10 +2,10 @@
 title: Open the dead roads Open the dead roads
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 牧师/先知法术, 6环法术
+date: 2023-07-03T21:45:37.787Z
+tags: 法术, 咒法系, 6环法术, 牧师/先知法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:55:21.028Z
 ---
 
 # **Open the dead roads** *Open the dead roads*

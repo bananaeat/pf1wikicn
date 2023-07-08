@@ -2,10 +2,10 @@
 title: Orchid's drop Orchid's drop
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 3环法术
+date: 2023-07-03T21:45:51.430Z
+tags: 法术, 3环法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:55:30.099Z
 ---
 
 # **Orchid's drop** *Orchid's drop*

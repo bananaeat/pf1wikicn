@@ -2,10 +2,10 @@
 title: 共振术 Sympathetic vibration
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 音波, 吟游诗人法术, 6环法术
+date: 2023-07-03T22:44:50.903Z
+tags: 法术, 6环法术, 吟游诗人法术, 塑能系, 音波
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:33:49.081Z
 ---
 
 # **共振术** *Sympathetic vibration*

@@ -2,10 +2,10 @@
 title: 犯罪信标 Beacon of guilt
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 诅咒, 吟游诗人法术, 2环法术, 审判者法术, 秘学士法术, 术士/法师法术
+date: 2023-07-04T00:48:33.992Z
+tags: 2环法术, 法术, 术士/法师法术, 审判者法术, 秘学士法术, 吟游诗人法术, 诅咒, 塑能系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:26:30.477Z
 ---
 
 # **犯罪信标** *Beacon of guilt*

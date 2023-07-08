@@ -2,10 +2,10 @@
 title: 极度绝望 Crushing despair
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 惑控系, 胁迫, 影响心灵, 情绪, 吟游诗人法术, 3环法术, 血脉狂怒者法术, 4环法术, 催眠师法术, 异能者法术, 术士/法师法术, 唤魂师法术, 女巫法术, Isolation
+date: 2023-07-04T00:13:29.776Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 惑控系, 胁迫, 影响心灵, 3环法术, 4环法术, 女巫法术, 吟游诗人法术, 异能者法术, 催眠师法术, 唤魂师法术, 情绪, isolation
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:31:49.336Z
 ---
 
 # **极度绝望** *Crushing despair*

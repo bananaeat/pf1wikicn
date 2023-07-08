@@ -2,10 +2,10 @@
 title: Stoke the inner fire Stoke the inner fire
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 火, 牧师/先知法术, 2环法术, 审判者法术
+date: 2023-07-03T22:12:50.995Z
+tags: 2环法术, 法术, 审判者法术, 牧师/先知法术, 变化系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:12:37.079Z
 ---
 
 # **Stoke the inner fire** *Stoke the inner fire*

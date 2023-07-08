@@ -2,10 +2,10 @@
 title: 视野祷言 Litany of sight
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 预言系, 反圣武士法术, 3环法术, 审判者法术, 4环法术, 圣骑士法术
+date: 2023-07-04T01:40:55.481Z
+tags: 法术, 审判者法术, 3环法术, 4环法术, 预言系, 反圣武士法术, 圣骑士法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:44:19.869Z
 ---
 
 # **视野祷言** *Litany of sight*

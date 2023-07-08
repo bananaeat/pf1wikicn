@@ -2,10 +2,10 @@
 title: 次级星界投射 Astral projection, lesser
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 牧师/先知法术, 5环法术, 术士/法师法术
+date: 2023-07-04T00:19:57.367Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 5环法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:41:30.232Z
 ---
 
 # **次级星界投射** *Astral projection, lesser*

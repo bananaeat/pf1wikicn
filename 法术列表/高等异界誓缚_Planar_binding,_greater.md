@@ -2,10 +2,10 @@
 title: 高等异界誓缚 Planar binding, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 呼唤, 见次等异界誓缚的描述, 灵能者法术, 8环法术, 术士/法师法术, 召唤师法术, 6环法术, unchained 召唤师法术, Void
+date: 2023-07-04T02:12:15.241Z
+tags: 法术, 咒法系, 术士/法师法术, 6环法术, 召唤师法术, unchained 召唤师法术, 8环法术, 呼唤, 灵能者法术, void, 见次等异界誓缚的描述
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:48:07.407Z
 ---
 
 # **高等异界誓缚** *Planar binding, greater*

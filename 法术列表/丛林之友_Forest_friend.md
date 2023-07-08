@@ -2,10 +2,10 @@
 title: 丛林之友 Forest friend
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 德鲁伊法术, 2环法术, 游侠法术
+date: 2023-07-03T22:31:30.937Z
+tags: 2环法术, 法术, 游侠法术, 德鲁伊法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:24:51.566Z
 ---
 
 # **丛林之友** *Forest friend*

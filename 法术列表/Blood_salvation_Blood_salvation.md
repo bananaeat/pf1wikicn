@@ -2,10 +2,10 @@
 title: Blood salvation Blood salvation
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 血脉狂怒者法术, 3环法术
+date: 2023-07-03T20:51:29.060Z
+tags: 法术, 血脉狂怒者法术, 3环法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:20:21.183Z
 ---
 
 # **Blood salvation** *Blood salvation*

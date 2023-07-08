@@ -2,10 +2,10 @@
 title: 酸液爆发 Caustic eruption
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 酸, 术士/法师法术, 7环法术
+date: 2023-07-04T01:56:21.146Z
+tags: 法术, 酸, 咒法系, 术士/法师法术, 创造, 7环法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T01:08:25.859Z
 ---
 
 # **酸液爆发** *Caustic eruption*

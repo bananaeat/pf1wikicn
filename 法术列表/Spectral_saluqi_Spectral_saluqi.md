@@ -2,10 +2,10 @@
 title: Spectral saluqi Spectral saluqi
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 6环法术, 女巫法术
+date: 2023-07-03T22:09:31.986Z
+tags: 法术, 术士/法师法术, 6环法术, 女巫法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:10:29.301Z
 ---
 
 # **Spectral saluqi** *Spectral saluqi*

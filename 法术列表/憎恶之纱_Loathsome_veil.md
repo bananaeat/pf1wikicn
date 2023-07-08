@@ -2,10 +2,10 @@
 title: 憎恶之纱 Loathsome veil
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 心灵幻觉, 影响心灵, 术士/法师法术, 3环法术, 女巫法术
+date: 2023-07-03T23:53:19.712Z
+tags: 法术, 术士/法师法术, 影响心灵, 3环法术, 女巫法术, 幻术系, 心灵幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:03:41.475Z
 ---
 
 # **憎恶之纱** *Loathsome veil*

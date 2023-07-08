@@ -2,10 +2,10 @@
 title: Transmute golem Transmute golem
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 变形, 术士/法师法术, 9环法术, 炼金术师法术, 6环法术
+date: 2023-07-03T22:23:24.789Z
+tags: 法术, 术士/法师法术, 6环法术, 变化系, 炼金术师法术, 9环法术, 变形
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:19:34.082Z
 ---
 
 # **Transmute golem** *Transmute golem*

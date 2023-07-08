@@ -2,10 +2,10 @@
 title: 缚魂术 Soul bind
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 牧师/先知法术, 9环法术, 异能者法术, 萨满法术, 术士/法师法术, 女巫法术
+date: 2023-07-04T01:16:48.139Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 萨满法术, 女巫法术, 异能者法术, 9环法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:08:51.803Z
 ---
 
 # **缚魂术** *Soul bind*

@@ -2,10 +2,10 @@
 title: 掷弹手之眼 Bomber's eye
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 炼金术师法术, 1环法术
+date: 2023-07-04T00:00:56.860Z
+tags: 法术, 1环法术, 变化系, 炼金术师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:14:37.093Z
 ---
 
 # **掷弹手之眼** *Bomber's eye*

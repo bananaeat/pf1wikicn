@@ -2,10 +2,10 @@
 title: 解离术 Disintegrate
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 魔战士法术, 6环法术, 秘学士法术, 异能者法术, 术士/法师法术, 唤魂师法术, 毁灭领域, 灰烬子域
+date: 2023-07-04T01:41:10.989Z
+tags: 法术, 术士/法师法术, 魔战士法术, 6环法术, 秘学士法术, 变化系, 异能者法术, 唤魂师法术, 毁灭领域, 灰烬子域
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:44:42.841Z
 ---
 
 # **解离术** *Disintegrate*

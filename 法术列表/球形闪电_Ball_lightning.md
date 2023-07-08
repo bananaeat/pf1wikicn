@@ -2,10 +2,10 @@
 title: 球形闪电 Ball lightning
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 气，闪电, 德鲁伊法术, 4环法术, 魔战士法术, 术士/法师法术
+date: 2023-07-04T00:52:35.274Z
+tags: 法术, 术士/法师法术, 魔战士法术, 4环法术, 德鲁伊法术, 塑能系, 气，闪电
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:31:56.032Z
 ---
 
 # **球形闪电** *Ball lightning*

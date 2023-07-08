@@ -2,10 +2,10 @@
 title: 目盲/耳聋之墙 Wall of blindness/deafness
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 死灵系, 术士/法师法术, 4环法术, 牧师/先知法术, 5环法术, 吟游诗人法术, 女巫法术, 异能者法术
+date: 2023-07-04T00:57:14.339Z
+tags: 法术, 术士/法师法术, 牧师/先知法术, 5环法术, 4环法术, 女巫法术, 吟游诗人法术, 异能者法术, 死灵系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:39:03.786Z
 ---
 
 # **目盲/耳聋之墙** *Wall of blindness/deafness*

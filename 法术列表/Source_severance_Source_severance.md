@@ -2,10 +2,10 @@
 title: Source severance Source severance
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 牧师/先知法术, 6环法术, 德鲁伊法术, 女巫法术, 猎人法术
+date: 2023-07-03T22:09:02.559Z
+tags: 法术, 6环法术, 牧师/先知法术, 女巫法术, 猎人法术, 德鲁伊法术, 防护系
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:10:10.179Z
 ---
 
 # **Source severance** *Source severance*

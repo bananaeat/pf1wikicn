@@ -2,10 +2,10 @@
 title: Root Root
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 变化系, 土, 术士/法师法术, 戏法/祷念
+date: 2023-07-03T21:57:28.151Z
+tags: 法术, 术士/法师法术, 变化系, 戏法/祷念, 土
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T20:03:08.120Z
 ---
 
 # **Root** *Root*

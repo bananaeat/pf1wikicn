@@ -2,10 +2,10 @@
 title: Instant summons, greater Instant summons, greater
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 召唤, 术士/法师法术, 8环法术, 女巫法术, 异能者法术
+date: 2023-07-03T21:31:56.158Z
+tags: 法术, 咒法系, 术士/法师法术, 女巫法术, 召唤, 8环法术, 异能者法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:45:23.526Z
 ---
 
 # **Instant summons, greater** *Instant summons, greater*

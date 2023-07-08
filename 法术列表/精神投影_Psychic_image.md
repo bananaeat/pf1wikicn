@@ -2,10 +2,10 @@
 title: 精神投影 Psychic image
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 幻术系, 幽影幻觉, 异能者法术, 9环法术
+date: 2023-07-04T01:13:47.956Z
+tags: 法术, 异能者法术, 9环法术, 幻术系, 幽影幻觉
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-04T00:04:19.135Z
 ---
 
 # **精神投影** *Psychic image*

@@ -2,10 +2,10 @@
 title: Absorbing Barrier
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 防护系, 炼金术士法术, 4环法术, 奥能师法术, 调查员法术, 法师/术士法术, 召唤师法术, unchained Summoner法术
+date: 2023-07-03T20:39:48.262Z
+tags: 法术, 奥能师法术, 召唤师法术, 炼金术士法术, 4环法术, 防护系, 调查员法术, 法师/术士法术, unchained summoner法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T19:12:43.873Z
 ---
 
 # **Absorbing Barrier** *Absorbing Barrier*

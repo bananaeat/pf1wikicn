@@ -2,10 +2,10 @@
 title: 烟火喷发 Pyrotechnic eruption
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 塑能系, 火, 血脉狂怒者法术, 3环法术, 魔战士法术, 4环法术, 秘学士法术, 术士/法师法术
+date: 2023-07-04T00:43:59.909Z
+tags: 法术, 术士/法师法术, 血脉狂怒者法术, 魔战士法术, 3环法术, 4环法术, 秘学士法术, 塑能系, 火
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T23:19:22.905Z
 ---
 
 # **烟火喷发** *Pyrotechnic eruption*

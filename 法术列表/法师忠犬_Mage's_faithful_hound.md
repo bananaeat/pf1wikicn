@@ -2,10 +2,10 @@
 title: 法师忠犬 Mage's faithful hound
 description: 
 published: true
-date: 2023-07-03 21:37:18
-tags: 法术, 咒法系, 创造, 术士/法师法术, 5环法术, 唤魂师法术, 召唤师法术, 4环法术, unchained 召唤师法术
+date: 2023-07-04T00:29:32.832Z
+tags: 法术, 咒法系, 术士/法师法术, 召唤师法术, 创造, 5环法术, 4环法术, unchained 召唤师法术, 唤魂师法术
 editor: markdown
-dateCreated: 2023-07-03 21:37:18
+dateCreated: 2023-07-03T22:56:41.505Z
 ---
 
 # **法师忠犬** *Mage's faithful hound*
