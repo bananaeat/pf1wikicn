@@ -1,8 +1,8 @@
 ---
-title: 狂暴攀手
+title: 狂暴攀手 Raging Climber
 description: 
 published: true
-date: 2023-07-10T23:04:35.197Z
+date: 2023-07-10T23:05:18.107Z
 tags: 狂暴之力, 特异能力
 editor: markdown
 dateCreated: 2023-07-08T22:26:05.079Z
