@@ -2,90 +2,86 @@
 title: 欢迎来到pf1中文维基！
 description: 
 published: true
-date: 2023-08-06T19:37:23.736Z
+date: 2023-08-06T19:38:41.129Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-22T00:04:36.799Z
 ---
 
-<h1 class="toc-header" id="欢迎来到pf1中文维基"> 欢迎来到PF1中文维基！</h1>
-<p>站点还在建设中，欢迎帮忙建设！
-目前还在早期阶段，点击右上角注册的新用户默认不拥有编辑权限。可以在苹果园私信香蕉 (bananaeat)，或者发邮件到pf1wikicn@gmail.com要一个编辑权限~</p>
-<br/>
-<p>目前正在施工：圣骑士，圣骑士变体职业，圣骑士誓言</p>
-<div class="ucontainer">
-  <div class="uitem">
-    <h2>基础规则</h2>
-    <p><a class="is-internal-link is-valid-page" href="/zh/属性值">属性值</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/阵营">阵营</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/状态">状态</a></p>
-    <h3>战斗规则</h3>
-    <p><a class="is-internal-link is-valid-page" href="/zh/核心规则/如何进行战斗">如何进行战斗</a>（战斗轮，先攻，突袭）</p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/核心规则/战斗中的数据计算">战斗中的数据计算</a>（攻击检定，攻击加值，防御等级，伤害，生命值，借机攻击，速度，豁免检定）</p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/核心规则/战斗中的动作">战斗中的动作</a>（标准动作，移动动作，整轮动作，自由动作，迅捷动作，直觉动作，其他动作）</p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/核心规则/伤害和死亡">伤害和死亡</a>（失去生命值，瘫痪，濒死，死亡，稳定和恢复，医疗，临时生命值，非致命伤害）</p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/核心规则/移动，位置和距离">移动，位置和距离</a> （战术移动，测定距离，穿越方格的移动，地形和障碍物，特殊移动规则）</p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/核心规则/不同体型生物的战斗">不同体型生物的战斗</a> （生物体型，占据和触及距离）</p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/核心规则/战斗修正">战斗修正</a> （掩蔽，隐蔽，夹击与无助）</p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/核心规则/特殊攻击">特殊攻击</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/核心规则/特殊先攻动作">特殊先攻动作</a></p>
-  </div>
-  <div class="uitem">
-    <h2><a class="is-internal-link is-valid-page" href="/zh/法术">魔法</a></h2>
-  		<p><a class="is-internal-link is-valid-page" href="/zh/法术按首字母排序">全法术，按英文首字母排序</a></p>
-			<p><a class="is-internal-link is-valid-page" href="/zh/法术按拼音首字母排序">全法术，按拼音首字母排序</a></p>
-  </div>
-  <div class="uitem">
-    <h2><a class="is-internal-link is-valid-page" href="/zh/种族">种族</a></h2>
-    <h3>核心种族</h3>
-    <a class="is-internal-link is-valid-page" href="/zh/种族/矮人">矮人</a> <a class="is-internal-link is-valid-page" href="/zh/种族/精灵">精灵</a>
-    <a class="is-internal-link is-valid-page" href="/zh/种族/侏儒">侏儒</a> <a class="is-internal-link is-valid-page" href="/zh/种族/半精灵">半精灵</a>
-    <a class="is-internal-link is-valid-page" href="/zh/种族/半身人">半身人</a> <a class="is-internal-link is-valid-page" href="/zh/种族/半兽人">半兽人</a>
-    <a class="is-internal-link is-valid-page" href="/zh/种族/人类">人类</a>
-  </div>
-  <div class="uitem">
-    <h2><a class="is-internal-link is-valid-page" href="/zh/技能">技能</a></h2>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/特技">特技</a> 
-    <a class="is-internal-link is-valid-page" href="/zh/技能/估价">估价</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/唬骗">唬骗</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/攀爬">攀爬</a> 
-    <a class="is-internal-link is-valid-page" href="/zh/技能/工艺">工艺</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/交涉">交涉</a> 
-    <a class="is-internal-link is-valid-page" href="/zh/技能/解除装置">解除装置</a> 
-    <a class="is-internal-link is-valid-page" href="/zh/技能/易容">易容</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/脱逃">脱逃</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/飞行">飞行</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/驯养动物">驯养动物</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/医疗">医疗</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/威吓">威吓</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/知识">知识</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/语言学">语言学</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/察觉">察觉</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/表演">表演</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/专业">专业</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/骑术">骑术</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/察言观色">察言观色</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/手上功夫">手上功夫</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/辨识法术">辨识法术</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/隐匿">隐匿</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/生存">生存</a>
-    <a class="is-internal-link is-valid-page" href="/zh/技能/游泳">游泳</a> 
-    <a class="is-internal-link is-valid-page" href="/zh/技能/使用魔法装置">使用魔法装置</a>
-  </div>
-  <div class="uitem">
-    <h2><a class="is-internal-link is-valid-page" href="/zh/职业">职业</a></h2>
-    <h3>核心职业</h3>
-    <p><a class="is-internal-link is-valid-page" href="/zh/野蛮人">野蛮人</a>【<a class="is-internal-link is-valid-page" href="/zh/狂暴之力">狂暴之力</a>】【<a class="is-internal-link is-valid-page" href="/zh/野蛮人#变体职业-archetypes">变体职业</a>】</p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/吟游诗人">吟游诗人</a> <a class="is-internal-link is-valid-page" href="/zh/传世名作">传世名作</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/牧师">牧师</a> <a class="is-internal-link is-valid-page" href="/zh/神祇和领域">神祇和领域</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/德鲁伊">德鲁伊</a> <a class="is-internal-link is-valid-page" href="/zh/动物伙伴">动物伙伴</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/战士">战士</a> <a class="is-internal-link is-valid-page" href="/zh/战斗专长">战斗专长</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/武僧">武僧</a> <a class="is-internal-link is-valid-page" href="/zh/武僧奖励专长">武僧奖励专长</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/圣骑士">圣骑士</a> 【<a class="is-internal-link is-valid-page" href="/zh/圣骑士#恩惠-mercy-su">恩惠</a>】【<a class="is-internal-link is-valid-page" href="/zh/圣骑士/变体神契">变体神契</a>】【<a class="is-internal-link is-valid-page" href="/zh/圣骑士#变体职业-archetypes">变体职业</a>】
-    <p><a class="is-internal-link is-valid-page" href="/zh/游侠">游侠</a> <a class="is-internal-link is-valid-page" href="/zh/动物伙伴">动物伙伴</a> <a class="is-internal-link is-valid-page" href="/zh/游侠陷阱">游侠陷阱</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/盗贼">盗贼</a> <a class="is-internal-link is-valid-page" href="/zh/盗贼天赋">盗贼天赋</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/术士">术士</a> <a class="is-internal-link is-valid-page" href="/zh/术士血脉">术士血脉</a></p>
-    <p><a class="is-internal-link is-valid-page" href="/zh/法师">法师</a> <a class="is-internal-link is-valid-page" href="/zh/奥术学派">奥术学派</a> <a class="is-internal-link is-valid-page" href="/zh/魔宠">魔宠</a> <a class="is-internal-link is-valid-page" href="/zh/奥术发现">奥术发现</a></p>
-  </div>
-</div>
+# 欢迎来到PF1中文维基！
 
+站点还在建设中，欢迎帮忙建设！ 目前还在早期阶段，点击右上角注册的新用户默认不拥有编辑权限。可以在苹果园私信香蕉 (bananaeat)，或者发邮件到pf1wikicn@gmail.com要一个编辑权限~
+
+  
+
+目前正在施工：圣骑士，圣骑士变体职业，圣骑士誓言
+
+## 基础规则
+
+[属性值](/zh/属性值)
+
+[阵营](/zh/阵营)
+
+[状态](/zh/状态)
+
+### 战斗规则
+
+[如何进行战斗](/zh/核心规则/如何进行战斗)（战斗轮，先攻，突袭）
+
+[战斗中的数据计算](/zh/核心规则/战斗中的数据计算)（攻击检定，攻击加值，防御等级，伤害，生命值，借机攻击，速度，豁免检定）
+
+[战斗中的动作](/zh/核心规则/战斗中的动作)（标准动作，移动动作，整轮动作，自由动作，迅捷动作，直觉动作，其他动作）
+
+[伤害和死亡](/zh/核心规则/伤害和死亡)（失去生命值，瘫痪，濒死，死亡，稳定和恢复，医疗，临时生命值，非致命伤害）
+
+[移动，位置和距离](/zh/核心规则/移动，位置和距离) （战术移动，测定距离，穿越方格的移动，地形和障碍物，特殊移动规则）
+
+[不同体型生物的战斗](/zh/核心规则/不同体型生物的战斗) （生物体型，占据和触及距离）
+
+[战斗修正](/zh/核心规则/战斗修正) （掩蔽，隐蔽，夹击与无助）
+
+[特殊攻击](/zh/核心规则/特殊攻击)
+
+[特殊先攻动作](/zh/核心规则/特殊先攻动作)
+
+## [魔法](/zh/法术)
+
+[全法术，按英文首字母排序](/zh/法术按首字母排序)
+
+[全法术，按拼音首字母排序](/zh/法术按拼音首字母排序)
+
+## [种族](/zh/种族)
+
+### 核心种族
+
+[矮人](/zh/种族/矮人) [精灵](/zh/种族/精灵) [侏儒](/zh/种族/侏儒) [半精灵](/zh/种族/半精灵) [半身人](/zh/种族/半身人) [半兽人](/zh/种族/半兽人) [人类](/zh/种族/人类)
+
+## [技能](/zh/技能)
+
+[特技](/zh/技能/特技) [估价](/zh/技能/估价) [唬骗](/zh/技能/唬骗) [攀爬](/zh/技能/攀爬) [工艺](/zh/技能/工艺) [交涉](/zh/技能/交涉) [解除装置](/zh/技能/解除装置) [易容](/zh/技能/易容) [脱逃](/zh/技能/脱逃) [飞行](/zh/技能/飞行) [驯养动物](/zh/技能/驯养动物) [医疗](/zh/技能/医疗) [威吓](/zh/技能/威吓) [知识](/zh/技能/知识) [语言学](/zh/技能/语言学) [察觉](/zh/技能/察觉) [表演](/zh/技能/表演) [专业](/zh/技能/专业) [骑术](/zh/技能/骑术) [察言观色](/zh/技能/察言观色) [手上功夫](/zh/技能/手上功夫) [辨识法术](/zh/技能/辨识法术) [隐匿](/zh/技能/隐匿) [生存](/zh/技能/生存) [游泳](/zh/技能/游泳) [使用魔法装置](/zh/技能/使用魔法装置)
+
+## [职业](/zh/职业)
+
+### 核心职业
+
+[野蛮人](/zh/野蛮人)【[狂暴之力](/zh/狂暴之力)】【[变体职业](/zh/野蛮人#变体职业-archetypes)】
+
+[吟游诗人](/zh/吟游诗人) [传世名作](/zh/传世名作)
+
+[牧师](/zh/牧师) [神祇和领域](/zh/神祇和领域)
+
+[德鲁伊](/zh/德鲁伊) [动物伙伴](/zh/动物伙伴)
+
+[战士](/zh/战士) [战斗专长](/zh/战斗专长)
+
+[武僧](/zh/武僧) [武僧奖励专长](/zh/武僧奖励专长)
+
+[圣骑士](/zh/圣骑士) 【[恩惠](/zh/圣骑士#恩惠-mercy-su)】【[变体神契](/zh/圣骑士/变体神契)】【[变体职业](/zh/圣骑士#变体职业-archetypes)】
+
+[游侠](/zh/游侠) [动物伙伴](/zh/动物伙伴) [游侠陷阱](/zh/游侠陷阱)
+
+[盗贼](/zh/盗贼) [盗贼天赋](/zh/盗贼天赋)
+
+[术士](/zh/术士) [术士血脉](/zh/术士血脉)
+
+[法师](/zh/法师) [奥术学派](/zh/奥术学派) [魔宠](/zh/魔宠) [奥术发现](/zh/奥术发现)
