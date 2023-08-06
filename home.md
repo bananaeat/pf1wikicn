@@ -2,7 +2,7 @@
 title: 欢迎来到pf1中文维基！
 description: 
 published: true
-date: 2023-08-06T19:38:41.129Z
+date: 2023-08-06T19:38:46.572Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-22T00:04:36.799Z
@@ -11,8 +11,6 @@ dateCreated: 2023-07-22T00:04:36.799Z
 # 欢迎来到PF1中文维基！
 
 站点还在建设中，欢迎帮忙建设！ 目前还在早期阶段，点击右上角注册的新用户默认不拥有编辑权限。可以在苹果园私信香蕉 (bananaeat)，或者发邮件到pf1wikicn@gmail.com要一个编辑权限~
-
-  
 
 目前正在施工：圣骑士，圣骑士变体职业，圣骑士誓言
 
